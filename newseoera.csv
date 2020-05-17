@@ -1,0 +1,1114 @@
+﻿url,posttime,text,crawled_time,attachment_link,attachment_img,attachment_img_alt,attachment_title,attachment_brief
+"https://www.facebook.com/newseoera/posts/352923802009363","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579371153,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/newseoera/posts/414451835856559","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579371160,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/newseoera/posts/432231270745282","1570105801","【SEO新知小教室】
+Google在9月中推出新的""連結屬性""，除了原有的nofollow，新增sponsored與ugc。透過新的連結屬性，Google可以更了解您跟對方的網站是怎樣的連結關係。
+
+rel=""sponsored"" =>指廣告贊助商的超連結
+
+ rel=""ugc""=>代表User Generated Content，指使用者自己產出的連結，例如評論和論壇文章
+
+ rel=""nofollow""=>不想讓Google傳遞網站權重給對方，或是從您的網站檢索連結網頁
+
+常見問題:
+Q1.原有連結的nofollow需要改變嗎?
+A:不需要，但若有更適合的新屬性，可以更換，讓Google更能了解
+
+ Q2.同一個連結可以使用多個連結屬性嗎？
+A:可以，例如：你可以使用""ugc spons""或""nofollow ugc""來表示
+
+https://webmasters.googleblog.com/…/evolving-nofollow-new-w…
+
+ https://support.google.com/webmasters/answer/96569…",1579371155,"https://l.facebook.com/l.php?u=https%3A%2F%2Fwebmasters.googleblog.com%2F2019%2F09%2Fevolving-nofollow-new-ways-to-identify.html&h=AT1fgsI5MUHMPxzpDhkXBUyGgjOWpFqcGUyvrSgJnef2IDUdyv77bvIXEZCq03P9Ejk2v0DOfd1ZvAHUOgqIMuHWSWU7ItHccboo3uoFtSlg6wGdbTAjXglqtjAJYwyrTuZKofTwh2rTfaL5wzQNNUJqzt3zTJ0nKkz18Fz3Xi642wr9Wjmo-zaFM0HLIPGI4fvifvGYGRrGp4uCgbbXdJ_bQrPeZP_7Fagk9QIJf-U5sUIFOkAD3Pd1TrsrEkIZaEGFArLxkXJlWm-xLVRnoOJcg76LatWhr8iuGOH8B9SztjJ72E74rJceitPLkYX2m2QtK6bpVWjHjEwKqp-0d6mo4okgdeTOXckwThQX-AcQ_K7wA380wT8LqUSqmWp1CcGhtu0yvEVHd1ydNGw2N7Rmn2JryPqxi-i9WQvYYXKzwaEYmXnpC3uuFj6F92sFqCgNwKmBvG5UzoNvxINkSy9G15f5PxoNrmeafDR1OWECv_XCdDzp3FtuJV0EN9YRy0pPnxhcsoqXE0cwKUcXZzd6bdifs7h_DsajdDk45U3zyP5E4Mau73jHbBDsVjk5-ZuRC3tvfsiodroFnRoMXziLDTN5jR6bmdtpwc4MBjsVFRT-_DyMuQyR7LrZJNSrGX7_-jDJ-lOk","https://external-mad1-1.xx.fbcdn.net/safe_image.php?d=AQAHgAsI86qybeev&w=160&h=160&url=http%3A%2F%2F2.bp.blogspot.com%2F-7bZ5EziliZQ%2FVynIS9F7OAI%2FAAAAAAAASQ0%2FBJFntXCAntstZe6hQuo5KTrhi5Dyz9yHgCK4B%2Fs1600%2Fgooglelogo_color_200x200.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher_square&_nc_hash=AQDt_w7i9AR8xkge","Image may contain: text","Official news on crawling and indexing sites for the Google index",""
+"https://www.facebook.com/newseoera/posts/441275233174219","1571391001","【免費講座，名額有限】
+TWNIC網路行銷講座：如何大幅提高搜尋曝光和流量，兼顧短中長期需求，完整打造搜尋通路？
+
+ 活動時間：2019-10-22(二) 19:00~22:00
+活動地點：北商大六藝樓403教室(近善導寺捷運站4、5號出口)
+
+本次活動，講者將總結多年授課、顧問與執行案件的經驗，與您分享完整打造搜尋通路的策略與作法，內容包括如何突破SEO 流量限制，以及等待期過長的缺點。
+
+ 演講內容
+1. SEO 是什麼
+2. SEO 的優點
+3. SEO 的缺點
+4. SEO 突破流量限制的思路
+5. SEO 突破等待期長的思路
+
+課程當天除了有講師精彩的授課與經驗分享，將能數位將提供有限名額給廠商，進行免費數位行銷健診，敬請期待喔！
+
+ 報名網址：https://www.accupass.com/event/1908270835591873721327",1579371156,"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.accupass.com%2Fevent%2F1908270835591873721327&h=AT11gp2bwuFTZfhrXoZJu7KwKoKRxYBn6O6VFDwJk9x38lUMBt64u9P2ccTRXPvD7OpJMLWkKySY9d4hBZV8eEO4B9uK8NY8Ya3qVFhTuE0o2-kj0Hvy0L1ZEzjNcywrNoOgyQbhgzRa2VkcCMptJfqhT9cUPfvGOibT9pHi_fsTEKJLZtptS9Dh791tJ2jo-FCQHugqbIlm1eGOkreTD4msESbAiEOVs-8PWMhdZvgmKe39RNsr_SuzVhAZdjVl1VJB1pwgc7IG9eAruBdgcBXxhoxvMjd_RCG7ljrRrp1do6HCAdIQ1WtWYR6-I3l8zHVJT-snsyrp5a1Upgr9TXYk42agTvbCj800y57RCUTEVFvV8Piuys7kDtYrvBNruUstSdRW5BsZDtwULrQ3LVmlnxgk3U9J7NcwQcmZdXd45zFxtFpOL77s7vijRCrHtvr0xy41w2pXCFnsXQTRDBrBq9ZS_jPmxCgpntELB95XgfU6JcqYA2vxXK4dgmV52ejT1w-R71yOxCP0Ycb_rdgNveBP1j2AX9Q6M6MsRCsF4RJQLaEL54rTsLuUng56zyPF2BKuMdLGfxLn7kOl0uz5jCLn4QUEog_suEnVYN0TCLzkXmU4dCDtltgI9q73UFRnd0U4n2-L","https://external.fckc1-1.fna.fbcdn.net/safe_image.php?d=AQArBA4zSuKk81ZN&w=540&h=282&url=https%3A%2F%2Fstatic.accupass.com%2Fuserupload%2F1908290844191618977617.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQB9vFGyh-BOUh83","TWNIC網路行銷講座：如何大幅提高搜尋曝光和流量，兼顧短中長期需求，完整打造搜尋通路？","SEO 是很有效的行銷方式，但它有兩個缺點，其一是帶來的流量有限，其二是很慢、等待期太長。其實透過妥善的規劃和實踐，上述的缺點是可以避免的。本次活動，講者將總結多年授課、顧問與執行案件的經驗，與您分享完整.....","accupass.comTWNIC網路行銷講座：如何大幅提高搜尋曝光和流量，兼顧短中長期需求，完整打造搜尋通路？｜Accupass 活動通SEO 是很有效的行銷方式，但它有兩個缺點，其一是帶來的流量有限，其二是很慢、等待期太長。其實透過妥善的規劃和實踐，上述的缺點是可以避免的。本次活動，講者將總結多年授課、顧問與執行案件的經驗，與您分享完整.....SEO 是很有效的行銷方式，但它有兩個缺點，其一是帶來的流量有限，其二是很慢、等待期太長。其實透過妥善的規劃和實踐，上述的缺點是可以避免的。本次活動，講者將總結多年授課、顧問與執行案件的經驗，與您分享完整....."
+"https://www.facebook.com/newseoera/posts/422352915066451","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579371160,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/newseoera/posts/418297008805375","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579371155,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/newseoera/posts/411408269494249","1567081800","【SEO新知小教室】
+Google在8月初發布""圖片搜尋""改版，變更主要項目如下，將協助網站增加參考流量
+
+ 1.點擊縮圖會顯示詳細訊息在側欄，使用者可繼續觀看其他圖片搜尋結果，同時與詳細訊息做對比
+
+ 2.商品類型的圖片，說明會顯示品牌、價格、規格跟評論
+
+ 3.搜尋結果中間將穿插其他""相關搜尋""關鍵詞
+
+ https://www.blog.google/…/pick-idea-and-make-it-happen-goo…/",1579371160,"/newseoera/photos/a.172956710006074/411408136160929/?type=3&eid=ARA5wTTT3NAt6b_iBhy_GNu3tBdDCUY7b7FFOquFqwqYpYx39g9NIDQNfWyqi7rGzD0sHnvGE0oTXBbl&__xts__%5B0%5D=68.ARAusFgrG_6yNMG3WhwbDjE82-lYog7xCg736gjDe7A96APYELbqMg-2gVX4_WECR1YoJnWe48YEeBgCkSD9U6wlD0n5U_YJz20b1Kf4b3HHze1IIDsxUxY1RP3mC0b38RmmW22NrtsNXvsmjkrt-vKTkHxQsjA4bt25zr2Ldo3ULWlqIHYQcKGEuN2jqJd5WSA0p5xPYlHVRfGVz-N6aGoMi7-tcxvvkyIAfJrLEyDBzWoxEn7yADsCvSCHnah88O8bi_jsgvo1XjzZiIWvZN-Cr473vjzwTvCvYnI0um1n3KOCG364cxLM8Uy2CuqG2hNUZTSsfGOurGUPpCHMnbs&__tn__=EHH-R","https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-0/s526x296/68978456_411408142827595_7737398178042871808_o.jpg?_nc_cat=103&_nc_oc=AQmXKayb4ELCf2jRuOLmJDieHu685MAfPhvEbmm8JfbysbRmz3sTTS3l-Vu524SjrBo&_nc_ht=scontent.fhan2-4.fna&_nc_tp=1002&oh=7083bd7a5ddc508cccb3ad3883414454&oe=5EA0BDAD",undefined,"",""
+"https://www.facebook.com/newseoera/posts/394974697804273","1563971400","⭐️早鳥票販售倒數3天!!
+⭐️⭐️今年最後1場!!
+⭐️⭐️⭐️台北台中場佳評如潮!!
+
+ Facebook 廣告愈來愈貴，Line@又漲價該怎麼辦?
+5A講這麼久，你真的了解你的客戶顧客體驗路徑嗎?
+
+ 要發大財，只能靠自己學習!!各界名師一次聚集‼️
+
+ 活動報名網址：
+【高雄場】社群流量紅利終結時代，如何運用顧客體驗路徑實現行銷效益最大化
+https://www.accupass.com/event/1906270901251240981975",1579371157,"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.accupass.com%2Fevent%2F1906270901251240981975&h=AT25u2mOD6hduRJKb2B_7FvTRQiSFzbmeYiqBvUbmdfSPJLWZyoOZte7vdF2z34GOeezfNd6mSOJsbIdkjbe-hCumg5Ja8xDJlVsc3boPWoWc1P6PPw1LzH2EyTCikFvUhCf5CmLhOo6zbexd2hPqK3hlWSHzlr1MzdE9PUzWNAmftH26eYp1w74FYx_T0IVQClrkpdQY60vQKY_nZmtpoB5a66URU0WLISCxpsMGz9Sb3oKFsr_dS1QukxiCDnzTMQ6iBqG774dFj0tjyxZ__LFBKKEuOULsHmhrqsDYSUBe9Y65usHrJgmaPRWY6hqYmvXduMoFHm_06B9xJTdfNA8nXGAzKdIgw7uPcWPhaEPHr2W1SOGd5jtZZSfOjqRk-BKMh0YaK5IdDzSA-aDB33A1ye9zU3Thcp16jkiBBF4H5bDvX3I4iq_u66o6e-Fc_7FHAjcqK9BYwXHh0o7gQM8kjxxw5cg3u9RA0a7yNWEcpNhg26vWmc6QwVF3UgRaOKvZ0AZpieDhg_wojpjBCJ-JyPfr9efbfzj4iFqF2RzYecbxsBuldstCYlUlvzczWgSWNy_RC3t3u0HXpbx5ixXuNebcn31U5DBstPGROHqkGVPZDnHeoecUag88jT7hJTIh0h88RqU","https://external-ort2-1.xx.fbcdn.net/safe_image.php?d=AQAsw8_sDGaf1ojY&w=540&h=282&url=https%3A%2F%2Fimg.accupass.com%2Fuserupload%2F1906270934558022576670.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQBJ4txA0WZKN9VO","【高雄場】社群流量紅利終結時代，如何運用顧客體驗路徑實現行銷效益最大化","近年來社群紅利不斷降低，數位廣告成本不斷提高，Facebook 廣告愈來愈貴，Line@又接續調整價格，企業品牌要獲取流量的成本不斷飆升。品牌商如何運用顧客的體驗路徑，透過線上線下創造最大化的行銷效益？","accupass.com【高雄場】社群流量紅利終結時代，如何運用顧客體驗路徑實現行銷效益最大化｜Accupass 活動通近年來社群紅利不斷降低，數位廣告成本不斷提高，Facebook 廣告愈來愈貴，Line@又接續調整價格，企業品牌要獲取流量的成本不斷飆升。品牌商如何運用顧客的體驗路徑，透過線上線下創造最大化的行銷效益？近年來社群紅利不斷降低，數位廣告成本不斷提高，Facebook 廣告愈來愈貴，Line@又接續調整價格，企業品牌要獲取流量的成本不斷飆升。品牌商如何運用顧客的體驗路徑，透過線上線下創造最大化的行銷效益？"
+"https://www.facebook.com/newseoera/posts/408263146475428","1566378001","【SEO進階實務｜從搜尋分析到優化策略】募資開跑！
+🔥全面的SEO佈局規劃，限時56折 lihi1.com/QIhWE
+💵參加活動拿限時限量折價券( #活動詳情請見課程頁)
+
+你正在煩惱社群平台觸及率越來越低嗎？
+你知道SEO很重要，但只做了皮毛成效不彰？
+
+ 連啓佑帶你執行SEO，用對方法、事半功倍！
+繼五星好評 SEO 基礎課程，這次連老師將透過6小時，結合自身經驗與實務分享，教你SEO進階技巧，包含工具列舉與實際操作，解決你心中對 SEO 更深層的疑慮！
+
+▌獨家教學內容帶你循序漸進：
+🔝了解用戶搜尋路徑，讓你清楚知道戰場在哪
+🔝10個提升網頁索引效率方法，讓搜尋引擎認識你的網站
+🔝10大搜尋排名要素與優化重點，讓搜尋引擎愛上網站
+🔝進階 SEO 實戰，讓網站排名加速爬升！
+
+搶佔搜尋引擎黃金版位、做出更好的網站排名，在首頁插旗！
+限時NT$1680 讓啓佑一路幫你，搶先預購 lihi1.com/QIhWE
+• 募資期間：2019/08/21(三) ~ 09/26(四)
+• 限時優惠：NT$1,680元，9/27即恢復原價$3,000元
+• 預計開課：2019/11/25、2020/01/31兩階段上架，線上永久觀看！",1579371167,"/watch/?ref=external&v=1459058187569703&__xts__%5B0%5D=68.ARBvG21ouuLoQSb3vT6S954ON0dH6PLjorJmz8VYthQjBzQ1jdrCW6krpyVbgFcSuh5FjGKCKpJeJqW3gj7PJ68tsAlexrJxLX_Er-ayUku9lHlJLDfBsGQMZTXnca2yWnXI2s6NgaJ-QULpDtkksYhe-LonpVyTq1bPMXjYKP_Pru86F9dkm2RhyX28Jr9j4c4_5eIghnzUCp5KKwpk_B1Ljj-CzMYWuTR1NoPuUFAlsARfUh3glFlOxtr5ZUy8z1MyeSzfTmeFwZuq2vKYU-Dmypi1N5hldHlB3SyTKPUl-X3WjL8uh4HMWJiIwaCWFl0b3eBdye1fbrxGTARjlr6nnER2jsVOIy0r0RjFz2tRfNypMUptJJs-&__tn__=kFFHHH-R","https://scontent-mad1-1.xx.fbcdn.net/v/t15.5256-10/66851222_1459059670902888_7941410464632668160_n.jpg?_nc_cat=107&_nc_ohc=-6wTN7WyIB0AX9CAkYo&_nc_ht=scontent-mad1-1.xx&oh=c8239ef2b48e45ce47b07dfa4cab8351&oe=5E9DCEAC",undefined,"【SEO進階實務｜從搜尋分析到優化策略】限時56折，最後倒數！","Posted by 新•SEO"
+"https://www.facebook.com/newseoera/posts/404483130186763","1565872201","",1579371164,"https://www.facebook.com/photo.php?fbid=10156413306748779&set=a.10150447188008779&type=3&eid=ARCGfYVTAJaiYvbLNmA6S6UW1CjTlTMbYVJpJvLn3U9lfqWsnxvxWEkDx3gCjtzjkjhT_qUbJCcheuB8&__xts__%5B0%5D=68.ARA-pfJ4sv9FxEDfTQ26okH_gKAD2VCnGsKE2ThDsKyUm4OaixDqlwwi4snGpFcAS__H10UYthg-ODY9agw4j9cnROoxuDT8_cCCOrioGmh7TEJCneG-y1ENwA_4XbVnLI4e4N_WNvO61Vo2mSNgM80rC_KjQ_U2t79mIVB4VFBIADXAGSUtcMMKvYnBKowozKoBLNrmOtCufyVXlORfyPiQ7yAVDdHfOiWJUza2gOLlLfOJ1QwKBOcl4WlJXoe0phx895l5pMVIABewxpdpfw3GydTFDK4d7iLcWlhD6J9o9texlYfog6Hj8-YOaQngkd6hqEJ6YcLQVpgQ7jMd3AE&__tn__=EHH-R","https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-0/p526x296/67669039_10156413306758779_461863156466057216_o.jpg?_nc_cat=105&_nc_ohc=H_xi81wg7m0AX-MFVd7&_nc_ht=scontent-frx5-1.xx&_nc_tp=1002&oh=66fde806bc3231ad967c5371efc38934&oe=5E9F9180",undefined,"連啓佑",""
+"https://www.facebook.com/newseoera/posts/341573093144434","1554268412","近年來社群紅利不斷降低，數位廣告成本不斷提高，Facebook
+廣告愈來愈貴，Line@又接續調整價格，企業品牌要獲取流量的成本不斷飆升。品牌商如何運用顧客的體驗路徑，透過線上線下創造最大化的行銷效益？
+
+ 1.活動時間：
+2019-04-23(二) 13:30 ~ 16:30
+
+ 2.活動地點：
+台北市中山區松江路350號9樓 (台北市進出口公會-捷運行天宮站 4 號出口)
+
+ 3.本講座適合：
+想優化網站體驗路徑的企業主
+想優化內容的行銷企劃人員
+擁有實體門市、需要線上線下整合的品牌商
+想提昇實體門市與線上營運的品牌
+
+ 4.活動人數上限：50人
+
+ 報名網址：
+https://www.accupass.com/event/1903220627021704808943",1579371159,"/newseoera/photos/a.172956710006074/341572566477820/?type=3&eid=ARAKXlihp8_NifqtjCEd6UgdOm3uaBqHQUzyiHMC1F839t7Et9WCTrFrIjnd_-m9TZXCKbFR8YdPnCMd&__xts__%5B0%5D=68.ARCsnFACspFI_qqYY3GIDpRLmH4iQUCPqJs5vWIrM8Yzeqrwaov_uR96Tc6vjZRgjH9FtN9CwQJ4NfdMawNDau3igNzVIAHHWgYfAj5LnmWsp_wvhJFoAYGz3mU_KIcqXOTSu-RHbVjjk2qJLdk3c7LmHK5eYAPunIR7VHoJaB9kRX3OVM9HYfVO3cwqTF1y_CelUCkPhuHE-6LlVkPV7K3xxtbqziSgu0bHsM7yj9W9UgSw8kufBwVXIj9miRC62XSzdH56_IhpJzkNwIncmV8EPEiKSJ4uzTeP6RpJs3xGSqjWy2w34WT29rBXbVoKbsd0N0Ote_frVPozHfeHLbk&__tn__=EEHH-R","https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/s720x720/55935432_341572573144486_3419210248731230208_o.jpg?_nc_cat=105&_nc_ohc=CAKN3tm3PbwAX_U1qU3&_nc_ht=scontent-waw1-1.xx&_nc_tp=1002&oh=3f0de194ed344accba278ba4886a9e15&oe=5E9EBE03",undefined,"",""
+"https://www.facebook.com/newseoera/posts/388058811829195","1562761801","【高雄場來了】社群流量紅利終結時代，如何運用顧客體驗路徑實現行銷效益最大化
+
+ 近年來社群紅利不斷降低，數位廣告成本不斷提高，Facebook
+廣告愈來愈貴，Line@又接續調整價格，企業品牌要獲取流量的成本不斷飆升。品牌商如何運用顧客的體驗路徑，透過線上線下創造最大化的行銷效益？
+
+ 1.活動時間：
+2019-08-12(一) 14:30 ~ 17:00
+
+ 2.活動地點：
+高雄市前鎮區一心二路33號3樓 (台槓創新HUB)
+
+ 3.本講座適合：
+想優化網站體驗路徑的企業主
+想優化內容的行銷企劃人員
+擁有實體門市、需要線上線下整合的品牌商
+想提昇實體門市與線上營運的品牌
+
+ 4.活動人數上限：50人
+
+ 報名網址：
+https://www.accupass.com/event/1906270901251240981975",1579371158,"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.accupass.com%2Fevent%2F1906270901251240981975&h=AT0n6wgYdPdArSjwfdlVBoCs69nhrtN9rLbfUnMvJQovbwYia2wHStEwW7DeNQ6L6t0ens9vRS52a6XVAI4XvlXp6XduOPDV1vZuB3EkhFzihVCKG0fK_BSTKIGdDUhk4A0azZQOvvndjZ5fd3bjP8qWJMEzG86CVdw0UJyZ7_-6MH6kOFl-u1BPtEVD0QDjsQBII55vUeqCZHCDrrOOpkBVyXrxIDPmHMlsBKLLdmbWltULTK5Ah7lKjivjuiWKYIjSokqdC0YdhKmsTBfph0MOnIgK_zVS_85Tr4NkQN5ttdWK3ldElCme6kWf36UdUXSwiyEwZli1KemTlaAsu34gJuQgQhyaJJ67DRBSUfFO_MK_84dT4FoOg9o6LuO4DX0vwEs6CbBwP4-rpIEHRZq6yEhL7rCp9LZGCT5K04nDV92XTEls47eGh578g-BhL6NHitXqgLOkEBJe0xuQZApXysWHHQnL_019gf8_dml1vOIosbDgULSkSuxHWnZv5zZsOnxIlRcRlE3-JL1A1IXVoM3tFXv4MC_XAkTSYn29Yi3lyOMFXUiU2SzPcQZ4PfOMEEPKuRfbNwY3y4aBUXLUyXmLtZT_ZLF1BmjDByikN0tHQb-rNhehmw9lJSZSQlayrCFujQIg","https://external-frt3-2.xx.fbcdn.net/safe_image.php?d=AQAsw8_sDGaf1ojY&w=540&h=282&url=https%3A%2F%2Fimg.accupass.com%2Fuserupload%2F1906270934558022576670.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQBJ4txA0WZKN9VO","【高雄場】社群流量紅利終結時代，如何運用顧客體驗路徑實現行銷效益最大化","近年來社群紅利不斷降低，數位廣告成本不斷提高，Facebook 廣告愈來愈貴，Line@又接續調整價格，企業品牌要獲取流量的成本不斷飆升。品牌商如何運用顧客的體驗路徑，透過線上線下創造最大化的行銷效益？","accupass.com【高雄場】社群流量紅利終結時代，如何運用顧客體驗路徑實現行銷效益最大化｜Accupass 活動通近年來社群紅利不斷降低，數位廣告成本不斷提高，Facebook 廣告愈來愈貴，Line@又接續調整價格，企業品牌要獲取流量的成本不斷飆升。品牌商如何運用顧客的體驗路徑，透過線上線下創造最大化的行銷效益？近年來社群紅利不斷降低，數位廣告成本不斷提高，Facebook 廣告愈來愈貴，Line@又接續調整價格，企業品牌要獲取流量的成本不斷飆升。品牌商如何運用顧客的體驗路徑，透過線上線下創造最大化的行銷效益？"
+"https://www.facebook.com/newseoera/posts/366256400676103","1559121812","【台中場來了】社群流量紅利終結時代，如何運用顧客體驗路徑實現行銷效益最大化
+
+ 近年來社群紅利不斷降低，數位廣告成本不斷提高，Facebook
+廣告愈來愈貴，Line@又接續調整價格，企業品牌要獲取流量的成本不斷飆升。品牌商如何運用顧客的體驗路徑，透過線上線下創造最大化的行銷效益？
+
+ 1.活動時間：
+2019-07-01(一) 19:00 ~ 21:30
+
+ 2.活動地點：
+台中市西屯區市政路402號7樓 (夢森林- 微程式)
+
+ 3.本講座適合：
+想優化網站體驗路徑的企業主
+想優化內容的行銷企劃人員
+擁有實體門市、需要線上線下整合的品牌商
+想提昇實體門市與線上營運的品牌
+
+ 4.活動人數上限：50人
+
+ 報名網址：
+https://www.accupass.com/event/1905270215391584469900",1579371154,"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.accupass.com%2Fevent%2F1905270215391584469900&h=AT0LuXFGdujmbwkyZonTHXbFpxja3-tAJBcm3QwVtwlcB1qJOIDSEX7nHHpeSaOJN7GWrfnHG8h-JrfL7bSLCUHdfc9I2z078rr7nYvAnYh0KGVjmh8S5iChi205fGe1gguahQqRe4-3-bSV3kgjkQRDKYXQIqOfiCA48Fczy1vs5RS2BwfDRrSjJFqnKWzc4W9rXlhgma8zRW537Zf-41PodZDLAQJdfCVNVm-ztW5myV7jXM12paOcB81H7fTfwM40wW3CswgZ6YnoOnS37VAQV2F7KN4jJilwcBaHD_pmzha3_BrWUbpdwy2uydewOffft4cx_qyD28hRCFIUFr5gI35naU--9FgH2_PxDgcMe6j6-gFLL0vwfPOxlkuG9Dhi9Kty8L1G0r4XuHUY0zOWNE9flJuss7Fih58ybCb5mbskY6fa1HvwVWwkotvtXejbgQgi0ruundkCPWR2eT28i4iVY0u2n_FqsDZhLWW9ku3EvLRelNpI83BuOZGduFXjTTV45JcelG_m0dRPInHjp_CyGV3beq6iDN21R3_OzWxn7ZmvZeMOIiCoJOppLFuj0crMCjI_BNTAfliSg0S-c40aizRr3sj0EGqZi7YFwYEbCnzXzvM-6zrEWb3if7nb_kFK1rir","https://external-gmp1-1.xx.fbcdn.net/safe_image.php?d=AQDbtThqKn6JKhcW&w=540&h=282&url=https%3A%2F%2Fimg.accupass.com%2Fuserupload%2Fc6052bd9481448ceb2820823704306ce.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQArFO8Fjz4hoe9I","【台中場】社群流量紅利終結時代，如何運用顧客體驗路徑實現行銷效益最大化","近年來社群紅利不斷降低，數位廣告成本不斷提高，Facebook 廣告愈來愈貴，Line@又接續調整價格，企業品牌要獲取流量的成本不斷飆升。品牌商如何運用顧客的體驗路徑，透過線上線下創造最大化的行銷效益？","accupass.com【台中場】社群流量紅利終結時代，如何運用顧客體驗路徑實現行銷效益最大化｜Accupass 活動通近年來社群紅利不斷降低，數位廣告成本不斷提高，Facebook 廣告愈來愈貴，Line@又接續調整價格，企業品牌要獲取流量的成本不斷飆升。品牌商如何運用顧客的體驗路徑，透過線上線下創造最大化的行銷效益？近年來社群紅利不斷降低，數位廣告成本不斷提高，Facebook 廣告愈來愈貴，Line@又接續調整價格，企業品牌要獲取流量的成本不斷飆升。品牌商如何運用顧客的體驗路徑，透過線上線下創造最大化的行銷效益？"
+"https://www.facebook.com/newseoera/posts/412792146022528","1567168200","",1579371152,"https://www.facebook.com/gtinternet?fref=nf&__xts__%5B0%5D=68.ARCVOZTtlRUPzvwAoRacXtNu5ILDGU1sz3aX06WHL8hSmR5QZOpiley01mAXosS62CKr3DPBhCUlGhozEuf9JD_x3D8a27VYBYf11qWeBOdN6hxXMZk4Ysd8yo6kdkLQWsoVuBdXitMB_I4KAktztZTAczx8mJsZTWPrSuUrCPWeXkcUnEfW2QB4XukkVrhxlyMkm0OEzFlXY74cAX_e7dVBCD8vt9VSei2WtmwALI6MHLpgyhTxsmVeCzR1aKoByxgiuHDZjvuQ5RpunasHVMU7Pjkxs5lgax1yqycQMNwVWZbW4tUz3PlHCQa2iPjxfg7V8pWDP1e3-Y5UebLQql4&__tn__=mH-R","https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-1/cp0/p32x32/67796080_10156400623003779_7759713260449824768_o.jpg?_nc_cat=103&_nc_oc=AQkBmnKQZcpIntFvzoTuhLppZvkb9BAKy9yv8bQcp_hBXtmuoDkfkv_6_IUx02-4UR8&_nc_ht=scontent.fhan2-4.fna&oh=f4d267d4c1e82974469c21cdadbad36e&oe=5EA3B1E9","連啓佑","連啓佑",""
+"https://www.facebook.com/newseoera/posts/422326998402376","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579371163,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/newseoera/posts/418424665459276","1568030401","▌SEO 課堂重點 Part3｜提升排名搶佔版位，從最簡單的2件事開始！
+📍56折佛心價不囉唆👉🏻 ps.yottau.net/JRQA9
+.
+在網路上沒有曝光，你的網站就等於「不存在」，讓人看見你的網站，成為「獲利流程」中相當重要的一環。但要如何讓潛在消費者在「搜尋」時看到你的網站呢？
+
+📍SEO10大搜尋排名要素與優化重點
+「排名要素」一直是 Google 排名 (喜歡) 你的網站的衡量指標。
+在 Google 列舉的 200
+多項排名優化項目中，你可以把握最精華的十種去執行，實務課價值的展現在於，連老師將不只點出這些項目，而會進一步教你這些項目該如何落實執行？又有哪些輔具工具？
+
+🙌🏻紮實精華6小時課程，滿滿乾貨等你來帶走！
+⋯⋯⋯⋯⋯⋯⋯⋯⋯
+搶佔搜尋引擎黃金版位、在首頁插旗！
+限時NT$1680，搶先預購 ps.yottau.net/JRQA9
+• 募資期間：2019/08/21(三) ~ 09/26(四)
+• 限時優惠：NT$1,680元，9/27恢復原價$3,000元
+• 預計開課：2019/11/25、2020/1/31兩階段上架，線上永久觀看",1579371164,"/watch/?ref=external&v=755617391557971&__xts__%5B0%5D=68.ARBI3oa1PAQXQkiYZyRI3wft97fLV9jJZwhSXHDgPE11DEytN4y_DQT8tMQqesnDsIoy05HJ0_LNV5cYW0vLbkQejFutQHGdxNVCHM1db3kXr_aaR4Ft4igHbWSHhc7-hwkhQRJDjgVoE4FojoeDH4Yd1rvYM6P9AmoX-qXNAQvUhHffleA3LtNNT0dxdTpjz2ICOqCqqjFPv0L68l6JzB8UrfwS1kQPPr8h6vstlq7ULmYuH_7cfVsnTZeYCVSnSSz6margPdhZORQl8s17Xh789qOgR1KRQU16GQWrJIlwXBBreONS9n1tqcvksfliIaiZfHtc4Mu-KfyXs0_Ua9fuUQO3c7YvRHpqQWeI0FRUggleur9KVhC1&__tn__=kFFHHH-R","https://scontent-cdg2-1.xx.fbcdn.net/v/t15.5256-10/68721927_755619114891132_9145389183244697600_n.jpg?_nc_cat=108&_nc_oc=AQlu9j9vAdEGuass1_brbMfYQCiLDcN8Rrrkh9loSmOPbyGZID5xx27pksDRHny2Zt-L_Q4j5FMB14x0xtjaTyEW&_nc_ht=scontent-cdg2-1.xx&oh=5db4c0f206c7ac8f0470c5a9d7efac0d&oe=5E981166",undefined,"提升排名搶佔版位，從最簡單的2件事開始！","Posted by 新•SEO"
+"https://www.facebook.com/newseoera/posts/377611456207264","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579371154,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/newseoera/posts/283513385617072","1541758800","【Google 搜尋引擎運作放大鏡：爬行預算 】
+
+ 「爬行預算」Crawl Budget 
+是Google為了讓爬行蜘蛛更有效率的抓取資料，
+針對不同網站會給予不同的時間與資源。
+
+ 💁‍♀而爬行預算由「抓取需求」和「抓取速度限制」決定
+.
+👉 抓取需求
+
+ 抓取需求是搜尋引擎想在特定網頁抓取多少頁面。
+決定抓取需求有兩個重點：
+(1) 網站權重：與Google對每個網站評分有關
+(2) 網站頁面更新速度
+
+ 若網站權重越高、更新速度越快
+相對的Google就會分配越多資源給你的網站
+.
+👉 抓取速度限制
+
+ 抓取速度限制是為了保障網站在爬行蜘蛛抓取頁面時
+不會造成伺服器過載 或 影響使用者使用不便
+
+ 因此抓取速度限制，就是網站能承受的速度上限
+在這速度限制內，抓取過程不會影響你的網站運作
+相對的你的網站速度，將會影響抓取頁面的多寡(抓取份額)
+
+ ▫網站速度快＞抓取速度限制上調＞提升抓取
+▫網站速度慢＞抓取速度限制下降＞減少抓取
+
+ -
+💡以下4個 ""增加爬行預算"" 的撇步
+🔹增加有相關性的內部連結，透過內部連結、反向連結增加頁面強度
+🔹改善網站的基本架構，簡單明瞭
+🔹刪除重複內容頁面
+🔹刪除網站效果不佳的頁面
+
+ -
+#新SEO溫馨提醒
+小網站網頁少，不需要太擔心～
+中大型網站則需考慮抓取份額，避免將網站份額浪費在無意義的頁面！","1571596931","/newseoera/photos/a.172956710006074/283513342283743/?type=3&eid=ARClNJbE6Gxy1YoJshZI5Iht5xtIWiC39iYXXitKqq9Cvu9gXnNKwBzDF3Ytxh-en_2-rj3esGSQ3O8c&__xts__%5B0%5D=68.ARAcZ803ZNbAgp3qWkcYJrhasG51k2bswCI5Oe5vUp4yDnSjadbMk9mla33wxW0UOQD23ls7dvfN60kkMra3C4R5dSFv_ggTc1TYyTB8gkdECb1FiYm0RpUmO-sqP32InqdIqIIkAX0n5Hfld0BAOpSmXrN5pIS9pxj7Chd8rmTTSANJdpPObWlR3X6-GdZkTEl38IvbN1CYJTkt2rhfQhaoaVsy2S6GhsgENrhCUqjyO3ihq8eK9kSYE9k4CNKsItcw7rHWhJR8_gpJckqAq2j0upYPjA-gqriAgw-MdOX63qL0pfUHoTwYsmJQW59gL7Uo3EFvXFZtLmgJOwJsfEc&__tn__=EEHH-R","https://scontent.famd4-1.fna.fbcdn.net/v/t1.0-0/p526x296/45695936_283513348950409_3695745794008154112_n.png?_nc_cat=100&_nc_oc=AQlXkeI1IUpPIkZd6yB80aFb3r-U3TPhk7k6bttfuTJd0wUVpMYzQaRK6rj-oq7-Yok&_nc_ht=scontent.famd4-1.fna&oh=3ff25828506ddef58a23337ddd7231ac&oe=5E2EB3D2","undefined","",""
+"https://www.facebook.com/newseoera/posts/357268028241607","1557475309","","1571596931","https://www.facebook.com/newseoera/?__xts__%5B0%5D=68.ARCHlVmX3FSCYp6ifJQ2UIT2i92IsmM_4uHVN89pIix5hymNHBINN3zjlwf-jZam1K0Jyq5d-hemp2ZHGGaJSp15lL7MdS8YSQYyf1iG9IrGQKBJtN7MTfE1RGh5J0qdn-qUpcng_NvxDy7jeDHhopWUU_SoM88bS4aNBlzUJuv8Io5dq4x5HzptZDuqz34ox86ezzkFfC3fxz-4sRyEq68qPeeUezLcQ0c1Zo14bJ_PM794U5nc0IKhPIzfA1gAyYB_BRbD5ZLzQrP9w8psQwPYn6-FN7ej1hhHCaGHlXEZzxzI95yvnwbew7GaVmzSrbmqbsR2Zx7dp-O3hlboriw&__tn__=HHH-R","https://scontent.fdac10-1.fna.fbcdn.net/v/t1.0-0/c0.12.960.503a/s526x296/29511281_179237212711357_6753077159453195337_n.jpg?_nc_cat=111&_nc_oc=AQnR5dCwDrSoW4WXPwiKZwOsnT-7YpVSYvOuIkspEOR1TxFyL6Orbw97PYeiq9RHCKQ&_nc_ht=scontent.fdac10-1.fna&oh=f510612f655030221044d62329bcb9cc&oe=5E3072BE","undefined","新•SEO updated their phone number.",""
+"https://www.facebook.com/newseoera/posts/172744916693920:0","1519948800","活動已截止！！！
+感謝大家這次的熱情參與❤
+請持續關注我們新•SEO粉絲專頁呦
+
+ --------------截止啦-------------------
+撒花🎊🎊🎊
+我們新•SEO粉絲專頁
+已經在12點前迅速突破500人啦🎉
+為了感謝大家的支持
+現在只要你是 #前500名 按讚的朋友
+在本週3/4（日）前 👉在下方留言+1👈
+我們將會私訊贈送 連啓佑老師的新•SEO講義😍😍
+這麼難得的機會！！
+前500名的朋友趕緊在下方留言~~~
+而加入的朋友也別忘了將新•SEO設定搶先看
+就不會錯過我們之後發佈的新訊息呦😃
+
+ #新SEO","1571596931","/newseoera/photos/a.172956710006074/172744916693920/?type=3&eid=ARAH-lYy-CFhha3GO8is_-WXgSs9IH0Cs23WeTb8YH6Adnzl7Ptr8LAiINimrmE1bz9xOG26Ts-2_LcC&__xts__%5B0%5D=68.ARA6htqSocKlwH4Tt9lg6q6EI7iMWXhBzOng6mWetxng183Lrlwla0pub8KjS4iUuHkAE5F-hqryqPNE9wkvNJ8eTYxkvASJ9yMYo3nQ49kcO0Z7QyG18ShHmAuYaQMyBpTWoPH8juUuWAc3vnSdJRgBWGw7AdzcuC6TifRhdQIPDUOaA3L6vO-5-JKoLp77a1Zu1DPPuWTyCLVs6IlZq9YkbSaAlzEySEfIhhphQfhCIBt1qcY0CQ23Vjdcdy8nncvL21XkuPRifuK672nkOn1NcQFsoM8ANObHTCY1IxEo0MfWGI3fhbM-QBK4Q40KJCdcf-GLM9xtWIR1z_fHiT0&__tn__=EEHH-R","https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-0/p180x540/28660470_172744916693920_1859490727839112098_n.png?_nc_cat=109&_nc_oc=AQn2AxskOvoNRyWgWs1X3Nw0QN9HSMkaiN4Ky4l5H7oDoVEii57su46ndWBk32XonOU&_nc_ht=scontent-sin2-2.xx&oh=cdba3bb6b8709fa3317273176305cd98&oe=5E26E4AE","undefined","",""
+"https://www.facebook.com/newseoera/posts/173610243274054","1520125945","媒體網站可能還要再想想，如果是電商網站，可以考慮產出內容，並結合Google AMP，把流量導回購物官網，在FB
+廣告費用高漲的今天，中小型電商應積極尋找新的流量紅利。","1571596932","https://l.facebook.com/l.php?u=https%3A%2F%2Ftw.mobi.yahoo.com%2Fnews%2Fgoogle%25E9%2587%258D%25E6%2596%25B0%25E5%258F%2596%25E4%25BB%25A3facebook%25E6%2588%2590%25E5%25AA%2592%25E9%25AB%2594%25E6%259C%2580%25E5%25A4%25A7%25E6%25B5%2581%25E9%2587%258F%25E4%25BE%2586%25E6%25BA%2590-%25E6%258E%25A8%25E5%2587%25BAamp-stories-100019067.html&h=AT3ZPpsVb8_SO48ARBjbmCOhv-HSj7QoivYLytCx3jwgmM0xeG1BHbUloQH9oiLnhGGQZOGB-nWpC4R4dy5-zQKIn4Kobi9j49eeVDJWRMXbrxBKw4vhnKId2NYAlBPlDiOrFs3_-NrbQfVIexh67t5OQpdi8-OCEsmVqzWJt9ifxc3okX5616vPPdEE3GtAQi7KUCR93VpXuExdCV3TK_HIYJ9ivg8OnqkZ2ncDMMBfHlzcM2euRHcYgFcWBMqWqEoNa2nz072a2_cz8MACgmV7iCSpOFxz5WwiqXc-BGsGHVTjmQT4qTEipoNCeV61qa0JO_znANehLexxpYdvYBIN5p3Nzo0Tcf5AGl9lTA90WZhgX9N-AnkE4yIBttAXyBbH7MVET_2h52aF9hOV2DpOXujtmd0b89c39Ut-h7ORjAutiIAuZifAHpIwyZ7ezHyXs1QFT7IkWLICzmOzRZycrZkjNcx7qpLS-MUdbFN0aoWii2M76gQ5HdZdbhXnaQXgv1fo3miIrpmMMhbi9BJ_angg-46XVNFSow16IVou1YuvpOdY7MT-dH-OLbXfLbTmR4FeeSO7IlcpcGS16lSTN5fHIZtZU8p9ImjJmY8Kf_syiGXZ4Py-IpUKbkJSclo4jMEqFMY","https://external.fhan2-1.fna.fbcdn.net/safe_image.php?d=AQAJPt0ZpFDF2-xr&w=540&h=282&url=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FUKj9AQh4vFLweJHZ.NQzpg--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTEyNjA7aD04NDA-%2Fhttps%3A%2F%2Fs.yimg.com%2Fuu%2Fapi%2Fres%2F1.2%2FWPC6Ra7fb1w3_F.R9oT6Ag--%7EB%2FaD00MjA7dz02MzA7c209MTthcHBpZD15dGFjaHlvbg--%2Fhttp%3A%2F%2Fmedia.zenfs.com%2Fzh-Hant-TW%2Fhomerun%2Fcnews.com.tw%2F83f633b8a267812c2e50c494b94d2757&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQB4Z1V4j2KGiN8q","Không có mô tả ảnh.","Google重新取代Facebook成媒體最大流量來源 推出AMP Stories","匯流新聞網記者藍立晴 / 綜合報導 自Facebook大幅度更改動態消息演算法之後，Google重新取代了Facebook成為媒體的最大流量來源。 Facebook於今年1月大改動態消息，讓用戶的家人、朋友貼文優先於內容商、品牌商，意圖「重新回歸社..."
+"https://www.facebook.com/newseoera/posts/325871601381250","1550737909","",1579371157,"/events/2505078402899567/?acontext=%7B%22ref%22%3A%22108%22%2C%22action_history%22%3A%22null%22%7D&__xts__%5B0%5D=68.ARAY7t4sNqMMVdUWLkg3xkmGKMu_23Lt_r1-O_XfYtPSBXCyhzpU7FwrkmqMPLJILCPvb3L1PIId4PKc5mueRoVbFjG1e-eaAVOODn19mJDDQ0mbEMAouEYjUy1trqflz0-sQg5aV-3kujK-cj5BlBfOUPilgm-DnmSO5wya_h7V4uikY5kD9kcKJznunx4tmljOck_-iW-Ncm6-5Q-gy3f_zbcUheUttZhHY2FbQHRUGU7t3MOi_35Qhz6Eh-HY0CFsOkhWecO-GtapxLmyQve6zDiTjvKUDpdVkoiHbeyExfeTBjzDozgZDwrwOKjADd2zCX_0f-lqsaxA1pRC4vE&__tn__=HH-R","https://scontent.fkul8-1.fna.fbcdn.net/v/t1.0-0/c0.125.526.277a/p526x296/52401169_2274440749481417_1875256131014623232_n.jpg?_nc_cat=109&_nc_ohc=i-yt3LQwcUkAX_LZee5&_nc_ht=scontent.fkul8-1.fna&_nc_tp=1003&oh=4aedd2c478b4da085c2fc5c3b3b61290&oe=5E916CAA","Foto muka depan acara新 · SEO 搜尋引擎優化","新 · SEO 搜尋引擎優化","台體-教學大樓 · Taichung, Taiwan"
+"https://www.facebook.com/newseoera/posts/178977946070617:0","1521797167","#SEO白話文小教室 #上課囉😆😆
+
+ 📖第一課：SEO📖
+
+ 以下哪個描述SEO的說法不正確？
+
+ (A) SEO像考試，只要追求第一名，不用在意是哪個關鍵字
+(B) SEO像中藥，調整網站體質，強健骨本，更有機會取得良好排名
+(C) SEO像團體戰，從網站架構、關鍵字到內容等四大面向，唯有均衡發展才能有好的表現
+
+ 請作答✔✔✔","1571596932","/newseoera/photos/a.172956710006074/178977946070617/?type=3&eid=ARDRLWWNIZpzw4pxobvEL4X78gLZs3DykJm7GdzzmAkXH8EKYuXJdTJXS5zNm_BOydj4mH_xvHNBr1KZ&__xts__%5B0%5D=68.ARBHuEVdzVDyXWWYkr5zf3mU23XVCAt7QBhgsjE_3d4MUumfwxjs7Ys2fLw7qsMdbY5YwG5j2FMNJtBUst9pG1hLemQ94Y7M5iXVLFVlg_zg3t6ekhkGMoKnpcdCWJN_NUZUsi90SAVyWPxm0ncRnyJzGmbizHPofAgzNAiecxHOwCoaDyR9N7uiFeZuoWWJq6RbesZy5GByYsTc-3bLbyryjHvSZ5BhKlER2-xj4acrUFuyM65I2I0NokhffPLax4ogfkyPhqw9gDk4mDTUMPH85puzd6zUjS7h4cCntwLBkumKGjmrupHrbvRv39Fl14ft9gZ1489hExq0SKVT-yU&__tn__=EEHH-R","https://scontent.fcgk12-1.fna.fbcdn.net/v/t1.0-0/p526x296/29542385_178977946070617_1998293319408744706_n.jpg?_nc_cat=103&_nc_oc=AQmlS6MBSZXTPsk7mMfA6zq7kKeUrjhfnjWIOYdaGv1TZxlDDWGQ2QYPLtxi1_d6Vo4&_nc_ht=scontent.fcgk12-1.fna&oh=99bde020c952f20240b391316f03d333&oe=5E2C9305","undefined","",""
+"https://www.facebook.com/newseoera/posts/288673098434434","1542947400","【Google 搜尋引擎運作放大鏡 #最終章：比對 排序 顯示 】
+
+ 當我們在Google輸入字詞搜尋資料時
+Google搜尋引擎會進行三大步驟：
+【比對分析 👉 結果排序 👉 顯示搜尋結果】
+
+ #新SEO 會依照每一步驟向大家詳細介紹！
+-
+🔹比對查詢
+
+ Google會找出各種變體字並更正拼音、反片語(反義字詞)、
+停止詞(and/or/but)
+.
+變體字舉例:
+錯別字、拼字錯誤 : 唱衰/唱哀、綽號/錯號
+字根變化: run/running
+縮寫: FB/Facebook、IG/Instagram
+重音符號字母: city cafe/ city café
+.
+✍Google搜尋引擎會分析處理查詢指令並抓取適合的資料
+-
+🔹針對符合結果排序
+
+ 在自然搜尋中google會依照 ""相關度""、""網站知名度"" 排序搜尋結果
+.
+相關度指的是網頁查詢主題相符合的程度
+而搜尋引擎是由標題Title、內容描述Meta Description甚至是網址(URL)
+的呈現、裡面內容是否符合使用者要的內容 與網站連結權重去排名
+.
+而在付費搜尋排序(關鍵字廣告)是以競標價格與品質分數來決定
+
+ #Tips
+決定相關度的演算法是套機密且不斷進化的
+但可以掌握到的是演算法考慮到兩點：
+站內優化因素、站外優化因素
+-
+🔹顯示搜尋結果
+.
+在顯示結果頁面中，自然搜尋以Title跟Meta description來呈現
+但若是沒有特別作優化的網頁
+在搜尋結果上會直接擷取與關鍵詞相關的文字(摘要 snippet) 
+-
+
+ #新SEO
+這幾周的Google搜尋引擎運作就介紹到這邊結束囉～
+快點作筆記好好的複習吧🙌",1579371179,"/newseoera/photos/pcb.288673098434434/288672988434445/?type=3&__tn__=HH-R&eid=ARAAFX-BsgKPlm_ZNFNyFHxo18XKzahIwZXw_AW8IQ32560XveYV7S04IZMBA5vCncTSHVF9AGZFjgGw&__xts__%5B0%5D=68.ARD2bSI4tHsAzyQ5rexv_Y6CO8oNvALj06O140BgxUrTO6y9TuoddkWzplaKmJTvty-imyUPxu-7XQpHyJUodVqWaxVzxnjCXm8lDUI-U4GRywEeYaj90W7bKDJYX0FsP6dr6tY2O852B82kvPy-96kZJzWahNQyOu6Q9Xtrn6XravfbrMzOnXfjq8GZpFwqsYnN0WtSVcmO3Ud8SgP223MOJE3ZuaVysF-N040cVMdTy-IakmosY-XQzuueTOyZVcIL_b86D7-catPtOYndp_OSe9wTl5V5AaUSe_8pk12ib9fk3j5vzx6GqgYt1rzcL951RwuME8OydgdUayw8tfc","https://scontent.fckc1-1.fna.fbcdn.net/v/t1.0-0/p526x296/46525440_288672991767778_158235726285111296_o.png?_nc_cat=109&_nc_ohc=IUCFnfjk9NoAX-XUfdY&_nc_ht=scontent.fckc1-1.fna&oh=15c69b7e9446315846e1ed0c42237fc3&oe=5ED5DAB4",undefined,"Send Message",""
+"https://www.facebook.com/newseoera/posts/175196386448773","1520588477","承蒙104 職涯社群的邀約，請我寫幾篇關於SEO 領域的文章。
+為此，我規劃了幾個主題：
+SEO 工作內容、SEO相關的技能有那些、如何學習
+SEO 產業概況、如何進入
+SEO 工作發展趨勢、工作者的職涯與出路
+我的SEO生涯
+之後將陸續與讀者分享。今天，我們就先來談談SEO 工作內容、SEO 相關的技能有那些、如何學習？","1571596932","https://l.facebook.com/l.php?u=https%3A%2F%2Fplus.104.com.tw%2Fm%2Factivity%2F8ae52c84-027e-4859-8c63-8edda3119263&h=AT1D-ga3j9p4sBFnzZvCf2aGUv5nOzvRNPkNoDi7CXWiRcBTu8dzu4HYiCZzCoA3Ngs_H35AC5lgAij95_c6ao8OOZxkLCGfdtgYP7KUp3I-jh0i7zt_Wy_8AGWdtndrXrKP8i9v6egCAM18TeRd-3xaZxZun_BwHny1hkEjpesqfRJVhpXTrDJA_owNqsNLklKUk1qFcoN0nhFrcBIT95vNx3jMY1AFo-H_wZQFZXRdUV8o0nO0bqkMNn8KBz6zbzL1SYmDZtB4aNJOW1YlmflBdMMqzMpAGw7XubK9aB1O3kKzwu_dFRXfHmW2odrbvoYGGVhvByQb0EGvTKJ51nzihQiAg0luShgHfzEyvDl3zXhabisIOgYCjc1h26xwG9CPb6OiFsYgrjc2-XQzZnGl0bNlkTdQsPgwEZRlV20ix1sBBUKfQTgujxruZYT1AJ4Ui21zcnEeEhVXjSzmT0d_lwrEKbYEHack3iz0knhZq15OL6-FC5nviSa4sr8N7SIjglLy5zuYXWBViutZvdUFGRCR8N-fL6FenGyZRpB0ebCAp3iKG3jdvWu5-_k6ILJ4JTYvP2obmjeUFxP0qBXl9H8UPUvUO5i9YdLz-RzdmBWHrtRyZXHWyzNux0NZWd6v7qJ6xuA","https://scontent-sin6-2.xx.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/c0.74.712.373a/s526x296/28204393_6083100361543_2569531671653122048_n.png.jpg?_nc_cat=107&_nc_oc=AQn7mUFt4JLzsTF1w4iJ35rmw5p9j5T92fiw7nX4Y4VD54h81WqHQeHBKsHQRWvHmOk&_nc_ht=scontent-sin6-2.xx&oh=798026f1a363537086cde18b99c59974&oe=5E60D965","No photo description available.","SEO 工作內容、相關的技能有哪些，且該如何學習？ - 104 職涯社群","承蒙104 職涯社群的邀約，請我寫幾篇關於SEO 領域的文章。為此，我規劃了幾個主題：SEO 工作內容、SEO相關的技能有那些、如何學習SEO 產業概況、如何進入SEO 工作發展趨勢、工作者的職涯與出路我的SEO生涯之後將陸續與讀者分...."
+"https://www.facebook.com/newseoera/posts/286024188699325","1542360600","【Google 搜尋引擎運作放大鏡：分析&索引 】
+
+ 前兩週我們介紹了Google搜尋引擎的""抓取""和""爬行預算""
+這周要向大家介紹後續的「分析和索引」
+#如果有點忘記內容，可以往前複習喔
+
+ 💡先來複習一下google搜尋引擎的運作模式：
+抓取網站 > 分析內容 > 建立網站索引 > 回傳搜尋結果
+
+ 🔹分析內容🔹
+抓取網站後會將網頁內容轉換為標準格式加以分析
+透過網站 html標記 或 metatags 找出重要文字並歸納出有用的資訊
+
+ #Tips 搜尋引擎透過metatags(例如:Title、Meta description )來獲知我們平常不會留意到的資訊，記得優化時要聚焦這些字！
+
+ 🔹建立索引🔹
+當 Google 找到網頁之後，會解讀網站的內容，當分析完畢後就會將該網頁「建立索引」
+而搜尋引擎的索引就像是個巨型資料庫
+使用者搜尋關鍵字時Google會在無數索引中找出符合欲查詢的資訊並回傳搜尋結果
+
+ ⭕以下提供三招「提升網頁檢索」的技巧：
+1.建立簡短有意義的網頁標題
+2.網頁內容須和標題相關
+3.多以文字傳達內容，圖片、影片使用替代文字加上適當註解","1571596932","/newseoera/photos/a.172956710006074/286023748699369/?type=3&eid=ARAQIQLhx1m8a9rgSGmzHnZXZzFhu6sQMlYha7BiARmx20RonJ1kWlr5ACMJOY2Q-eXklgXmhldJkta0&__xts__%5B0%5D=68.ARBGzLUV438-nm_zgeg6BdGHPlflS-C_1wGyqI-7IIeWt8V63J6LY7Zb_ASgKD9koXJvxNpguts07YfFsMfV0Tdwd1RVP0jXwD47UEvLbJtJFUIvo0o976WuxP3VY7aHR0gGIYnTmJTso7zaYrYXGa4DO1gQmKxELvG_kL8j3hfoueqFF-mgqaXJ8JFZ28oh5LbsiqfgHZnRdho32DcYQwWtiKo2x_y5fO0IncAf68B1I2o4ClOvQ-jcChy7JOw_EiF0FrJU5sQreIvHH8DotXHhUOS9MKIpuuei3J2bMnjDGaFs4zbLKQWKItcKOI904CACBfk407f9q3_jGeMBFpI&__tn__=EEHH-R","https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-0/p526x296/46361212_286023752032702_1359930149360893952_n.png?_nc_cat=102&_nc_oc=AQnobtiSDptdIbVmArArya8oslQwNSeR881By11EmMai8sx0yw5679x7Y-GJJ5cdioo&_nc_ht=scontent-bom1-1.xx&oh=fd44d3acbf9c0c8c79ec371bd174c356&oe=5E5F4427","undefined","Send Message",""
+"https://www.facebook.com/newseoera/posts/423392291629180","1568793689","【南部首開課程】SEO本地搜尋&數位資產優化
+
+ 時間：2019-09-28(六) 09:30 ~ 16:30
+地點：高雄市一心二路33號11樓 (台槓創新HUB)
+講師：連啓佑 將能數位行銷執行長
+
+ 你能從本課程學到
+1.我有哪些數位資產該優化，甚至是已經存在我卻不知道的？
+2.Youtube影片、Facebook貼文如何協助SEO效果提升？
+3.如何讓附近的潛在顧客，在搜尋時第一個看到我的店家資訊？
+
+ ‼️9/19前報名有早鳥優惠‼️",1579371160,"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.accupass.com%2Fevent%2F1907270844331983801793&h=AT3eA5X0b8EdGEtGn5ipyQPqRnmfskdXfRkFTyctyydVt223odE2-O35SaRjueG5sXCLCX5WLrMSYXuOzB4MckirYT8Lgp41vZ6Xkxsx4yZv_DhSUqylXAJMw4aWGoNNh5X3R5G1ZXMVPFYXLWKDrPy3wljFzOzx184SEIjfA4ZxZFM_XBMC2RtoN_GbPdIaIgs_X1SNkBj5rURQz5nxomzefF0gTLqkPEQLMIG5WZ4lLR043u-Hl3FBSZsVrd6wEj9sTiyealNq-3MFEu4DW0u_AxSzTLGT0mf6Yff1ePeSPCBY1lYaZoQ1bT9Lg0bcLi0JbFo6_nWVjwP5S7cJNAmiak3l7CVVXN1cy4siufDmTdueOzNSyQ_h2YuRVX8vxnvtcnaJVVQKxVUsrldPYIn3VlAPe-WnW8pSiDDDn39MRQ-s8s_UKCsvFUxUHrvVLM6SqRkEN0XfHLB8Ygm_gL8L7gkpMri3PTbXizxBdBAfnIjXt6BgqxfWoub1LevH8uXIgMMtpeV56erIZ1gJEdVcm0dSuAM5nHl1dmD-zg_v-9zyzQNGkoao7tA_8ibr4_d25IiBPlM2pO3tHyFd-XW1o-ZigpRde53BkvvNGCOZl9i_dDwACBOspW8TJvTYzicJ9g_zKRDm","https://external-waw1-1.xx.fbcdn.net/safe_image.php?d=AQBwT9ECS0usWW9I&w=540&h=282&url=https%3A%2F%2Fstatic.accupass.com%2Fuserupload%2F1907310800491699103548.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQAfZH8Ly0OmOcQJ","(確定開課)【數位行銷】南部首開！SEO本地搜尋&數位資產優化｜台槓私塾 9/28(六)","有鑑於廣告費高漲、Google SEO 難度日益提高，許多企業亟需在網路行銷上尋找新的流量突破口，以便在激烈的競爭中存活。本次課程，「台灣SEO之父」連啓佑老師，將特別介紹「數位資產」與「本地搜尋」這兩項SEO最新優化重點....","accupass.com【數位行銷】南部首開！SEO本地搜尋&數位資產優化｜台槓私塾 9/28(六)｜Accupass 活動通有鑑於廣告費高漲、Google SEO 難度日益提高，許多企業亟需在網路行銷上尋找新的流量突破口，以便在激烈的競爭中存活。本次課程，「台灣SEO之父」連啓佑老師，將特別介紹「數位資產」與「本地搜尋」這兩項SEO最新優化重點....有鑑於廣告費高漲、Google SEO 難度日益提高，許多企業亟需在網路行銷上尋找新的流量突破口，以便在激烈的競爭中存活。本次課程，「台灣SEO之父」連啓佑老師，將特別介紹「數位資產」與「本地搜尋」這兩項SEO最新優化重點...."
+"https://www.facebook.com/newseoera/posts/365855400716203","1559046178","",1579371162,"/taiwanebusiness/photos/pcb.2350770671878493/2350769421878618/?type=3&__tn__=HH-R&eid=ARCAzgLu8umfGV_SmnYQpBIbgUNUALi_EF9wPf3_27pkkS-sUG9amzXBRA-TWRiiJzKvILaysZ7uht-Q&__xts__%5B0%5D=68.ARDGC657vlNN6xmT8JLddJtBFoBjClclVTRoRQrHw1cMSbVF7aE16Wyq2lCV3Ra2zHDGOc1hsIkkQJAZ6Gz3doCYsMxWJE82iqUa2ELp6WF3zF0bH8XHlT9Dp13aewui5r6ag9JNNWE40Q8_RWqMKvi0q5rdPKJ4-9ltBg7vQiUvswarJjuBbPoAgas616Wky4aEwbHzzYUuh7xiy4IpMtfZu5on2-xMtHYUcRp7PalTKvzzscfYSXd0OHKLxL9PatQDaMYbldEp9Lx2s5tPGq7dJm6JyMuCYP6DjTSRTu7OHr-b7D99gVdoSAS6sq5-VnTCKrN7GKT1IAuqgASXfp8Qdvh6fMbCuM61yenq7ejiGlUGzDcK9c6zXMtfxF_el9l2lRXWFb35hnW-5neuZnUILUoLZq0KXWYawRDhx8vYF1KIcWJLItP9QWzlAUlLBJmxPgbgRjVuQw5V0_uqw35ZKyZckiuo0vkKayCxgU69MZG70-YWBhM","https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-0/s600x600/61588168_2350769428545284_4696901210416873472_o.jpg?_nc_cat=107&_nc_oc=AQkPc5hg3OOyDsKySX4Kjl9RkmJFfXbIixcc4gZKwNU5NP1QmmuggXVn-ASCZ3K1Sb8&_nc_ht=scontent-lga3-1.xx&_nc_tp=1002&oh=3b5580d842dfa396dc834fbfb0150bd3&oe=5EA23798",undefined,"+2",""
+"https://www.facebook.com/newseoera/posts/308753249759752","1547168444","【多版位行銷｜2019電商佈局的因應之道 (中)】
+
+ Happy Friday美好一天🌞一起來學習電商佈局的眉眉角角♥
+
+ 上週為各位介紹新的流量紅利，可以透過關注科技、政策、用戶變化以及有效分配媒體預算來達成。
+
+ 那今日介紹的多版位行銷又是什麼？為什麼能夠帶來多管道客戶流量？客官讓我們來看下去~~
+
+ 
+多版位行銷乍聽之下很是抽象，你可以想像成在這多面向、多平台與多管道之網路世界鋪下你產品價值資訊的天羅地網，讓潛在客戶無論怎麼搜尋都是你的資訊，如此，就能為你導入多管道客戶流量。
+
+ 說起來容易，但第一步該如何規劃？
+新SEO提供您六大策略參考--
+
+ #核心SEO
+官方網站SEO：自家官網的架構、內容乃至關鍵字規劃策略擬定等等，都是潛在客戶能否搜尋到您網站之重要關鍵。先將根基(官網SEO)穩固，再向外伸及其他版位行銷，才會有加乘綜效！
+
+ #數位資產優化
+提高並優化你的數位資產。資產分為可控與不可控特性，所有你可以自行修改、上稿、刪除之數位資訊(文章、影片、圖片等)，皆屬可控數位資產。你可以將每個資產的檔名、連結與內容等都置入相對應之關鍵字以進行優化。讓客戶搜尋相關字詞時，出現的都是你各式種類的相關資訊。
+
+ #Google延伸應用
+透過結構化標記優化你在搜尋頁的呈現資訊，包括我的商家、本地搜尋優化與知識版圖等。
+
+ #內容與口碑行銷
+除了自行規劃產品系列內容，讓受眾更加了解使用情境與其特點外，更可透過既有客戶、部落客體驗進行口碑推廣行銷。
+
+ #結合付費媒體
+奇摩首頁蓋版廣告、關鍵字廣告、聯播網廣告等雖然需要課金，但也是快速讓客戶認識你品牌與產品的一種方式。
+
+ #Barnacle SEO 
+打不過他就去加入他，借力大平台的流量！Barnacle SEO是讓搜尋排名較低的小型網站透過連結的方式和搜尋排名高的網站做連結，增加你的搜尋結果曝光量。
+
+ 以上是否對多版位行銷，有更多的瞭解！ 想了解更多細節內容，或是對於自家官網SEO想要更加優化的，都歡迎留言與私訊詢問。
+
+ 下週來到我們電商佈局下篇：強化行銷力 | 了解你的轉換率、客單價。先了解對方才有機會拿下對方！欲知詳情，請各位敬請期待下週佈局分享～～～
+
+ 為新•SEO 粉專按讚，並設為搶先看
+不錯過任何一則SEO最新趨勢資訊✨✨",1579371155,"/newseoera/photos/a.172956710006074/308755126426231/?type=3&eid=ARB_PBgcjhKHyvfAxTCL9ZCazV5XS_jIll4qNY586caopzCiLqRLuH7rZxfKF_bcw3h5iBJcKwUMygD8&__xts__%5B0%5D=68.ARDaTMHRUHHQ9lVHfQLpvqz3_M5im-bxRhk66mv6wcpzoMU2oPjrtb-ZrthJEYopcqORWTO_W1YTzt6SY8UJl4Ej0acu2d_JfxB-zM_Qc8olSft10CJHPPpQGNctxJC_vPdNcbo_pvfMxMXkbAwwN1LsbBF84XeSop2tunGj9iix6dB6hbEFKKtft2sS9xyrP2x0wQCRrdBsq1hyBN7nyC5Rp2wRwinUPAukapB964WfAtFkYeieSdT4mrTU-ZeCVdgtjzWWOo2mmRgEP_dYOGT6U1pxoBcOwjAp6yjRUs70QjV9zgJc5eImlG8AICrqiZFsk8hRivXfFZxV6Zl4omU&__tn__=EEHH-R","https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-0/p526x296/49897199_308755129759564_6063155982588968960_o.png?_nc_cat=107&_nc_oc=AQkjvjNKLgbTwcFAwWLuR99osHgGSqXVMDf4E8LxRGkYd4he1ZD-7p32EHYZdTMf4mc&_nc_ht=scontent-lga3-1.xx&oh=4f1eb1c41bec8295d4075d641195db58&oe=5ED76D2A",undefined,"",""
+"https://www.facebook.com/newseoera/posts/355965381705205","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579371165,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/newseoera/posts/181156685852743:0","1522666800","#SEO小教室 #解答篇
+
+ 公布解答 圖A、B、C 皆非
+
+ A圖：突然大幅度上升 
+B圖：突然大幅度下降
+C圖：大震盪 （👉小編歹勢 圖片沒有表達清楚啦🙇🙇）
+
+ 網站索引頁數的理想狀態應該是緩緩上升，
+無論大幅上升、下降或出現震盪可能是網站出了問題喔！","1571596933","/newseoera/photos/a.172956710006074/181156685852743/?type=3&eid=ARAblkGD4BEBNI0QiE93XW58tdg6uFRHSFpj38Cj4c8d2xmVjizDzA1qLJgUSJV1I-GFLuHz7ZXgpagV&__xts__%5B0%5D=68.ARBCG7DG2IBv6dBIztVNAE5LNBw50mph2qCdkBKI0iBkd64leQgK6mb7QA3shRa8XTFyl-0i8oIKbffg5m0wz3Viw6Pg3KM6lmBmz37aKE6PqCiPD-7m7cO9NoImxaeAtrgxoQSRow5JkyZe9Ci27ODJSQoxkKFBRGWEI70CoECjnlXm_Q3CBVV6Qi3Pmmrs8wdRbiq4XTTdbA74BD3F9f3llciU0Sj11Lqud0qmNU47-eOb1vH5d2VPwwtMgAXihhT4sb-JO8nOMgXyH2EazbWPgwGb5LtSdMSCCXPFOkt-R9VBx9S7x1nLPJrm-2OTDMFnWL-waIyZHV_adgsWPHs&__tn__=EEHH-R","https://scontent.fhan3-1.fna.fbcdn.net/v/t1.0-0/p526x296/29542785_181156685852743_441232798619566930_n.png?_nc_cat=102&_nc_oc=AQkaiqBv_VYAthU-_k_CGRGKE8XjrsbfPlzcdw6_7x0N-NhjvsDdZOD2pVmOVxTVi00&_nc_ht=scontent.fhan3-1.fna&oh=c08aa9100cf0e8b5962915e68476e756&oe=5E1B2CE0","undefined","",""
+"https://www.facebook.com/newseoera/posts/334194557215621","1552629529","【免費講座】2019東南亞電子商務趨勢攻略
+
+ 時間：2019/3/28 (四) 14:00-17:30 
+報到時間：13:30
+地點: 福爾摩沙雲創學院【限額100名】
+台中市中區綠川西街135號13F
+
+ 報名表單：
+https://docs.google.com/…/1FAIpQLSdu2GaBDVL05SjI8V…/viewform",1579371169,"/newseoera/photos/a.172956710006074/334194500548960/?type=3&eid=ARAiwmiBth_VLb5V-wGxNZbq6AkNUmMKLSRhwTsyeAk-MT_SkFY1mJO_yEjYrrhQmBkpxGqbK_eM70g4&__xts__%5B0%5D=68.ARBDzUj1VgsVkn8WIcSwSWyT2OLPPH2RLI8uLa3OMJc1Ix1_xHNtQQriZ6WG7neH8V16DvMF3ey3diOHcINmSMRAa-jaae48V4znexb7Flg5uNzfegnnWOVzJUXc5RSyKTVFd0E7ump48vYVvj-PU7bbUjyjjfE1AYyXlyyt4weIaV_GkrUBLxE7SuUp9uDql9edYd7G-lCOChE4gDftoO2EA5aoVR2rWRcmz_L1pd87-WLVlJdNc4Q4NseZQQGjacw_Ug-ENL3VvGQuNW2pH-Vuu-Gb_Ox7mc-y0yMKPcRO2w4R_xCpn96vl4ekZFolO17gNjh0rVjolUjCJxd1TbQ&__tn__=EEHH-R","https://scontent-prg1-1.xx.fbcdn.net/v/t1.0-0/p526x296/53664065_334194503882293_8794218818739109888_o.jpg?_nc_cat=106&_nc_ohc=r2-rcMki_y4AX9l7jzf&_nc_ht=scontent-prg1-1.xx&_nc_tp=1002&oh=941c1f36e58720c7b1f34cad0521acb4&oe=5E909CCD",undefined,"",""
+"https://www.facebook.com/newseoera/posts/335479303753813","1552920839","",1579371161,"https://l.facebook.com/l.php?u=https%3A%2F%2Fsearchio.cc%2Fseo-table%3Ffbclid%3DIwAR2WE6KS3QI_VQXwvU2QPwm6t3gw8ehiPB4JLFeaEVIhGA_GBa8Z40UO594%23As&h=AT3mfEkWuXV5UqVUSNVy9jnNJOC0_dRCjit3tlpWsPyHdVsEVtp7DSJ_r5QtVB3OWpl8uGlkkUhIjuAn3eFEAaRkHrkThqE1te3QcKN7oRVQSNxOAd7sh8a2wD5Mi8BP4hqgsBgNKJmVd_aX8gv72p16D5ffTWqxssFY0spEBaRotjUcUO_3s9kMbJmyeMB5tsmHQbe1aP9OUeY16eHuyN-XL3GSWcmXO_utvK0KMy0igSIgA8u0FlQ-n9noi1WXrk-RRuVCXEYhjsBgDJ1fIyHhOQn4xm__ACfj0HfhWkEtIRSoJFj1I9RjpO3le3X4prpVIB96t5rwkqAy1CIudKTnxkIrlc9sTJd88J-jKyCIZwUgbTVdK4K4ASalDmq47zx3opTxMp24QW-HibcqjAeuDtDY9mhqZxsP0n1FkbT9FtXaJRc5DhLppQV89-HQugEn2clqG_S0toLow3IHsbAyfnbJ7tELOux8ZuPJ9W1t0SNYe3PqQ0NyC1ECEI5BYetrslrx7-fAG-R8N93t2JwXncZxDz60elyvdkHK3HvP7QLdkXkTKstAQzjPP_6zJDW3FHmwC3w45b16L03K0n6ws4aQxzESSkZk1CmPdMFyFPRiKuPJeXn9Bs6iv9k5ZQxCfnaaZU16","https://external.fpnh19-1.fna.fbcdn.net/safe_image.php?d=AQD9meyq1Q_u-doy&w=540&h=282&url=https%3A%2F%2Fsearchio.cc%2Fwp-content%2Fuploads%2F2019%2F03%2Fseo-table.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQB56daky8_uQOCd","2017 SEO要素表(2017 SEO元素週期表)","SEO 要素表 本表格是依據Search Engine Land 在發布的The Periodic Table of SEO Success Factors修改並中文化而來。透過此表格，可以讓設計師或網頁經營者快速掌握站內與站外容易影響SEO...","searchio.ccSEO要素表SEO 要素表 本表格是依據Search Engine Land 在發布的The Periodic Table of SEO Success Factors修改並中文化而來。透過此表格，可以讓設計師或網頁經營者快速掌握站內與站外容易影響SEO...SEO 要素表 本表格是依據Search Engine Land 在發布的The Periodic Table of SEO Success Factors修改並中文化而來。透過此表格，可以讓設計師或網頁經營者快速掌握站內與站外容易影響SEO..."
+"https://www.facebook.com/newseoera/posts/351221135512963","1556285400","【免費講座】跨境電商X通路X社群關鍵趨勢論壇
+
+ 【台中】
+日期：2019/5/23 (四) 14:00-17:00 13:30報到 
+地點：NTC國家商貿中心【限額80名】
+台中市西屯區市政北二路282號16F-1
+
+ 【台北】
+日期：2019/5/24 (五) 14:00-17:00 13:30報到 
+地點：Work Fun【限額50名】
+台北市中山區復興北路48號10樓
+
+ 報名表單：https://forms.gle/L7pbPaYuNZ7w85Q36",1579371154,"/newseoera/photos/a.172956710006074/351220382179705/?type=3&eid=ARDPhKNjMYXiMM_3YXtBG_sc058I0tleOQh3chq3KvHHWYoMBwQWSs3Q7ljEDb1hZcqDnco4I6SU05RT&__xts__%5B0%5D=68.ARDEDd5T16FmLbCTeFcsk0_3TtxL-hcTbBy91qKdq4rhMq-bQ4KdN03h3C_YTL-EtWPumFQ7mXbVnRwwWn1EKLqXd24WHC4-sykJALuCuEauSvFzIOpjO8cALGINMTpL8k2VL7WdWGSYVY2SIT7Lrtd8wMxU5NxAPZxRrxvWMOltosPJBCp9LWrCHb_lKfP7KMQXEFhEq5tS0Qr8rf5V2vtwpxW0pSfh9ihgMOT0dKy9bLAtVhzOb-ZsBBNLFNKwqmTJSkaqIxMarvnQGYaU2b0B23G-9bAsNkyqd4rCj09vuiKMLGxCPaklIlTlpQsSzLaoJbI02ZxeVVHSi4RCr9Y&__tn__=EEHH-R","https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-0/p526x296/58375348_351220388846371_7857838995282067456_o.jpg?_nc_cat=103&_nc_oc=AQmNqH68aK5N_v4T5m9HD3sQEUUcreMVVO6zELpnQXU2_zE0Ev-O25wrxtFogZlupXs&_nc_ht=scontent-bos3-1.xx&_nc_tp=1002&oh=45cc817e24355b9fb0b5f548d901f913&oe=5EA5DBB1",undefined,"",""
+"https://www.facebook.com/newseoera/posts/294408787860865","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579371164,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/newseoera/posts/185680628733682","1523867882","在社群、直播、影音、網紅行銷當道的今天，相信年輕的朋友，在投入SEO 領域之前，最想知道的是，SEO 值得投入嗎？根據eMarketer 的調查，SEO
+目前仍然是全世界最被普遍應用的數位行銷方式...","1571596933","https://l.facebook.com/l.php?u=https%3A%2F%2Fplus.104.com.tw%2Fm%2Factivity%2F838c8d2c-58c4-448a-8c9a-aae9585083c3%3Futm_source%3Dplusfbpage%26utm_media%3Devent&h=AT27JyNFw1pvnAE_YoSQNtN30Kicw6GgQcPubmgR7hMzTioC9DaqmJiM73cC9SyJc68KRzdrW1ZhCLQ-fAqov8f9kCta2droG8Qnt8vA5rskFKnj7fA05iRllv2WJl4fpJG4LQRLjfz2NzefMFQSVEJvb9SVR656h36iuwmh5lFSL9UwjzitFAohEGXjxiMZBIrTKsx4urRLD4gVGaT5-G4HIF8Ns_KiXEhgMfyoubmkrcJvrFwXqiEoRdrzrv5pHC_wz83TykhzDvxd6y1HYO1MyF61br5rckyp1W3kEV6heE9_jn2BWTiWFNaUmAygj9RU3cLAQiX3r2_JOxP0QVX5S9pZw8j4PUn6kj8XmLsXUtr7oHHFL3o_-3GKrMLaaFmy_LIxTEYCfFK5VYCu6223Accu4J5lRXmD4Mhumtmdq2_RiqDWYm8UL64kKlV_YAxPevBehOHcbFKj4Z6Ro-Zb7-QlK3AsXCJTZlRKYbgPr5Hi0xBFJb_s5_7KE--PoKGJ7SIufnRdy_bJbphiu_BbzaL7y5zxShDW_5KZYldV2dkfXVXEik8VjOMCI79YjumR71S_2JcW-ziaeiNVLlEDzyMQuSEC-ZOPzOJpEx2qBtpAK2W7dsw8BNQYumNIiB-d6ryhgMY","https://scontent.fuln2-1.fna.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/p160x160/30754692_6097599346770_211467224534220800_n.png.jpg?_nc_cat=104&_nc_oc=AQlWnmlqApOXtAqkGMVEXbS6K3dONPteADgD6nHUElt7Df0TGmnoxD_X5PMTp-64sUM&_nc_ht=scontent.fuln2-1.fna&oh=8693522a3365f36f18953b0f3c8f6896&oe=5E59A187","No photo description available.","SEO 產業概況、且該如何進入？ - 104 職涯社群","本篇是104職涯SEO 系列的第二篇文章，我們來談談SEO 產業概況、且該如何進入？SEO 值得投入嗎？在社群、直播、影音、網紅行銷當道的今天，相信年輕的朋友，在投入SEO 領域之前，最想知道的是，SEO 值得投入嗎？根據eMarketer 的..."
+"https://www.facebook.com/newseoera/posts/280749119226832","1541133000","【Google 搜尋引擎運作放大鏡：抓取Ⅱ 】
+
+ Google是全自動化的搜尋引擎
+爬蟲會定期爬取可加入索引的網站
+但剛架設好的網站可能需要一段時間才會被收錄到
+
+ 👩‍🏫該如何縮短網站被Google收錄到的等待時間呢?
+#小編 提供兩招 助你的網站主動被收錄！
+.
+💁‍♀️Step 1
+首先我們必須至Google Search Console驗證自家網站
+.
+💁‍♀️Step 2
+【第一招: 主動提交sitemap給Google】
+進行步驟分成""⭕已有sitemap"" 和 ""❌沒有sitemap""
+
+ ⭕網站已有sitemap👉直接將sitemap提交到 Google Console
+❌網站沒有sitemap👉可利用免費的 https://www.xml-sitemaps.com/ 產出sitemap ＞ 上傳到自己網站上 ＞
+到Google Console 做提交
+.
+【第二招: 使用Google 模擬器】
+登入Google Search Console ＞ 檢索 ＞ Google模擬器 ＞ 打上要提交的網址 ＞ 擷取 ＞ 要求建立索引
+
+ 💡注意💡
+google 模擬器的提交有每日上限，
+建議還是以完整的sitemap 提交為優先哦！
+
+ -
+#新SEO溫馨提醒 
+當""新增網址""或""網址下架""時，需記得更新sitemap
+再將sitemap提交到Google Search Console哦～","1571596934","/newseoera/photos/a.172956710006074/280756802559397/?type=3&eid=ARBrOsjyQlHd_iWmXfb5q0Hf8C4m0qMnY4RxLA3VoOg1M8Cg_bJR5-hkRYXJKsuHwYE0pvR-n8aJsSdA&__xts__%5B0%5D=68.ARBspt0bkouj52t5WXPBMHBozXn16mkxnQHPTgPem-zP5qtbwfj6DJcKf14wiWkVZDIgqUCfH97AXOnS1BczBDPBa30pfU_3zBoefyWiXAii-RSM-R7azqPtDJBNAM0VDSkgdqPT9bvHdnLTIpJmDWjwSH6W3KG2loa3_iswLtoEdhyyowbjrBWPrduS5onTuvogc1YdomkKCTBDAaiBUtpyXGHCeyKCmdR4QgVCG7awdNvqfzDzxx2zqRJHvXkH3TGfqkSAChL6v9mW-ZXtkeYZ8F20aNnMCTjb98Yus3dnToQKifa1jC7olgskTofNEaBR32H0knF6gBj4OSSvQEM&__tn__=EEHH-R","https://scontent.flux1-1.fna.fbcdn.net/v/t1.0-0/p526x296/45269032_280756805892730_6293379969254948864_n.png?_nc_cat=111&_nc_oc=AQkh8agaaJlsjg7vI9DHfrq1Jw0b2V7nOSpqZCpXofMXZzNpzEuivPzvc4FDxwM7BJo&_nc_ht=scontent.flux1-1.fna&oh=ba2d1037e77f88d8db38650daa06e19f&oe=5E2B0AC2","undefined","",""
+"https://www.facebook.com/newseoera/posts/192203658081379","1525959430","【SEO 工作發展趨勢、工作者的職涯與出路】
+
+ 對於SEO這個行業您瞭解多少？
+是否對於SEO的薪資、職缺與技能等有所困惑呢？
+這篇文章或許能幫助你對SEO有更進一步的了解！
+
+ 有看完的請舉手🙋‍♂️🙋‍♂️","1571596934","https://l.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2FXsDNGB&h=AT2NmEeHJ3yrOSe-X2KUJeYZ4Zc1rGTyqrLFq8isgKpjcwMqENVN8zj7AIW7adotGoox-X4P0f6YE8evUKtHiXV1IuXRL3e0QWx2mDJdyBrQlOOm6shdX-3BJvkYwWUlkyjXumhjSsSPlFIo7edqutTmpCF7lutgUxjJiMQ0sWyaoLTJ9g1ahbmXELvi1ofXsDxDN2YFZUM7x72DWmBcJ3XXvVwInFbb8IUaTfeEjYPhhGLM5LXSDqWLLzksQ4KD0Yu4pLo78RANdBsd2c93E0gjqMzSr5Y63FvhFv90F5Uo-y0tTqcWc-qJ6U4b4YT2IenYKaAsvJ94WccoFrSgxF0Ctdh4bFZBSoxKfAUtE5rBazpD2A_19hfTViCuhMx-WkF_TInU3-e-4piPf6nncHYdrzVX252XCtJWQTtBA41JeaKXAoDxJ4C9YgawIFWHrodkoSf4jx2X8cuy7jvStAoDjNvy54ka2K8w0Wewx5OoHEvbdgCKtvL5SDcnFig5JQCwLD-36KENLl-36pEm6wJZlM6kZd-1pfer_bglHBnOyDHLxa-ond4AJAV73Yi2221V2t7_Fc7k5SXbjUsYGppa9OjF4sShcrfu20jS0vLsgegYpxkEuPKps77QLvkGeP7A2vyc0Ac","https://external.fcgp5-1.fna.fbcdn.net/safe_image.php?d=AQCJQfhbENz4Gmnz&w=540&h=282&url=https%3A%2F%2Ffile.doc.104.com.tw%2F1b4%2F984%2F6ff%2F999ed678ff4e46ecbdfe4eb2f6102e2d11_activityGrid.jpg%3FAWSAccessKeyId%3DAKIAJGHVGAPDLEXZK2EA%26Expires%3D1525963303%26Signature%3DqD%252B2HtZ8RXQ1YHoVoGj%252BOlpKeDE%253D&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCBCr57GO1L_Cet","No photo description available.","SEO 工作發展趨勢、工作者的職涯與出路 - 104 職涯社群","本篇是104職涯SEO 系列的第三篇文章，我們來談談SEO 工作發展趨勢、工作者的職涯與出路。 SEO 工作發展趨勢 比較遺憾的是，目前在台灣，針對SEO 工作發展趨勢，較缺乏系統性的研究，不過我們還是可以參考Conductor 針對SEO 發源...."
+"https://www.facebook.com/newseoera/posts/260835571218187:0","1535536800","當你在網路購物進入到購物車結帳時🛒
+有注意到上方的網址列是綠色的HTTPS作為開頭嗎?
+
+ 當網路興起而導致許多使用者的資料被竊取後
+大家開始重視網路上的資安問題👮‍♀️
+因此GOOGLE宣布若該網站涉及資料交換
+例如:會員資料、信用卡資料等
+都必須導入SSL安全認證(HTTPS服務)
+否則會顯示該網站為：不安全⛔
+
+ 有綠色的安全認證代表該網站採用SSL協定
+讓使用者可以安心填寫個人資料或是刷卡💳
+在資料傳輸的過程中加密降低被盜取
+
+ 看到這有沒有意識到一件事呢？
+「有沒有HTTPS會影響到SEO！」
+
+ 為了提供良好的使用者體驗
+GOOGLE已將網站安全性列入演算法內
+也證實有HTTPS的網站會有更佳的SEO排名📈
+若你是使用者，相信你也不敢貿然點入危險的網站喔！","1571596934","/newseoera/photos/a.172956710006074/260835571218187/?type=3&eid=ARA1EikDx2JIeK7CcmR5gM3Mk78N2AAOl9gNs0MMrYj3F6qfEnIoxqpsA2sSmGDnoUzSy2tPb-PdRycE&__xts__%5B0%5D=68.ARDSw9BEkAxd7jlcE24N-8YfUopv35NMR4A6mHlm0i7PjhRoHoWOkNRiWdfZQFprrYV9HQSao8cl-ig6JkGYo_q5gFbF1U2wQ0F4xDZD9tAUYMJ-Ov0GRiZwEm5BdxHK45y9AoV5vlOjLtbVUBatJc8rM-OTLht596YuAufi1PZlLX-XHTUGNABiYSMAI2mU2Ec8YoUsLrkKjC_U6y89had6Jgt8J5etTMjLRF-A1erQLObkMPLXkrYj1bL8almy8jP_ZngHLZa2kcguOqKl61eWEcsXOdWzmU3Wzox7_Q0tZNv-IryhGAzweoWoEoP7YnIDfPG8pPCyOcaBahNCi5Y&__tn__=EHH-R","https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-0/p320x320/40257884_260835574551520_6848049479132643328_n.png?_nc_cat=108&_nc_oc=AQmp5DEk2RKZ9TYyW-oIXyqFzjVr3oTMcJ93ysGiYwMEY4bkUFnfr0ERoAizGDHlhjg&_nc_ht=scontent-mad1-1.xx&oh=ad86aa35ece08593f5a2ec9d6404d10d&oe=5E5F3874","undefined","",""
+"https://www.facebook.com/newseoera/posts/348202742481469","1555640747","【免費講座】2019東南亞電子商務趨勢攻略
+
+ 時間：2019/4/25 (四) 14:00-17:00 
+報到時間：13:30
+地點: 福爾摩沙雲創學院【限額100名】
+台中市中區綠川西街135號13F
+
+ 報名表單：http://bit.ly/2VXcp9K",1579371154,"/newseoera/photos/a.172956710006074/348202672481476/?type=3&eid=ARAexBnGxxK70XX7EbidxHuSqUk3nB_YjKxdu9iNNnmgO_-yAUxh2vV88ob8wCA184t6S2d8aytDX5U3&__xts__%5B0%5D=68.ARAbXEa-rL4R0fUjLzuzHRUH44L6eHNRw5icXooMnGqTm2Calq7-7scuLN95fDB3wPjp_g7CVs5ZgXWF0Inx-ZoDY3zSqxDHu9sEevw7_zIl3bU3BYTbCEzYyLlZPAHzSTZuihUORcLYFDp8tpZiKpjDuarK45BuEFAonNhKmIsFzn10DgDSknK-PV-RiQQeE6A19quipzuB-TFgMOpgfBYO3MppnU4bBdW8K8xVvdA8k6-WqsGX-FEsVyXgv2xNv5gYT0woup2WXZCcvFQcuGo3EgVJs_eGf2kJjljjUrd1gPP9Xriruz8kLYUnCraNQ_SfObI9sNzqDGvG91j3Uco&__tn__=EEHH-R","https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-0/p526x296/57503757_348202675814809_1163058452059127808_o.jpg?_nc_cat=103&_nc_ohc=2DPhqD4GwL8AX88IJ54&_nc_ht=scontent.fbkk10-1.fna&_nc_tp=1002&oh=b6fac752620de575d4c9bbc72e802a94&oe=5EA6C53C",undefined,"",""
+"https://www.facebook.com/newseoera/posts/190489601586118","1525366060","SEO ranking factors in 2018。
+
+ 由於Moz 不再更新排名要素報告，後續SEO 課程將以Branded3 這份為主：
+
+ https://www.branded3.com/blog/seo-ranking-factors-2018/
+
+ Branded3這份是以Moz 的原報告為基礎，再跟據SEO 近期發展更新而成。
+
+ 為了推廣 新．SEO，預定接下來會舉辦全台的講座活動，這份排名要素表到時會列印護貝作為贈品，送給參加活動的人。","1571596934","https://www.facebook.com/photo.php?fbid=10155444187488779&set=p.10155444187488779&type=3&eid=ARBW2kQsbVz0l09bxbiNzK-WaLUx3xEPcasHA6RQGW_AmLmg0HvVhFDj9FirfYfDGds67baHCFwobHQW","https://scontent.fbkk22-2.fna.fbcdn.net/v/t1.0-0/p526x296/31882800_10155444187498779_4411836190802575360_n.jpg?_nc_cat=106&_nc_oc=AQkHMG6mY1Wb7VChbtDd3aJotwqfKhMq-hxG7kdGgSkU4_jgXlPvs0mqvR87B2l1byM&_nc_ht=scontent.fbkk22-2.fna&oh=6bb8697268065cb7aa5aab11424002c7&oe=5E26FEC2","undefined","",""
+"https://www.facebook.com/newseoera/posts/435711743730568","1570624201","【SEO新知小教室】網站主請注意!!
+
+ Google在10月初宣布，Chrome瀏覽器從2019年12月起，
+會屏蔽含有Mixed Content的網頁，
+
+ 也就是https網頁中含http的資料來源，
+這包括scripts、CSS、圖片、影音等，
+
+ 這是由於駭客可透過這些不安全資料來源攻擊瀏覽者，
+另外，瀏覽者也無法確定當下瀏覽的頁面是否安全。
+
+您可以透過以下工具，測試網站是否有非SSL的資料來源，並修正
+JitBit SSL Checker：https://www.jitbit.com/sslcheck/",1579371165,"https://l.facebook.com/l.php?u=https%3A%2F%2Fblog.chromium.org%2F2019%2F10%2Fno-more-mixed-messages-about-https.html%3Fm%3D1&h=AT1_FRccODqMxXQaC14-GyFAe24kZljAI4XEUBvRT59uWnCMyQXsPG15oZgDZp5q8FiTEgNJNB_mrHOXkLH5E8tyiYVXk16zC-D4ZU7x6Wom5wbY3oowF5JV3PeNXFU5HDP4DkxXW-YoEPGKz52AGFLwqN5XvLkIxZ-GSe3c6YGzvkwYW31-abmclI-bKVvGVpmh86b_WoI7a1rJKgOQ4OuRGG0_tqf2s9oJqSA5oit4tmvilWyOjLc7rwB-w7bxwVIw1jvo4-62rTZ56F9vIcQD4WqukOoUJ8FqwFocMtidekWdw2oBSuCeID-bX922okKvItMA5b2WONpwmL04qr1mpmREUGzx4ZZulSSaSygyv8BLvOIJi_qNUAWSRlQh5PkyRFoTdrrmFj9t5X8EIU-N2GzWWFVfkTtOukWOKkGyDEoDaT8ajGq3pVZYmpRAArJrO82AD0Lwp5OA3aBAGsGq-qCWYG4oiVoSQwzc6ja_TIo3JDv-pfCINSx2EVK7MsGDWwo2RVoN681_ufJNxoFGEpdEo5G800i5pgC6PAnFhaubvMidss7glp20h_f5ArTV6PX04TAbV5YaAaFY4P0TLZ5F8OLnAhzjNZ8-JwGYbqhU6wfrcQjsBmSCO_OXe0lVvRWXN4r7","https://external-bos3-1.xx.fbcdn.net/safe_image.php?d=AQDWAxD_rwBhMdbO&w=540&h=282&url=https%3A%2F%2Flh4.googleusercontent.com%2FDo9LbaFEYFjUlNs33YCypEYxQm8CYUzmPX_vixX97u-nY_TpL00dAG5fWkdfqQysjFs0gZVXoB-FxY_KVHmpXH7XL-ZSRsynGDKaN8_f8uCXSaNa8qHNIiBt_bpB-go8oXeGCc32%3Dw1200-h630-p-k-no-nu&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQDw_oji2pAOz4WB","Image may contain: text","Today we’re announcing that Chrome will gradually start ensuring that https:// pages can only load secure https:// subresources. In a series...","blog.chromium.orgNo More Mixed Messages About HTTPSToday we’re announcing that Chrome will gradually start ensuring that https:// pages can only load secure https:// subresources. In a series...Today we’re announcing that Chrome will gradually start ensuring that https:// pages can only load secure https:// subresources. In a series..."
+"https://www.facebook.com/newseoera/posts/412395529395523","1567137600","▌SEO 課堂重點 Part1｜有哪些版面你可以搶下？
+▌六大搜尋體驗路徑 vs 六大隨機搜尋結果
+🥇佛心募資價，限時56折 ps.yottau.net/LHZER
+🥇新生9/9前購課送600元舊課折價券(詳情請見課程頁)
+·
+「知己知彼，百戰百勝」
+目前 Google 為大多數人使用的搜尋引擎，因此課程中主要講解的目標攻佔對象，也就是 Google
+上的版位。一起來了解到底搜尋頁面上，可搶佔的版位有哪些？而你的網站，又把握住了哪些項目呢？
+·
+認識版位是整堂課程的第一大章，在你清楚了整體可以努力的目標後，再去區分你要執行的優化項目、並分配任務，才不會使整個團隊迷失在 SEO 的眾多可優化項目之中！
+
+⋯⋯⋯⋯⋯⋯⋯⋯⋯
+搶佔搜尋引擎黃金版位、在首頁插旗！
+限時NT$1680 搶先預購 ps.yottau.net/LHZER
+• 募資期間：2019/08/21(三) ~ 09/26(四)
+• 限時優惠：NT$1,680元，9/27恢復原價$3,000元
+• 預計開課：2019/11/25、2020/1/31兩階段上架，線上永久觀看","1571596935","/watch/?ref=external&v=715849082190869&__xts__%5B0%5D=68.ARAR8fyPh-AlW-biqNjcCUTWCrokhuo8etb27FUtlPXJHLZnpNECtzlru-uo9RPMYOm_XePqJ1tKArcnnLj3dbFo4G2Q8SLjMZyZroIohqNbQKPvHTG4mgCyzxqkcCtyPJtCF_kRNh0ygAuLdYZq0pFOWMJd4wmNS2NJm16WIBgs7oB--FhQkRuYOrwmNualTxcj5viz7Wm5jBCXnhV0pYC7isxvcj0hBGsr4e8g60WQYtcun2AYgnSUrXuSjUxGiFjN1vs3EpEkZPecht814qLRpxi8XueMSiAIF-cLwoAqk3MIWjjnc_rPFv2v6R2GHzIOIYc-EG6iOZM5NKRqkflD-_YktWo2_Q3_VuYB3h-AROqRMBrCa2TJ&__tn__=kFFHHH-R","https://scontent.fcgk12-1.fna.fbcdn.net/v/t15.5256-10/67338278_715852095523901_7927762158077607936_n.jpg?_nc_cat=104&_nc_oc=AQlaC4uA9b-Qq4s8WmYZTKlfGArM21bWxyUvQQJHnmj7l8pOrlyHu1Pu1pO9PEDSopw&_nc_ht=scontent.fcgk12-1.fna&oh=4697583a062638555baf5df7ebd00ae0&oe=5E2DCD24","undefined","SEO 課堂重點 Part1｜有哪些版面你可以搶下？","Diposting oleh 新•SEO"
+"https://www.facebook.com/newseoera/posts/399267264041683","1564749000","【轉載】SMX Advanced 2019 所見所聞 by Ruby Wang
+
+ 節錄：Google 已經不是傳統的廣告版面提供者，從 0-click SERP 開始，到現在某些國家已經能直接在 Google
+上購買商品、預訂飯店機票、預約餐廳。Google 已經變成比較像是一個全能的網路商店。可見的是搜尋流量應該會降低，但是並不代表 SEO 已死，只是做 SEO
+的觀念必須改變。
+
+ 更多關於
+1.SEO 元素週期表 – 2019 年版
+2.行動先行與 AMP
+3.Mastering SEO Silos, Bruce Clay
+4.內容建立與再製
+
+ 詳見：https://web.analytics101.org/seo/346/smx-advanced-2019/",1579371163,"https://l.facebook.com/l.php?u=https%3A%2F%2Fweb.analytics101.org%2Fseo%2F346%2Fsmx-advanced-2019%2F&h=AT3IyVwhPOIYnXsQLzK3yUUQRWfDi1TzRM2zbDLxgOnuJH3W0SdaarQ7lndJkxJyPwxv912smatBjdXa1pTt6F7_kRW7oxMLzg8E5-9NIyZTTQNm5U_1iR_IQBuHHa7kEnkNaLCrJuhBBtA_w1fM08kD-YU6-maVDjDbTUsJeT5mWNNG1BhfeAIOfw0I-oJ4opkTH6vzhisvdC9H7m3NsS3qfAshVQIGXuygmwlFJxzf9iiry7cwhMBs9cI7vVOGwHInVKg9UahS8Y7FJoZqtjhvtdpVlHSuv-nbs9tWBdzZsalMHlOmhLQ2DRstl3Fg5OYRQePlSGo6uiVTxPbTSu5uE66ACnfVckfa9H-WNLFxTfSlufmFikjRq3f-B0ksmIsPzyAnyL0ly8K-Za114T6faNIDOKOl8mlaXB2vTmeD7CbnfaBNA2oHmF2yq3d4mvXQAgePDJlnTOLVMeSxb6tNgsBnNO70O4g1nxOkFQLnPoy7drS28Oq4axS7mavTZ0sUC5Hz2BqoqYOMdAtjg-peE79MCCwMNnf4TPgA5-OCf2b5L8MQYq34JTIqvsZL1h26x_C5T6vvtK8AzlFXpxbSf1uU9xUYimhMe0rBe5L2IjdnVoUW-Q-ED86O1eBHXa2SA5bDG-RQ","https://external-scl2-1.xx.fbcdn.net/safe_image.php?d=AQCDTN_StxVDl8Od&w=540&h=282&url=https%3A%2F%2Fi2.wp.com%2Fweb.analytics101.org%2Fwp-content%2Fuploads%2F2019%2F07%2Funnamed-smx.jpg%3Ffit%3D900%252C675%26ssl%3D1&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCnolZDVdbgIWrP","No photo description available.","數位行銷相關工作，累積到現在也要十個年頭了。抱持著一種，現在不去以後也不會去的想法，今年年中去了一趟西雅圖參加 SMX Advanced。而這篇文章，就是簡單分享一些我覺得有趣的想法與心得。 會議本身有只有兩天，但我額....","web.analytics101.orgSMX Advanced 2019 所見所聞 | Analytics 101數位行銷相關工作，累積到現在也要十個年頭了。抱持著一種，現在不去以後也不會去的想法，今年年中去了一趟西雅圖參加 SMX Advanced。而這篇文章，就是簡單分享一些我覺得有趣的想法與心得。 會議本身有只有兩天，但我額....數位行銷相關工作，累積到現在也要十個年頭了。抱持著一種，現在不去以後也不會去的想法，今年年中去了一趟西雅圖參加 SMX Advanced。而這篇文章，就是簡單分享一些我覺得有趣的想法與心得。 會議本身有只有兩天，但我額...."
+"https://www.facebook.com/newseoera/posts/357279274907149","1557493201","【SEO進階優化策略｜填問卷拿 3 大好禮】
+立即填寫問卷👉🏻 https://pse.is/HDGMT
+
+「網站被 Google 放在這麼後面的頁數，我該如何分析此狀態？」
+「到底還有哪些SEO項目是我可以努力的？」
+這些內容，在這次線上課程中我都會一一跟你說明！
+
+SEO（Search Engine Optimization，搜尋引擎優化）做得好，能夠讓你的網站在
+Google、Yahoo...等搜尋網站上的順序越前面，能見度也越高，而擁有優良的自然流量，讓你不會被廣告流量追著跑。
+
+🉐現在填寫課前調查問卷就送 3 大好禮：
+〖好禮一〗填問卷，抽免費進階線上課程，共抽 3 名
+〖好禮二〗填問卷，開課就 Email 給你「連老師VIP優惠券」
+〖好禮三〗填完問卷領取「基礎SEO課程400元折價券」
+👉🏻基礎SEO課程內容，將會在此次一併做2019趨勢更新
+👉🏻填完問卷別急著關視窗，基礎課程折價券在問卷完成頁！
+
+‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+再次與 YOTTA - 你最專業的學習夥伴 合作課程，這次會著重在提供你，各種優化網站、搜尋排名的方法，並談談 2019
+重要趨勢，像是行動網頁、機器學習、使用者體驗...，會隨時影響你的 SEO 成果。
+
+ 線上課程可以隨時觀看、永久複習，若你對我的課程有興趣，歡迎協助填寫問卷，告訴我目前你的執行困擾！
+
+#問卷傳送門： https://pse.is/HDGMT
+‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+•活動時間：即日起~2019/5/27(一)
+•得獎公布：2019/5/28(二)公布於 YOTTA - 你最專業的學習夥伴 粉專
+•備註：如課程因故無法開設，恕不另行補償其他贈品",1579371155,"https://l.facebook.com/l.php?u=https%3A%2F%2Fpse.is%2FHDGMT&h=AT0s11P6dy5Z8QxlcxZ0Nsk0tlasbswvs1JCYoN7y_q_575zyb-UWJh6RdFftdsiaS1Kk551-T9KNrlxQzXHTJtfE0hxMWIcGUhU4k2z4jxTArgRWqtsO6tvipRp9P5uS7pvoM543-VKk3Gl40Hphvtg8pil5VIt4clmjcsIJrsapfCuooECGEJCEj0CfO6V1wMbBrc8Kug5V8mfyHhHe_pF_o62MYElRCkAo6erJFw48s80h-1bpidZz2LrghW_TDE9oV8hybtANtbgnqOFpQi-9MXb4oukMCwZEVaSstrZc45j2oAGb-vODmnj8Fg8YvHZetkuwjTyliJC8ryYXt_flkq8rw-klEIF8jQ-ZlnAokQiaNUEzqTSDZ0H14Gmh4LZD-EnApZE5OkfbQ2i5IwU85MW0V3ucctMhbW_Sdepu1MUZDIbFxFi_jkmKFf1UzPAK6daTX09Sm5q3FqmQ7awpGYheeGN4u6Ce9PmwSzNgrbFz6S1cGMfGDQTuBIGUrRjm6R2QMFd3szA2RfCpf-DqWfk9iiDBO7j9paZ-i2bazkK1o8CZeM3rjVnfZhHvLkN-BIZBNBynpcHxRjYPbxX0DRZ8D5QPPV1eU_msbyWo3IUuqlvdB3570u9qMZuEkx4m27TDVE6vme-ypF1e_jhxzcz","https://scontent-amt2-1.xx.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/p180x540/60388713_6118367469689_8990330040541511680_n.png.jpg?_nc_cat=102&_nc_ohc=RMl4B6m1wsIAX_fZIk7&_nc_ht=scontent-amt2-1.xx&oh=f145ceec39a88f21c4d7713be200dc9c&oe=5E9F8E8E",undefined,"課程會著重在，各種優化網站、搜尋排名的方法，並談談 2019 重要趨勢，像是行動網頁、機器學習、使用者體驗等等。","www.yottau.com.twSEO 優化策略進階班｜帶你自我診斷與瞭解2019新趨勢！課程會著重在，各種優化網站、搜尋排名的方法，並談談 2019 重要趨勢，像是行動網頁、機器學習、使用者體驗等等。Learn More課程會著重在，各種優化網站、搜尋排名的方法，並談談 2019 重要趨勢，像是行動網頁、機器學習、使用者體驗等等。"
+"https://www.facebook.com/newseoera/posts/426870404614702","1569501000","2019年 SEO 排名要素研究 by蘭德費希金(Rand Fishkin) 
+
+ 最重要的前5大排名要素
+1.頁面內容關聯性
+2.反向連結的品質
+3.相關關鍵詞使用
+4.網域EAT度(專業、權威、信任)
+5.行動裝置友善度
+
+ 未來3年會影響SEO最大的前3趨勢
+1.Google自身提供內容與網站競爭
+2.AI成長
+3.搜尋結果頁面不須點擊即可看到內容的結果
+
+ 作者Rand觀點
+1.內容的重要程度第一次超越關鍵詞與連結
+2.錨文字權重下降
+3.行動裝置友善度與下載速度的權重比預想的更大
+4.網站的年齡與內容多寡依舊有相當高權重
+5.地理因素未列入此次研究，但猜測有高權重
+
+ #2019排名要素 #SEO #內容關聯性",1579371155,"https://l.facebook.com/l.php?u=https%3A%2F%2Fsparktoro.com%2Fblog%2Fresources%2Fgoogle-ranking-factors-2019%2F&h=AT3ITiZREq7AH2K5cqml0VuQNS-yr5zJINjde3JB2CkrlBD1Mo7t2IYtkQJRYC84oWruSui8d6-C0D5EwNL2k8PH31r1zbtvaiFHTMS9tw5qmjSlWbIzudl_huZB1rrxSuXsYwypTMUpOOHhzjFvgCooXyn_I0nPhfWPJwJyjbnOYRaWGFyp7dYsgvAKakAPevwrwmMch9fE1Zk9dtnDl0RZvy0k_xgEaZA7ue1lTrAv16sOT8zsma9S0mYExiOEpZGlk_hqTh1z7y_7lHASzJhWNrABXC32xwok5eDBzm0tLdXZRRAzOP3WFunLwYPCGrwgbNLLQMl9ZikmG1QJ5Rq2jW6UVKiLXihRbZK9o_RT4uWQ5xA40wMDnk-3FUS9gU943yuLgYM6-cTuUSXZOFbuICWyw2vr0UJk1b5drSThUpHKxtRBMldFYf_ZLX5aavXnPAkxurMEwNuHEgYm0sezQOVoXGkM7drDboluacSGfpUFDMy_z5p0GOxeZ479ZAncGPcOYAimnmecaA5DdPAq_ZiXcwQyD-5uEKJ4ZAL73KJdXacLxbNVnSM6m1dKG8PA6xjhQ4NfaWCwSagf2UIEAZWDZmRA5vm1qaRSINCzp6CFCT69VwOvtfIRmNRLvC-G_pI21h-i2gBcmHvh9lpV061N","https://external-frt3-2.xx.fbcdn.net/safe_image.php?d=AQDbK5gI8TbPbVst&w=540&h=282&url=https%3A%2F%2Fsparktoro.com%2Fblog%2Fwp-content%2Fuploads%2F2019%2F09%2Fgoogle-ranking-weight-2019-1024x787.gif&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCqErpTf-CetX-O","No photo description available.","In August of 2019, 1,584 professionals in the field of Search Engine Optimization (SEO) took a survey sharing their opinions on the relative use and merit of various inputs in Google’s ranking systems. This report shares the aggregated results of that survey. Each year, the survey will be repeated...","sparktoro.comGoogle Ranking Factors 2019: Opinions from 1,500+ Professional SEOs | SparkToroIn August of 2019, 1,584 professionals in the field of Search Engine Optimization (SEO) took a survey sharing their opinions on the relative use and merit of various inputs in Google’s ranking systems. This report shares the aggregated results of that survey. Each year, the survey will be repeated...In August of 2019, 1,584 professionals in the field of Search Engine Optimization (SEO) took a survey sharing their opinions on the relative use and merit of various inputs in Google’s ranking systems. This report shares the aggregated results of that survey. Each year, the survey will be repeated..."
+"https://www.facebook.com/newseoera/posts/184864852148593","1523617201","【蝦米！網站麵包屑竟然是格林童話發明的！】
+
+ #SEO小教室 
+#網站麵包屑的由來與神奇功能 #不看你會後悔
+
+ 今天跟大家講個小故事。
+在一個村莊裡住著一個小家庭，
+一個把拔一個壞媽馬和三個小朋友，
+分別是小S小E和小O，統稱叫SEO三胞胎。
+而三胞胎的媽馬早已去世，
+所以和他們住一起的是一個可怕後母。
+(沒錯 就是童話故事裡面都有的壞後母啊🤢)
+
+ 某天，
+可怕後母決定狠下心把三胞胎丟到森林裡，
+在早上給三胞胎每人一顆髒髒包說要去野餐。
+不過小S覺得事有蹊蹺，
+在前進森林的路上早把好吃的髒髒包沿路撒在路上，
+這樣就知道回家的路了！
+
+ 故事到了這裡，我知道我都知道……
+你要跟我說 這分明是糖果屋的故事!!!
+
+ 河河河……被你們發現了
+#網站麵包屑 就是從糖果屋延伸而來的，
+透過網頁上方的頁籤，
+一步一步找到回首頁的路徑！
+
+ 而網站麵包屑的功能
+除了可以 #提升使用者體驗 外，
+還可 #創造內部連結，
+並且 #讓爬蟲了解網站架構！
+
+ 你學到了嗎😎😎
+咱們SEO小教室下次見囉🙋‍♂️","1571596935","/newseoera/photos/a.172956710006074/184864762148602/?type=3&eid=ARCtnVh3uERBOZGuH2ZUUsewAsoLsHZnS625WE2yfkks44spmRCdkFhFW5c2SW3Dit-opzLsNu6BV8xo&__xts__%5B0%5D=68.ARCprmbMvs2tAh4rpSFGyckUX3MUR6C2i0yF4tmeZDoSl3hJ51hhKZstype0v_ysuDy6ZxQj0NQ0VAgA5e64I86doHhAlKlJMGYQfnqEWymdlPaZ2uuVLPrGgus3_Gntsu5UlMU4ff4IM2lr1oWPC23F5vhFvuCFAsK1hQHKEw5YwQppDxwCJuPMU-bVCA8HsVLK9IupJfNuOpZ7ZUfGDxvRooST5zPKnZczbvHQ9Q0lc7rIwqnsMSk3Vj8M9kp8-LEO8-sT0baEZq-V4LZasFlo_hoqQDZ1Yk9Q7rNqBAGwZuIWRJlQghPUGUAr_6VRoPlA5HHdDSN3ffse-Eoqeh0&__tn__=EHH-R","https://scontent.forf1-2.fna.fbcdn.net/v/t1.0-0/p526x296/30707638_184864762148602_1504770466948630074_n.png?_nc_cat=110&_nc_oc=AQmGBypItTYNE-fG-iia03WIGawlHbeR2cF2dOAvTg5En4TE-URJ8XE2bRyphyjc7ig&_nc_ht=scontent.forf1-2.fna&oh=f2fc3da8838fd7d83dcf18d03f9569ec&oe=5E5C5A31","undefined","",""
+"https://www.facebook.com/newseoera/posts/312202669414810","1548378000","【強化行銷力，了解你的客單價｜2019電商佈局的因應之道 (下)】
+
+ 不想再用低價搶客了嗎？那你必須了解價格與價值的差別，讓顧客是因為你的產品價值而來！
+
+ #如何提高客單價 
+新•SEO提供五點供大家思考規劃：
+
+ 一、創造價值感✔️✔️✔️
+價格是你付出去的;
+而價值是正向的感受。只要能讓客戶覺得超值(正向感受>>付出去的)，就能提高成交率並且逃離價格紅海。可透過閱讀消費心理學相關書籍，在不損及企業利潤情況下，提高消費者正向感受。
+
+ 二、善用價格定錨✔️
+定價策略很重要，跟誰比較也很關鍵。如電影院販售爆米花有大中小三種定價，多數都會選擇中的價位，除了是人的心態避免極端外，中間價位爆米花乘上兩倍也是比大爆米花”感覺”超值，價值感就透過比較而營造出來了。
+
+ 三、實施關聯銷售✔️
+買Ａ送Ｂ，或是買Ａ帶C有優惠價，通常人性很難理性的抵擋這類型的促銷方式。
+
+ 四、客服業務化，業務客服化✔️
+在行動裝置普及、網路快速與電商環境發達情境下，業務與客服已經難以是兩個完全分隔的職位。擔任業務人員時，能多提供一些客戶服務;
+身為客服人員時，也能推薦顧客可能需求的商品內容。
+
+ 五、經營舊客戶✔️✔️✔️
+研究指出，舊客戶幾乎！沒有！行銷成本，接近於0。因為他已經信任你，願意收取你的相關電子報資訊，從中購買想要的商品。轉換率通常高於新客3-4倍。
+
+ 
+總歸一句，人不可能完全理性，不然市場上就會是高CP的Dell電腦稱霸市場，而不是輝煌閃閃的銀白Apple。價值出來了，讓消費者想像擁有你的美好。價格就只是一串數字而已。
+
+ 下週為各位介紹品牌力的重要性，不要錯過唷！",1579371160,"/newseoera/photos/a.172956710006074/312200229415054/?type=3&eid=ARCZD0TtFBl_EGhXh-tPPjv3ElIBc4oGJH_EAIBDAvpVdbuXT9lqoFbtSUERXcA98I2AoKYvtK14joQM&__xts__%5B0%5D=68.ARC2ZEJPyane-1Nhk9q-JlwgTuH5MY1SgKPlvuZnY_3GG_75b1k9CJ0bEaiVo0tbJXv7cC78AJDqBOMNwHIRF1o9dHTX_3HVRmnSxTOe-VDB7dnmc_lTUlkUb_GBtSz9Hm8YKatcBos8KEEQ7dcjb3-qdwAW-lhKIG9Pvbid7VJsL29XEhcpP9JfSry5OkzhUgPBM4YU5C4c90Y2qo4I0gHgjHzc07tJ5bmm6s0C1HG-LsWKpJtdvBHeYuluJnv97LkmY1Z6rGqKu9L-0hJK_wk4TLsRq-4fB5XV2DtO-pFegpx4vMjlLNnPXHjzTLhI0SgcfW53bmU_0cOiXy2R7z4&__tn__=EHH-R","https://scontent-sin2-1.xx.fbcdn.net/v/t1.0-0/p526x296/50068639_312200236081720_7495295875204251648_o.jpg?_nc_cat=103&_nc_ohc=xEGVJoXvEaMAX8jUOzb&_nc_ht=scontent-sin2-1.xx&_nc_tp=1002&oh=934695db258e9c44a9e09fcd916cf8a8&oe=5ED8330C",undefined,"",""
+"https://www.facebook.com/newseoera/posts/411906242777785","1566986401","🎉募資達標，確認開課🎉 ps.yottau.net/KLBVV
+【SEO進階實務｜從搜尋分析到優化策略】
+
+這堂SEO實務課程，將帶你實際走過執行 SEO 時，三大面向的部署：分析推廣面、技術面、內容面。課程中列舉出的25大項目，讓你在做 SEO
+時，不會缺乏優化方向、並擁有綜觀能力。
+
+上完課程你可以——
+✅了解搜尋引擎邏輯，並透過它爭取版面
+✅學習25項，SEO實務上可執行的優化方針
+✅透過工具幫你更效率達成 SEO 檢驗與目的
+
+進階SEO實務線上課，讓你永久重複觀看，邊學邊操作練習。
+循序漸進完成每個 SEO 優化項目，讓你的網站排名逐漸爬升！
+⋯⋯⋯⋯⋯⋯⋯⋯⋯
+#2020年網站排名拼起來！► ps.yottau.net/KLBVV",1579371158,"/newseoera/photos/a.172956710006074/411906159444460/?type=3&eid=ARBbG3n9vIYErZgHdI9M4E7pCjweiavwU6OcO8_YAJvmnMLrws3dlIOvW4jkSiWc_R2Ci5EFF8yOQNgJ&__xts__%5B0%5D=68.ARA7DP5UyQ9sz8-I933hiLagCWGI3VXH-XGiHLiIr0Ed4-GFiTG0SljLZDifSILR_g_71sDdCCZjSRiH2Qf5zKJEllqNsAMFzuXb0cYUFzunqHLfjAizRO9kACIa4Qjz3UAVttHTOV5TeR20WIZsvB8v1HS5Ju_uvDemreRUlx21M3z_3gl36WXTm2zizqczOHBSCILaYOOO900DBo4GsSERrZIZ95rbZqIxgKVjnnoHdsTUsKCa9TavVe3-5c0GerpHmiognIPnFErmDJaHyN4l9MBYILsgCWek7Q1TYn5DJKQg0Ujp5j1ih7G9y6plTJ6pD1n1ajNsi4Pj3jnR8zY&__tn__=EEHH-R","https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-0/p526x296/69305546_411906166111126_3878158939174469632_o.png?_nc_cat=101&_nc_ohc=SvUcW_VqZ68AX_fISY8&_nc_ht=scontent-amt2-1.xx&oh=5807d2bbb223883db348ff37012b8916&oe=5E8E0B71",undefined,"Learn More",""
+"https://www.facebook.com/newseoera/posts/367372657231144","1559319253","","1571596936","https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.yottau.com.tw%2Farticle%2F185&h=AT0jJS25dbrV64AkJD29kx6oj9MmpA_o4gW06ki51QXKxoFPAiUatm0lKIgKbAMqHBGl8a7AIHEpbWKvTXq79XfpGFPwbO9fxsZUG6nwIO2q8yeDygMmanb_SI2QxkY0gCDaAFrqJJoMvTahME37G8EHU43NEsD0LYbPSFzu-1LpcSRszngo2leNZflULVjqdY6vLxx6ozvNCE_11ZRabBbANIs8Z4XQgBx2Mzgm5JLn3Iq0W9VwdXeicz1qc2xWTN-rDuPGVyqOSvczL4fK5hXBEskU61oDx9xO3gau8dOzgbJdzj5L--RsbDWHSsfk3NOmAeuTVnDwCN3fMVHK7f02winsb8EnG55lWbNnkVEMCublCjv1WG4zkWgV2e7bVXvMGUHjQq3CB5JTF6iKF4t3392eCihpEugOlKnUyQV6rak1yolOgFAzLeQF3hgVbouIv_-Vz79xrRZTFX0T_3ULpcE_O99gPgfxtgeJe-3oBOQrSfWORMLZN2HkMcTuucUfscRcTMHx0drIy9TLKT_aCHzJ7X-T1WOfUB6I4YgZaWVSxhUcLmfkX6xJb9MMiJEoNwUuXm3HMC8ijBYIu59KjsUjSiU9ilKhciKXBbefItILis2bC8WUi8FanlmxopqU_FIL_bHY","https://external.fpnh6-1.fna.fbcdn.net/safe_image.php?d=AQCpCw-9B2r4CLt3&w=540&h=282&url=https%3A%2F%2Fyottau-download.s3-ap-northeast-1.amazonaws.com%2F1170x406%2F2f7755617d0d68ba53744425d78fe601.jpg%3FX-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3DAKIAIKVP4DX3YDXF73WA%252F20190531%252Fap-northeast-1%252Fs3%252Faws4_request%26X-Amz-Date%3D20190531T000000Z%26X-Amz-Expires%3D604800%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Signature%3D27dd432bd27023e60b00a05d630ed6610fd55df264fa30e7881566487d20efc4&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQBJwUZMdyNy6wid","No photo description available.","在行銷的最後一哩，來點人情味 | YOTTA 跨領域線上課程平台","YOTTA 以募資方式提供專業線上課程，包含設計、商業、科技、語言、文化等；學習門檻低，可隨時隨地上課，有效提升你的專業技能，讓你紮實了解每種知識。"
+"https://www.facebook.com/newseoera/posts/305349090100168","1546563601","【尋找新的流量紅利｜2019電商佈局的因應之道 (中)】
+
+ Happy New Year！2019 Happy Friday!!!!
+新SEO，持續為大家介紹電商佈局因應之道
+為新的一年業績銷售做好滿滿準備!📣📣
+
+ ‼️面臨挑戰： 
+#大環境整體紅利降低情況下電商主該如何因應？
+/
+🕵️‍♀️建議解法：
+#尋找新的流量紅利
+
+ 首先，需先了解流量紅利的特色，供需失衡、稍縱即逝與先行者優勢！
+
+ 在平台、媒體的加碼下，導引線上人潮吸引龐大流量，造成供需失衡的狀態。隨著時間當趨於飽和或因多人競爭而減少流量紅利(稍縱即逝)。
+這時候 #先行者優勢，就是能否站穩市場的關鍵，搶先進入市場並時時觀察變化，在快失去既有利益時退場並規畫替代方案。
+
+ /
+🕵️‍♀️那要如何保有先行者優勢？
+#提早規劃替代方案
+
+ 除了時時關注「產業相關科技新聞、政策變化、用戶反饋外，也需要有效分配媒體預算！」
+
+ 建議您將媒體預算分為四個部分:
+
+ 🔸1.活動預算 
+🔸2.內容行銷整合預算(免費內容推播+付費臉書廣告) 
+🔸3.主力商品推廣
+🔸4.預備預算 (10%預算做小規模測試)
+
+ Tips:第四點預備預算是大家最容易忽略，卻能是抓住流量紅利的最關鍵小額投資!約準備10%的預算可以在察覺到一波流行時做小規模測試是否有成效。
+#以ig限時動態舉例，現在ig用戶風靡使用限時動態，您可透過10%預備預算，於限時動態投放廣告進行小規模測試。
+
+ /
+即使流量紅利稍縱即逝，該有的行銷預算投入更不能省！
+除了時刻關注產業動態與用戶意見，也要適時為潛在的流量平台進行小規模測試！挖掘出屬於你的流量紅利。
+
+ 以上，就是本週的分享筆記。
+新的一年，新SEO繼續與大家一起成長學習
+
+ 📣📣下週預告 #多版位行銷 #觸及多管道客戶
+除了找出新的流量紅利，多版位行銷管道也是觸及潛在客戶的好方法。讓你不再害怕紅利降低！",1579371160,"/newseoera/photos/a.172956710006074/305778023390608/?type=3&eid=ARC4M5Sce9xBmuUwuRNKHG3rYP1C6vsUDIgeIkIdgBSI5klTeI-YJsoIO2lIf3QuaPHHGdtKgrQ_Umug&__xts__%5B0%5D=68.ARAR8igP3uctY0EK3WxwQ04qFnpzneQ3d8_S8WZY8uegjzkzLyBqJnx7OlReKHJxxOfzIXEhLcFJcd_Z5UZP4WfKWDHGFK7hO3rCCqEdxoq_xitalF19Ua4L1Kh3lwi-Wrc5Tvy3YER2mqnhuQDI7SqXSJ09oFkK2MbOk2d4CrVfzxfGTGQeapSd9cTjfe8_hMrTvY0QlkaonlcCkGDk_06-sJUbak3rEgVZKyp8Sxe2Y722284Vra-1UZyWw4m-ErDr9-MgTChPrrvwf8mTePZ5CG-Cug0KSRM8M5pSU5Gxhmuuv8h9btPqVHmm9_Wv6Z7tBfbCXoSLZCiW3-fJO88&__tn__=EEHH-R","https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-0/p526x296/49509384_305778030057274_4550001169841258496_o.png?_nc_cat=104&_nc_oc=AQmXCi60EmmDgDj-ZueADoha6w1W55UivXKQqYOfA3RFGjuuJT3ncbGS2Dg5aPoyiQY&_nc_ht=scontent-sin6-2.xx&oh=1a0116e3352bfba853084c74203ff865&oe=5E9FDD70",undefined,"",""
+"https://www.facebook.com/newseoera/posts/393971904571219","1563774327","","1571596936","https://www.facebook.com/photo.php?fbid=10156375908048779&set=a.10150210156508779&type=3&eid=ARBaEsdXkCxBm4pHKXHc2D0sf2_lrB17mb7kK-ecmYwaHBXDu2pgL92Q6QynUh6BLwSm5brEY8BKtiXM&__xts__%5B0%5D=68.ARBc7xlbnpCvUVGZJKNn3IoKmo1Kqg6UOVaXkK69JCKmBJ4_diyHG6LfMduf9VNJQROuQWSL-89hLaLCSisbAlC2w3BP5kDYHSWhCBPDVctHJMWq3WWSjwTyEf21hifBdA05YRPa8TjRVi0RoLQl9Wj_g1DJ5Ev7YrvO8-JOp3oUWsuWXBthkzwwhlhx0qAv9-o1wheTEJv7aMK7041oAllrvWbndHJkhisqZRr_YivZhrDri4HkGvVi297v6x47fCtA907xvoXaFBoLCH00y9pKL3p7SL2Co0jyjOX0GD73j5Vg5MpHIG68-n0vYsk-QQCv7muYviknDK66toQ3E6M&__tn__=EHH-R","https://scontent.fudi1-2.fna.fbcdn.net/v/t1.0-0/p526x296/67061817_10156375908053779_4037290818975825920_n.jpg?_nc_cat=101&_nc_oc=AQnOQvsckO2WyXTSIyID_HHnU-_9IuHgI-RiqbEsoflGaxNzJNbGTOEufJ7Q-c1BYO8&_nc_ht=scontent.fudi1-2.fna&oh=64a041ce3c320379a37cdcd3fcfb7cf2&oe=5E5E43C7","undefined","連啓佑",""
+"https://www.facebook.com/newseoera/posts/401082720526804","1565094602","【新聞節錄】雖然臉書和Google的廣告營收仍然遠遠超過同行，但較小的同行仍展現爭取市占率的能力。這些小型企業財報中的廣告營收顯示，行銷人員仍然希望跨平台實現廣告支出的多元化。
+
+ 新的廣告產品也可以吸引企業。例如，Snap透過其全新「SnapSelect」在其節目中導入非跳過廣告。
+
+ Facebook 廣告愈來愈貴，Line@又漲價該怎麼辦⁉😰
+✨如何運用顧客體驗路徑實現行銷效益最大化✨
+8/12高雄最終場為您解答，立即報名：https://www.accupass.com/event/1906270901251240981975",1579371169,"https://l.facebook.com/l.php?u=https%3A%2F%2Fnews.cnyes.com%2Fnews%2Fid%2F4364451&h=AT3hpBYzt46Wa6UPnYYDduwVxhLJe3gAAj7OCazaPyXfao1yi_yfn_y9ahN1B9-cmJsSUe6RkT5KXIZ1BJiaXkjshmLtc1C_hvuSXGodWvVVmkTw3Yq7zcD2xC4ilaqkKY0pE4I8SQyJiJerNaVlDc8h54zpPEQveEveYTLixNYM3hU8eTJMzj-BsVKU1V1_R_TRWEduCr1RmyduS6AYbuIMFzQHDatQH7Ep9BwE_nqQjEdeCqvvW7WuzYusfl3VC6kyDXFl5Q0EaLdkB7XXYQUh8EW5y2zO0M6x_qmGH5cyNdbG3laaX0IjPfxpHRqAoJebJGY0l8PhfZFwTQdYgpG2lKBGjsaUHOzgr-EfdOHLdZGwglRekUtmqyOlgY-8Ht67BV1__GxjKMuD7A4svNWWsQd4ZVx-n4zsZgRNjmSX9rFV50qoyemDYX4sPnsWeCURibBphUOh6h9VaJbW7W48kwjFksO1fVS5kYnbpetQQWMHM3H9ker7JuyE_8JK2Qdlz-sRbCEQb6txu3u8DW-30Gcnuu5pgHPzd6kaZc6q4RwLXdxxlE5EY1hIFtWqhs9S2MCbIbquVugUcBJsUnl62hJwh5i0OQ9OE2crv95u7TDiisy9tEbSxMH_mXq0TDk0sTPdi8dV","https://external.fpnh4-1.fna.fbcdn.net/safe_image.php?d=AQBl48lrsA8M2O5u&w=540&h=282&url=https%3A%2F%2Fcimg.cnyes.cool%2Fprod%2Fnews%2F4364451%2Fl%2Fa0e080c86f4f25659808c77b7fe260c3.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQBp7trKJahY7vMq","臉書和谷歌在位數位廣告的主導性正在遭受挑戰（圖:AFP）","在 Pinterest (PINS-US) 發表強勁財報後，臉書 (FB-US) 和谷歌 (GOOG-US) 在數位廣告市場的長期主導地位開始出現危機。","news.cnyes.com臉書和谷歌在位數位廣告的主導性正在遭受挑戰 | Anue鉅亨 - 美股在 Pinterest (PINS-US) 發表強勁財報後，臉書 (FB-US) 和谷歌 (GOOG-US) 在數位廣告市場的長期主導地位開始出現危機。在 Pinterest (PINS-US) 發表強勁財報後，臉書 (FB-US) 和谷歌 (GOOG-US) 在數位廣告市場的長期主導地位開始出現危機。"
+"https://www.facebook.com/newseoera/posts/282544289047315","1541498401","📣【更新】感謝大家的支持！講座報名踴躍，因場地人數限制，人數已額滿，本次報名已截止。請密切關注 #新SEO ，掌握第一手活動訊息！
+
+ -
+【講座：佈局2019年，搜尋、社交、內容整合行銷新趨勢與因應之道】
+https://reurl.cc/9ZAkY
+
+ 臉書廣告紅利逐漸消失，粉絲專頁觸及率持續探底，品牌電商該何去何從？
+.
+本講座特别邀請 連啓佑老師 與 將能數位行銷顧問團隊，介紹電商網路行銷目前的發展概況與趨勢。
+
+ 透過分享近期顧問、操盤網路行銷的心得與案例，幫助您突破盲點、理清思路，為明年的網路行銷工作提前做好布局。
+
+ -
+
+ ▲時間：
+第一場 11/16 (五) 14:00~17:00 pm
+第二場 11/27 (二) 14:00~17:00 pm
+▲報名人數：五十人
+▲地點：台北商業大學
+▲費用：免費 (活動名額有限，報名從速!!)
+
+ 👉 報名請按此：https://reurl.cc/9ZAkY 👈
+
+ .
+註：主辦單位保留報名審核之權利，審核通過將盡快通知您。","1571596936","/newseoera/photos/a.172956710006074/282548065713604/?type=3&eid=ARA5mvccWv7YiILXd6ic7Bo48L8rw6vuSCFwCHAXmMrxfVbLdZbdYVBI5OeYR-PPqhMPk4S-ieaCFLEi&__xts__%5B0%5D=68.ARAC8kBqFb5bpxBevS2bp1VoVmYJti75AzQnyZdw51Vey9vaLiG3cCpUkBOiPUUlEVl6H1sZUP_ICpuHuUuKnfeSEAQKDC7vZEEaqjVgIXEBcrmYo6YPywA1XZSRdaKJ7Qzqqu-M1U4kclOUpvW_NDYwD6ANwMTw30xG9FHl765LSfvR7jxGHRMVnFwj7tIua5Tups6UWmuREkfYEOIWBTAWrjxTSXTAmdeFNf1TkKqKHwwJDCOvEhZLNQ1k5vbEUrEfPQHiTPJ0z3wVlw8vl4FTwK77boFi1ub_KOHZqgNEtSzljxZOm8x_qj4QAGi8on2FnpDCluL45tTG5T93mqo&__tn__=EEHH-R","https://scontent.fmnl18-1.fna.fbcdn.net/v/t1.0-0/p526x296/45459411_282548069046937_3536857443147448320_o.jpg?_nc_cat=100&_nc_oc=AQn97AAMnBHVzC9seAYtHo8u6cIHm37IvJlMRwlFM0QpG5uQzbLFqk8z2v2XHT6rMTQ&_nc_ht=scontent.fmnl18-1.fna&oh=8ef6f80b0b75df369d2645d301cccc8f&oe=5E606C25","undefined","",""
+"https://www.facebook.com/newseoera/posts/263555530946191:0","1536584401","【認識行動裝置友善Mobile-friendly】
+
+ 想想看自己平常用手機上網的習慣🤳
+點入網頁卻速度太慢會不會沒耐心?
+字體太小或圖片太大 讓你需要用手指縮放🤔
+這些代表該網站沒有做到行動裝置優化的重要工作!
+
+ Google 2015年即調整演算法
+針對行動友善的網站（Mobile-friendly）
+給予更佳的自然搜尋排名📈
+如果是行動搜尋也會優先搜尋到行動友善的網站🔍
+
+ 2018年更進一步推出
+行動優先索引(mobile-first indexing)政策
+正式調整為以行動版網頁作為優先索引和排序的對象
+
+ 除了大家已熟知台灣智慧型手機的高普及率
+2017年資策會的報告也顯示
+將近一半的台灣人使用手機時間高達2-5小時📱
+
+ 當Google政策和使用者習慣都向行動裝置靠攏
+網站當然也要跟上趨勢囉！😀
+
+ 看到這還在想什麼!
+快跟上腳步優化行動裝置頁面吧🙋‍♂️🙋‍♂️","1571596937","/newseoera/photos/a.172956710006074/263555530946191/?type=3&eid=ARBFf3Adh7n9CK5JC9Plp_pH5nWbzuOD_Q7HKnki8dpLa97M3FKDP7Da29o0sZg0nbOA-yHNA4brsfw8&__xts__%5B0%5D=68.ARAZjkbbaqNSnvIyaM2pIOX3RNEFdDvcmdpvQAenNOuWkds9lljW6icHpoX6jSm03CP0pO3HV4dPuzVlzySp6hL8welJMXH8IdaWAJ2QclcxxesWWJgVyIdv5O1Ke4hXuM_hui0T0wXGrM5U5GItnmJPW4FKrsDYWXVFpbhuhtTyLfd-Ir6TkgcAmQl57zbRD3vA8vM3zYnyO0QcBAWDpGTNYsQloNFe7bdiumTgbbb0vupv7is8oLbLHk6AscRDm5a_Z1oo4brH3l16rSbymOeUmsOEwRZVZQjGaM1TTohqPy9yZVIFpb5u-ggfHC2a7ohZdXC9uvWLR4l_vPm0N5U&__tn__=EEHH-R","https://scontent-sin2-1.xx.fbcdn.net/v/t1.0-0/p526x296/41257813_263555537612857_2071722430648287232_n.png?_nc_cat=104&_nc_oc=AQl7X4UqjEBhtuVua_cgdfWKeL8Uez39Z5IWeD5KUSPArcZ-L64Pizhr1kGEghWckYk&_nc_ht=scontent-sin2-1.xx&oh=b81900ab811bb7f4931e1c34b9f5e688&oe=5E2E22B0","undefined","",""
+"https://www.facebook.com/newseoera/posts/197908680844210:0","1527850801","#seo小教室 #又來囉 
+今天來跟大家介紹robots.txt🤖🤖
+
+ 搜尋引擎是利用搜尋機器人(Robot)來抓取網路上的資料，
+而每一個搜尋引擎的機器人都有其自己的名稱。
+
+ robots.txt檔案位於網站根目錄，
+有助於網站與搜尋引擎機器間的溝通，
+透過robots.txt檔可以明確地告訴搜尋引擎
+哪些內容不要被搜尋引擎收錄，或者指定收錄的內容!
+
+ 咱們下次見🙋‍♂️🙋‍♂️","1571596937","/newseoera/photos/a.172956710006074/197908680844210/?type=3&eid=ARC9EK-UWn1rDA-jk2EksBpFtVJvODW6nFBCQqVcxvmT8IMNxI5JcEqLGfqAviPVSs5_arM7_mVk7uny&__xts__%5B0%5D=68.ARDKx48HdFKrLcBZDvnzWLqtC-LaSX1D84KDn0v1xZkGQDRiA6psOVTukIObqcGnSaFtKsTP-zs3On-hneewal6felUwmZT2uRKj9kfva1z8ZK-eiGxkmUnGVZRvkrAxHaV2WyT5kxEK5R8vfAzBCYYTpENNEkJZ5Lo6ktFih5NtA0xWkyhXa4HjCG1wewqU5PSbEkmZsjlxUrjm4EQEeVZEGHB2GCLgbTITMZOFryvZEBODw19Cro8Nt7sjxylgbBcMbdQJKI2WvjO51vW8Si_IkiaaMzRzI73_Die8xnsFeMQLV9Dh1a8H31-kB95g64ISwMLmlIlcj49huYDY61U&__tn__=EHH-R","https://scontent.fstv5-1.fna.fbcdn.net/v/t1.0-0/p526x296/34162049_197908687510876_4069253063649525760_n.jpg?_nc_cat=111&_nc_oc=AQl7l4sCoaRzpXIJ5_5eLRjzMUuqHktTnzpLA4DVG-mZna_AYgCZM-JZ9GmvG7mBDCc&_nc_ht=scontent.fstv5-1.fna&oh=7c0a0acacca30052b0112429ab818877&oe=5E61BD78","undefined","",""
+"https://www.facebook.com/newseoera/posts/363464387621971","1558598590","",1579371154,"https://www.facebook.com/photo.php?fbid=10156244575923779&set=pcb.10156244577253779&type=3&__tn__=HH-R&eid=ARBB5ZrZn4qehA_yAvhxZu31bkOMyCiTHFbeHhepvPhMD0RE5ZymnmNs2W0W5ing7XHBWNrQKlsUEEr8&__xts__%5B0%5D=68.ARAzyKziS3O8qAeQjmDsJJhK-60-5fCgBTRvu-6yuu5r7lFuoPjjQDk1v7R9kisYQ6SqXID-q7fbFannQk1gglIuGBlFVskWPj1b8iSPwNU6Pb71nUl1tHIz13QYQDD4nqoVQA1d6upXzxgKwZjsjGEwmxWsoWGHKAdtLuQ2xCWnBY81HyMf6Y9rcV4xuGL57JkEZg9EvASkp4Yv6JHT3LWgUy1jKg4ow09G5vSOLMCMxjvji_yKo6YDBErXQIT0kiOyEurt9_pRZpKDxPh9KUIlNVjsnCHDF5yiMwdYBrwSgWQx2XxudY7crR2ya6I9k6qcb5R9ehZnoqIZf8xCDf8","https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-0/p261x260/61132232_10156244575933779_2128741286893584384_o.jpg?_nc_cat=106&_nc_ohc=khn7KsDXLbkAX9hyZM3&_nc_ht=scontent-lga3-1.xx&_nc_tp=1002&oh=56caae5760d9d1fe2f93589461bc6c3d&oe=5E93332C",undefined,"連啓佑",""
+"https://www.facebook.com/newseoera/posts/339675023334241","1553853991","【數位行銷經營與平台廣告投放基礎應用班】將在桃園開課了~~
+
+ 報名時間：03月27日(三)中午開始
+招生名額：24名
+上課教室：桃園市桃園區中山北路42號4樓
+上課時間：4/27~6/1 每周六9:30~12:30、13:30~16:30
+報名網址：ppt.cc/fxgdNx",1579371167,"/newseoera/photos/a.172956710006074/339674923334251/?type=3&eid=ARCp69M7c3xreE3kmVn_iHpR99AkBHkIsC8pgmTRKDStyt4EZcgH3TSGt5vJ6qxWlr6zi5bW4aBCVhoY&__xts__%5B0%5D=68.ARApgDNokVUT1IAmxdeJrZgnZ070XYFYWF4viB4l2_pIwCbl4VmSf7rkURvGSDDe4M-RO_BR74n84ue_NL4NtLULcZHdkVyXSdGpjStFjASPtlKoeK2YDn1dDAqP0NvLWIUoSlAD0wV-fP47UDagQgbbx0YUrrBFZFVYEKMgjBWORSNU3SUss_MBEdEY3SzGTn2sMtwt3WqibAmec1RfaSHgOrICgpp2Rjc68iQalOW_LC9qTbRkgSsMRQ9emzImtL0-a_a68GD6kxtK-JdZEb9vMqCOEGuff_lER9ZjWNwmApjNOOUqeIOQzenKyChzyv-I4o2H3PJ88lbsLcNujuo&__tn__=EEHH-R","https://scontent.flim20-1.fna.fbcdn.net/v/t1.0-9/s720x720/55611009_339674926667584_421604203207589888_o.jpg?_nc_cat=104&_nc_ohc=pnz05WsHcr0AX9EM_c9&_nc_ht=scontent.flim20-1.fna&_nc_tp=1002&oh=49a66efe0c899e89ee117fecfad14fe2&oe=5E99818D",undefined,"",""
+"https://www.facebook.com/newseoera/posts/312197659415311","1547953770","【強化行銷力，了解你的轉換率｜2019電商佈局的因應之道 (下)】
+
+ 本週唯一珍貴的假日(珍惜♥)，除了好好休息充電，別忘記搭配新SEO電商佈局之道一起學習吧！
+
+ 上週為各位介紹多版位行銷，本週為大家說明電商主最關注的議題--轉換率該如何取得！ 
+
+ #如何提高轉換率
+首先，盤點你的官網購物平台主要流量來源。這可以從Google Analystics
+GA報表中得知，GA報表很重要！很重要！很重要！訪客進站後所有的行為軌跡都在裡頭無保留，請務必熟悉！
+
+ 通常高轉換會來自以下流量，可由數據資料評估是否要繼續加碼投資預算，以獲得更高品質流量：
+
+ 🔸1.SEO-為自然搜尋流量，通常是有縝密的關鍵字主題策略與Landing Page登陸頁規劃。讓TA不管搜尋什麼主題關鍵字你的官網頁面，都在第一頁。
+🔸2.社群
+🔸3.內容行銷
+🔸4.舊客戶
+
+ #轉換率該如何優化？ 
+
+ 了解你的流量與轉換率主要來源後，好還要更好！
+這裡提供大家五大思考面向，幫你進行策略規劃：
+
+ #流量
+：盤點你的流量來源，判斷是否為優質流量，如停留工作階段長之訪客，或許調整文案、圖片就能達成轉換。品質不好的流量(高跳出率)，寧願不要，因為最終也難以達成轉換，降低預算投入。
+
+ #設計：如UI使用者操作介面是否友善、UX使用者體驗是否優質，網站設計動線是否夠清楚明瞭。
+
+ #技術：
+1. 避免任何當機可能：在可能會爆站的節慶活動，確保訪客購物順暢無虞不死當。
+2. 效能：國外研究指出，網站效能與營業額成正比：網站效能運作越好，營業額就能衝越高。
+
+ #內容：商品的文案與內容是否真的解決痛點、是否吸引人願意購買以解決問題、甚至獲得開心的感覺。
+
+ #商務： 
+1. 定價策略：價格是否高於競爭對手，即使高也要給出消費者值得高價購買的理由。是來自品牌營造、價值提供還是售後服務等。
+2. 取貨、付款方式方式是否便捷等
+
+ 有沒有對於轉化率的認知更有方向脈絡了呢？先了解對手，才能拿下對手！下週為各位介紹如何提高客單價！敬請期待～～",1579371156,"/newseoera/photos/a.172956710006074/312197596081984/?type=3&eid=ARDDMYwkEMqOGIWQuggAAOjzShEPpC25vK025XH3zx81uyh9A0IkO5Hlf2QPmlcUN5yPpGEQPl4wWWfT&__xts__%5B0%5D=68.ARAe0krB-leDzth0ytk-FXupTZadnDKkMPO8n2VNPEpcySTjjkpsh2D9kSWPxuJUXq1U4i8DJRN-SRQi9EMlod8omXi_AdYlCflC909UBtyBy6BRq-KzngkNrSe1kXEdzmQqyZLhSfTaZyL6qdjQUEtO8pz7MV3KnnuHpTuVyTzlwd8g8EFS_Pw8l_NirValNqukqvttC2X_mZijYwb76MSDbspg34eQJax9zOXZB4ES1Ar-qhKc-UUjoIkeEGvonTqdUs7-BeNqPvVCek-7G3_FUIoq-_dFfi0PanDQPyeuOEkhiMhL0HsG32ucXw1Y11oDfYQ1Uuu9jaH0tyi52e8&__tn__=EHH-R","https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-0/p526x296/50673246_312197599415317_6826680453466947584_o.jpg?_nc_cat=108&_nc_ohc=eMsBpHshjPcAX-5OjXU&_nc_ht=scontent-yyz1-1.xx&_nc_tp=1002&oh=852ea983a82f48133f0d63902248860d&oe=5EA54DA0",undefined,"",""
+"https://www.facebook.com/newseoera/posts/300231270611950","1545387300","【2019電商佈局的因應之道 (上)】
+了解了近年電商發展的的趨勢，#新SEO 擷取了講座""精華""，歸納出幾項因應重點，帶大家提前布局2019💪
+-
+首先將因應電商整體紅利降低的方法分為三大面向:
+1⃣打造商品力、2⃣強化行銷力、3⃣經營品牌力
+#快來作筆記吧!
+-
+1⃣打造商品力
+本身商品具有強而有力的商品力就先成功一半！
+商品力的打造，除了商品的品質優良外，還要具備差異化、辨識度......等，那究竟打造商品力需從哪裡著手呢？
+.
+以下列出六個「打造商品力的重點」：
+1. 需求與痛點
+2. 價值主張
+3. 定位
+4. 商業模式
+5. FAB利益銷售法（特徵—優點—利益）
+6. USP理論(獨特的銷售主張,Unique Selling Proposition)
+-
+2⃣強化行銷力
+重新聚焦於電子商務恆等式
+✨ 營業額=流量* 轉換率* 客單價 ✨
+.
+#筆記：流量是加法；但轉換率和客單價是乘法，轉換率或客單價增加1%，業績影響是翻倍成長！
+.
+根據電子商務恆等式中的三要素，
+為大家整理出－必勝🏆流量增加四大策略(Part_1)
+.
+一、成效優化
+投入大量預算，投放關鍵字廣告時，你知道投的成效如何嗎？你知道其實廣告預算有許多是浪費的嗎?
+.
+以下三點讓你每一分錢花得值得！
+🔹若是沒有定期剔除不相關的關鍵字，會增加不必要的廣告費用
+🔹依自己的廣告預算，選擇自行操作或委外，並制定相關投放策略
+🔹無論委外還是自操，都要自己上課進修，了解如何操作，至少學會看報表及GA後台
+.
+#不藏私Tips*：廣告預算投放參考*
+5萬內(預算低)、20萬以上(可自請員工)>>建議自學自操
+5萬~20萬>>可考慮委外代操 (參考行情：代管費20%) 
+-
+二、KOL 關鍵意見領袖 
+KOL是Key Opinion
+Leader的縮寫，指個人或組織以專業知識來帶動特定領域的輿論，他們在相關領域有特定的支持者或受到一定數量的網民所信賴，透過他們為產品、品牌背書與宣傳，可為網站帶來流量。
+.
+以行銷角度來說之KOL三大價值：
+🔹KOL自帶流量、業績
+🔹商家推薦自家商品不一定能讓人信服，但透過KOL可視為外部背書
+🔹視為優質的外部反向連結，對SEO有正向幫助
+-
+
+ 📌下集預告：找尋新的流量紅利(Part_2) 與 搜尋、社交、內容整合之新SEO概念
+
+ #最新資訊不漏接！持續鎖定 #新seo 💁",1579371167,"/newseoera/photos/a.172956710006074/300227577278986/?type=3&eid=ARB6Ox8Y-Sjp1d3ccDCWZQGyEQ7diqKg9dQ3BrWri0WNzd25UHJhdh9n2VkSd0jxbXM6PPIsRhnG2wff&__xts__%5B0%5D=68.ARCdPCzM7dGWThBqi6PxdXVfGHMJUBnR9Opxb_AcKMrU4412Fc9Y9cKXY6XFFSzY68i9sS1LiACxX5TlaLqxITXDX_kQph7Hfkl33sXTmqDgMTMkd6ZIRm78VgL6Oeyql36WeFMacd7hvWkngiVjAAJ7-Gqb3DwXB_Qge_MbXZoQXVj2y8Ol0Nlw2jUbNWs2WFE3lEQ-PKmGNj9-U7tmb32bZ6v2PQaKAYiacI7eats2_2cJhi_IP_uyjSDOBvqND8_amuUiaSAJ316k92sDYDvqqrI8P9S34UGlBKJXCT5Wq-9o-iklaK7oCmH2YZmOmf4OGQ_jRnZTLeNS7v7-8UY&__tn__=EHH-R","https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-0/p480x480/48367926_300227580612319_1047061182214569984_n.png?_nc_cat=101&_nc_ohc=n4S92VQtvAIAX8WSVGA&_nc_ht=scontent-yyz1-1.xx&oh=f8777c0aa6fa720aa4961f0412364a46&oe=5E93A390",undefined,"Send Message",""
+"https://www.facebook.com/newseoera/posts/267008957267515:0","1537264801","你也曾經在點進網頁後，
+發現畫面或圖片一直跑不出來，
+十分掃興而選擇跳出網頁嗎？📱
+
+ 重視使用者體驗的Google，
+因此在2010年公告⚠️網站速度會影響SEO搜尋排名⚠️
+
+ 如果想要了解網站速度的表現，
+透過Google PageSpeed Insights就可以馬上檢測，
+甚至跟著官方說明進行網站優化！
+http://bit.ly/2peQex0
+
+ Google PageSpeed Insights的檢測結果，
+除了提供行動版和電腦版的分數外，
+更提供兩種衡量指標。
+
+ 「網頁速度」透過chrome的使用者體驗報告，
+顯示真實的體驗比較數據，
+而能衡量出被檢測的網站表現得好或不好。
+
+ 而「最佳化」則是透過官方十項建議，
+綜合每一項目的分數而得出的結果。
+
+ 快努力拿到代表最佳表現的綠色分數吧！","1571596939","/newseoera/photos/a.172956710006074/267008957267515/?type=3&eid=ARCdGGwy6QEA8DmCIXNpnVG5H2UXW7z9FuC9PzswhkuMSSfxjtNT9Hilw_S56tFBv7ggjazyLa6uc6wI&__xts__%5B0%5D=68.ARD6iQ-iyv_3BqLjFC84QNBDwPnBn83Oq2QIJbCxhoCu7INMtY6_xnzEwyEiaN9Pl2yS6bzvwAAM3cQzroytzZCuIKtbtFZm78Jvne7Z9WsFYvhuKSOlMkOLOC_TRS1TAajgfE5vLaixC0D-fv5cVRimSV09RlcJkksHhvtLyXwwUUL5nWymx_TNc-hGkm6PeR7RrF_OwhII2vYdCGRbyQ8SUDQ2vg4A4her_IbV29AmhC2EXicch56qr_bDbwyWysxaQFgYUnmqEwVUYvg1ti5J91vpa6Of0f0WXA3hTUk4KCUoCXl9HXDP-U3D3HhlO1uLsQtVIhBf9FGfVFsCxNU&__tn__=EEHH-R","https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-0/p526x296/41990823_267008960600848_4725485433247498240_n.png?_nc_cat=101&_nc_oc=AQnvgskfdPgp2JpSnKYhoohaUEWGkjLSQ4K4F48SINz9bY6RB4hNODCfXjV37yzBDVA&_nc_ht=scontent-sin6-2.xx&oh=64701ccb3f74872e81865c7d46034c8a&oe=5E309DAD","undefined","",""
+"https://www.facebook.com/newseoera/posts/193718994596512:0","1526472008","#seo小教室 
+
+ 今天來看看結構化資料的廬山真面目🕵
+
+ 結構化資料對網站有什麼幫助？
+一 幫助google正確理解你的頁面的內容跟類型
+二 google會根據你提供的結構化訊息展現在搜尋結果頁
+
+ 舉例來說
+假如我今天想要買帆布鞋👟👟
+當我在google上搜尋帆布鞋時
+若有進行結構化資料的商家網站
+在搜尋結果頁就可能會顯示出這家帆布鞋的售價及其供貨狀態！
+
+ 你學到了嗎？
+SEO小教室我們下次見🖐🖐","1571596939","/newseoera/photos/a.172956710006074/193718994596512/?type=3&eid=ARBAL1TmOARFFLICA8fRCibcFmrk-ORGGlj3V-0mHeMTGXbG_m638MwkLX_UXCL6AC6RCV9a_aNS1EBE&__xts__%5B0%5D=68.ARCXfWp_uI9Aup5mP_Rxfdt-6l_EO0xenTQCMWTAlhfSLEM5AGAJAUaa8G3tnKOUyVYCaXvMyW3ejf8O-LT5Tdqf2s0JFkstBfz5ywGanmBwsgcvXLjSxOvRrWG9FgTballJFtmh54NY_WdJk_rXU8KR3Nsf_bvcDaGETIAoUbZU9LX53t7Ig1KPbG9aNo7nS8CckgPafl8BMhDefWupsc-R8vI5Lbqagak5U_Bq7IxdzQCJChMKgw6oxRDzTD1R7jZ-7bB9HTTXCS6Nb8LCmMWdRfv9k8aa1cev4hhUltXjBXn3nq8j-bFYui7SrsvZZOCVuHt1-etlWV7YMi7_2Ws&__tn__=EHH-R","https://scontent.fsub6-5.fna.fbcdn.net/v/t1.0-0/p235x350/32489650_193718997929845_822410014399397888_n.jpg?_nc_cat=104&_nc_oc=AQndfjQFkqu72t19E_4uAFjoObqYMNDfMukLex6ZtdJkvDEyDDXLWgCDk8yfSNjz_3o&_nc_ht=scontent.fsub6-5.fna&oh=1d07d204385f34d4708a11f4ccf6c4c0&oe=5E247929","undefined","",""
+"https://www.facebook.com/newseoera/posts/199040954064316","1528196401","#好文分享 #我的SEO生涯 
+想知道連啓佑老師如何進入SEO領域
+以及職場工作的眉角嗎？
+那就一起來看看吧！
+
+ 『剛好我們服務的這些廠商，就是要透過搜尋引擎做全球推廣，所以我們就開始研究如何讓我們的客戶能夠在Google
+有搜尋排名，這樣的行銷方式在國外有個專有的名詞，叫做搜尋引擎最佳化(Search Engine Optimization,
+SEO)，當時因為台灣沒什麼人做這項業務......』","1571596939","https://l.facebook.com/l.php?u=http%3A%2F%2Fto.piee.pw%2F7NZQ9&h=AT1QIsQh6JG3tOKI1xptqkijHTJhDaVDO4YNMCpEFY9z7oheetuGQdNC4BS6RLaRoaj1v8JSZQWH7ZgleZvNUjqEHShh_eSdP2KfnCMR2BxWXcI2JTUD8lqVc-5Cm9zV35wlgxTdEzRs3oInVnvks6K-8mRgcFh5xAz4FBckkHSjOvGyaWBAECsM2HDu-BR95QDZWSr0nVRkK9lPfOr72A8KH3D0U701iUlt7JvMzsPSio1yaQVCBjY3vK26vSGObjCLS54i-paqPlEctZwfE18qTabpMEfZKcDdXcFRVthxxVoD5ywAd8P2CtPAg9vDGZonPncRyJnUArzIY4ofVQ_CUy59BAgM5F1qLeOm0IZbQaEGkSXN1j8FqXX9rsGwM8BOrXGjr9TuYjpwl8X4w9lT-Ez5_8P7Ctf-ZVnOzMUv5Co7KNODo3Azjt8kr2kaAvxuPJuiZ5DKakVY1Ob1c82MUqXQJi9RdR5JNu7yG0mzS6uf9mLggXODtBGKOFsjdP-dypzkDx6kSEyJpP6MUVlZau37xKv_WsQdWK0NqzZG3T_91hmVWA9jNHJqDDFZexxJMOnGhqejdnSbrAfwFqofYaj8Gj41N4HAmxjmjAvUpEexg2XCSBe90MUSCe58qkJDMptRBKw","https://external.fsof3-1.fna.fbcdn.net/safe_image.php?d=AQDm9AkrnKUh-T4B&w=540&h=282&url=http%3A%2F%2Fcdn.illu.es%2Fstatic%2Fimages%2F3328361F-B0C1-E61F-3069-2FBB0C267BF4.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQDl_asQPAzD1amH","我的SEO生涯_連啓佑 - 104 職涯社群","我的SEO生涯_連啓佑 - 104 職涯社群","連啓佑 創辦人/數位轉型顧問　將能數位行銷有限公司"
+"https://www.facebook.com/newseoera/posts/173295833305495","1520034169","看完這篇報導，可能有人會問：那要到多慢才會被Google 處罰呢？
+
+ 雖然Google 沒有講，但他們的研究報告指出，網頁下載速度從一秒到三秒，跳出率增加123%，所以建議可以10秒為最低標準。
+
+ https://www.thinkwithgoogle.com/…/mobile-page-speed-new-in…/","1571596939","https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.inside.com.tw%2F2018%2F01%2F18%2Fgoogle-using-page-speed-in-mobile-search-ranking&h=AT0sWUhDcMbDamRfajP6_-B_mC58ZPAkLAXnPFQ70KVKe6YDx0yP1CQ8rxGEgfQDHZfIAWOhh-h5pGcv9ptxmG430azcbQT0089D1q_ss1v2U8HxUfuOAs9RGawm6htevVuEjNaER5dvXHoArzzDi69ai-L_d0MrMVpS0A9cJvPDMBO3bJV2PyyN1DQl98oxing1ZRcGFGv4eXAMRrT6naamA0lEB2uNlaeIZ7q6gg-2VoypGo0_4AFKQ1kKnYdWxIm8XXyUjyx3cnik3whJ5nvoKflnj32lmVTgzs2UyD1_KzuzCChVi-DIaGlE-hQ33wP9C9X_I_uWWq-Gk6I1mtDwyoJpuMNK265y4LVYuH5jBwioO_LVc0HHmIK24Z3LWwl0IfH3HjWd-fuOzUyBcciYO8ZbH7PqJKQ3AMWvXLeINxjGh5xawBp7rbA01ComP2jvDoCCeApTlyuTTsRoQ3UaTdqPPrLdSqd_2DN1GY0Rkn75MXcvuXyjBfCqDlSNYc0lv9NjZwiUVBc7DRyylwBfz1xdULb11NuSFeTkIAvfMiF4uiSep11BcjWsH-afXMNO0v9MN97HH301_0soiVLIKCA04K53yOPgC06578cW7tLI3YJfOhje6aDT5qRXKNJSO_mztlE","https://external.fhan2-1.fna.fbcdn.net/safe_image.php?d=AQCxEyailvxkufCh&w=540&h=282&url=https%3A%2F%2Fwww.inside.com.tw%2Fwp-content%2Fuploads%2F2018%2F01%2F4cda66e3-google_mobile_01.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCjAtIXOzWQDazM","Trong hình ảnh có thể có: điện thoại","Google 將再調整演算法，行動網頁速度慢？小心大幅降低排名！ - INSIDE 硬塞的網路趨勢觀察","這次不只是小編，前端工程師、網站經營者都要拉警報了！"
+"https://www.facebook.com/newseoera/posts/172571553377923","1519836571","據了解應該還有名額，有興趣可以報名。如果表單有問題，可以直接寫信或打電話去主辦單位問。","1571596940","https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSe3OSDP3bRqgES6eFEKF_39omic9hL9g9XD0ngnlXY7REirUA%2Fviewform&h=AT1te67gq-e5KDlRZQOA9GLOxadZ21ris9csr4L5Z36Y_9hJFtAAhkTUOvtGjuKJCi43TxEYQ2tXw4_oUlC1QBpHSV1vPO1N01aN0Fb6DCmd36fW3tlp9rKRAGlM4xYCafiZYwoGlXeK1YEMhRZS2wQiLMZ6m_X6Akciffv5qQ0uva5dOClosOGOt-_JTLEblAZQZLyHLVYeFm_s2BZ_HrvtbX2bH5Re9XE6Rjzo0R0AC-3KsxHynS8Q5_1B00t3SBhBC9SeaIjUnB6wB21wuXJ8oqR6EZRuLLOA9pQ9TSYQ-fKxIFFAePvyFNsSBVlGc2aOD8iTt9395BGTg6RG6WUNC7BjLZAkMy3IGGaR22OANVZoGTuiAsYUkBu6a6cjMi6nj_OhumxwoXhOWH6bpY7IARsVjLw2VRzIhCOXglWEVAk7yEPgw1tEOJEsjA113I9mem3bTAf43CkjIDNUNtMAK29il6bkfy6StXMwixrdu6wZs3blVBmFKaov0F-VSYohcCHFDkteTyuzp89xxDqIiSnRMNH8gCRmDJeJXIN3yVTFghaQ2V1_AEbwPVStCcaGCF-iQGKlCcKIVtiaPrOcWkGLFzZ_XuLsm8OUlcodVZMRmYfNleGqZmyoy-dWhS8UJsrCun0","https://scontent.fbjx1-1.fna.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/c0.0.1200.629a/s526x296/28204068_6082526029943_7239344527629090816_n.png.jpg?_nc_cat=101&_nc_oc=AQkhhoJpTtdXlMhPX8GVD7Kg1CWcL9lmkbs0sI7USXK_GEHUkv5EPhMHlz-PxHUy9CI&_nc_ht=scontent.fbjx1-1.fna&oh=eb0c3c8ffccd566dae4a4ca78c5c936c&oe=5E5C791C","Image may contain: text","“新•SEO”課程","*本課程預計將於3/4、3/4 在台南與極策網銷合作首開，視情況評估是否加場，預計今年不超過3場(因講者行程繁忙)"
+"https://www.facebook.com/newseoera/posts/272163463418731:0","1539079200","SEO友善網址 (SEO Friendly URL)
+
+ 如何讓自家商店有更好的搜尋排名呢？
+「友善網址」肯定是不可或缺的因素🔍
+
+ 網址代表這個網頁的地址
+網路爬蟲會存取網站後儲存
+並做出索引以方便使用者搜尋
+
+ 因此網址過於複雜或參雜太多參數
+Google爬蟲在製作索引上會花費較多時間
+
+ 此外搜尋者也會對於不夠清楚明瞭的網址有疑慮
+而降低點擊瀏覽網頁的意願
+這也會使Google搜尋排名降低
+
+ 🙋‍♀️小編幫你整理SEO友善網址的重點🙋‍♀️
+
+ ☝️網址階層簡潔，最好不超過三階
+✌️網址符合該網頁的內容
+👌網址使用英文統一小寫，避免使用中文
+
+ 提供用戶良好的使用經驗會帶給你更好的曝光機會
+讓SEO排名更能提升喔！
+
+ #SEO #SEO友善網址","1571596940","/newseoera/photos/a.172956710006074/272163463418731/?type=3&eid=ARAQ40ubJlejA-7UNLyLYL8dbAJS5WNJJOK9jRnUS0QMUbpK-0KkcGOztpaHZRqLsC5QX3xHMzqeew5s&__xts__%5B0%5D=68.ARAWo9qD4rXgWxWy_k69qFlOnp6ZaEYueEEncpsUQr60ge6vd7MwXUy3-nLiTEEqFQ7mGNxMIF_QBDqvhETfXSYiAG0gxtujp2G4bmPumQtUu1oENQ3W3OPtgip7EALIK4P4A6RrJqfkOVynWD5BlNS1XT6xeI78UQf7OYJLO43TK5A6urjr_TSD8dvJs9Nppm6mIrPh5ap8hqUOzzQ7EITTVY8LQQ5aTGevzPkSvkVcnJyObgQzjvLs9Nf5CNA1hoZ-9vLBHxXTi2b-bAxGukg1lW0bQ72sUkM_8uaGfuWTmyLAOBwxQvtIYE0lcWJLrQqFS8noBHwxsmS9Px68T7Q&__tn__=EEHH-R","https://scontent.faep9-1.fna.fbcdn.net/v/t1.0-0/p526x296/43111344_272163466752064_7204870848073695232_n.png?_nc_cat=104&_nc_oc=AQnk01H2i8n2dAbbp8-Chv59qOIenNafdieFINbDmKJMAy0cJV_rJO0-N12LBAvvRGA&_nc_ht=scontent.faep9-1.fna&oh=2fcce6a0f2164bde3f83c8319e53a93d&oe=5E63DC23","undefined","",""
+"https://www.facebook.com/newseoera/posts/297550420880035","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579371168,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/newseoera/posts/186782685290143:0","1524225396","#seo小教室 #又來囉 
+今天要跟大家分享 sitemap.xml網站地圖
+
+ ☝sitemap的用途
+sitemap描述網站的架構
+將此提交希望給google索引的所有連結
+讓google快速認識網站的連結
+
+ ✌為何需要sitemap
+google抓取網站頁面是由網站內的連結
+抓取時可能會疏忽且費力 
+為了方便及節省抓取時間 所以網站會需要sitemap
+
+ 你學會了嗎？
+seo小教室下次見🖐🖐
+#還想知道什麼歡迎留言許願🙋","1571596941","/newseoera/photos/a.172956710006074/186782685290143/?type=3&eid=ARDKL6nkw6_HDBMbH7m7a__KZKJWmcVCqXQDvbRpWyOS18enshxKZbBL7RbZmK-k8k9sFvPYlZZAW1ZV&__xts__%5B0%5D=68.ARBnPghCx71qph1PN7Fc5TA27NIQK_30kuzkl8vMkz1OoVbui-DpC1yR4z6oSFOr1gy2C8Q3iQlAksjV4sum-KfbUxYIcYcMfzxvuXlxkuw6TGiWzczGMgt-qDu7sHRnOwQHpynO8F9oplhLoQvEIrfWG9PluNziEP3gmKkax_gTURxmbETBkrH_pHOqlaO_OEOcdA7e3hR3mzoPG0E0WFDuRASqjUg73-1KTaJuyQ-ZPK166BBd4ZkzQmIto3o3x0bNfSDxdDPwSDHZH-xjVIjnfO89UqQGzUH_VLaCU1sGcpTqem2a7DSiyKOX7tFJlAgsDAn6c5dTepKRiB8CuqA&__tn__=EHH-R","https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/s851x315/31081676_186782685290143_914107918275439935_n.png?_nc_cat=106&_nc_oc=AQkOlcsr7EonNIAgG3vxOuod-aV3AqL3LwPrgn4_zTN9w8QNIA1QrA-4i52XqBjp92Y&_nc_ht=scontent-bom1-1.xx&oh=212039803be188e22d93949341968143&oe=5E184990","undefined","",""
+"https://www.facebook.com/newseoera/posts/278879149413829","1540548000","【Google 搜尋引擎運作放大鏡：抓取】
+
+ SEO從1996年正式出現至今，
+在Google「提供使用者更好的搜尋體驗」的宗旨下，
+每年都會調整演算法。
+透過了解搜尋引擎運作方式，
+就能對SEO的優化項目更有概念喔！
+
+ 搜尋引擎運作可分為六步驟：
+
+ 抓取-分析-建立網站索引-比對查詢-排序-顯示搜尋結果
+.
+👨‍🏫本週針對 「抓取」做介紹：
+
+ 當你使用Google搜尋時🔍
+其實並不是在直接在整個網路上搜尋，
+而只是在Google的資料庫中搜尋。
+
+ 在這個狀況下我們可以將Google 想像成一座大型圖書館，
+每個網站就像一本書📚
+而發現書(網站)的過程就是『抓取』。
+
+ 搜尋引擎找網頁的方式是利用自動檢索程式，
+也就是常聽到的爬蟲程式，
+各大搜尋引擎的爬蟲程式都有不同的名字，
+而Google則命名為googlebot。
+
+ 如果一個新的網站，
+卻沒有被爬蟲程式抓取😧
+那別人當然無法透過搜尋引擎找到你囉！
+
+ 有關抓取網站還有很多該注意的事情，
+下週請持續鎖定新·SEO！","1571596942","/newseoera/photos/a.172956710006074/278878362747241/?type=3&eid=ARDOknAWe8_uUY6ASKEp7vqBJr5MrpSvfB33ReFb99cScm7E2eEyId8fOfy_BHAuv3f_BxqRE0oXTmEw&__xts__%5B0%5D=68.ARA7xhLHmqTRoMKNQZEePL0rx5KaTHEc86357G6hUpVdU4LqNVPQ09ym5yrMK7xkb6OVXXp5cPcKEn29L4OSZHtAq2q0T1nhkJFPvbyZ7g9o3eU7-xN-iQUqN1YJfH1NBs2_7hXUBFaIJxoJFYK1HmLS2O1UrZMWTHLHnsdEWP_RKKP5oI402LLvnDQsNb3l-hwR-AxVsaV4J2AJu_B0mTawf4bsdvfweZppy8atuGJaoNiP4yQTv7uQrMVJaH2WE1iO_ZrEx7PDp92CUjUjT2BjX-6_TRXgVkVM5e7-emcMqJZf80HbvCcRbYovUFwBj0kqxODkyO-gHjgch6sd_V8&__tn__=EEHH-R","https://scontent.fpmw3-1.fna.fbcdn.net/v/t1.0-0/p526x296/43665219_278878366080574_5492183945086763008_n.png?_nc_cat=103&_nc_oc=AQlL_PW1f0I8Ukru5cFZj21Rb-fQ8XMXBNvtWOW4YGmFxiWbMB1PlOUKefHzuUO0thA&_nc_ht=scontent.fpmw3-1.fna&oh=b65dc93859d00190f2fc35ad92ec311d&oe=5E1C4A85","undefined","",""
+"https://www.facebook.com/newseoera/posts/291453711489706","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579371169,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/newseoera/posts/181152925853119","1522486800","#SEO小教室 #回答的加1分 
+醫生看病的時候總是會拿起聽診器👨‍⚕️
+左聽聽、右聽聽，大病、小病聽一下
+
+ 沒錯！網頁索引數就像網站心電圖📈
+
+ 代表著搜尋引擎收錄你網站頁面的數量，
+通常也反映出網站健康程度。
+
+ 但是，怎麼樣的狀況才是正常的網站呢？
+是像人的心電圖一樣最好嗎？
+下圖中的A、B、C三種狀況 請作答💯💯","1571596943","/newseoera/photos/pcb.181152925853119/181152382519840/?type=3&__tn__=HH-R&eid=ARCCdqKqy9MfRyTERl1iefzvATiAVHO4V_S-vqWekkCUAo2MSXfRbeB5UZ3STXCy57Hf2sE2ux5uzNWS&__xts__%5B0%5D=68.ARCguJbXEL_w3W1HWXCMm_jwh08mtoqG-a7gG1Mu8oiAO2xCVzKnp2uyOujy4IrGbKNgkBny7lE4-1R8mLIhH3AXCUmtI97sc4mPlDD6_OHXmnCwXLMgV9hYJQyGnJUPpHMQrsuZzqCH3V5PwS7KX22uE2b4S57h46tYR-6QflLdujc0CkQHLX4Cayq0kUpOGpUMEi-tfOUO7LiEPwsTCZXnpbpKmbrZE_tdY2abvugGLrwPpWHd5G3O-d-6G43VqvveQepIwjep6HAWz2CqPJJHRgO12x7eWmgSjcTbyEHHWQuI1qnyi_vFK_gj6M-03g61WR9iZrd8ykYEq3EHb2c","https://scontent-sin2-1.xx.fbcdn.net/v/t1.0-0/p235x350/29570671_181152382519840_1451549009658984784_n.jpg?_nc_cat=110&_nc_oc=AQleq4m9Sfb_IxND2Yjnhn6d2uzMULmsUQoqBWs1zO6cR7lUhO1p2ZF9yLkbRqslCS8&_nc_ht=scontent-sin2-1.xx&oh=4df134df5f5d6d680e5bc75a2d3a8bb8&oe=5E178B13","undefined","",""
+"https://www.facebook.com/newseoera/posts/503053210329754","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579371152,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/newseoera/posts/503040073664401",undefined,undefined,undefined,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/newseoera/posts/476532676315141","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579371152,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/newseoera/posts/490823158219426","1577267305","",1579371153,"https://www.facebook.com/newseoera/?__xts__%5B0%5D=68.ARCX3czFvcSCPcQJZil4uh_qP5Rau1m6wGzWGoCO4VflfItspNLNMO_i6eIs2QQQPnYQD9__3AD9NDPXBGPKuhBC7KXJjJoh_bH2dKtQEBgtaKteZBwTVIPjTzrzzq3imM41qFA6iu2EOIbeW9uwk1W6ggbqw8Ou1aeL5eMmBVUswyL29mTHzVn9SYb4Qz36C_uQYS1CFKxE7PWkgkTt-qJUVDOzQcRcTt0BbYVFwareP9EuPvwJjHNvJhlJvBMWYN_Hta9mLaeRJEtIN9s1Y3S4dwy42GVv3h1xaw5U2-VXcjrkzKW2DXU13mumHrsSk1m8QpwZeIDOvXUa3tZUO4g&__tn__=HHH-R","https://scontent.fpnh4-1.fna.fbcdn.net/v/t1.0-0/c909.0.2410.1263a/s526x296/78156498_473230843311991_3084678935422697472_o.jpg?_nc_cat=104&_nc_ohc=5suP-QY3fFAAX9YOm-s&_nc_ht=scontent.fpnh4-1.fna&_nc_tp=1003&oh=670f18c0f2decbbafcf6ecd1e2217767&oe=5ED0614A",undefined,"新•SEO updated their phone number.",""
+"https://www.facebook.com/newseoera/posts/471455593489516","1575172243","【新·SEO趨勢系列文章 訂閱正式啟動】#文末抽書
+
+連啓佑老師，帶你認識新·SEO。我們在PressPlay上的訂閱專案，正式上線！
+
+▶︎每月給你一篇 新·SEO趨勢系列文章
+▶︎資深SEO專家為你洞悉 新·SEO趨勢
+▶︎四大面向八個工作項目，全方位打造你的搜尋通路
+
+深入了解訂閱專案👉 http://bit.ly/2R1Jl1h
+
+-----
+【連老師推薦書籍 #訂閱經濟 三步驟免費擁有】
+
+只要對此貼文 #按讚+#任意留言+#公開分享 就能擁有抽獎資格
+
+💡活動截止時間：2019/12/12 23:59 💡
+✨2019/12/13(五)抽出1位幸運兒贈送書籍1本✨
+📕書籍資訊 http://bit.ly/37Mz7rr 📕
+
+ #讓你的努力 #被別人看見 #新SEO #將能數位行銷 #PressPlay #訂閱",1579371154,"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2R1Jl1h&h=AT36KONbDZFCW12zUyJ879f_EYizj774SPhRkRg-dnbzNcYCsfLokHTHOgGxiC-hI1m8qKmFrb5at9VP379K9IMQjIZx6ySPrywhgvGAYYk1J6YAHX5QAB4OMiAZ_icG3KYWhs8tCPoWjExXq1USABNZhB8JXIUr2cuInujchhfQUVCstwetnSzO2eoFy0O3QxFHs1ahAvfCddvbLEXTSU8C-I73wvYPvsxHPjitWUL03o_MPxbFb2S5B9rZwPXfbispBBikoHRM7jfaOF_snvLyz-Y2BUKnZ97SWbCde1mJ0pHMNqIzkrO6foC9dlpYLaXGCncGkPVUwQu3ufJq3Utri0AMRy-y3bn7OQ51yh6AhWLKOUvIRFvqsRoev9ap-4wRLBvMv0oqC_FM7Z-OW7OX1GgMfa5CNtjJ3Fiy-bwwFEJ2E60SDmkTZzh0IOfCSHa1ggXyYUNvGg7MuzM2WvTkGVRiJ3xglLTL7oBTM014Vjcj8GXukFT_7rJDyzuh1HMwW8MlIvJKt4SYkwdzcgb5n973Rifn_MTl18q2hfybTXU0G_TAZMvce_jz2L7SVB96YdfsyNGhj-rPGpOr4mZzraA2JgxeRRb77068uKqFk_BNitU-68bdMVNcOYT85baWu_aCPphX","https://external-cdt1-1.xx.fbcdn.net/safe_image.php?d=AQBIr-QsVlCZmHlw&w=540&h=282&url=https%3A%2F%2Fstatic.pressplay.cc%2Fstatic%2Fuploads%2Fproject_introduce%2F20191014%2F5CFB205A7452E672294BE003A69639A9%2F5da3e6d3def6e5CFB205A7452E672294BE003A69639A920191014110907.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQB6Y63vOktmVCxs","連啓佑老師帶你認識新·SEO：每月給你SEO最新趨勢","專案介紹 | 在新·SEO 時代，SEO 這個名詞，除了傳統意義的「搜尋引擎優化」，又被另外賦予更豐富的意涵，亦即「搜尋體驗的優化」。學會新·SEO方法論，就能夠幫助你充分運用手邊資源，提高網路推廣效率，讓你的企業網站提...","pressplay.cc專案介紹 | 連啓佑老師帶你認識新·SEO：每月給你SEO最新趨勢專案介紹 | 在新·SEO 時代，SEO 這個名詞，除了傳統意義的「搜尋引擎優化」，又被另外賦予更豐富的意涵，亦即「搜尋體驗的優化」。學會新·SEO方法論，就能夠幫助你充分運用手邊資源，提高網路推廣效率，讓你的企業網站提...專案介紹 | 在新·SEO 時代，SEO 這個名詞，除了傳統意義的「搜尋引擎優化」，又被另外賦予更豐富的意涵，亦即「搜尋體驗的優化」。學會新·SEO方法論，就能夠幫助你充分運用手邊資源，提高網路推廣效率，讓你的企業網站提..."
+"https://www.facebook.com/newseoera/posts/490615191573556","1577244510","【2020年SEO全新課程】讓顧客主動上門的""新集客型搜尋行銷實戰""
+時間：2020-01-08(三) 10:00 ~ 17:00
+地點：台北市大安區光復南路102號3樓 (YOUR SPACE)
+費用：12/30 前早鳥優惠只要3,800元 (原價4,200元)
+
+議程
+1.新SEO思維策略
+－探勘需求與銷售兼顧的關鍵字
+－展開Google全版位行銷
+－內容和媒體（owned/earned/paid media）整合方針
+
+ 2.案例拆解
+
+ 3.包圍搜尋結果的實戰步驟
+－檢視消費者網路搜尋流程，探勘完整關鍵字策略
+－Google全搜尋版位經營計畫與優化要領 
+－內容品質經營計畫：根據關鍵詞，優化搜尋版位&數位媒體平台的各式內容
+－媒體整合：口碑製造→廣告曝光→擴大宣傳→長尾延燒
+
+ 4.成效檢核
+－解讀報表與關鍵指標
+
+報名網址：https://www.accupass.com/event/1910250802471499473953",1579371156,"https://www.facebook.com/gtinternet?fref=nf&__xts__%5B0%5D=68.ARDqba31CrndMP6T1l1hQ29ngVGCCwL79ZfCnMRzZ78rCmFF8NTVJzjTdVGveAaP75lKim_NYtaVHh5nJH3sDoKJs2zeiKRa0Kt9u26E8XpYx7D2a0r46eo7hPLv-DzwEEny4yO8nMb49NJh65zXBc2-GcNMpr8koAXaRuYKmQ2qyAZsYtqFuoXp0-WzRx5gN-M5godk154B3Y0SwYg7L0Cw1Y5Zkz6wZkU2mFXvuk-ncEvkxsA0mPtNjAwN4Ha-Mb7QU9dcYPTudtV5-rWGZM-6WFsLNU54BXWksriPcgm8LJ2PWLoOmvrU9LBdw0y8BSUnvNZJqN6X2dEy9UjP0rw&__tn__=mH-R","https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-1/cp0/p32x32/67796080_10156400623003779_7759713260449824768_o.jpg?_nc_cat=103&_nc_oc=AQkh4z-6tyZTNUBP57blEbvwFFZMcf-BOAZ7_bY_6OZ2OCMVn99vK3XPSFnkdIj3SQQadLk6DEPTbpq5BHcbtylK&_nc_ht=scontent-cdt1-1.xx&oh=81beb13530a69e107a89d70d4f56ff15&oe=5EA3B1E9","連啓佑","連啓佑",""
+"https://www.facebook.com/newseoera/posts/473231176645291","1575252066","【新·SEO趨勢系列文章 訂閱正式啟動】
+
+深入了解訂閱專案👉 http://bit.ly/2R1Jl1h
+
+連啓佑老師，帶你認識新·SEO。我們在PressPlay上的訂閱專案，正式上線！
+
+▶︎每月給你一篇 新·SEO趨勢系列文章
+▶︎資深SEO專家為你洞悉 新·SEO趨勢
+▶︎四大面向八個工作項目，全方位打造你的搜尋通路
+
+#讓你的努力 #被別人看見 #新SEO #將能數位行銷 #PressPlay #訂閱",1579371156,"/newseoera/photos/a.166006077367804/473230836645325/?type=3&__xts__%5B0%5D=68.ARCA141CTE3g5Zp7yvnZP2YgfhWoLZThEWoY80w3UtKJCJfn6Tc10RyGRE4Ont3wse3jkNx9dvg0Zr7edfNAz9dySRxY_suW4j04WCKhqJ1QfmaktxukvDhhFkkKrrD3TQF7W_Lvqc97xOZ0L4GLqN2CzxGVjXN8NS1NJGlHy_woukFXnIQFvYRiher0WcyGyNhBvlBf2pGisxQ-mYMB4KdEHQiBuYLgUdhrzQfsf1QOIyxSU3vuyx4ZOzr8tNCLWOYVnDyfy8gJ44Fza4LR1os_hM97EQ&__tn__=HH-R","https://scontent-sin2-1.xx.fbcdn.net/v/t1.0-0/p200x200/78156498_473230843311991_3084678935422697472_o.jpg?_nc_cat=104&_nc_ohc=5suP-QY3fFAAX_cUZeK&_nc_ht=scontent-sin2-1.xx&_nc_tp=1002&oh=27cd1d52fdbd41a37df5ba55a3890088&oe=5EA07B0E",undefined,"",""
+"https://www.facebook.com/newseoera/posts/451420298826379","1572611400","【SEO新知】Google應用BERT到排序與精選摘要
+
+ BERT全名為Bidirectional Encoder Representations from Transformers，
+透過AI技術來了解搜尋者使用的長串關鍵詞的真正意圖，
+以英文來舉例，例如介係詞to及for的代表含意，
+如此讓搜尋結果更加符合搜尋者的需求。
+
+舉個例子，若搜尋「2019 brazil traverler to usa need a visa」，
+過去Google會顯示美國的觀光客去巴西的相關資訊，
+這是與搜尋意圖完全相反的搜尋結果，
+而現在透過BERT就可改善這點。
+
+因此未來做SEO，不能只是一味的塞關鍵詞，
+而是從搜尋者想問的問題中延伸出相對應的文章內容，
+如此產出更優質的內容。
+
+https://www.blog.google/…/search-language-understanding-be…/",1579371159,"/newseoera/photos/a.172956710006074/451419772159765/?type=3&eid=ARD97f10l9qtus98C1SGDbE50xZzhaTi7vWjVnwn91fEm5YO2reAhteaDeuDOTDxl7JcXs23D_euS9rS&__xts__%5B0%5D=68.ARAytw7F_Ttq2Splwtd8tdOU1n1a5Srz31sMPCTEjq5CPC8j-7KnyNkLVQ1iUgl_jL61nu28SkkMEAbtLiVLogGGtSAOKRPcDOSMPliRRpwhSFJHGE4mWD0UBM15k7ozN2QDTkG6CuYHyfadJoxIgFi8CH7RxcfPjBnqIhCJtBAnFkmluVWy820TH_fSTr3H7Vk7MbDyRVmBpQScikm_dEndlIUlQzEw6fzq3PepQRDUqRRmUMe7PmtqSkr82z3XVM_lzJxfDilxtnsGCyrnxGxESOirP_K83E2dS_aq9TBR4LPPUtrPaVLKDfws_Til-wre6ylIn9iXiLkXeINUUlw&__tn__=EHH-R","https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/s851x315/73261239_451419778826431_8284935383624450048_o.jpg?_nc_cat=101&_nc_ohc=ldODgxsbap4AX-NYmNt&_nc_ht=scontent-cdt1-1.xx&_nc_tp=1002&oh=abef0d6431ec52d7efd36064054ed968&oe=5E8D9F50",undefined,"",""
+"https://www.facebook.com/newseoera/posts/460619604573115","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579371160,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/newseoera/posts/469850150316727","1574847397","【新課快報】SEO進階實務｜6小時教你搶攻搜尋引擎黃金版位
+
+ 由連啓佑老師與YOTTA合作所推出的課程，
+歡迎購買學習。
+目前上線的是第一階段，第二階段明年初會上線。
+
+ 內容包含：
+一、6 大搜尋體驗路徑—搜尋結果解析與經營策略
+二、提升網頁索引效率的 10 個方法
+三、搜尋排名要素與優化 10 大重點
+四、快速提升搜尋流量的 5 個方法
+
+ 基礎的「網路行銷必懂的 SEO 觀念與2017新趨勢」課程也做了2019 新趨勢的更新，買過這個課程的學員，也可上線溫故知新
+https://www.yottau.com.tw/course/intro/530",1579371160,"https://www.facebook.com/gtinternet?fref=nf&__xts__%5B0%5D=68.ARBxh4Ly4WW2zV7k75-VC_F4uy-MHviNgIiCUpZlNiUfo9Tmeu6dPFlYt71qPDEoep0SPzM4TxjzYxDGX3J0y28KVs2oaeW_rqElZb4CPt4kH-AZ8rdgL2eCzZF1VBBHOWq3fcoSZ4uMdPeCwftlX-HkVWzqdgKpVVafsQKAtjZZdZEjmokKw4UMYCOazc0NXLEfvgtuBUrmGtK-XiKD9jI7AWFg4eClkNU2THImsxbSEmsS_v3S4TEYf8o6VRwNLuDqK8m9ProCYFyFh3YRDbXlJ35WuBL8FVTBtN5jSPHoCLxfH0cilKn0Vv7dDoy6tBvXeT-FVek-k--o8XedpI8&__tn__=mH-R","https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-1/cp0/p32x32/67796080_10156400623003779_7759713260449824768_o.jpg?_nc_cat=103&_nc_ohc=9IFYNV7BSBgAX_Sm7PM&_nc_ht=scontent-sin2-2.xx&oh=13205c5917744f43b1b9ac6bb81827ad&oe=5EA3B1E9","連啓佑","連啓佑","link"
+"https://www.facebook.com/newseoera/posts/497791887522553","1578054600","【連啓佑老師帶你認識新·SEO：每月給你SEO最新趨勢】
+1月的文章已經上線了!!
+
+ 之前文章講到了新SEO 在技術面與內容面上的發展趨勢與因應策略，
+而本月連老師將帶大家探討新SEO 的推廣面。
+想知道如何突破傳統SEO流量有限與等待期長的問題嗎?
+趕快來訂閱將能專屬Pressplay!!",1579371163,"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.pressplay.cc%2Fproject%2Fvipp%2F%25E9%2580%25A3%25E5%2595%2593%25E4%25BD%2591%25E8%2580%2581%25E5%25B8%25AB%25E5%25B8%25B6%25E4%25BD%25A0%25E8%25AA%258D%25E8%25AD%2598%25E6%2596%25B0%25C2%25B7SEO%25EF%25BC%259A%25E6%25AF%258F%25E6%259C%2588%25E7%25B5%25A6%25E4%25BD%25A0SEO%25E6%259C%2580%25E6%2596%25B0%25E8%25B6%25A8%25E5%258B%25A2%2FAC6BA58D1A2348190DA09157267D4AC4&h=AT2N4Qp9CaJ9_YUImqZ0tNtrWwx2F25TJSnHtbxScnbYrm1drRgngJMl4-ZovIEU5w01WdK06o4gDm2cMXY-QI90XLrlVtnyN3nOScO1zdoQES9mGUY8KTtm7Pv9z7UQ2wCOttp_0OzsiZnhDpDtgIKrSLevTD44wjzIMUHDfLQJjjHn4DBviLNdfOTKyvuR_iK9VYiSGRw-HfS-Sn0AUVYuuj1gMSh_RcRbai8ssbsGq4M5YCIZZisMca5OUqSEdxLdiiCjLkt9uts_tdpKyzT6FK64kRTUsV-gR8IA-rEzA6D7MYMTz-wTA2FEyoLUDXCxla6k3wbBzJos5CBrvKazhcR6QAP6Yg7TuuwSytF-dSGSE7qopMCebtVIoZxYujAC92M5p-anq-GmGH7WfODhpfw9tvwBDpgqok9GL0T_GlF1n6L9GPLaI_iKrILGvCtGgVVqKUvbTqrxpGwcS6WRn0yb5qpKWX4M2BREbVSDuoHX_ng2vwgFihFtpq4-a8fVcfE6DIloCa-4CFIwTbc4l-31zNRMWAleHAhNwtpF3KRQK-Z-OzrHGsxwajVG-5ujJDExv3rkHLobyHec22ulURnJMwv3hv-DuZIMDDGFip0O5LAyXbewHNJnCKTb48-bTMmQoKS9","https://external-sof1-1.xx.fbcdn.net/safe_image.php?d=AQBIr-QsVlCZmHlw&w=540&h=282&url=https%3A%2F%2Fstatic.pressplay.cc%2Fstatic%2Fuploads%2Fproject_introduce%2F20191014%2F5CFB205A7452E672294BE003A69639A9%2F5da3e6d3def6e5CFB205A7452E672294BE003A69639A920191014110907.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQB6Y63vOktmVCxs","連啓佑老師帶你認識新·SEO：每月給你SEO最新趨勢","學習專區 | 在新·SEO 時代，SEO 這個名詞，除了傳統意義的「搜尋引擎優化」，又被另外賦予更豐富的意涵，亦即「搜尋體驗的優化」。學會新·SEO方法論，就能夠幫助你充分運用手邊資源，提高網路推廣效率，讓你的企業網站提...","pressplay.cc"
+"https://www.facebook.com/newseoera/posts/486886041946471","1576845000","【SEO小教室】台灣2019年Google搜尋關鍵詞排行榜!!
+對於有在經營SEO的網站主，
+對搜尋者使用的關鍵詞總是需要特別留意，
+並且聰明地結合到網站內容中，
+
+ 而2019年台灣有過怎樣熱門的關鍵詞呢?
+尤其是針對快速竄升「如何」、「怎麼」關鍵字，
+都是適合作為經營""精選摘要""的好點子，
+例如：「頭痛怎麼辦」、「紅包怎麼包」...等。",1579371165,"https://l.facebook.com/l.php?u=https%3A%2F%2Ftaiwan.googleblog.com%2F2019%2F12%2Fproducts-search-year-in-search.html&h=AT0ZmHIOE8Jg4L1IrUS4F3DM9VcyKDy5MYtd2eKv6AQwy-HwiKE61UHEja9onk4yzmloiuordK2zqEUT07NWIuzKK1fzahvq1tEW_t0QUFiFqolaxX7aXZN2UjGawMPWZusY6WJHLqNi6gZJJsoGW6FqZtDSIgi22zFsZ4f1onnCOyHuIeLnDjxXk6o_-XdhCYZ7jUNj0U18Y1BWKSlnhCe8sBb9zVm1Y_sISUi2PVJDXPtNG8NT_d_DiNo42d0R60gxzpz-8_t855qQhrKPudgpLmXSqFtMvy-12vxce1zGksIOD2WMEOl1yNS2006kKVkZbQgvmydb29VhSz-p3Qc4EdaUpR05Iti0F25VCnGX4EtSiKwFbvCtstAUM2Hi82Rkun1z6kPqGZEi7qr45gucp74aLfI2IKnz37iYG3Bls2JjOzW4tHTONc0LavQqbVxTG5VGknrFW4Kc5f9Yko8ZblkhyLmdaXnSkqjOnoUuPXQEt9IRAt2ar2yXrPh0Cl3ctA3qE-qm4r7Q8zfjcCGLYCiNaJDngEdIhfY1-lYNqdPtlmXLGeDDAABPa7W3l2xU9KBw5Hcn-c3_8VH89Zaa79FOxCqm3TrCjne3dmUfsmZ6118rV_WeNtADP8HzGz7x6X_am3Wy","https://external.fbkk22-3.fna.fbcdn.net/safe_image.php?d=AQCuOuKTyWFMswKG&w=540&h=282&url=https%3A%2F%2F3.bp.blogspot.com%2F-Q30jwQRoWyo%2FXfBC1wtdL3I%2FAAAAAAAAAVg%2F7Z_QDYpG3i0J1R3SwJxmVZRfR3JnKxWPgCK4BGAYYCw%2Fw1200-h630-p-k-no-nu%2F%2525E8%25259E%2525A2%2525E5%2525B9%252595%2525E5%2525BF%2525AB%2525E7%252585%2525A7%252B2019-12-11%252B%2525E4%2525B8%25258A%2525E5%25258D%2525889.13.12.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQDwvrJuRLgZ8iMR","ไม่มีคำอธิบายรูปภาพ","隨著今年已進入倒數階段，又到了為大家揭曉台灣2019年度搜尋排行榜 (Year in Search) [1] 的時刻。今年的榜單整體而言仍聚焦於影劇內容的搜尋，其他熱門話題則橫跨體育、政經、民生等各個面向。值得注意的是，台劇「我們與惡....","taiwan.googleblog.com台灣2019年搜尋排行榜出爐隨著今年已進入倒數階段，又到了為大家揭曉台灣2019年度搜尋排行榜 (Year in Search) [1] 的時刻。今年的榜單整體而言仍聚焦於影劇內容的搜尋，其他熱門話題則橫跨體育、政經、民生等各個面向。值得注意的是，台劇「我們與惡....隨著今年已進入倒數階段，又到了為大家揭曉台灣2019年度搜尋排行榜 (Year in Search) [1] 的時刻。今年的榜單整體而言仍聚焦於影劇內容的搜尋，其他熱門話題則橫跨體育、政經、民生等各個面向。值得注意的是，台劇「我們與惡...."

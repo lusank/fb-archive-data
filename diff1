@@ -1,0 +1,636 @@
+--- gogogoeball.csv	2020-04-12 15:09:01.650898396 +0000
++++ /tmp/gogogoeball.csv	2020-04-12 14:43:10.720765025 +0000
+@@ -1,4 +1,4 @@
+-﻿﻿url,time,text,posttime,crawled_time,attachment_link,attachment_img,attachment_img_alt,attachment_title,attachment_brief
++﻿url,time,text,posttime,crawled_time,attachment_link,attachment_img,attachment_img_alt,attachment_title,attachment_brief
+ "https://www.facebook.com/gogogoeball/posts/10156530049821270","1562198160","早安！
+ 
+  昨天立法院三讀修正《 #兩岸人民關係條例》，規範少將以上的退伍將領、還有涉密的各類人員，終生不得參加中共相關政治活動。
+@@ -2398,7 +2398,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1573170960","1578996877","/gogogoeball/photos/a.186955736269/10156856623976270/?type=3&eid=ARB-SGQExJhozfyVQY8rnbmyo0xuys6JEM0K1ty0d5sCubp8I-78lGw100NhMUSW7wE8oVIrJ8l-reVi&__xts__%5B0%5D=68.ARAuKbr2ptuWT5kHh96uRBhdm2SGn6qorBkol6mP1KS5cStJcTKW-wlmvWI3nvDnCkhdM5UQR4uFug5KSaQJB6Vef-4wZ0QAvbEEU_qieZ0BwbE2QKXdwjDu8Ai8tH0qNotIB0i4z9MWUGpBouw6GfOIwwBx6OCkWv8hU5za1n_0N0SfrCmQvS2L1w_x3TJtirTivcAcsadxHc8239Yem3IvpvgkN7iDRMr7aZfxKfoYBe_rrx-NOHNvC83T6oLnm23_qG2zeap-UBVanY19i-pWbepdhvsiPbhFdR4sEvT2rCPqImNWXyds2mx3igBp_gjDmCJ80JgWg8Nd7A&__tn__=EEHH-R","https://scontent.fdac14-1.fna.fbcdn.net/v/t1.0-0/p526x296/73495099_10156856623986270_6335843623715733504_o.jpg?_nc_cat=105&_nc_ohc=I3DSeSOLMEAAQmEbZgLgOBXQwrcPJOzlRbR6z48kdzUdYt5w1JBW-_O9Q&_nc_ht=scontent.fdac14-1.fna&_nc_tp=1&oh=4fb55c3b0d8f733882963c905f35b165&oe=5E901485","undefined","",""
++http://line.me/ti/p/@eballgogogo","1573170960",1578996877,"/gogogoeball/photos/a.186955736269/10156856623976270/?type=3&eid=ARB-SGQExJhozfyVQY8rnbmyo0xuys6JEM0K1ty0d5sCubp8I-78lGw100NhMUSW7wE8oVIrJ8l-reVi&__xts__%5B0%5D=68.ARAuKbr2ptuWT5kHh96uRBhdm2SGn6qorBkol6mP1KS5cStJcTKW-wlmvWI3nvDnCkhdM5UQR4uFug5KSaQJB6Vef-4wZ0QAvbEEU_qieZ0BwbE2QKXdwjDu8Ai8tH0qNotIB0i4z9MWUGpBouw6GfOIwwBx6OCkWv8hU5za1n_0N0SfrCmQvS2L1w_x3TJtirTivcAcsadxHc8239Yem3IvpvgkN7iDRMr7aZfxKfoYBe_rrx-NOHNvC83T6oLnm23_qG2zeap-UBVanY19i-pWbepdhvsiPbhFdR4sEvT2rCPqImNWXyds2mx3igBp_gjDmCJ80JgWg8Nd7A&__tn__=EEHH-R","https://scontent.fdac14-1.fna.fbcdn.net/v/t1.0-0/p526x296/73495099_10156856623986270_6335843623715733504_o.jpg?_nc_cat=105&_nc_ohc=I3DSeSOLMEAAQmEbZgLgOBXQwrcPJOzlRbR6z48kdzUdYt5w1JBW-_O9Q&_nc_ht=scontent.fdac14-1.fna&_nc_tp=1&oh=4fb55c3b0d8f733882963c905f35b165&oe=5E901485",undefined,"",""
+ "https://www.facebook.com/gogogoeball/posts/10156858684666270","undefined","以後，每一座橋都要有履歷。
+ 
+  南方澳大橋斷橋的事件，讓我們看了非常遺憾也痛心。一個月後的今天，政府總體檢掌握資料，我也特別到嘉義東石的臥龍橋旁，向國人同胞報告。
+@@ -2417,7 +2417,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1573210801","1578996871","/watch/?ref=external&v=638700413201802&__xts__%5B0%5D=68.ARA79TssVj0FTnzJSa_fSDxO4zqIM18lP7_g-PmKEOTI7pNdQAU4j8xZi4A1tF8qgiELRDMdNn6-dNeMDuXMIuNVQuN5HYW8xbPrQGUpOWASWYnIiy9fVmN3NTvHdu-2BCmbWnnzW3cRGERKCRTNeqRgaeRPcbXgyzzBT5MWKKGB4l8DdcLr5IX9jHRguZXH5b-SXnL75RKm1hmRVqjBQL0awPz96R4-H3OjO-2Jrr6fRZhM3DYPLZ4ioiH-43FEnRFwirctltv11nI5JSNOxmH3-3ts3yYU0SHQPkEjQarO407FvKWyz6D8VDskGX3mh09EJg__OrSJR_JcleKTriAKjkePUQ&__tn__=kFFHHH-R","https://z-p3-scontent.fpnh5-3.fna.fbcdn.net/v/t15.5256-10/72651717_638703913201452_5181150934725558272_n.jpg?_nc_cat=103&_nc_ohc=aXhqPcxEPacAX8B0V5q&_nc_ht=z-p3-scontent.fpnh5-3.fna&oh=be7b684285831f4eb71c5693b6adb619&oe=5ED8C67B","undefined","每一座橋都要有履歷","Posted by 蘇貞昌"
++http://line.me/ti/p/@eballgogogo","1573210801",1578996871,"/watch/?ref=external&v=638700413201802&__xts__%5B0%5D=68.ARA79TssVj0FTnzJSa_fSDxO4zqIM18lP7_g-PmKEOTI7pNdQAU4j8xZi4A1tF8qgiELRDMdNn6-dNeMDuXMIuNVQuN5HYW8xbPrQGUpOWASWYnIiy9fVmN3NTvHdu-2BCmbWnnzW3cRGERKCRTNeqRgaeRPcbXgyzzBT5MWKKGB4l8DdcLr5IX9jHRguZXH5b-SXnL75RKm1hmRVqjBQL0awPz96R4-H3OjO-2Jrr6fRZhM3DYPLZ4ioiH-43FEnRFwirctltv11nI5JSNOxmH3-3ts3yYU0SHQPkEjQarO407FvKWyz6D8VDskGX3mh09EJg__OrSJR_JcleKTriAKjkePUQ&__tn__=kFFHHH-R","https://z-p3-scontent.fpnh5-3.fna.fbcdn.net/v/t15.5256-10/72651717_638703913201452_5181150934725558272_n.jpg?_nc_cat=103&_nc_ohc=aXhqPcxEPacAX8B0V5q&_nc_ht=z-p3-scontent.fpnh5-3.fna&oh=be7b684285831f4eb71c5693b6adb619&oe=5ED8C67B",undefined,"每一座橋都要有履歷","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156801613961270","undefined","窮不能窮教育，苦不能苦孩子，政府推動 #兒少教育發展帳戶 ，就是為了讓不同出身、際遇的孩子，都能打拚衝出屬於自己的未來。
+ 
+  你存一塊、政府也幫你存一塊，為了你的夢想，政府永遠跟您走在一塊。
+@@ -2452,7 +2452,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1573120980","1578996878","/watch/?ref=external&v=738433343289200&__xts__%5B0%5D=68.ARC5KCXLUkdR8Ub5ua0Nt22HtxcPXB4zWCHuQJWjEXybRZMOICq1r6xxjk7rIwBrhDZtOZvmM1JqvHQi7HZdjeu_Kv-0W_-g4BtRN7tpoFcSN5iSMvBeO7vo4agJguDiZSQ8Y4dqxR10Dankbbg2_WzW5gOP2bqizfvOU8IGRU3F2UPvbwpr1ICzfG1HA-Vb6kpBpybclI4NKhFNErQ_VmxBFPCEZ23BK-NiA83giNzeKIMTJyUrK9sQgYeWPZANsL52QmuaKVGi9aIb1FpmvzwtOcqCdvMQCxf6xo5EBRMXU5IjZXC_hBctVmjw3sBGvyBxs6LxAgBwzScPxH6rxtdwY4E&__tn__=kFFHHH-R","https://scontent-sin2-2.xx.fbcdn.net/v/t15.5256-10/71697792_738437776622090_5498335171478290432_n.jpg?_nc_cat=111&_nc_oc=AQn9DPYBW0UGsOFDpHZaaobVY9MfHUKxJs0S2sHfhcXlQF1fR29Cfe4cooT5PmxJIME&_nc_ht=scontent-sin2-2.xx&oh=ec78c3b4e4aab946c621c2294cb51dc8&oe=5ED674C2","undefined","沒有毒品的日子才是好日子","Posted by 蘇貞昌"
++http://line.me/ti/p/@eballgogogo","1573120980",1578996878,"/watch/?ref=external&v=738433343289200&__xts__%5B0%5D=68.ARC5KCXLUkdR8Ub5ua0Nt22HtxcPXB4zWCHuQJWjEXybRZMOICq1r6xxjk7rIwBrhDZtOZvmM1JqvHQi7HZdjeu_Kv-0W_-g4BtRN7tpoFcSN5iSMvBeO7vo4agJguDiZSQ8Y4dqxR10Dankbbg2_WzW5gOP2bqizfvOU8IGRU3F2UPvbwpr1ICzfG1HA-Vb6kpBpybclI4NKhFNErQ_VmxBFPCEZ23BK-NiA83giNzeKIMTJyUrK9sQgYeWPZANsL52QmuaKVGi9aIb1FpmvzwtOcqCdvMQCxf6xo5EBRMXU5IjZXC_hBctVmjw3sBGvyBxs6LxAgBwzScPxH6rxtdwY4E&__tn__=kFFHHH-R","https://scontent-sin2-2.xx.fbcdn.net/v/t15.5256-10/71697792_738437776622090_5498335171478290432_n.jpg?_nc_cat=111&_nc_oc=AQn9DPYBW0UGsOFDpHZaaobVY9MfHUKxJs0S2sHfhcXlQF1fR29Cfe4cooT5PmxJIME&_nc_ht=scontent-sin2-2.xx&oh=ec78c3b4e4aab946c621c2294cb51dc8&oe=5ED674C2",undefined,"沒有毒品的日子才是好日子","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156795045326270","undefined","「繪本的使命不是教小孩聽話，而是用孩子的立場，替孩子講話。」
+ 
+  幸佳慧女士一生致力於創作童書、繪本，鼓勵孩子勇敢、包容、抱持希望。剛剛得知幸女士離開我們的消息，非常難過不捨。
+@@ -2500,7 +2500,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1572170400","1578996882","/watch/?ref=external&v=396317241277306&__xts__%5B0%5D=68.ARC87wQ0zIvfFAOtH-cwqzytdGCoY08uBxNx7riS8t2qZgvrYV8GxcIPJG-oQ1mLXIW3ibiVR8r9Ws1lag76QYHoaIoxUspt-fhF2-_N37d3ZOiAf0dOG2rA5iu6U0B7Z5Va6EkiZ-OHUmeNYcQEr5FJEXEdFrupPRFFCSg-E4O_XIjTDVPR8Cpa5z4fYu_1KTDq9O368H9GufUE6DNprmHLGxdK9EtIe1yM5_w_3YmxaAjp76IECEOF7U1SSpP_CXr5BB2JS3Xxx8su5M38xUJTEXadnbmeucnJwlaOseJOrFWmikUcqpRor0FG0VGaqieAjUkqTL4pRKjr_NWfjJnVvRgMEg&__tn__=kFFHHH-R","https://scontent-amt2-1.xx.fbcdn.net/v/t15.5256-10/71571697_396329271276103_3614769842114002944_n.jpg?_nc_cat=111&_nc_ohc=_ehM0SsQ5uYAQmaSsgMiurLyHz6zZZPwxYzu1OsuojXfGKix0f92Ek1Pw&_nc_ht=scontent-amt2-1.xx&oh=e9b894a9a7ae43fb960296dcdca6cdcf&oe=5E96EEB5","undefined","前瞻基礎建設 不能隨便花啦","Posted by 蘇貞昌"
++http://line.me/ti/p/@eballgogogo","1572170400",1578996882,"/watch/?ref=external&v=396317241277306&__xts__%5B0%5D=68.ARC87wQ0zIvfFAOtH-cwqzytdGCoY08uBxNx7riS8t2qZgvrYV8GxcIPJG-oQ1mLXIW3ibiVR8r9Ws1lag76QYHoaIoxUspt-fhF2-_N37d3ZOiAf0dOG2rA5iu6U0B7Z5Va6EkiZ-OHUmeNYcQEr5FJEXEdFrupPRFFCSg-E4O_XIjTDVPR8Cpa5z4fYu_1KTDq9O368H9GufUE6DNprmHLGxdK9EtIe1yM5_w_3YmxaAjp76IECEOF7U1SSpP_CXr5BB2JS3Xxx8su5M38xUJTEXadnbmeucnJwlaOseJOrFWmikUcqpRor0FG0VGaqieAjUkqTL4pRKjr_NWfjJnVvRgMEg&__tn__=kFFHHH-R","https://scontent-amt2-1.xx.fbcdn.net/v/t15.5256-10/71571697_396329271276103_3614769842114002944_n.jpg?_nc_cat=111&_nc_ohc=_ehM0SsQ5uYAQmaSsgMiurLyHz6zZZPwxYzu1OsuojXfGKix0f92Ek1Pw&_nc_ht=scontent-amt2-1.xx&oh=e9b894a9a7ae43fb960296dcdca6cdcf&oe=5E96EEB5",undefined,"前瞻基礎建設 不能隨便花啦","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156830186351270","undefined","🧯退避權：災害現場沒人受困，可不執行危險救災
+ 🚒資訊權：業者有責告知現場資訊，並派專人協助救災
+ 🔥調查權：基層消防團體代表，參與災害事故調查
+@@ -2512,7 +2512,7 @@
+  💡更多資訊：https://reurl.cc/M7O1lX
+ 
+  #繼續衝 #繼續拚
+-#國家繼續向前進","1572393361","1578996878","/gogogoeball/photos/a.186955736269/10156830185871270/?type=3&eid=ARBLQPe9k0VGp8riaGBry1mo23_rVGryXRc8Oo0ABcZrZGRD71mYxJ0h9M_iOPR5RlNGhp3kJqouo1t5&__xts__%5B0%5D=68.ARDMkJWf5I8zQaGAG5_khrjb5mN_H0VsCSprvyKE8H49EkQVBX9HBaHkkDO5mcnNr0AfQkWTFa6ctOeeizDmII2SdH1ujuMYVaxQtEhLHhjRcYt6AywOoYkma1WSUpHKGV7-Yd_aEvHbbLgsxgvRAYp1ZlUD3vXbXYFoeem2mydRZHe2pH0NZSiOKwHnja0DcRPjfT1l4m1_opoYiomuAFE7xtessiBbwmhV0wSnTbfg2zPyZJJQ2KSU8VpBeeEs5_lAOrtgyO89F2sZM7mLQpiA_CGHkwEHywpTIkzDpKLsFsRY9x4J6aFDOhN8FGeHFP6PvJPRW-5-6hAWlw&__tn__=EEHH-R","https://scontent.fcnx3-1.fna.fbcdn.net/v/t1.0-0/p526x296/74272928_10156830185876270_9046698350975385600_o.jpg?_nc_cat=107&_nc_ohc=ya4uyCMW9TIAX8Exitl&_nc_ht=scontent.fcnx3-1.fna&_nc_tp=1&oh=b1d82084d845e49bf2923864eeb66ac0&oe=5E987E2F","undefined","",""
++#國家繼續向前進","1572393361",1578996878,"/gogogoeball/photos/a.186955736269/10156830185871270/?type=3&eid=ARBLQPe9k0VGp8riaGBry1mo23_rVGryXRc8Oo0ABcZrZGRD71mYxJ0h9M_iOPR5RlNGhp3kJqouo1t5&__xts__%5B0%5D=68.ARDMkJWf5I8zQaGAG5_khrjb5mN_H0VsCSprvyKE8H49EkQVBX9HBaHkkDO5mcnNr0AfQkWTFa6ctOeeizDmII2SdH1ujuMYVaxQtEhLHhjRcYt6AywOoYkma1WSUpHKGV7-Yd_aEvHbbLgsxgvRAYp1ZlUD3vXbXYFoeem2mydRZHe2pH0NZSiOKwHnja0DcRPjfT1l4m1_opoYiomuAFE7xtessiBbwmhV0wSnTbfg2zPyZJJQ2KSU8VpBeeEs5_lAOrtgyO89F2sZM7mLQpiA_CGHkwEHywpTIkzDpKLsFsRY9x4J6aFDOhN8FGeHFP6PvJPRW-5-6hAWlw&__tn__=EEHH-R","https://scontent.fcnx3-1.fna.fbcdn.net/v/t1.0-0/p526x296/74272928_10156830185876270_9046698350975385600_o.jpg?_nc_cat=107&_nc_ohc=ya4uyCMW9TIAX8Exitl&_nc_ht=scontent.fcnx3-1.fna&_nc_tp=1&oh=b1d82084d845e49bf2923864eeb66ac0&oe=5E987E2F",undefined,"",""
+ "https://www.facebook.com/gogogoeball/posts/10156838710181270","undefined","減輕學生的學貸壓力，蔡英文 Tsai Ing-wen 總統早就在做了。
+ 
+  蔡政府不但 #放寬學貸申請資格、 #大大降低利息 。對年輕人而言最有感、也最重要的是，我們讓弱勢學生繳納本金的時間 #最多延後八年 
+@@ -2528,7 +2528,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1572590824","1578996874","/watch/?ref=external&v=444849909480400&__xts__%5B0%5D=68.ARB5p2_AezEMrrOCZuyB3-dAyU5LJ3Qgrh3kEzWDNix3eI71-u_d_XD5f5A4KD917DKZvbGrgGu8PyW-2_Qemb1PQox6yw8vLH4haJBa6LSoNeHtA-gINODLduNONSZqn_f4_NbZ3_KmrG5i3wnGRodQEAtGIBpapjJiKy3FBt_ooV8Dun5E2CBixtLi6Otb-QUeCeq4trwFvUcsFodCt-SNVuq5YXdPOfyDroSZqkmlMfmVJkXxP-7GQ4JuM60Te_rukjTgHVAB-PYQ1s-dOvJaXSAyaIxZ3CaKX7rP8TkljyjFPTJXKOiAClo7oc6MwIOvVu0ZEPI68vwiuKgiJX0RMk8&__tn__=kFFHHH-R","https://scontent-cdt1-1.xx.fbcdn.net/v/t15.5256-10/72297217_444854199479971_6310074846436917248_n.jpg?_nc_cat=110&_nc_ohc=jZnDVYlMscAAX8rpB3b&_nc_ht=scontent-cdt1-1.xx&oh=4ab7f9a83f57d242143a2a96b64a4f43&oe=5E975670","undefined","降低學貸壓力 蔡政府早在做","Posted by 蘇貞昌"
++http://line.me/ti/p/@eballgogogo","1572590824",1578996874,"/watch/?ref=external&v=444849909480400&__xts__%5B0%5D=68.ARB5p2_AezEMrrOCZuyB3-dAyU5LJ3Qgrh3kEzWDNix3eI71-u_d_XD5f5A4KD917DKZvbGrgGu8PyW-2_Qemb1PQox6yw8vLH4haJBa6LSoNeHtA-gINODLduNONSZqn_f4_NbZ3_KmrG5i3wnGRodQEAtGIBpapjJiKy3FBt_ooV8Dun5E2CBixtLi6Otb-QUeCeq4trwFvUcsFodCt-SNVuq5YXdPOfyDroSZqkmlMfmVJkXxP-7GQ4JuM60Te_rukjTgHVAB-PYQ1s-dOvJaXSAyaIxZ3CaKX7rP8TkljyjFPTJXKOiAClo7oc6MwIOvVu0ZEPI68vwiuKgiJX0RMk8&__tn__=kFFHHH-R","https://scontent-cdt1-1.xx.fbcdn.net/v/t15.5256-10/72297217_444854199479971_6310074846436917248_n.jpg?_nc_cat=110&_nc_ohc=jZnDVYlMscAAX8rpB3b&_nc_ht=scontent-cdt1-1.xx&oh=4ab7f9a83f57d242143a2a96b64a4f43&oe=5E975670",undefined,"降低學貸壓力 蔡政府早在做","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156847481471270","undefined","要讓 #青年 生活更好，政府方方面面都要顧到！
+ 
+  
+@@ -2544,7 +2544,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1572853899","1578996879","/gogogoeball/photos/a.186955736269/10156847478931270/?type=3&eid=ARBkJwXd2fMiPjmU42C1bIqN03duLSXmqksy940kJi62_KXzQBaJjb-zXe9mAGxh-CUqupbUv4lTJt0Y&__xts__%5B0%5D=68.ARCeK-_23TzwCD97wga3VKyRx9mE3imglWXlcoYSdLzP81oyyD8oafPuNFQpuVP7Z4f-fqgIqOQfnwS9cPgzXWKecQHTgb_oUXmyZJCpB-Fc5irKC09k-fhkxSm_rYzHiunmBca8hTN8Zk0an04AsvpGjQ-mXCtSdhdVefKK3flCT8cSo5ZP9uphkgL73tS6IIhW-lVxBv9mQaQGJNF9JTbD8a6ZzZvMntFYwYAn5ex5mQWtDQl3YRzXS31pSPoQkIISL3Vjla-UUuMMs9b3oFA-SuaP5sJAaV3u5ScWBI8O89iRokvXfpnau4wql-n3LB5GLyTQCIm5k9xKLQ&__tn__=EEHH-R","https://scontent.fdac22-1.fna.fbcdn.net/v/t1.0-0/p180x540/74701583_10156847478946270_3991120753767481344_o.jpg?_nc_cat=104&_nc_ohc=qAn3XD1C2F8AX9nUdYT&_nc_ht=scontent.fdac22-1.fna&_nc_tp=1&oh=426ceb64d836a51dacc6008efa4c6986&oe=5EA043C2","undefined","",""
++http://line.me/ti/p/@eballgogogo","1572853899",1578996879,"/gogogoeball/photos/a.186955736269/10156847478931270/?type=3&eid=ARBkJwXd2fMiPjmU42C1bIqN03duLSXmqksy940kJi62_KXzQBaJjb-zXe9mAGxh-CUqupbUv4lTJt0Y&__xts__%5B0%5D=68.ARCeK-_23TzwCD97wga3VKyRx9mE3imglWXlcoYSdLzP81oyyD8oafPuNFQpuVP7Z4f-fqgIqOQfnwS9cPgzXWKecQHTgb_oUXmyZJCpB-Fc5irKC09k-fhkxSm_rYzHiunmBca8hTN8Zk0an04AsvpGjQ-mXCtSdhdVefKK3flCT8cSo5ZP9uphkgL73tS6IIhW-lVxBv9mQaQGJNF9JTbD8a6ZzZvMntFYwYAn5ex5mQWtDQl3YRzXS31pSPoQkIISL3Vjla-UUuMMs9b3oFA-SuaP5sJAaV3u5ScWBI8O89iRokvXfpnau4wql-n3LB5GLyTQCIm5k9xKLQ&__tn__=EEHH-R","https://scontent.fdac22-1.fna.fbcdn.net/v/t1.0-0/p180x540/74701583_10156847478946270_3991120753767481344_o.jpg?_nc_cat=104&_nc_ohc=qAn3XD1C2F8AX9nUdYT&_nc_ht=scontent.fdac22-1.fna&_nc_tp=1&oh=426ceb64d836a51dacc6008efa4c6986&oe=5EA043C2",undefined,"",""
+ "https://www.facebook.com/gogogoeball/posts/10156770569821270","undefined","#中華民國生日快樂
+ 
+  把事做好、把國家顧好，
+@@ -2583,7 +2583,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1572435000","1578996880","/watch/?ref=external&v=402210934003748&__xts__%5B0%5D=68.ARBN_7B9SDQLCJSUXgbI9aAObxnhbMSvDWq_JzkNj-c4B0YeqLOmULC1JJ1tMcBU7HQHW6hg82ZfMv_S8xE1Z_TvJjdPcCqJU-8a2biam2z_gLoS6Kcrf0tIiDaSiS-vrkbqnoKItPmbXP6o1aervBQgaHOGbUr4eSdWnp12ixqqD6wFanRvoH5O5uTHnq_F8pGZ42Y1Qq_CusHUljn0jInw-W_yYIE1_QqjL3Wp23CHI_7czxUFoagLU3eFzflMIU9ezySD3FPdLPsOQbzd775FcYud1dzAl_6qXeUMW2VJHWnEvQarxNyWsAk4yfUji8TXwfCCHJ5JcoOwbIWXQZ9SZcM&__tn__=kFFHHH-R","https://scontent-sin6-2.xx.fbcdn.net/v/t15.5256-10/70620258_402214957336679_236760802336440320_n.jpg?_nc_cat=111&_nc_oc=AQli-MDLftrHmsmDyV0CSo64dn80UPvxtex24IFOHvbil6wB7-saRkkWNFRu6KpQ-2k&_nc_ht=scontent-sin6-2.xx&oh=6a438411a034ec5d5efa09ce3fb8ea35&oe=5EAA00C8","undefined","雙北共飲翡翠水","Posted by 蘇貞昌"
++http://line.me/ti/p/@eballgogogo","1572435000",1578996880,"/watch/?ref=external&v=402210934003748&__xts__%5B0%5D=68.ARBN_7B9SDQLCJSUXgbI9aAObxnhbMSvDWq_JzkNj-c4B0YeqLOmULC1JJ1tMcBU7HQHW6hg82ZfMv_S8xE1Z_TvJjdPcCqJU-8a2biam2z_gLoS6Kcrf0tIiDaSiS-vrkbqnoKItPmbXP6o1aervBQgaHOGbUr4eSdWnp12ixqqD6wFanRvoH5O5uTHnq_F8pGZ42Y1Qq_CusHUljn0jInw-W_yYIE1_QqjL3Wp23CHI_7czxUFoagLU3eFzflMIU9ezySD3FPdLPsOQbzd775FcYud1dzAl_6qXeUMW2VJHWnEvQarxNyWsAk4yfUji8TXwfCCHJ5JcoOwbIWXQZ9SZcM&__tn__=kFFHHH-R","https://scontent-sin6-2.xx.fbcdn.net/v/t15.5256-10/70620258_402214957336679_236760802336440320_n.jpg?_nc_cat=111&_nc_oc=AQli-MDLftrHmsmDyV0CSo64dn80UPvxtex24IFOHvbil6wB7-saRkkWNFRu6KpQ-2k&_nc_ht=scontent-sin6-2.xx&oh=6a438411a034ec5d5efa09ce3fb8ea35&oe=5EAA00C8",undefined,"雙北共飲翡翠水","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156830163406270","undefined","今天早上，我到 #高雄 #前鎮漁港 向漁民朋友報告好消息。
+ 
+  前鎮漁港是南台灣有規模、有歷史的遠洋漁港，老漁港就是需要新設備，行政院已經批准支持 #多功能船員服務中心 
+@@ -2603,7 +2603,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1572354180","1578996872","/watch/?ref=external&v=695034857672709&__xts__%5B0%5D=68.ARD1w3NtpgUl0H8Gvj0fZ7NGGnSckAEmNa3XOvyaOKbwRciSwLDAbWAW3zpv5P_T-njl7exd5KCMu__Wm9KvG-9NQlnrH34j0B3XIfDwOmAOKke7ahPCNstuU_9CJtdoxCZ8OY5Wo4t0IT-MY02UlmDRQGjkLWr-6JowZHzKlZrw_xTh7qxYcX5JG-j2ZGT-JhyNLtmY2DkwkccyoeSkMCeIKLnRlLD7D_Qui1iM4lYFtEna8eoT-lQkZey-ui-FFpSTA3JjDAL_cqyGmMdD8fOsZik61zIHa2ufjyB1KPjJCChHHDyCg4d-_p4m_OHAFeGGl-Hfg42AxdFDEYeZXOwY2WqXCA&__tn__=kFFHHH-R","https://scontent.fdac22-1.fna.fbcdn.net/v/t15.5256-10/71093204_695036974339164_3015404007746174976_n.jpg?_nc_cat=101&_nc_ohc=AXnblDVm8qwAX_-LJRT&_nc_ht=scontent.fdac22-1.fna&oh=8f5c15cde04c2176fb30afeaf877754d&oe=5EA59CE1","undefined","向高雄漁民報告好消息！","Posted by 蘇貞昌"
++http://line.me/ti/p/@eballgogogo","1572354180",1578996872,"/watch/?ref=external&v=695034857672709&__xts__%5B0%5D=68.ARD1w3NtpgUl0H8Gvj0fZ7NGGnSckAEmNa3XOvyaOKbwRciSwLDAbWAW3zpv5P_T-njl7exd5KCMu__Wm9KvG-9NQlnrH34j0B3XIfDwOmAOKke7ahPCNstuU_9CJtdoxCZ8OY5Wo4t0IT-MY02UlmDRQGjkLWr-6JowZHzKlZrw_xTh7qxYcX5JG-j2ZGT-JhyNLtmY2DkwkccyoeSkMCeIKLnRlLD7D_Qui1iM4lYFtEna8eoT-lQkZey-ui-FFpSTA3JjDAL_cqyGmMdD8fOsZik61zIHa2ufjyB1KPjJCChHHDyCg4d-_p4m_OHAFeGGl-Hfg42AxdFDEYeZXOwY2WqXCA&__tn__=kFFHHH-R","https://scontent.fdac22-1.fna.fbcdn.net/v/t15.5256-10/71093204_695036974339164_3015404007746174976_n.jpg?_nc_cat=101&_nc_ohc=AXnblDVm8qwAX_-LJRT&_nc_ht=scontent.fdac22-1.fna&oh=8f5c15cde04c2176fb30afeaf877754d&oe=5EA59CE1",undefined,"向高雄漁民報告好消息！","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156760781771270","undefined","🍲天氣愈涼，施政就要愈溫暖！
+ 
+  即日起，買 #節能爐具，無論是 #熱水器 或 #瓦斯爐，只要有「 #能效分級 標示1、2級」，每臺補助1000元！強制排氣的熱水器，更是讓你現省2000元！
+@@ -2620,7 +2620,7 @@
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+ http://line.me/ti/p/@eballgogogo","1570323360","1578287617","/gogogoeball/photos/a.186955736269/10156760760806270/?type=3&eid=ARDcM79xmvS1BfQTOz12w2SfTUizc981nDa_THt7szdMiMgheW6cTiVfLEsbYUizuB_mxSWoxuVYmwpK&__xts__%5B0%5D=68.ARDjAV8xnG0BONp-mXzlFb3F6g3lGx-u_VZ69go4xnj2XFYywcRZPIZgzMTg6Tn7Wx5uIpefP8cs6KQxbFFdRrl7bVl8hutSgiC3e7KlJ6LA-BXlx6fqONcCjl82uM_Pz9I5yF1AIhW5WTDUFVZpTfNAIjOg0R4jxl9uf2lbC8yTXfzotKF4h4o6yM-CtXCz09DPT7k51otFJx8VuSzQgx-5WkPSuS2XIVsq46Kdz6iLfNO9OPbQJh4G5P1I9JIyFEw2BYVGUMgjs7jvgQgrCRRc0X39dqCcbRKTMWIc5iTh6sVUWLa8GrsvKV3FIdEL18rQZ5DzeJGpEjMSQw&__tn__=EHH-R","https://scontent-gig2-1.xx.fbcdn.net/v/t1.0-0/p526x296/71588183_10156760760811270_1933632476098330624_o.jpg?_nc_cat=107&_nc_ohc=6btpkOu04ccAQlYou1UGawv0jQMdiNriDXe1tedGy3Wq98JE4vUUi7ZHA&_nc_ht=scontent-gig2-1.xx&oh=edffb3dd8f882dce58d74174aeaea58f&oe=5EA48000","undefined","",""
+-"https://www.facebook.com/gogogoeball/posts/10156835732301270","undefined","","[Error]: TypeError: Cannot read property 'attribs' of undefined","1578996877","undefined","undefined","undefined","undefined","undefined"
++"https://www.facebook.com/gogogoeball/posts/10156835732301270","undefined","","[Error]: TypeError: Cannot read property 'attribs' of undefined",1578996877,undefined,undefined,undefined,undefined,undefined
+ "https://www.facebook.com/gogogoeball/posts/10156744900676270","undefined","⚠️陸上颱風警報已發布⚠️
+ 
+  🌀米塔颱風快速進逼， 報天氣 - 中央氣象局 已經發布陸上颱風警報，明天東部、北部地區，都可能受暴風圈影響，請國人注意安全、做好防颱措施。
+@@ -2641,7 +2641,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1572004080","1578996872","/watch/?ref=external&v=441708523144890&__xts__%5B0%5D=68.ARC68wj36VHbBCirs17JrLZD3BSzD3_go0CQkfDQPbzVQVSwK_MDx4iQoPWd8lWRgn2QV0K3jxnCTXRvV_j9GzpvWU6PXVHxQH30BEROE2QZUDw4MHZoIL4V0yYrrPvsid52o1LKvnxHJhIouTQCU5L_htPfBH-TFZS-cZFcRjbLLz6S6nGqKkt_k_SD3-2wpQ9ya5YvAHxzV9aHuqfx425jF4lLFn8D7peT8X7BgIBDQtwg1M4J0sesr6PkLlu2kUgpLNUtbaa96ab9FOziKLr0kKchUnd5DiwXvs_W1kiiBqTTMkBOxK3IowiyV9qXTt_9BFsAKX69BFT_bxKjwweuQ5iq2A&__tn__=kFFHHH-R","https://scontent.fcgk13-1.fna.fbcdn.net/v/t15.5256-10/73048697_441716289810780_1701469908698660864_n.jpg?_nc_cat=107&_nc_ohc=uuTIEstnSC8AX-BqAM_&_nc_ht=scontent.fcgk13-1.fna&oh=ff661c8bf6ef55159cbe0666d8bcc0ba&oe=5EDBAE9E","undefined","同婚施行五個月 向鄉親報告（台語版）","Diposting oleh 蘇貞昌"
++http://line.me/ti/p/@eballgogogo","1572004080",1578996872,"/watch/?ref=external&v=441708523144890&__xts__%5B0%5D=68.ARC68wj36VHbBCirs17JrLZD3BSzD3_go0CQkfDQPbzVQVSwK_MDx4iQoPWd8lWRgn2QV0K3jxnCTXRvV_j9GzpvWU6PXVHxQH30BEROE2QZUDw4MHZoIL4V0yYrrPvsid52o1LKvnxHJhIouTQCU5L_htPfBH-TFZS-cZFcRjbLLz6S6nGqKkt_k_SD3-2wpQ9ya5YvAHxzV9aHuqfx425jF4lLFn8D7peT8X7BgIBDQtwg1M4J0sesr6PkLlu2kUgpLNUtbaa96ab9FOziKLr0kKchUnd5DiwXvs_W1kiiBqTTMkBOxK3IowiyV9qXTt_9BFsAKX69BFT_bxKjwweuQ5iq2A&__tn__=kFFHHH-R","https://scontent.fcgk13-1.fna.fbcdn.net/v/t15.5256-10/73048697_441716289810780_1701469908698660864_n.jpg?_nc_cat=107&_nc_ohc=uuTIEstnSC8AX-BqAM_&_nc_ht=scontent.fcgk13-1.fna&oh=ff661c8bf6ef55159cbe0666d8bcc0ba&oe=5EDBAE9E",undefined,"同婚施行五個月 向鄉親報告（台語版）","Diposting oleh 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156839316216270","undefined","週末夜，來推薦大家一本書。
+ 
+  
+@@ -2657,7 +2657,7 @@
+ 【博客來】 https://www.books.com.tw/products/0010836712
+ 【誠品】 http://www.eslite.com/product.aspx?pgid=1001223352799532
+ 【金石堂】 https://www.kingstone.com.tw/new/basic/2018561786842
+-【讀冊】 https://www.taaze.tw/goods/11100888946.html","1572614067","1578996875","/gogogoeball/photos/a.10151236918331270/10156839314061270/?type=3&eid=ARD0bdwQI3geEmLeBdleZmF2meZA6QIQ8KjtX1AVg8mg2rkGD2x0fSG_TmoZhbMk7vSVJPrllftruJ4Q&__xts__%5B0%5D=68.ARDf9s_BRfMG-uZGSZS64-31rCKgxGUJaJZDy2SRls0u5gzkLYzdX7bz9C2-324w48C_Yba4bbaT55U6tGZpVtRnkgpl6JPNivwsNjYQcbhqDGaz8Vo8DCEbTLXEfvzjpPpsZQivKToEc909-iRFUkgFJI_GUdmiJZFwp5MJNIQ-wt7da7eHQIqB_HTIjRYv8Ags21TUN1n7QCwDXT0o_lPn0IqmIdHwXjfTKfLhp8m37_3A0jMXB5uqePnk0-UIO-rSqC6SO86xyAvyxdVBhRhWw7tNiGrnxgNfGvwfOSCV4qhlAzF86zowNJ9xsou2fxU90wmWJrjWCdqNGA&__tn__=EHH-R","https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-0/p526x296/72746695_10156839314066270_5098253620621606912_o.jpg?_nc_cat=109&_nc_ohc=3VZvHuwweJgAX90I86E&_nc_ht=scontent-sin6-2.xx&_nc_tp=1&oh=9d773bb2abb633df0f0575f11f7b7672&oe=5EA0CFE3","undefined","",""
++【讀冊】 https://www.taaze.tw/goods/11100888946.html","1572614067",1578996875,"/gogogoeball/photos/a.10151236918331270/10156839314061270/?type=3&eid=ARD0bdwQI3geEmLeBdleZmF2meZA6QIQ8KjtX1AVg8mg2rkGD2x0fSG_TmoZhbMk7vSVJPrllftruJ4Q&__xts__%5B0%5D=68.ARDf9s_BRfMG-uZGSZS64-31rCKgxGUJaJZDy2SRls0u5gzkLYzdX7bz9C2-324w48C_Yba4bbaT55U6tGZpVtRnkgpl6JPNivwsNjYQcbhqDGaz8Vo8DCEbTLXEfvzjpPpsZQivKToEc909-iRFUkgFJI_GUdmiJZFwp5MJNIQ-wt7da7eHQIqB_HTIjRYv8Ags21TUN1n7QCwDXT0o_lPn0IqmIdHwXjfTKfLhp8m37_3A0jMXB5uqePnk0-UIO-rSqC6SO86xyAvyxdVBhRhWw7tNiGrnxgNfGvwfOSCV4qhlAzF86zowNJ9xsou2fxU90wmWJrjWCdqNGA&__tn__=EHH-R","https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-0/p526x296/72746695_10156839314066270_5098253620621606912_o.jpg?_nc_cat=109&_nc_ohc=3VZvHuwweJgAX90I86E&_nc_ht=scontent-sin6-2.xx&_nc_tp=1&oh=9d773bb2abb633df0f0575f11f7b7672&oe=5EA0CFE3",undefined,"",""
+ "https://www.facebook.com/gogogoeball/posts/10156817213541270","undefined","台灣政府努力要還受害人公道，要求司法互助、要求派檢警押人、要求司法不能有空窗期，香港政府卻只想替反送中解套，還放嫌犯出來趴趴走。
+ 
+  有人卻在此時遊走兩岸、居中牽線，一邊為受害人流淚、一邊卻要替兇手辯護。現在看來，政府步步為營、小心謹慎，本來就是對的。
+@@ -2670,7 +2670,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1571974402","1578996884","/watch/?ref=external&v=2527436954145022&__xts__%5B0%5D=68.ARC746Hu_fSPgcEpl0Jc4GM9e4QEpaZhn0kFpuNp2s-U-CAJg5u0XK9pLYlNUbukPA8X44opknoA14jRKgeXMPl1Jt4eDeBoUBQ2QUa_8zdZ5kPhQACq3WEFQovMOLKSZP0AIHYLoNY3zo-fpnhRDTuUAeCvZSJSuGN2hd9EB0we813uXQYrfFAPnm_L-r_SRT7QrD8J9sa1HYVxM6B3Blxt2x00R0C8JjU550NhjjS6Mz1Cr4zBEzoHChg-FxlMUk3qDgstBwuTJT0aaHRx3j-4QONH2MIbI-9ykHdeQiNPQxrTLxXboLjBMAOKoAY720saPydqzRax3QC-T-DU766QJ9yHmQ&__tn__=kFFHHH-R","https://scontent.flim1-2.fna.fbcdn.net/v/t15.5256-10/71190220_2527450937476957_4021647341197983744_n.jpg?_nc_cat=109&_nc_ohc=54IgVyH3pa4AX98GNhU&_nc_ht=scontent.flim1-2.fna&oh=5c7ad47119144db0619c446eb2129a18&oe=5E8E8051","undefined","捍衛主權 伸張正義 步步為營是對的","Posted by 蘇貞昌"
++http://line.me/ti/p/@eballgogogo","1571974402",1578996884,"/watch/?ref=external&v=2527436954145022&__xts__%5B0%5D=68.ARC746Hu_fSPgcEpl0Jc4GM9e4QEpaZhn0kFpuNp2s-U-CAJg5u0XK9pLYlNUbukPA8X44opknoA14jRKgeXMPl1Jt4eDeBoUBQ2QUa_8zdZ5kPhQACq3WEFQovMOLKSZP0AIHYLoNY3zo-fpnhRDTuUAeCvZSJSuGN2hd9EB0we813uXQYrfFAPnm_L-r_SRT7QrD8J9sa1HYVxM6B3Blxt2x00R0C8JjU550NhjjS6Mz1Cr4zBEzoHChg-FxlMUk3qDgstBwuTJT0aaHRx3j-4QONH2MIbI-9ykHdeQiNPQxrTLxXboLjBMAOKoAY720saPydqzRax3QC-T-DU766QJ9yHmQ&__tn__=kFFHHH-R","https://scontent.flim1-2.fna.fbcdn.net/v/t15.5256-10/71190220_2527450937476957_4021647341197983744_n.jpg?_nc_cat=109&_nc_ohc=54IgVyH3pa4AX98GNhU&_nc_ht=scontent.flim1-2.fna&oh=5c7ad47119144db0619c446eb2129a18&oe=5E8E8051",undefined,"捍衛主權 伸張正義 步步為營是對的","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156841200546270","undefined","台灣的經濟成長率，已經連續兩季名列亞洲四小龍第一！
+ 
+  根據本週行政院主計總處公布的最新數據，台灣第三季經濟成長率來到2.91％，不只能贏韓國，連香港、新加坡都比下去！
+@@ -2688,7 +2688,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1572662913","1578996885","/gogogoeball/photos/a.186955736269/10156841193816270/?type=3&eid=ARBPMqNYPecYVu_oDGqsSsJ8Au80X2BQyTwZ8kIGz-FcX8RvevZxrW1z09UK727dvGKEqjuInqowROo5&__xts__%5B0%5D=68.ARBflzQCuXHs6t4jJhv-KY1IT3122woQ5QuVFAW1HN6x3jeefsEkL0pbfBxTTcKwqrm6BiJ0pq_GteVOYWsPNUXJDQSEtKWFIyVgCSLE8tW14gV1cTbw78NXhLnqom77uqeWgaHKYWmo6fkNPEgUyMLuSKGxwjAtv8bGKOfhKxhdzysbGEAUI8v3wpNVx8iriJcQ3fh0C_ZVKi5KlL_dkECQczsjzdJjqjc56NDFbb5ikOs8M33-Eufu49B7Y1XUAXmyeLUckL1JFP3EILeGhov9oSaotZLubVx2byoV1gq4HGDFmAVUaU3kY4GE3_q31rjeQsDs3Ph5hs6_kA&__tn__=EEHH-R","https://scontent.fcgk13-1.fna.fbcdn.net/v/t1.0-0/p526x296/75474011_10156841193821270_7885511684318560256_o.jpg?_nc_cat=103&_nc_oc=AQmjjHhO1z8SW9GF6vJJsNJ_svmNKY7RZ3Z_w3z5kOiQj2rTlz5u7t8JN6lthvf97ew&_nc_ht=scontent.fcgk13-1.fna&_nc_tp=1&oh=b53626dfeca83949cfab13ccf9bee602&oe=5EAC7D30","undefined","",""
++http://line.me/ti/p/@eballgogogo","1572662913",1578996885,"/gogogoeball/photos/a.186955736269/10156841193816270/?type=3&eid=ARBPMqNYPecYVu_oDGqsSsJ8Au80X2BQyTwZ8kIGz-FcX8RvevZxrW1z09UK727dvGKEqjuInqowROo5&__xts__%5B0%5D=68.ARBflzQCuXHs6t4jJhv-KY1IT3122woQ5QuVFAW1HN6x3jeefsEkL0pbfBxTTcKwqrm6BiJ0pq_GteVOYWsPNUXJDQSEtKWFIyVgCSLE8tW14gV1cTbw78NXhLnqom77uqeWgaHKYWmo6fkNPEgUyMLuSKGxwjAtv8bGKOfhKxhdzysbGEAUI8v3wpNVx8iriJcQ3fh0C_ZVKi5KlL_dkECQczsjzdJjqjc56NDFbb5ikOs8M33-Eufu49B7Y1XUAXmyeLUckL1JFP3EILeGhov9oSaotZLubVx2byoV1gq4HGDFmAVUaU3kY4GE3_q31rjeQsDs3Ph5hs6_kA&__tn__=EEHH-R","https://scontent.fcgk13-1.fna.fbcdn.net/v/t1.0-0/p526x296/75474011_10156841193821270_7885511684318560256_o.jpg?_nc_cat=103&_nc_oc=AQmjjHhO1z8SW9GF6vJJsNJ_svmNKY7RZ3Z_w3z5kOiQj2rTlz5u7t8JN6lthvf97ew&_nc_ht=scontent.fcgk13-1.fna&_nc_tp=1&oh=b53626dfeca83949cfab13ccf9bee602&oe=5EAC7D30",undefined,"",""
+ "https://www.facebook.com/gogogoeball/posts/10156766216151270","undefined","","[Error]: TypeError: Cannot read property 'attribs' of undefined","1578287637","undefined","undefined","undefined","undefined","undefined"
+ "https://www.facebook.com/gogogoeball/posts/10156850386691270","undefined","用台語唸唸看，不只可以找到韻腳，還可以抓出眉角。
+ 
+@@ -2705,7 +2705,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1572948181","1578996880","/watch/?ref=external&v=2459411087710274&__xts__%5B0%5D=68.ARC3Jotv8Sp6dGbLYNA3imxWhVHTBRR1jswIVOlO5ngKshnxEhw4a1orYUQai5CuKzxVt5Z8ErgNV65bkrFVbD1jJuaoIcNErQOvvCPUgI9vtnq_pqMXTl-HsWWqIeRKggZd3HNdcViz0SgzmUMp7QHIonXrJyLIbYM-iE80ywqoo236rQ6xruF6M185eTbgfDIv_OL8ObWyEkHGl5WG-NFFtBNXP-DOuIAfLDB6TK-CjphY3wLW5TPUk7-CVcauqkEIWR0xAIqnlGKc2w6jAEMFBa07AaNuELI5lZxbcIUPavScg6JD8JnRRwuj3fLzYftwC8UeOnwBtJM5xjvkJFu9f9Np9A&__tn__=kFFHHH-R","https://scontent-cdg2-1.xx.fbcdn.net/v/t15.5256-10/73302541_2459418721042844_7820254050007384064_n.jpg?_nc_cat=103&_nc_ohc=yuN1nhUHtr0AX9tRz4X&_nc_ht=scontent-cdg2-1.xx&oh=544bbf6cca491ae040e022f5a1e95b77&oe=5E8E3BAD","undefined","「二十六條」台語怎麼念？","Posted by 蘇貞昌"
++http://line.me/ti/p/@eballgogogo","1572948181",1578996880,"/watch/?ref=external&v=2459411087710274&__xts__%5B0%5D=68.ARC3Jotv8Sp6dGbLYNA3imxWhVHTBRR1jswIVOlO5ngKshnxEhw4a1orYUQai5CuKzxVt5Z8ErgNV65bkrFVbD1jJuaoIcNErQOvvCPUgI9vtnq_pqMXTl-HsWWqIeRKggZd3HNdcViz0SgzmUMp7QHIonXrJyLIbYM-iE80ywqoo236rQ6xruF6M185eTbgfDIv_OL8ObWyEkHGl5WG-NFFtBNXP-DOuIAfLDB6TK-CjphY3wLW5TPUk7-CVcauqkEIWR0xAIqnlGKc2w6jAEMFBa07AaNuELI5lZxbcIUPavScg6JD8JnRRwuj3fLzYftwC8UeOnwBtJM5xjvkJFu9f9Np9A&__tn__=kFFHHH-R","https://scontent-cdg2-1.xx.fbcdn.net/v/t15.5256-10/73302541_2459418721042844_7820254050007384064_n.jpg?_nc_cat=103&_nc_ohc=yuN1nhUHtr0AX9tRz4X&_nc_ht=scontent-cdg2-1.xx&oh=544bbf6cca491ae040e022f5a1e95b77&oe=5E8E3BAD",undefined,"「二十六條」台語怎麼念？","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156809074586270","undefined","政府的態度很清楚，通緝犯只要出現在我國境內，一定逮捕。
+ 
+  
+@@ -2758,8 +2758,8 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1572775201","1578996884","/watch/?ref=external&v=775999656172808&__xts__%5B0%5D=68.ARBY1rj8CtpG3g_C5CBc4B7TUr3phdMiY5JMn1LQv_kpPrxCLMuTqaPGxLtgBh36q7RkrP7EynXGwXk1M-c0vUWI3aEemUWOTvVsEH07RguysySEFgAJ_LJHJvrBlCLrOzz63_lkcNJwjQU9Kte_acwIkPiAVvkjikRS722LIvXGX9Wm6rfQrjEkDN5kpn28XR35lNsJq0VaipCiXVpGbCBJefTFglQpcUBoi2sd6-sYwf_FrJzis2_2hutmAng_9mnmso-CXaynQDTwf3kRg4Vx_83hWcA7cTIUl6-x3o7IU7lGU4Tvb4Ybs1VS4NpIG_0MJq32WIqKijmQ6rZlSfI3kYNCNg&__tn__=kFFHHH-R","https://scontent.forf1-2.fna.fbcdn.net/v/t15.5256-10/71186649_776003059505801_6874505567142936576_n.jpg?_nc_cat=102&_nc_ohc=JD_Kjdvd9xAAX8nf8Mb&_nc_ht=scontent.forf1-2.fna&oh=e9a276cb518768abec2d57ba26c4ac6d&oe=5E982E28","undefined","建設不分藍綠 替造橋鄉親造橋","Posted by 蘇貞昌"
+-"https://www.facebook.com/gogogoeball/posts/10156821280286270","undefined","","[Error]: TypeError: Cannot read property 'attribs' of undefined","1578996880","undefined","undefined","undefined","undefined","undefined"
++http://line.me/ti/p/@eballgogogo","1572775201",1578996884,"/watch/?ref=external&v=775999656172808&__xts__%5B0%5D=68.ARBY1rj8CtpG3g_C5CBc4B7TUr3phdMiY5JMn1LQv_kpPrxCLMuTqaPGxLtgBh36q7RkrP7EynXGwXk1M-c0vUWI3aEemUWOTvVsEH07RguysySEFgAJ_LJHJvrBlCLrOzz63_lkcNJwjQU9Kte_acwIkPiAVvkjikRS722LIvXGX9Wm6rfQrjEkDN5kpn28XR35lNsJq0VaipCiXVpGbCBJefTFglQpcUBoi2sd6-sYwf_FrJzis2_2hutmAng_9mnmso-CXaynQDTwf3kRg4Vx_83hWcA7cTIUl6-x3o7IU7lGU4Tvb4Ybs1VS4NpIG_0MJq32WIqKijmQ6rZlSfI3kYNCNg&__tn__=kFFHHH-R","https://scontent.forf1-2.fna.fbcdn.net/v/t15.5256-10/71186649_776003059505801_6874505567142936576_n.jpg?_nc_cat=102&_nc_ohc=JD_Kjdvd9xAAX8nf8Mb&_nc_ht=scontent.forf1-2.fna&oh=e9a276cb518768abec2d57ba26c4ac6d&oe=5E982E28",undefined,"建設不分藍綠 替造橋鄉親造橋","Posted by 蘇貞昌"
++"https://www.facebook.com/gogogoeball/posts/10156821280286270","undefined","","[Error]: TypeError: Cannot read property 'attribs' of undefined",1578996880,undefined,undefined,undefined,undefined,undefined
+ "https://www.facebook.com/gogogoeball/posts/10156808615016270","undefined","【 #認同請分享 】 相挺漁民，國家機器真的衝得很厲害！
+ 
+  
+@@ -2860,14 +2860,14 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1575503760","1578996880","/gogogoeball/photos/a.186955736269/10156932875296270/?type=3&eid=ARDt5KUAqqp9dzal1wxBc4dg1PCRSUMQi-m-4swLMvqjbeA8pRs04GSkIKD7Qr7-3gaT5NCa6jrpJo5U&__xts__%5B0%5D=68.ARCMrDt-F2LAC5a04HgsqggjLLhdA_UC2Gy-StLktl2MOC_zCHTYrte2q3MQ-z56-k0JuKxUEi0KY31mnGKUc9y0faYKkSjaiBx5snYmK2jbLsGRSlxoEx-mnGsNOFWUTOAfdc5ixX4sWvfZ1RR07G3tsx1rC1gxMji17ybcBJbXaqlGz1-bXblidkm5nSXUN3CFxRNsvWdXK-hR4LUM-WNtedgFyvMzWJyS4eldI4ME8EvcMjzHV9GJO-VycRjpLAGpMbWMmAPtIdF7HYnQ0Mkza6BClq6e4RWsFxd8qk7gLREqVPPudTnpuelvl2I-oBsm93h3pK5X3KD2ow&__tn__=EEHH-R","https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-0/p526x296/79387379_10156932875301270_7116703299859906560_o.jpg?_nc_cat=104&_nc_ohc=Ejgag1TU5HIAQnJCN18N2sBYf191D32fgTllbMT1PqQ7ecgOyxBtj9tdw&_nc_ht=scontent-sin2-2.xx&_nc_tp=1&oh=90321a9d919c18fd75d137fdc86e8238&oe=5ED56EF4","undefined","",""
++http://line.me/ti/p/@eballgogogo","1575503760",1578996880,"/gogogoeball/photos/a.186955736269/10156932875296270/?type=3&eid=ARDt5KUAqqp9dzal1wxBc4dg1PCRSUMQi-m-4swLMvqjbeA8pRs04GSkIKD7Qr7-3gaT5NCa6jrpJo5U&__xts__%5B0%5D=68.ARCMrDt-F2LAC5a04HgsqggjLLhdA_UC2Gy-StLktl2MOC_zCHTYrte2q3MQ-z56-k0JuKxUEi0KY31mnGKUc9y0faYKkSjaiBx5snYmK2jbLsGRSlxoEx-mnGsNOFWUTOAfdc5ixX4sWvfZ1RR07G3tsx1rC1gxMji17ybcBJbXaqlGz1-bXblidkm5nSXUN3CFxRNsvWdXK-hR4LUM-WNtedgFyvMzWJyS4eldI4ME8EvcMjzHV9GJO-VycRjpLAGpMbWMmAPtIdF7HYnQ0Mkza6BClq6e4RWsFxd8qk7gLREqVPPudTnpuelvl2I-oBsm93h3pK5X3KD2ow&__tn__=EEHH-R","https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-0/p526x296/79387379_10156932875301270_7116703299859906560_o.jpg?_nc_cat=104&_nc_ohc=Ejgag1TU5HIAQnJCN18N2sBYf191D32fgTllbMT1PqQ7ecgOyxBtj9tdw&_nc_ht=scontent-sin2-2.xx&_nc_tp=1&oh=90321a9d919c18fd75d137fdc86e8238&oe=5ED56EF4",undefined,"",""
+ "https://www.facebook.com/gogogoeball/posts/10156956374521270","undefined","電火球來了，
+ 請大家告訴大家。
+ 
+  #繼續衝 #繼續拚
+ #國家繼續向前進
+ 
+- 詳細時間地點請看留言。","1576232862","1578996878","/watch/?ref=external&v=598729500882331&__xts__%5B0%5D=68.ARAfy5zbcHxD0LDdC6VzKaMLBWGP7eqarZO1LklYrwfzAP46m446wpu7R9cc2xbL4RS1KowJQ9O4Zodb5xWwdpjQrvhsVp7gIXTfUOK_skovKLIqhD5ISPtT_1TRiZS652xrTy3aVAqFI3TaK_b4zJVDYrucZBO1PSlCnlwhzMNzQTStoLx_FqEqPPoQYWE05C6_Y7Pm917-7dF4NyYGSu1Jx537DozAReny3JPNrjovvPFfSLOPVn7Vix_jKSbXmuW4Ap6fXMu8Jf-OMPTkjciULZthmlNrU4aLYi6bP3xrjVsQUE3HsplGD8_KX6tR5B05gw9YNTh-O6Ijg-WmaGRUcow&__tn__=kFFHHH-R","https://scontent-sin2-2.xx.fbcdn.net/v/t15.5256-10/74604320_598733074215307_1369416843059527680_n.jpg?_nc_cat=102&_nc_ohc=OG3_TvaPOL8AQk-TGMjr1FDHUctcOJmXHImVeQ1dpx4f-ABPqPDnTfUNA&_nc_ht=scontent-sin2-2.xx&oh=5598a616eafb678c029e9321bb83c962&oe=5EA7A185","undefined","電火球來了","Posted by 蘇貞昌"
++ 詳細時間地點請看留言。","1576232862",1578996878,"/watch/?ref=external&v=598729500882331&__xts__%5B0%5D=68.ARAfy5zbcHxD0LDdC6VzKaMLBWGP7eqarZO1LklYrwfzAP46m446wpu7R9cc2xbL4RS1KowJQ9O4Zodb5xWwdpjQrvhsVp7gIXTfUOK_skovKLIqhD5ISPtT_1TRiZS652xrTy3aVAqFI3TaK_b4zJVDYrucZBO1PSlCnlwhzMNzQTStoLx_FqEqPPoQYWE05C6_Y7Pm917-7dF4NyYGSu1Jx537DozAReny3JPNrjovvPFfSLOPVn7Vix_jKSbXmuW4Ap6fXMu8Jf-OMPTkjciULZthmlNrU4aLYi6bP3xrjVsQUE3HsplGD8_KX6tR5B05gw9YNTh-O6Ijg-WmaGRUcow&__tn__=kFFHHH-R","https://scontent-sin2-2.xx.fbcdn.net/v/t15.5256-10/74604320_598733074215307_1369416843059527680_n.jpg?_nc_cat=102&_nc_ohc=OG3_TvaPOL8AQk-TGMjr1FDHUctcOJmXHImVeQ1dpx4f-ABPqPDnTfUNA&_nc_ht=scontent-sin2-2.xx&oh=5598a616eafb678c029e9321bb83c962&oe=5EA7A185",undefined,"電火球來了","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156985925756270","undefined","認同請留言： #向開路英雄致敬 。
+ 
+  我親自開吉普車，載著鄭敬伶、郭鑑智兩位工程人員，第一次走上這條公路，向第一線人員表達敬意與謝意。
+@@ -2885,7 +2885,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1577149929","1578996870","/watch/?ref=external&v=571725983645387&__xts__%5B0%5D=68.ARANUtFSvlPnW2inNWmrw1toCPs5F-wcVd61-Dk3nfAML8shWtezbT3UuJRcVHM4qMcEqqX5zvuJcsdkyReNaBCm6XZ505AnuzronMXFIWOp3P_xTLkPY4H01EJ-W_87DdNYjYFTFDTyB_mneK3kH8g0-JqZwm43yTXqGDe4w-HWUkMOmfWGyFh8TkIt5HfJ3m54RH8BtwwvJDaxpA8H4sg6JgQTudHUDayIBZopaVIc-U-ZFlprFXqWEVwarbilksFpItsESeQWF0teU4C-RzkgCf5QAapGSrfQIHzg4ZClVgJKqTUpoU0I4C-ECp-SzIQAauUndCFqC3LESswUFNQzkTo&__tn__=kFFHHH-R","https://scontent-sin2-2.xx.fbcdn.net/v/t15.5256-10/72925155_571727270311925_5901684878914617344_n.jpg?_nc_cat=111&_nc_oc=AQmphjzuv0abj4v1zz_voOE6t2l9WBiX6ONKcuwA62aJNXoe0fgt71nAT6jHP4FtkEU&_nc_ht=scontent-sin2-2.xx&oh=f73af4460578ba31e0c149161b11a472&oe=5EA35C39","undefined","向開路英雄致敬","Posted by 蘇貞昌"
++http://line.me/ti/p/@eballgogogo","1577149929",1578996870,"/watch/?ref=external&v=571725983645387&__xts__%5B0%5D=68.ARANUtFSvlPnW2inNWmrw1toCPs5F-wcVd61-Dk3nfAML8shWtezbT3UuJRcVHM4qMcEqqX5zvuJcsdkyReNaBCm6XZ505AnuzronMXFIWOp3P_xTLkPY4H01EJ-W_87DdNYjYFTFDTyB_mneK3kH8g0-JqZwm43yTXqGDe4w-HWUkMOmfWGyFh8TkIt5HfJ3m54RH8BtwwvJDaxpA8H4sg6JgQTudHUDayIBZopaVIc-U-ZFlprFXqWEVwarbilksFpItsESeQWF0teU4C-RzkgCf5QAapGSrfQIHzg4ZClVgJKqTUpoU0I4C-ECp-SzIQAauUndCFqC3LESswUFNQzkTo&__tn__=kFFHHH-R","https://scontent-sin2-2.xx.fbcdn.net/v/t15.5256-10/72925155_571727270311925_5901684878914617344_n.jpg?_nc_cat=111&_nc_oc=AQmphjzuv0abj4v1zz_voOE6t2l9WBiX6ONKcuwA62aJNXoe0fgt71nAT6jHP4FtkEU&_nc_ht=scontent-sin2-2.xx&oh=f73af4460578ba31e0c149161b11a472&oe=5EA35C39",undefined,"向開路英雄致敬","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156948417821270","undefined","王清霜大師今年99歲，是正港的「人間國寶」，一家三代都是漆藝大師，更教出許多人才。政府要「以展代典」，意思是不該只是典藏，更要弄好空間、推出展覽，讓大家看看來自台灣、世界一流的工藝作品有多厲害。
+ 
+  台灣有世界一流的人才、世界一流的好作品，政府會繼續讓能工巧匠被更多人看見，也歡迎你來現場欣賞品鑑。
+@@ -2897,11 +2897,11 @@
+ 地點： https://www.ntcri.gov.tw/taipei/
+ 
+  #繼續衝 #繼續拚
+-#國家繼續向前進","1575979201","1578996871","/watch/?ref=external&v=1018486155176695&__xts__%5B0%5D=68.ARCkpymizXu-_G3UMf-_G0t9ASfbVdy2vGIjFvQzO5A4FHFeIzFZ_VqEZNuYsXhGU60ppMrJ1pxfpLyn6YyEYsSbkJph8TuZmc56c4nk0NIz28sfxfgqZ98NfwTFtk4oASnUXZQok5D-FtR3Y6WWPaJNx1S0ihvSEw2lhUU0VvS6gfdi5QqGfTn_QbJKsQKRDTOiuNJFhbwhwEG31zkeDW2dUHfbZtcxMH6X7bZm0VEM2YT2i7uVNMmENI8iC4ySrX03XF1lxHv5hyBs3dQXakzkxG6AVzoO2FhjAIpP4SH6w0IcSCbqUq2vfzAusinJrPGV_OgYpm49Ky0cFpXyhaffdk0&__tn__=kFFHHH-R","https://scontent-cdt1-1.xx.fbcdn.net/v/t15.5256-10/74899069_1018492521842725_5503941521138778112_n.jpg?_nc_cat=103&_nc_ohc=mNSMAWkAyuAAX8ECcWL&_nc_ht=scontent-cdt1-1.xx&oh=6873db0bfd8072def9fbe9d0a579597f&oe=5EAC4F66","undefined","來看台灣漆藝國寶","Posted by 蘇貞昌"
++#國家繼續向前進","1575979201",1578996871,"/watch/?ref=external&v=1018486155176695&__xts__%5B0%5D=68.ARCkpymizXu-_G3UMf-_G0t9ASfbVdy2vGIjFvQzO5A4FHFeIzFZ_VqEZNuYsXhGU60ppMrJ1pxfpLyn6YyEYsSbkJph8TuZmc56c4nk0NIz28sfxfgqZ98NfwTFtk4oASnUXZQok5D-FtR3Y6WWPaJNx1S0ihvSEw2lhUU0VvS6gfdi5QqGfTn_QbJKsQKRDTOiuNJFhbwhwEG31zkeDW2dUHfbZtcxMH6X7bZm0VEM2YT2i7uVNMmENI8iC4ySrX03XF1lxHv5hyBs3dQXakzkxG6AVzoO2FhjAIpP4SH6w0IcSCbqUq2vfzAusinJrPGV_OgYpm49Ky0cFpXyhaffdk0&__tn__=kFFHHH-R","https://scontent-cdt1-1.xx.fbcdn.net/v/t15.5256-10/74899069_1018492521842725_5503941521138778112_n.jpg?_nc_cat=103&_nc_ohc=mNSMAWkAyuAAX8ECcWL&_nc_ht=scontent-cdt1-1.xx&oh=6873db0bfd8072def9fbe9d0a579597f&oe=5EAC4F66",undefined,"來看台灣漆藝國寶","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156978891381270","undefined","行政院長不好當。
+ 假日還要去你家巷口報告政府最近在幹嘛。
+ 
+- #有政府 #會做事","1576933868","1578996871","https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fp%2FB6VeundH_My%2F%3Figshid%3D16bywxwy18j98&h=AT26-keFo1XYn92iZcfTmdy3e7iMUoeMU-lFd96z9Y3rh6_zLaoSIGkArtpw-DrsLcaoA7MN5q1WpccjvLkYAFQIpLzvRlEFST0FM8wFfMfKxX9Eo8QwhQx1vBvt810YwWhUZ3mEUAB8qlKTV_7qUcWxzRed94r0adLXNpYxozXUwDIreb6WvVBhnTjCnv7Tyqg0xFQskAfsoCQ9NIxuYSGgPbJmUuFTIp2n-5HwroH8-IT5r9yH9uFOr2ZFrhDwVqyLynrNhEBg56CluMTElHEQ-oRAufkSBv8EYQbnHM07PxoHrSK2XuDc9tbgB37_80_OdHMadTAwZVajJHB072tNadCkWLzrp4wsqL468mSicLBnkissFQSsyI66kYSY4W3ArFrJoxkDHqi-KMxsNfyqa4K1xfMSyeKY-KyjPkZx2HAWcf7bVJ2Ye5FVk-bAvLpwcMAFIsgdNPZgR5RIUZq5ZAPkCxqGr8o6wtPWWshSfZDJZ04VD0G0GjdiIQ5Puag5iKz9HawVG1ulTeDtlLW4ROMeYw9ikNR97EldMhzEs5yywQ8CqqxyQyyoaekKlIBxxwEH97SH0cP67UlXTYbktlV0BFs-5dqQh2yDHQefUTSNhZxngg6WfFkHzTCRqYvH6_vJNgClGCZUI6FL_MU","https://scontent-cdg2-1.xx.fbcdn.net/v/t51.2885-15/75244404_1011575422545261_2493702485211067696_n.jpg?_nc_cat=109&_nc_ohc=eN-EJ4S1DxQAX8Z4EcH&_nc_ht=scontent-cdg2-1.xx&oh=538b53055e22d4165298d62ae0c20ae0&oe=5E91E2E8","undefined","",""
++ #有政府 #會做事","1576933868",1578996871,"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fp%2FB6VeundH_My%2F%3Figshid%3D16bywxwy18j98&h=AT26-keFo1XYn92iZcfTmdy3e7iMUoeMU-lFd96z9Y3rh6_zLaoSIGkArtpw-DrsLcaoA7MN5q1WpccjvLkYAFQIpLzvRlEFST0FM8wFfMfKxX9Eo8QwhQx1vBvt810YwWhUZ3mEUAB8qlKTV_7qUcWxzRed94r0adLXNpYxozXUwDIreb6WvVBhnTjCnv7Tyqg0xFQskAfsoCQ9NIxuYSGgPbJmUuFTIp2n-5HwroH8-IT5r9yH9uFOr2ZFrhDwVqyLynrNhEBg56CluMTElHEQ-oRAufkSBv8EYQbnHM07PxoHrSK2XuDc9tbgB37_80_OdHMadTAwZVajJHB072tNadCkWLzrp4wsqL468mSicLBnkissFQSsyI66kYSY4W3ArFrJoxkDHqi-KMxsNfyqa4K1xfMSyeKY-KyjPkZx2HAWcf7bVJ2Ye5FVk-bAvLpwcMAFIsgdNPZgR5RIUZq5ZAPkCxqGr8o6wtPWWshSfZDJZ04VD0G0GjdiIQ5Puag5iKz9HawVG1ulTeDtlLW4ROMeYw9ikNR97EldMhzEs5yywQ8CqqxyQyyoaekKlIBxxwEH97SH0cP67UlXTYbktlV0BFs-5dqQh2yDHQefUTSNhZxngg6WfFkHzTCRqYvH6_vJNgClGCZUI6FL_MU","https://scontent-cdg2-1.xx.fbcdn.net/v/t51.2885-15/75244404_1011575422545261_2493702485211067696_n.jpg?_nc_cat=109&_nc_ohc=eN-EJ4S1DxQAX8Z4EcH&_nc_ht=scontent-cdg2-1.xx&oh=538b53055e22d4165298d62ae0c20ae0&oe=5E91E2E8",undefined,"",""
+ "https://www.facebook.com/gogogoeball/posts/10156971216796270","undefined","#旅客數據不含轉機人數
+ 
+  各位國人同胞、各位來台旅遊的外國朋友，大家早！
+@@ -2922,7 +2922,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1576713360","1578996873","/gogogoeball/photos/a.186955736269/10156971210976270/?type=3&eid=ARA1Dgefllz6atAt9hRdjvplNvM-icDI48E-Dzzzfu5VT583byLg-58ASNt7iGltQJBKNSbPUiBPGXaT&__xts__%5B0%5D=68.ARB2tIhBShmYdJQfIlIqLDYbvyAX5e_n6cjtVzYHZ6Ig3ZqQijZfoLY40mk1rpV-R8-6SVDkHvLkDSq31jmm27NUF_ehxj7aD-qpEeje_vTaa4kHnKL6qlhLLiCqXSxM5ZAF6yZW1MFkUCIkQDJqStg-Rlw_xmndmn9ZFf3h-k2sx9ot0-1vViqjkTzuxtKTxzOfV3VwoDFBZvG48cKRd9-0yehSX9gwDqG0362UNEc6fglWjVZht5NYbF7EXGRlmTeb_HISYzvJR6pbXp9KecftdIWKgAzYJLhhSxwO3Vn4BrDkhjU7i0nlso2VwI_EwtX3Q1pOB_nN9HNdYA&__tn__=EEHH-R","https://scontent-gru1-1.xx.fbcdn.net/v/t1.0-0/p526x296/79430294_10156971210986270_5329544623192801280_o.jpg?_nc_cat=110&_nc_ohc=-ql2rkZqWjMAQlE_MfwvbSg7oJW8reOdHLgEg8u90Oz9TYcZj704SVRZg&_nc_ht=scontent-gru1-1.xx&_nc_tp=1&oh=33c3e4ab5e6c5477dcd3be9f92f0ed4c&oe=5E931600","undefined","",""
++http://line.me/ti/p/@eballgogogo","1576713360",1578996873,"/gogogoeball/photos/a.186955736269/10156971210976270/?type=3&eid=ARA1Dgefllz6atAt9hRdjvplNvM-icDI48E-Dzzzfu5VT583byLg-58ASNt7iGltQJBKNSbPUiBPGXaT&__xts__%5B0%5D=68.ARB2tIhBShmYdJQfIlIqLDYbvyAX5e_n6cjtVzYHZ6Ig3ZqQijZfoLY40mk1rpV-R8-6SVDkHvLkDSq31jmm27NUF_ehxj7aD-qpEeje_vTaa4kHnKL6qlhLLiCqXSxM5ZAF6yZW1MFkUCIkQDJqStg-Rlw_xmndmn9ZFf3h-k2sx9ot0-1vViqjkTzuxtKTxzOfV3VwoDFBZvG48cKRd9-0yehSX9gwDqG0362UNEc6fglWjVZht5NYbF7EXGRlmTeb_HISYzvJR6pbXp9KecftdIWKgAzYJLhhSxwO3Vn4BrDkhjU7i0nlso2VwI_EwtX3Q1pOB_nN9HNdYA&__tn__=EEHH-R","https://scontent-gru1-1.xx.fbcdn.net/v/t1.0-0/p526x296/79430294_10156971210986270_5329544623192801280_o.jpg?_nc_cat=110&_nc_ohc=-ql2rkZqWjMAQlE_MfwvbSg7oJW8reOdHLgEg8u90Oz9TYcZj704SVRZg&_nc_ht=scontent-gru1-1.xx&_nc_tp=1&oh=33c3e4ab5e6c5477dcd3be9f92f0ed4c&oe=5E931600",undefined,"",""
+ "https://www.facebook.com/gogogoeball/posts/10157006193651270","undefined","在2020開始前，
+ 一起 #回顧2019 ，我們一起衝的樣子。
+ 
+@@ -2935,7 +2935,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1577794740","1578996878","/watch/?ref=external&v=781027415734460&__xts__%5B0%5D=68.ARB17d2NV0VSVmGI-fhuPSn-sI0m24AQ8eUcv-WFYrT9jWmKuDaRmGItydEq5GeJG0IZKmx_avp6QfGMYzVVvuQVtTkiFaOXvF3DzGaeeN_2N08do6_Yj2lGMEWZqJUr_Zxpl1HBEeYVZYQpfHJOaDztEda8-0PTKYzufekGwAwc-opsz-ipi6uXpFEpBNYZRyVswkP1k2r1I77NnEPAP3EzcFSF27_5-UOWq4_MZ8hGx0VZzJWdHiM_MsuHpfAlOKSzFN_SdZSyLdQJGyd0I2ID-rRHG7MkKLG9Xw1mRkN8FPZeB-n23T2xgRFK65O8kVXKMQxULsoIP6Wt_B4EGNvfOXGs5g&__tn__=kFFHHH-R","https://scontent-cdg2-1.xx.fbcdn.net/v/t15.5256-10/69959552_781032332400635_5708845739291967488_n.jpg?_nc_cat=109&_nc_ohc=gevprqE7WSIAX9rWQ2E&_nc_ht=scontent-cdg2-1.xx&oh=4dc512a64a2be70936e9d68fc6efa1cf&oe=5ED6607E","undefined","回顧2019","Posted by 蘇貞昌"
++http://line.me/ti/p/@eballgogogo","1577794740",1578996878,"/watch/?ref=external&v=781027415734460&__xts__%5B0%5D=68.ARB17d2NV0VSVmGI-fhuPSn-sI0m24AQ8eUcv-WFYrT9jWmKuDaRmGItydEq5GeJG0IZKmx_avp6QfGMYzVVvuQVtTkiFaOXvF3DzGaeeN_2N08do6_Yj2lGMEWZqJUr_Zxpl1HBEeYVZYQpfHJOaDztEda8-0PTKYzufekGwAwc-opsz-ipi6uXpFEpBNYZRyVswkP1k2r1I77NnEPAP3EzcFSF27_5-UOWq4_MZ8hGx0VZzJWdHiM_MsuHpfAlOKSzFN_SdZSyLdQJGyd0I2ID-rRHG7MkKLG9Xw1mRkN8FPZeB-n23T2xgRFK65O8kVXKMQxULsoIP6Wt_B4EGNvfOXGs5g&__tn__=kFFHHH-R","https://scontent-cdg2-1.xx.fbcdn.net/v/t15.5256-10/69959552_781032332400635_5708845739291967488_n.jpg?_nc_cat=109&_nc_ohc=gevprqE7WSIAX9rWQ2E&_nc_ht=scontent-cdg2-1.xx&oh=4dc512a64a2be70936e9d68fc6efa1cf&oe=5ED6607E",undefined,"回顧2019","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10157009381416270","undefined","各位網友，新年要有新目標，確實做到更重要。
+ 這張是我們2019的新年目標，現在看來，項項都有達標。
+ 
+@@ -2953,7 +2953,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1577862180","1578996871","/gogogoeball/photos/a.186955736269/10157009329681270/?type=3&eid=ARBKzokJe2QUWrJL3TnYobge_hYcNMeEF2wK_CwAV9XqjhYBjm2yLei9lnWeClnvQzLa-GFIAjF0_2w9&__xts__%5B0%5D=68.ARB1z7-mXn0GtzIwMXgfMvQAsuo7tScdnGQT8AKTyhrJMVzemULSu2FOmhAXo3n_oTodkRufmAjfq-nKY5M_MFEs6D0bUUv5f0Gp8dcRurpb3uXYDT8SkBtHOEZy5hYeda2TN6xdU02w3TKCMXho8P6H-LzmtGvDfUtlyx4F_9kWDNQ96ZO8Ecw5dWHQKXq6IUixe9fRPtX6LCXjXUgKhpaNfq2hh9gvWbm6_FyQW2OgZQ_Cq14s2h9VEHBe49SqnM5R8-fnC0_ByOFk7WNZEPAqhi7oE7e6yhCUc5cL2DusjOu8pzqdwnujhfsMUHiegelvgdQFb-c8Au6-Kg&__tn__=EEHH-R","https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-0/p526x296/81432203_10157009329686270_813963523125149696_o.jpg?_nc_cat=110&_nc_oc=AQn0hkVJhUizfUCjzLc29NeHjQ2AqH1KrNwlI5CqfCslxQYgENsF2d3_TvkMxkvODJzrumUS19yDmd1t-b7LPetP&_nc_ht=scontent-cdt1-1.xx&_nc_tp=1&oh=5689710c1fe29685adecd788dd3efb12&oe=5E9124F3","undefined","",""
++http://line.me/ti/p/@eballgogogo","1577862180",1578996871,"/gogogoeball/photos/a.186955736269/10157009329681270/?type=3&eid=ARBKzokJe2QUWrJL3TnYobge_hYcNMeEF2wK_CwAV9XqjhYBjm2yLei9lnWeClnvQzLa-GFIAjF0_2w9&__xts__%5B0%5D=68.ARB1z7-mXn0GtzIwMXgfMvQAsuo7tScdnGQT8AKTyhrJMVzemULSu2FOmhAXo3n_oTodkRufmAjfq-nKY5M_MFEs6D0bUUv5f0Gp8dcRurpb3uXYDT8SkBtHOEZy5hYeda2TN6xdU02w3TKCMXho8P6H-LzmtGvDfUtlyx4F_9kWDNQ96ZO8Ecw5dWHQKXq6IUixe9fRPtX6LCXjXUgKhpaNfq2hh9gvWbm6_FyQW2OgZQ_Cq14s2h9VEHBe49SqnM5R8-fnC0_ByOFk7WNZEPAqhi7oE7e6yhCUc5cL2DusjOu8pzqdwnujhfsMUHiegelvgdQFb-c8Au6-Kg&__tn__=EEHH-R","https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-0/p526x296/81432203_10157009329686270_813963523125149696_o.jpg?_nc_cat=110&_nc_oc=AQn0hkVJhUizfUCjzLc29NeHjQ2AqH1KrNwlI5CqfCslxQYgENsF2d3_TvkMxkvODJzrumUS19yDmd1t-b7LPetP&_nc_ht=scontent-cdt1-1.xx&_nc_tp=1&oh=5689710c1fe29685adecd788dd3efb12&oe=5E9124F3",undefined,"",""
+ "https://www.facebook.com/gogogoeball/posts/10157003862666270","undefined","早安！
+ 
+  記住口訣：「老幼添東西、農勞增新利」，2020元旦起，從基本薪資到公路開通，有這麼多新制上路，請大家告訴大家！
+@@ -2969,13 +2969,13 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1577750160","1578996887","/gogogoeball/photos/a.186955736269/10157003857986270/?type=3&eid=ARArmivP5nx1OGTBZLEJutdvm6nXmj4ibdnpyvJB2u48MVca1gvKySvlox792GLipHdONx666__wLc7V&__xts__%5B0%5D=68.ARATVL8SwELPm0vmFBsu7gungBMtkA-4GrqD3HzqLKBAIsdQ15pU3XLbEGQ-1BFAVcsrFJoySlWDRpRmrOj3QTYkKqfSdaqvk81nXYhpJf0bcg1OvXGwTaka7R6pG8NWjXuy_ksb8JpXQvsYhvJjh1ssS1ogzGq1gfPSfJZa28NzBj3Wk18KG3uPnWoNhuJz5oEqHTUAaNyG6rkb-f856iZAH2YSPE1pSJ0RkdJxkZdEm7w7tjDaDdDlzsc45_nfDgSBefOisWLNpb6hww8yVMOB-PyAJr0CTinwfErX3-s6YL8VShkMjF66i_NNlW1hdPye5erCkzfXGVpJmQ&__tn__=EEHH-R","https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-0/p526x296/81189616_10157003857991270_7556376932992942080_o.png?_nc_cat=110&_nc_ohc=5cgzv0g2PpMAQmF3Yzopn0pD8oG1rTgwfu15qgVc4FWOVA9Uf5w79F37Q&_nc_ht=scontent-sin2-2.xx&oh=44c66feecc62fc6f2b56737613c95cd3&oe=5EAAB3C5","undefined","",""
++http://line.me/ti/p/@eballgogogo","1577750160",1578996887,"/gogogoeball/photos/a.186955736269/10157003857986270/?type=3&eid=ARArmivP5nx1OGTBZLEJutdvm6nXmj4ibdnpyvJB2u48MVca1gvKySvlox792GLipHdONx666__wLc7V&__xts__%5B0%5D=68.ARATVL8SwELPm0vmFBsu7gungBMtkA-4GrqD3HzqLKBAIsdQ15pU3XLbEGQ-1BFAVcsrFJoySlWDRpRmrOj3QTYkKqfSdaqvk81nXYhpJf0bcg1OvXGwTaka7R6pG8NWjXuy_ksb8JpXQvsYhvJjh1ssS1ogzGq1gfPSfJZa28NzBj3Wk18KG3uPnWoNhuJz5oEqHTUAaNyG6rkb-f856iZAH2YSPE1pSJ0RkdJxkZdEm7w7tjDaDdDlzsc45_nfDgSBefOisWLNpb6hww8yVMOB-PyAJr0CTinwfErX3-s6YL8VShkMjF66i_NNlW1hdPye5erCkzfXGVpJmQ&__tn__=EEHH-R","https://scontent-sin2-2.xx.fbcdn.net/v/t1.0-0/p526x296/81189616_10157003857991270_7556376932992942080_o.png?_nc_cat=110&_nc_ohc=5cgzv0g2PpMAQmF3Yzopn0pD8oG1rTgwfu15qgVc4FWOVA9Uf5w79F37Q&_nc_ht=scontent-sin2-2.xx&oh=44c66feecc62fc6f2b56737613c95cd3&oe=5EAAB3C5",undefined,"",""
+ "https://www.facebook.com/gogogoeball/posts/10157012674266270","undefined","今天早上，參謀總長率領國軍同袍前往東部執行慰勉任務，途中發生迫降事件。目前得知參謀總長沈一鳴上將、政戰局副局長于親文少將、情次室助次洪鴻鈞少將、總士官督導長韓正宏士官長、參謀總長侍從官黃聖航少校、駕駛葉建儀中校、副駕駛劉鎮富上尉、機工長許鴻彬士官長，共八位國軍同袍罹難，五位同袍受傷。
+ 
+  這是國家的重大損失、也是全體國人同感哀戚的憾事。
+ 
+- 我要代表政府向罹難者表示哀悼，感謝所有參與搜救的工作同仁，政府會持續提供傷者最完善的醫療照顧，並全力幫助罹難者家屬度過難關。","1577949464","1578996870","undefined","undefined","undefined","undefined","undefined"
+-"https://www.facebook.com/gogogoeball/posts/10156910243896270","undefined","","[Error]: TypeError: Cannot read property 'attribs' of undefined","1578996877","undefined","undefined","undefined","undefined","undefined"
++ 我要代表政府向罹難者表示哀悼，感謝所有參與搜救的工作同仁，政府會持續提供傷者最完善的醫療照顧，並全力幫助罹難者家屬度過難關。","1577949464",1578996870,undefined,undefined,undefined,undefined,undefined
++"https://www.facebook.com/gogogoeball/posts/10156910243896270","undefined","","[Error]: TypeError: Cannot read property 'attribs' of undefined",1578996877,undefined,undefined,undefined,undefined,undefined
+ "https://www.facebook.com/gogogoeball/posts/10156937325161270","undefined","為了阻止民眾遊行，政府發布宵禁、動員軍警、發射催淚彈。隔日，情治單位發動大逮補、反對派人士紛紛入獄、平民被軍法判處重刑。
+ 
+  在台灣，這是四十年前國際人權日發生的事。當時我擔任辯護律師，政治犯有的被打、忍受酷刑、剝奪睡眠，有的被獄方要求寫遺書，卻不知該寫給誰。
+@@ -2993,7 +2993,7 @@
+ （新北市新店區復興路131號）
+ 
+  展期｜2019.12.7 - 2020.9.30
+-星期二至星期日 09:00-17:00","1575641355","1578996877","/watch/?ref=external&v=851033032022673&__xts__%5B0%5D=68.ARCgu_XRUDD2sfW5mZoDiekFpwcw6lKa22LtRUaUQPgWtPvkyyKDJigvlxCjmT-Gb5r1ei8XC_dYGd0614ZltXtcKgOS6-8i-5o3JUYcliK_Wg4iiEu14U14XbrQlN8iIPRPSuTm3blNsBQeDrvrTM0aVThpDGPRTycT9TUJ6SPVQxqtdKOnda-5f1Fq80011r9KszCvKcUBk0_-X5v0CPN9MEwwEcNNVely09v9TnqYjCI4usZ8azAY7RSWukquTucgnCd39PMHQmKK5a9I8Z2O9FrFKy1HotXXdpzg898YF4qlMBnhiid4aFXRsIe96IJjhoj0jBG90xHzuxlLdxiiPjTC9Q&__tn__=kFFHHH-R","https://scontent.fada2-1.fna.fbcdn.net/v/t15.5256-10/71089308_851082068684436_5438049460028440576_n.jpg?_nc_cat=105&_nc_oc=AQka7UL1Mt0Z5BE48jHfweeMf4qS_wM5EzzL9i7H3Q49FKuVnPsfV73TchdyIP01ObA&_nc_ht=scontent.fada2-1.fna&oh=115d46d25943e63b88500cefb2e0d0d2&oe=5E8EB5B0","undefined","美麗島事件四十週年","Posted by 蘇貞昌"
++星期二至星期日 09:00-17:00","1575641355",1578996877,"/watch/?ref=external&v=851033032022673&__xts__%5B0%5D=68.ARCgu_XRUDD2sfW5mZoDiekFpwcw6lKa22LtRUaUQPgWtPvkyyKDJigvlxCjmT-Gb5r1ei8XC_dYGd0614ZltXtcKgOS6-8i-5o3JUYcliK_Wg4iiEu14U14XbrQlN8iIPRPSuTm3blNsBQeDrvrTM0aVThpDGPRTycT9TUJ6SPVQxqtdKOnda-5f1Fq80011r9KszCvKcUBk0_-X5v0CPN9MEwwEcNNVely09v9TnqYjCI4usZ8azAY7RSWukquTucgnCd39PMHQmKK5a9I8Z2O9FrFKy1HotXXdpzg898YF4qlMBnhiid4aFXRsIe96IJjhoj0jBG90xHzuxlLdxiiPjTC9Q&__tn__=kFFHHH-R","https://scontent.fada2-1.fna.fbcdn.net/v/t15.5256-10/71089308_851082068684436_5438049460028440576_n.jpg?_nc_cat=105&_nc_oc=AQka7UL1Mt0Z5BE48jHfweeMf4qS_wM5EzzL9i7H3Q49FKuVnPsfV73TchdyIP01ObA&_nc_ht=scontent.fada2-1.fna&oh=115d46d25943e63b88500cefb2e0d0d2&oe=5E8EB5B0",undefined,"美麗島事件四十週年","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156915674606270","undefined","唱歌可以走音，
+ 討論政策不要走鐘。
+ 
+@@ -3010,7 +3010,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1574985360","1578996877","/gogogoeball/photos/a.186955736269/10156915674061270/?type=3&eid=ARB1nMtkO4vZTiVE0wCZOasjaKNWDw_YHl9oLwM0bW4Mt4utUxX0otskBM0YD34RLGs5KPhBoIH9UbYz&__xts__%5B0%5D=68.ARCIFSRrHlrdIdNWGlP0AfGPNLALkrDqZlU5RoRi7ItLrWuFG1D2eDsYzJzxAsl3eYnuWCNY8vZglLEAMhXxXIKVqYb8WyXxy1c083fKDsvwF65Sh0KvOQGrjPngDA1Z5gIYd1jceEqjdY2AIk33h2eW_W4lQET0yr97Yf0yxFsCbrdZBBKR1IhSdxG1TRoZhGulLPjXJYh0qNQFEVEVal4B5e-E0qmaYo8BGGL1PeVOOJTu3-acxvcPeH24ilWZZYmL6emhOJttUM28Sii8TUBPMss9TYEnY4kYZLlA75GPkuxsLlZtX_GN-2vF7u2Vmv7cimXP8bMi8yLOGg&__tn__=EHH-R","https://scontent.fhph1-1.fna.fbcdn.net/v/t1.0-0/s526x296/73403929_10156915674071270_3740090601194913792_o.jpg?_nc_cat=110&_nc_ohc=Xgf-1VK5QXsAX_eyCzY&_nc_ht=scontent.fhph1-1.fna&_nc_tp=1&oh=95d4b8d5cf73891e60b0793859e91d69&oe=5E94F097","undefined","",""
++http://line.me/ti/p/@eballgogogo","1574985360",1578996877,"/gogogoeball/photos/a.186955736269/10156915674061270/?type=3&eid=ARB1nMtkO4vZTiVE0wCZOasjaKNWDw_YHl9oLwM0bW4Mt4utUxX0otskBM0YD34RLGs5KPhBoIH9UbYz&__xts__%5B0%5D=68.ARCIFSRrHlrdIdNWGlP0AfGPNLALkrDqZlU5RoRi7ItLrWuFG1D2eDsYzJzxAsl3eYnuWCNY8vZglLEAMhXxXIKVqYb8WyXxy1c083fKDsvwF65Sh0KvOQGrjPngDA1Z5gIYd1jceEqjdY2AIk33h2eW_W4lQET0yr97Yf0yxFsCbrdZBBKR1IhSdxG1TRoZhGulLPjXJYh0qNQFEVEVal4B5e-E0qmaYo8BGGL1PeVOOJTu3-acxvcPeH24ilWZZYmL6emhOJttUM28Sii8TUBPMss9TYEnY4kYZLlA75GPkuxsLlZtX_GN-2vF7u2Vmv7cimXP8bMi8yLOGg&__tn__=EHH-R","https://scontent.fhph1-1.fna.fbcdn.net/v/t1.0-0/s526x296/73403929_10156915674071270_3740090601194913792_o.jpg?_nc_cat=110&_nc_ohc=Xgf-1VK5QXsAX_eyCzY&_nc_ht=scontent.fhph1-1.fna&_nc_tp=1&oh=95d4b8d5cf73891e60b0793859e91d69&oe=5E94F097",undefined,"",""
+ "https://www.facebook.com/gogogoeball/posts/10156870455221270","undefined","網路上最近流傳兩句話：
+ 香港離台灣不遠，一張機票的距離；
+ 台灣離香港不遠，一張選票的距離。
+@@ -3030,7 +3030,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1573543800","1578996879","/watch/?ref=external&v=423634888333860&__xts__%5B0%5D=68.ARAL-RTuV4Av62P-JK-kjy3w_MKrR95jrRuUqyEvfgXIdiWY7KqmICyk-0PS7uOO0N5tYPXmnMVJYXTHkys1OQm0d2XIIp4fD8AXfTFbXzZyHYuI3ets4cKABeGzOxEEDTPhmfOE9nfLtJdjIwz6eGm9_J6rBCgflsLHLaCFXvblo4qv1rt7Cw-WPTtS-ZvYR8NXK2whlZ1KvE1__yCyL4v7TF7SAXV9vPwMPngUhYW9VMfv6BypQXRWaPWQudk5BzAyKyTk5ktNaLDVar7t8UWqSdrMrsot-pfTyy2DiDVvHQkPMOWCWOxWviDw2OEN-C5ke5y-TKfC1FTlLIbWzfcZ5Uk&__tn__=kFFHHH-R","https://scontent-cdt1-1.xx.fbcdn.net/v/t15.5256-10/69282560_423637428333606_6768957798110724096_n.jpg?_nc_cat=105&_nc_ohc=e5XEQ_ZiW0YAX_bpNEt&_nc_ht=scontent-cdt1-1.xx&oh=86142e8b7dc1b10a7e6f750a2f08d7ae&oe=5EACEFA8","undefined","台灣離香港不遠 一張選票的距離","Posted by 蘇貞昌"
++http://line.me/ti/p/@eballgogogo","1573543800",1578996879,"/watch/?ref=external&v=423634888333860&__xts__%5B0%5D=68.ARAL-RTuV4Av62P-JK-kjy3w_MKrR95jrRuUqyEvfgXIdiWY7KqmICyk-0PS7uOO0N5tYPXmnMVJYXTHkys1OQm0d2XIIp4fD8AXfTFbXzZyHYuI3ets4cKABeGzOxEEDTPhmfOE9nfLtJdjIwz6eGm9_J6rBCgflsLHLaCFXvblo4qv1rt7Cw-WPTtS-ZvYR8NXK2whlZ1KvE1__yCyL4v7TF7SAXV9vPwMPngUhYW9VMfv6BypQXRWaPWQudk5BzAyKyTk5ktNaLDVar7t8UWqSdrMrsot-pfTyy2DiDVvHQkPMOWCWOxWviDw2OEN-C5ke5y-TKfC1FTlLIbWzfcZ5Uk&__tn__=kFFHHH-R","https://scontent-cdt1-1.xx.fbcdn.net/v/t15.5256-10/69282560_423637428333606_6768957798110724096_n.jpg?_nc_cat=105&_nc_ohc=e5XEQ_ZiW0YAX_bpNEt&_nc_ht=scontent-cdt1-1.xx&oh=86142e8b7dc1b10a7e6f750a2f08d7ae&oe=5EACEFA8",undefined,"台灣離香港不遠 一張選票的距離","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156903496216270","undefined","商人投資不看藍綠，一張圖勝過千言萬語。
+ 
+  事實是，「台灣錢留台灣、世界錢進台灣」，這兩點，蔡政府愈做愈好！
+@@ -3045,8 +3045,8 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1574563490","1578996873","/gogogoeball/photos/a.186955736269/10156903490921270/?type=3&eid=ARDBY-HiZvoLRA9hTXYw4FlnA4aX7xWiKCRh2rtjboSZa0SxKSEqMLGPSMfI1MnXjcgF90daqb_GU2qi&__xts__%5B0%5D=68.ARBMbYRpiaHGE24EK-EHpYt1VONZf8gsveyLYlXYBSeAGQuGubYzn9nYvl5fFnpUnuqOyATC1G8Ue1pvc9On7YJ69GIpSCEbnWRPjSlR2OfEHdVES7OqKH5WVYnuSZ98IUpIYdimoPlRrbFNLY6xXObrHukE8wpQGAd9Z9iwyfjImrnfLX1xh0hz8dw6cHSAkoQjw0KtAVN03lqjyqO4IptzP95I5WGZ0vBIwgO_wEPnt64veiIe519-YsRAVl1Hi6J5klQuih9c7ODgSX9AaBsbLBHFAsYG-DmSN1QhQiX0AJb-rSZNAoSusbnBbHFBi0YdgyhNM6DZs1qDvA&__tn__=EEHH-R","https://scontent.fcgk13-1.fna.fbcdn.net/v/t1.0-0/p526x296/72847788_10156903490931270_5956926172750151680_o.jpg?_nc_cat=107&_nc_ohc=p6ol-jo5XKEAX_kHWm_&_nc_ht=scontent.fcgk13-1.fna&_nc_tp=1&oh=a4aa0f7fd020b38c3b72859bdc2644ef&oe=5E8D52C9","undefined","",""
+-"https://www.facebook.com/gogogoeball/posts/10156907430576270","undefined","","[Error]: TypeError: Cannot read property 'attribs' of undefined","1578996880","undefined","undefined","undefined","undefined","undefined"
++http://line.me/ti/p/@eballgogogo","1574563490",1578996873,"/gogogoeball/photos/a.186955736269/10156903490921270/?type=3&eid=ARDBY-HiZvoLRA9hTXYw4FlnA4aX7xWiKCRh2rtjboSZa0SxKSEqMLGPSMfI1MnXjcgF90daqb_GU2qi&__xts__%5B0%5D=68.ARBMbYRpiaHGE24EK-EHpYt1VONZf8gsveyLYlXYBSeAGQuGubYzn9nYvl5fFnpUnuqOyATC1G8Ue1pvc9On7YJ69GIpSCEbnWRPjSlR2OfEHdVES7OqKH5WVYnuSZ98IUpIYdimoPlRrbFNLY6xXObrHukE8wpQGAd9Z9iwyfjImrnfLX1xh0hz8dw6cHSAkoQjw0KtAVN03lqjyqO4IptzP95I5WGZ0vBIwgO_wEPnt64veiIe519-YsRAVl1Hi6J5klQuih9c7ODgSX9AaBsbLBHFAsYG-DmSN1QhQiX0AJb-rSZNAoSusbnBbHFBi0YdgyhNM6DZs1qDvA&__tn__=EEHH-R","https://scontent.fcgk13-1.fna.fbcdn.net/v/t1.0-0/p526x296/72847788_10156903490931270_5956926172750151680_o.jpg?_nc_cat=107&_nc_ohc=p6ol-jo5XKEAX_kHWm_&_nc_ht=scontent.fcgk13-1.fna&_nc_tp=1&oh=a4aa0f7fd020b38c3b72859bdc2644ef&oe=5E8D52C9",undefined,"",""
++"https://www.facebook.com/gogogoeball/posts/10156907430576270","undefined","","[Error]: TypeError: Cannot read property 'attribs' of undefined",1578996880,undefined,undefined,undefined,undefined,undefined
+ "https://www.facebook.com/gogogoeball/posts/10156953518216270","undefined","非洲豬瘟疫情四處擴散，亞洲各國陸續淪陷，我們台灣仍然守得住，這都多虧所有第一線防疫人員的辛勞。
+ 
+  本週院會，我要再次跟各位鄉親提醒，年節將屆，請不要帶任何肉製品回台灣。被抓到會罰二十萬、再犯重罰一百萬，台灣豬肉即將外銷，請大家務必要顧好。
+@@ -3061,7 +3061,7 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  都看完影片了，不如再加一下蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1576142166","1578996890","/watch/?ref=external&v=454201481955946&__xts__%5B0%5D=68.ARD1fVYoDW9sdkI_wxbhr-gx7qJg-gY3VHGHwrMkKw0PIrQ61NnP2sr70BT9CM31ztd2IR2Km_iO4MoJ3ifPQ2aXI6CiNANlZj0qFB__29CtyEFv53Aj47Te6IRfFN8VMtLCDm6Qg4ja9XgxFZ1SIig8vTqeaPDLYCcgFB8KLv6Xhtv_XuwqtLbJR1AapyzvPxTUPxqA-NDXvLwvF8ZNtDx4AFSO2K7Aj4Sw3UKm_xLv8PFvxobwC9La7cD-ITB5IR2CwPDnXI-nOMkWLDCrQCPM3SqrxT-AXM4Vo5aLuJPhaXAmnpn8cPCKt2O_Cda9-X6g3Xkc_Hbmusszf5_86e7pvd-fHw&__tn__=kFFHHH-R","https://scontent.fvix2-2.fna.fbcdn.net/v/t15.5256-10/73088038_454213071954787_201277174106292224_n.jpg?_nc_cat=102&_nc_oc=AQmzmVX2DgT9LBVzgrqE36Kw9It6VkxRb0Afqjj1w1g9uP0i9dd1CsH0KrzqT_jTX_g&_nc_ht=scontent.fvix2-2.fna&oh=425e55fb6e8438c66419d2ab55a4a5d4&oe=5E97F609","undefined","從選票到豬腳都要顧好","Posted by 蘇貞昌"
++http://line.me/ti/p/@eballgogogo","1576142166",1578996890,"/watch/?ref=external&v=454201481955946&__xts__%5B0%5D=68.ARD1fVYoDW9sdkI_wxbhr-gx7qJg-gY3VHGHwrMkKw0PIrQ61NnP2sr70BT9CM31ztd2IR2Km_iO4MoJ3ifPQ2aXI6CiNANlZj0qFB__29CtyEFv53Aj47Te6IRfFN8VMtLCDm6Qg4ja9XgxFZ1SIig8vTqeaPDLYCcgFB8KLv6Xhtv_XuwqtLbJR1AapyzvPxTUPxqA-NDXvLwvF8ZNtDx4AFSO2K7Aj4Sw3UKm_xLv8PFvxobwC9La7cD-ITB5IR2CwPDnXI-nOMkWLDCrQCPM3SqrxT-AXM4Vo5aLuJPhaXAmnpn8cPCKt2O_Cda9-X6g3Xkc_Hbmusszf5_86e7pvd-fHw&__tn__=kFFHHH-R","https://scontent.fvix2-2.fna.fbcdn.net/v/t15.5256-10/73088038_454213071954787_201277174106292224_n.jpg?_nc_cat=102&_nc_oc=AQmzmVX2DgT9LBVzgrqE36Kw9It6VkxRb0Afqjj1w1g9uP0i9dd1CsH0KrzqT_jTX_g&_nc_ht=scontent.fvix2-2.fna&oh=425e55fb6e8438c66419d2ab55a4a5d4&oe=5E97F609",undefined,"從選票到豬腳都要顧好","Posted by 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10157012863516270","undefined","今天早上的重大事故造成八名軍官罹難，我們與全國同胞一同感到震撼與痛心，今早的院會上仍然有幾件事情要跟大家報告。
+ 
+  行政院 #2020年二合一選舉重大事件應變小組 今天開始設立，我要求首長投完票就要回到崗位上待命，事先也要對各種突發狀況做好想定和演練，讓選民免擔心。
+@@ -3072,22 +3072,22 @@
+  中國武漢發生的 #不明肺炎 疫情，政府會落實檢疫措施、密切掌握疫情，政府的防疫作為會公開透明，讓國人能放心。
+ 
+  #繼續衝 #繼續拚
+-#國家繼續向前進","1577956969","1578996880","/watch/?ref=external&v=737246057045904&__xts__%5B0%5D=68.ARB3GooqeXmvlwSAytPt8iEWXH1Bl4SZcic3L6d5UvONyWGflCFjvVWZdPNXPnzfDRMJvp0pOGr---DKtBfDmSri8lUjN_A1w2GCYfFM3vsK4uPX1n8y2zaFcU8TugG00iSZqm6EZhacID35Gjlsxx_AoWD1xmrZTgtV6WMp-FE6TLt8KOThu0qtvRuilwduua1MhA5x4bIwbsAPlKNixGx4hCKdWu4rQQLw13l6QvigJWiLZzP7EJVMKyjvb8nUhye55jOdZdwKyyVVwBqRRpi_9qGSQ3xUpraofE08PZvdlLzmNcHXcBmypuaRlyvHtYQCDbLj4MYaMft1XJ1ARlEjQ7wCJQ&__tn__=kFFHHH-R","https://scontent.fcgk13-1.fna.fbcdn.net/v/t15.5256-10/73535829_737253403711836_8410161623360077824_n.jpg?_nc_cat=102&_nc_ohc=5hqTUODIQHQAX_UShWd&_nc_ht=scontent.fcgk13-1.fna&oh=9cac679ed3c55b3f4b578ffc3c7f3bc0&oe=5ED64047","undefined","1/2 本週院會","Diposting oleh 蘇貞昌"
++#國家繼續向前進","1577956969",1578996880,"/watch/?ref=external&v=737246057045904&__xts__%5B0%5D=68.ARB3GooqeXmvlwSAytPt8iEWXH1Bl4SZcic3L6d5UvONyWGflCFjvVWZdPNXPnzfDRMJvp0pOGr---DKtBfDmSri8lUjN_A1w2GCYfFM3vsK4uPX1n8y2zaFcU8TugG00iSZqm6EZhacID35Gjlsxx_AoWD1xmrZTgtV6WMp-FE6TLt8KOThu0qtvRuilwduua1MhA5x4bIwbsAPlKNixGx4hCKdWu4rQQLw13l6QvigJWiLZzP7EJVMKyjvb8nUhye55jOdZdwKyyVVwBqRRpi_9qGSQ3xUpraofE08PZvdlLzmNcHXcBmypuaRlyvHtYQCDbLj4MYaMft1XJ1ARlEjQ7wCJQ&__tn__=kFFHHH-R","https://scontent.fcgk13-1.fna.fbcdn.net/v/t15.5256-10/73535829_737253403711836_8410161623360077824_n.jpg?_nc_cat=102&_nc_ohc=5hqTUODIQHQAX_UShWd&_nc_ht=scontent.fcgk13-1.fna&oh=9cac679ed3c55b3f4b578ffc3c7f3bc0&oe=5ED64047",undefined,"1/2 本週院會","Diposting oleh 蘇貞昌"
+ "https://www.facebook.com/gogogoeball/posts/10156873029991270","undefined","香港政府鎮壓學生的手段，台灣人曾經經歷，更不能接受。
+ 
+  香港警察昨天圍攻 #香港中文大學 校園，用赤裸的暴力對待學生，讓世界震驚。
+ 
+  走過威權統治時代，台灣也曾經歷同樣的事件。但台灣人一代接一代，不畏強權暴悍，向世界證明，威權囚禁不了自由、暴力鎮壓不了異議、專制獨裁戰勝不了民主。
+ 
+- 我們在此呼籲港府，請讓暴力退出校園，請與學生對話、請聽民眾訴求，用槍捍衛的政權，終會被人民終結。","1573615745","1578996871","undefined","undefined","undefined","undefined","undefined"
++ 我們在此呼籲港府，請讓暴力退出校園，請與學生對話、請聽民眾訴求，用槍捍衛的政權，終會被人民終結。","1573615745",1578996871,undefined,undefined,undefined,undefined,undefined
+ "https://www.facebook.com/gogogoeball/posts/10156871067876270","undefined","投手群有高人指點，
+ 今晚表現果真可圈可點。
+ 
+  #繼續衝 #繼續拚
+ #國家繼續贏韓國
+ 
+- 留言請留「 感謝🇹🇼隊！」","1573565866","1578996872","/gogogoeball/photos/a.186955736269/10156871067736270/?type=3&eid=ARCeI4-nxwCWvDb8GbRK0fAqqS-ZIXnUa9K8h3YXMg2fRNigc2XZ7QPiUdRLNj3NT0CniN2jemQLFje0&__xts__%5B0%5D=68.ARBE99CWH3fY5yd1MJHfD1P2iMU0LmMqMv3QvBwA8Q7clrJKCow9xq18enSyb7puzO1q8Emc1ozpGv4OShOLy1xpmK4EvOKUEyjAMlNPYynYdxaZMZ3sWDmvEVMTFSNDHj36HPcYskVqI1aRBIWs_1It2tSSMzeh15Okw0NKIgC82CiKfMTqZJTHEd9vVChDhnhRpkPIQ_GQVaOjD1CWcGJbaWIBUuukt7M6RYiDrhAoAbq8lo98M5_Ixc2iF7lK_lvh7HODZoM3dWHKgylGB22FU7P4pvjy8sQ-0q9zrXrrXFaJJQZ243G00U1M_MPkuI_d5XcYdklcPivY5Q&__tn__=EHH-R","https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-0/p526x296/76710700_10156871067741270_5035809331623231488_o.jpg?_nc_cat=102&_nc_ohc=P00Ji4J1UzkAQn19ycAeu256lwc6qfSVdj4ZkghVCB4tPj2qzcJ4sjbOQ&_nc_ht=scontent-amt2-1.xx&_nc_tp=1&oh=265dbfa23cf272f8f4c9a30ee9101bf4&oe=5E95FE1E","undefined","",""
+-"https://www.facebook.com/gogogoeball/posts/10157038003211270","undefined","鞠躬敬禮，謝謝您。
++ 留言請留「 感謝🇹🇼隊！」","1573565866",1578996872,"/gogogoeball/photos/a.186955736269/10156871067736270/?type=3&eid=ARCeI4-nxwCWvDb8GbRK0fAqqS-ZIXnUa9K8h3YXMg2fRNigc2XZ7QPiUdRLNj3NT0CniN2jemQLFje0&__xts__%5B0%5D=68.ARBE99CWH3fY5yd1MJHfD1P2iMU0LmMqMv3QvBwA8Q7clrJKCow9xq18enSyb7puzO1q8Emc1ozpGv4OShOLy1xpmK4EvOKUEyjAMlNPYynYdxaZMZ3sWDmvEVMTFSNDHj36HPcYskVqI1aRBIWs_1It2tSSMzeh15Okw0NKIgC82CiKfMTqZJTHEd9vVChDhnhRpkPIQ_GQVaOjD1CWcGJbaWIBUuukt7M6RYiDrhAoAbq8lo98M5_Ixc2iF7lK_lvh7HODZoM3dWHKgylGB22FU7P4pvjy8sQ-0q9zrXrrXFaJJQZ243G00U1M_MPkuI_d5XcYdklcPivY5Q&__tn__=EHH-R","https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-0/p526x296/76710700_10156871067741270_5035809331623231488_o.jpg?_nc_cat=102&_nc_ohc=P00Ji4J1UzkAQn19ycAeu256lwc6qfSVdj4ZkghVCB4tPj2qzcJ4sjbOQ&_nc_ht=scontent-amt2-1.xx&_nc_tp=1&oh=265dbfa23cf272f8f4c9a30ee9101bf4&oe=5E95FE1E",undefined,"",""
++"https://www.facebook.com/gogogoeball/posts/10157038003211270",undefined,"鞠躬敬禮，謝謝您。
+ 
+  2020的總統立委選舉順利結束，國人同胞用手中神聖一票做決定、為國家的未來發聲。人民是頭家，我要代表行政團隊，感謝所有人民頭家的支持、批評和鼓勵。
+ 
+@@ -3096,8 +3096,8 @@
+ 
+  選舉是一時，團結台灣、迎向新時代的工作不會停止，明天之後，我們繼續團結為國家打拚，讓台灣更美麗。
+ 
+- #國家繼續向前進","1578752044","1578996871","/gogogoeball/photos/a.186955736269/10157037899451270/?type=3&eid=ARBLCKzpA2Dpi1i0SiGLeIvO-OfE3E6N2g3tJZinI7ZLFvNXUgooZ1cZRMQZPLe8VgLYm512FQjJbKr1&__xts__%5B0%5D=68.ARCSmp78vpA7ybQftye2HQakSQg9MqRRo3JeUHxAHvZH_Nt9Ehhds7-5jvLEn0E0RA3zRGpqxQUxSjzdiBGBoA4kUF_1rHAVYqa3gRkyMHUxkieCnIlBMqgNsVbH0pdLBVzJZZpZpUcN_4Sa0UG0htZsv19OL9N4I8Hs2g4iJJ9HjgfGpnhmLHNV3svgemTnlnoB0T48caykOqMCY9o-A4Jn_0W9ZE47QNRxw_eZoPJ9SeqcraFrZVLbiXHfsVNK843aoUYhzM0tyUXz4lzkqYuUkJ9X6ZLsq0VrMi7MQm_aIZ0MkaLzbYstfMOIOvBbbctCmK0s1TbbU_Q2lg&__tn__=EEHH-R","https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-0/p526x296/82494059_10157037899456270_6175910711038836736_o.jpg?_nc_cat=106&_nc_ohc=J75LJaHobOYAX__Aq0E&_nc_ht=scontent-cdg2-1.xx&_nc_tp=1&oh=be46fb9371dc9e79e6e0e6843f41aec6&oe=5E9F6416","undefined","",""
+-"https://www.facebook.com/gogogoeball/posts/10157026614306270","undefined","一年來，我們非常努力，守住非洲豬瘟、各國投資來台、減稅增福利，也不必犧牲國家的尊嚴和權益。
++ #國家繼續向前進","1578752044",1578996871,"/gogogoeball/photos/a.186955736269/10157037899451270/?type=3&eid=ARBLCKzpA2Dpi1i0SiGLeIvO-OfE3E6N2g3tJZinI7ZLFvNXUgooZ1cZRMQZPLe8VgLYm512FQjJbKr1&__xts__%5B0%5D=68.ARCSmp78vpA7ybQftye2HQakSQg9MqRRo3JeUHxAHvZH_Nt9Ehhds7-5jvLEn0E0RA3zRGpqxQUxSjzdiBGBoA4kUF_1rHAVYqa3gRkyMHUxkieCnIlBMqgNsVbH0pdLBVzJZZpZpUcN_4Sa0UG0htZsv19OL9N4I8Hs2g4iJJ9HjgfGpnhmLHNV3svgemTnlnoB0T48caykOqMCY9o-A4Jn_0W9ZE47QNRxw_eZoPJ9SeqcraFrZVLbiXHfsVNK843aoUYhzM0tyUXz4lzkqYuUkJ9X6ZLsq0VrMi7MQm_aIZ0MkaLzbYstfMOIOvBbbctCmK0s1TbbU_Q2lg&__tn__=EEHH-R","https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-0/p526x296/82494059_10157037899456270_6175910711038836736_o.jpg?_nc_cat=106&_nc_ohc=J75LJaHobOYAX__Aq0E&_nc_ht=scontent-cdg2-1.xx&_nc_tp=1&oh=be46fb9371dc9e79e6e0e6843f41aec6&oe=5E9F6416",undefined,"",""
++"https://www.facebook.com/gogogoeball/posts/10157026614306270",undefined,"一年來，我們非常努力，守住非洲豬瘟、各國投資來台、減稅增福利，也不必犧牲國家的尊嚴和權益。
+ 
+  我有幾句話想跟大家說。
+ 
+@@ -3112,310 +3112,5 @@
+ https://www.youtube.com/user/eballgogogo
+ 
+  蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1578394560","1578996871","/watch/?ref=external&v=2205194116453760&__xts__%5B0%5D=68.ARAtYGfb38qDo9nPU_wR0yNAr-UXmhXoQH5yI7tsbIDanMrsc6ZoZCMtNl-zj9FK4ucTJYxcRqZrOktbom88vxpgU1rwPcWOoaOVBp9E1tYxdFqNYYBjwC5nyafaOOrUk097JMM6g_CZNePM2etmIdzRHGp1J3h2mWWp-GA4hUu-5fCY6CxJX4jal1KqAysanLgq_BQrz7MOIfYKivaUDpwjgX8M3_DSu6MsuyjSk13L8rjIjmBeasg2kQL61yKrumeLVhAzr8G6_hL9qaOU03WemO4nCiP53B6QzUzoJeak45_k_2O2mZ9aLOjS4yuwjxUQ_r6HUY69I4ktD4VOdma3WDmh8A&__tn__=kFFHHH-R","https://scontent-cdg2-1.xx.fbcdn.net/v/t15.5256-10/72474325_2205199666453205_7664798370153627648_n.jpg?_nc_cat=111&_nc_ohc=4P74MA3r3t0AX-LXhD8&_nc_ht=scontent-cdg2-1.xx&oh=1c0b2b8887ccb05cd6e8d3c324bcbf72&oe=5E9BE907","undefined","做小英的後盾","Posted by 蘇貞昌"
+-"https://www.facebook.com/gogogoeball/posts/10157043561291270","undefined","","[Error]: TypeError: Cannot read property 'attribs' of undefined","1578996880","undefined","undefined","undefined","undefined","undefined"
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704124,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704125,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704125,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704125,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704126,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704126,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704126,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704126,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"當此 #中國武漢肺炎 疫情險峻之時
+-#防疫指揮官不會輕易換人
+-
+- 國人對防疫團隊的肯定，體現在對防疫指揮官的一致認同，這幾個月來，多少防疫人員犧牲休假、專家團隊專業分工，獲得國人普遍肯定、政府一定尊重專業、也非常感激。
+-
+- 這一次，我們一定要把台灣守好，同舟一命，守護台灣。
+-
+- #有政府 #請安心
+-
+- --
+-蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1585286947",1586704127,"/watch/?ref=external&v=900709947065967&__xts__%5B0%5D=68.ARBQoEByhnkCqHfWIwSt2j_LGxk2wq3ASW-pP1GQW9V6FdlhpbwBotFXnkAh42qK6nTtBi3h_LewURCLl9E1ed7APT2J15hVq_aWw8R7OxNGI0sgMems0wRVpXRl-b8uTJTPwYR3e1ONA1syLfuQjfkN6EYfeNuwcs8todfal_UlQhHWWn2Xbm7VBgw9CR4yEQ57SVf7A3bGDdeNN6DzQfA6_WvevYDovNvnqbnFlbVyW0Jc1k4I8kCqAh83kpMA9pg1vXHSyvAmjpNya4t-wo49SCQiS53YHdOk5L_tIveVtCfXbpPEFhBcYyC-Lt-4qZNJ1vQfuTSn6woZLfXLODTSazw&__tn__=kFFHHH-R","https://scontent-sin6-2.xx.fbcdn.net/v/t15.5256-10/83908049_900714790398816_7726025448240447488_n.jpg?_nc_cat=108&_nc_sid=f2c4d5&_nc_ohc=5E9vnrcRNwkAX_BwGZr&_nc_ht=scontent-sin6-2.xx&oh=b5cd1f072e78122cf2696ca468186891&oe=5EB6F9C3",undefined,"防疫同舟一命 不會輕易換人","Posted by 蘇貞昌"
+-undefined,undefined,"最近網路上出現很多散播假疫情、假防疫政策的惡意訊息，甚至有人竄改行政院公文說「大家可以免費去醫院領十張口罩」。我要在此說明， #這顯然是假的 
+-，行政院也已報警處理。
+-
+- 我也要提醒大家：如果你在網路上看到關於疫情或防疫政策的消息，但是新聞沒報、防疫記者會沒講、 衛生福利部 
+-粉專沒有寫、我這邊也沒有貼，請審慎判斷、不要隨便分享，以免觸法。偽造公文書的刑責1年以上7年以下，而依據紓困條例規定，散布假訊息，最重可罰300萬元。
+-
+- #武漢肺炎 疫情險峻，台灣政府把防疫擺第一，宣布防疫政策也一向公開透明，請大家留意不要聽信假消息。
+-
+- #有政府
+-#請安心
+-
+- --
+-
+- 蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1582868382",1586704127,"/gogogoeball/photos/a.186955736269/10157179430956270/?type=3&eid=ARCxFypjlBqyB7ncI4VrkS38_1WDM9PprRqtcFeZi2G_OK21MDuwUNBuidjUTiRBVKlntz_Uwc7V6fmc&__xts__%5B0%5D=68.ARCzw8H4FzeBh9vKQXFAaQQW9PxhkS5HCQpNlm7MhX0mdC3WZMncjlj1GY8mE8jUQOhTdxs_VErVGGElkC8XJr-8JsvFfZZgRElyez6UHsREaLvLc1S2nYp6Em7WEVHGEr8S-RSYEsXpBVqMu39sDRgtqqfY68Cug43OIvlO4oBZmmMjlZpbW_KF-HAIzv1ofxFZ75COctc-wDqlWOOxO6ZGFSNwWx36WXRtP8Gl2OOMUS1ozYM5tGHJCS9VMsX1hzD3lRDpFIQFjb2WiaJo4-GbY8va395hg1PG73lEN2e4jUK6GSjbAXxK_aMSk4S9BnJhubzntjlNbmMd0g&__tn__=EEHH-R","https://scontent.fbkk7-2.fna.fbcdn.net/v/t1.0-0/p526x296/88204964_10157179430961270_4493508670428020736_o.jpg?_nc_cat=101&_nc_sid=8024bb&_nc_ohc=tVESkHRKRSQAX_tB9a2&_nc_ht=scontent.fbkk7-2.fna&_nc_tp=6&oh=d1260ba17aa3a02b85814aeee90ef757&oe=5EB7857C",undefined,"",""
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704127,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704127,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704127,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"以後，財經部會也要每天開記者會，向人民說明政府紓困怎麼做、大家該如何申請。
+-
+- 隨著全球 #中國武漢肺炎 疫情急遽升級、影響世界經濟的幅度迅速惡化，政府投入紓困的能量也應該隨時提升。第二階段的紓困方案已經提出來，政府會撥列 
+-#超過一兆新台幣 ，具體怎麼花，以後每天都會向大家報告。
+-
+- 一兆救台灣，一起渡難關。
+-
+- #有政府 #請安心
+-
+- --
+-
+- 蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1585814906",1586704127,"/watch/?ref=external&v=659133778234719&__xts__%5B0%5D=68.ARChJd3dz-tJ_mRbGw-IjIdnn6ywAlB0mZTT4v1EsUtnbv7vHVYVdF_RFNH-AHRsDas3feMHsmVgvOCM1hTJx3ycf9JlS3cCO0dXU9XMnljMgKnf4gq8R58uYtVor0A3MqXPzEcW9Dw1OGymBSAxW_z0oGF5l28JWV-MaHGtRmA9NcXQNuF3AcGNE_w25Hu2g6xl-G7FUDTeiVPVMe2cGqdG7AMvpfkz5LcYktrPyLGyQGbdckDmgH7dVcZod00lp-uXVYW1qIRDxzUU2_dEDpFHH6ycbLzXSJpkw_NYYOWFlQ5nD8XYL7jQHHSpgNfdtjz0tyT2PkMWT8n9_Eskq7D0dTxhng&__tn__=kFFHHH-R","https://scontent.fcok7-1.fna.fbcdn.net/v/t15.5256-10/92074929_659143231567107_8351462610268323840_n.jpg?_nc_cat=107&_nc_sid=f2c4d5&_nc_ohc=iy6Kb-o0RRcAX_9x2f4&_nc_ht=scontent.fcok7-1.fna&oh=f3cd71d16859a30689c39d45965bbeb7&oe=5EB7AFE9",undefined,"院會報你知：一兆救台灣","Posted by 蘇貞昌"
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704128,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704128,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704128,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704128,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"收到請留言喊「收到！」
+-
+- #口罩實名制 2.0 第一輪試營運目前運作順利，今天我們已經寄簡訊給所有成功繳款的朋友，請大家在3/26 - 4/1之間到各位指定的超商領取，沒拿視同放棄！
+-
+- 第二輪預購也即將開始，時程如下，請大家留意：
+-
+- 第二輪登記 3/25(三)-3/27(五)
+-第二輪取貨 4/2(四)-4/8(三)
+-
+- 再次提醒大家，口罩實名制不會打給你，請不要相信來路不明的詐騙電話！
+-
+- #有政府
+-#請安心
+-
+- --
+-
+- 蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1584873454",1586704128,"/gogogoeball/photos/a.186955736269/10157250027966270/?type=3&eid=ARC165SOQG2uSDWiAiW0_lE2Yg2hdXzRvLPeWT8-ReDqfajfMnPqcJHXB4IBN1P3HQtRrQTNA6p6hQ5p&__xts__%5B0%5D=68.ARB_oA2tmLZCyiZuk3UV-3fVsgT05MYOnzWiDau8H8ELXXYRjO18QqYQuLCDdsqIgelWYbD5CNJg1H6W757g1In3MXd3qtmsgTT7PV22uQDds7jjYIBlir3KfD2OcJkCRZnG8m2kt9ZoE5UEPc7QooRoje9dKqd0kEuqIyaj20AvTi5ey88iupauCbIUzTLMHtQRlUPIim6b3COWzi2LR_PVWDErBDPsmQ9_GXpnlmyLExEMG7aRnuVrm6FO7F2UEcZsZ269tny2ws45SU_fQHL9HF3_poLjF6N6gu2leiKtUOG2IlxgAWhhE94d-v2Vqn5B9pgums-bMBqlmA&__tn__=EEHH-R","https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-0/p526x296/90046216_10157250027976270_4557655347023577088_o.jpg?_nc_cat=100&_nc_sid=8024bb&_nc_ohc=KiolkrViA14AX_1HV8M&_nc_ht=scontent-yyz1-1.xx&_nc_tp=6&oh=274498296e65e84d6fc6b522f3a1b06b&oe=5EBA54B3",undefined,"",""
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704129,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704129,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"目前已有四位國人斗內政府百萬罰金，但政府並不感謝您。
+-
+- 政府不是塑膠做的、法律也不是擺好看的，為了守護全體國人的健康，我要請大家務必配合政府的檢疫措施，不但有隔離補償金可以領、大家也會衷心感謝你、接納你。
+-
+- 但若您四處亂跑，警察系統都有連線、里幹事也會給你定期關心。居家檢疫期間違規外出， #依法最高可罰100萬 ！繳不出來就是 #移送強制執行 
+-，我們一定嚴格執法，請大家不要懷疑政府的決心。
+-
+- #有政府
+-#請安心
+-
+- --
+-
+- 蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1584950029",1586704129,"/gogogoeball/photos/a.186955736269/10157253547416270/?type=3&eid=ARDu5qw39Y2XDWiBzlOq7T7nZpM2Xtm3KG_e3owXfCYd9bT-4iRUtfnu8a3R_sfyki-jtuJGO4lLunnJ&__xts__%5B0%5D=68.ARBxoqQAbTDT31Rn6_Ja8WetV02zUSaWrJl3S-g1Yxn63pz3JdXOlg-mZrQtNRf5-6mTMkWF2-NltIo3EujhyAU0XPxTIqohxRH0KIaUwFINiChxe5r_n6xV-f_W7omuKEwA0kMMxsvR1hfcd2ARVidIs4RlXl8sjYjLxg8FPSDCcmF5XSZJB5-X6objCZps-mfqg0Qc6vRAHwBxUby0BBnR4XY8gxfN9B4_W-owH1AJ3QP0kNWH2-JbBxQLNpjV5JK5-5uU4eKNA5X3hXSDC03EQlDLkWhyszlblTNn23Pjbjs2jzbiF_jb8CELt7EL_wF0TV8af09fL31vBg&__tn__=EEHH-R","https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-0/p526x296/90528983_10157253547421270_6712419845058592768_o.jpg?_nc_cat=102&_nc_sid=8024bb&_nc_ohc=hq76BYAWlSwAX8BYrJp&_nc_ht=scontent-cdg2-1.xx&_nc_tp=6&oh=0e093078480045fc06ff0fcc4d705a2c&oe=5EBA4F3B",undefined,"",""
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704129,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704129,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"#清明 連假在即，藉今天 #行政院院會 的場合，我要跟各位國人同胞說：
+-
+- 1. 清明掃墓不是違反居家檢疫到處跑的藉口，若有違反，一定依法嚴懲嚴辦，絕不縱容，請自行向祖上雲端遙遞假單。
+-
+- 2. 慎終追遠是國人重要習俗，但這次我要呼籲大家，盡量避免不必要的出門奔波、避免群聚，減少國內防疫的負擔。
+-
+- 現在就是防治 #武漢肺炎 的最關鍵時期，請大家務必多配合，少一分風險，就是多一分保障。
+-
+- #有政府
+-#請安心
+-
+- --
+-蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1585225800",1586704130,"/watch/?ref=external&v=213163376439846&__xts__%5B0%5D=68.ARAhDnIpi8eayrXq8a9f3K6VixOgccxeonA81clJ4UpdatQSo5gINHByh5ltip_trZanP4wstfbOH4A-9BPGeUSQm7SEmMfdMILVVaGKUtB23KOucbZNcGyn8LqMM8Y3PJrgz0FBkrW3p-E9-xpSSc24cAbnisuYTdwF0sAkfkWHx2aVfOj1XO9BysKzFJeSPiKnPLgrwNvkL8sRz7C42oFCalejIo3U5Ixx0NN_2Z_rB08nwtPoCs4fPebbCnQNNelgy_QHQ6DOJEOggYgP7LEdjAEKTawuKtIQxb-u0vBZjk7tIwbwSPPAr_T218GCdx8P0-OIRv5T92ubk6OBGkDx0Mk&__tn__=kFFHHH-R","https://scontent-cdg2-1.xx.fbcdn.net/v/t15.5256-10/83903605_213168313106019_4122517899434786816_n.jpg?_nc_cat=102&_nc_sid=f2c4d5&_nc_ohc=FqrrLI7KiVsAX_dy0BS&_nc_ht=scontent-cdg2-1.xx&oh=3dcfb25f2585b78f21eacd2880bcd809&oe=5EB8878E",undefined,"掃墓不是藉口 居家檢疫者不能趴趴走","Posted by 蘇貞昌"
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704130,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704130,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704130,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"今天的院會上， 勞動部 報告將從 #就業安定基金 動支41.25億，協助勞工度過疫情。我也要向大家報告，若你或您身邊親友的工作受到 ＃武漢肺炎 
+-疫情影響，以下是勞工應有的權益：
+-
+- 1. 雖然大家習慣說「 #無薪假 」，但雇主不能完全不給員工薪水，在勞資協商 #減班休息 
+-的期間，薪水仍然不可以低於基本工資（23800/月），否則是違反勞基法。
+-2. 減班休息需要勞工書面同意、而且要通報勞工局。
+-3. 雇主若沒有依法處理，不但要補還工資，勞工也有權片面終止勞資關係、要求資遣費。
+-4. 減班休息期間，不得兼職的限制取消，員工有政府補助的職業訓練可以上、也有津貼可以領。
+-5. #1955勞工諮詢申訴專線 記起來，無論是諮詢勞動權益、檢舉雇主違法，24小時免付費，一通電話就能協助您。
+-
+- 疫情影響不只威脅國人健康，所有勞工的家計都會面臨困難。政府不會只要求大家共體時艱，更會拿出作為相挺勞工，請大家記得，#有政府 #請安心 。
+-
+- --
+-
+- 蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1583401137",1586704130,"/watch/?ref=external&v=515321599383385&__xts__%5B0%5D=68.ARDv12sbPl3smzv2qfcVRHsCYD0W40lLm232RTknXdt9oR0BgtZNClUUS4ABGhRFwp_vUQKZFbwVe5tyPBBrPIiKy8I4yMl7pkFWfMVggQOafXIFbJwlffuAaXmSjY93WR4sDX8-4g6Ng8xPuDa4Q5FTQhz_bY7ZpkDdsiUnS1XFUTG7r0hOoXk-4WRK8NIzUfYELBN7MH8mvAQA6KZI-OWYxyaXrAzBSL9hGORC5ENHIk4X3eO7bMdhWnGTaq3r9SxflcvGYYNgKIIDNjbZE-qpqWpVp_I5aPNMUgwdUCgn5VsUO8lYCIoz3Zx_n7yikCb5cB-x62fUdMYWD5s0_XoXqsE&__tn__=kFFHHH-R","https://scontent-sin6-2.xx.fbcdn.net/v/t15.5256-10/76755037_515323326049879_2652518849357807616_n.jpg?_nc_cat=103&_nc_sid=f2c4d5&_nc_ohc=eodObXwm8EQAX-V993Q&_nc_ht=scontent-sin6-2.xx&oh=a0de3d9d65262bd4caa7708bc360bf2f&oe=5EB7F13D",undefined,"紓困一定挺勞工 防疫務必勤洗手","Posted by 蘇貞昌"
+-undefined,undefined,"政府用心，運將安心。
+-隨著口罩產量逐漸提升，政府也會繼續守護更多人。
+-
+- 第一線的職業駕駛，無論是客運、遊覽車、計程車、快遞或 UBER，整天在車廂內面對大量乘客，都有醫療口罩的需求。即日起， 交通部 
+-將分配醫療口罩一天一片，專案優先提供給第一線運輸服務人員購買。
+-
+- 
+-醫療口罩已經下去，請客運業、遊覽車、計程車、租賃小客車、路線貨運業等駕駛朋友，先向所屬公司、公（工）會、直轄市交通局或各區監理所電洽確認，再前往購買。中央分配的醫療口罩是政府列管的防疫物資，請勿囤積、轉售或提供給他人使用。
+-
+- #繼續衝 #繼續拚
+-#國家繼續向前進
+-
+- --
+-
+- 蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1581758540",1586704130,"/gogogoeball/photos/a.186955736269/10157142466896270/?type=3&eid=ARBGMVenLkstA1RQ7QhRjbUkNP6Abrua01uDRzsaK2d_O3zBO36fYM8MCX7S8k5V-4c4eDyT-S6kHC3S&__xts__%5B0%5D=68.ARCjRSo0dsb69ly78ENLY7H1SUzjplAIYO-Xqu-rZaSrYcL78nRi9WOL7eUTmlcbHLa508pGVXnxcPvipQvI1kffevREqF8iBfBCDFSaKe02y5oNIz56WrbM6UTsigsFVRhaz_lUrVk-TECazzfo98jpaAqfX_DAe39prXL3DZgMIO1BgST6gsnSd3uoXqdJFfKvFqaIe_pgxmlEtarbaUKb8fOlwQ_wYUQYoDDZ8D1kal0c_AnrLufam5mmqPpyJQ9EYHSa0h9qW5zL6o2gjg2hhh2Bh99AVovEJNQgq56S-JGnu9qUUqLjcQKqvZTAEL8_SyHlEjHTMqvt8Q&__tn__=EEHH-R","https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-0/p526x296/86970963_10157142466906270_7414842397491724288_o.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=qDf2bW2OEj4AX8PMOPc&_nc_ht=scontent-sin6-1.xx&_nc_tp=6&oh=e7a92feaf36889c173df374bb502094c&oe=5EB9B6F0",undefined,"",""
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704131,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704132,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"為了相挺受衝擊產業度過疫情難關、加強資源投入防疫、也守護所有國人的健康和安全，行政院一共編列600億 #防疫紓困特別預算 
+-，這六百億拿來做甚麼？今天我特別到立法院特別做特別預算的特別報告，現在也特別向您報告。
+-
+- 還有，隨著 #口罩產量增加，後天起（3/5起），口罩一次可以買的量增加，成人一次從2片提升為3片、兒童從4片提升為5片，每七天可以買一次不變，請大家告訴大家。
+-
+- 當全世界都在鬧口罩荒、價格暴漲，只有台灣口罩全世界最便宜、而且大家都買得到，這點就能讓大家知道，「有政府、會照顧、請安心」。
+-
+- #繼續衝 #繼續拚
+-#國家繼續向前進
+-
+- --
+-
+- 蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1583223927",1586704132,"/watch/?ref=external&v=218871206147257&__xts__%5B0%5D=68.ARA1HED7aMfuxxb9Hg17LW-TYBQ7HC1nkMg-r9sI4fFaDJs7ozPKgxhYzNrHiuAho8-FuUB26kv3Smawyk25mz5GuhIIcx138G7E5b_oNNWTkVxgtUkcFpVrYOgqyxPVfLHfYtCfka7csSLake7WFZPgzRF_aiwd194tnYULKIAcIaoFwyXmi6_fzQZwNj84MAqmvCLypgavqhgVBJVY6ARw16bbqdZdoTXmXpvrASksasu5VpH2phvGLs-REEACxIdBwjgE3Te-lf0oG2KwY64Lfvmkw0rJZAuPQTaY2gYYxf9Tb-7qHRCBf9zBxwgzebEExThUo5FlYlYap3oAdNCkEcUrXg&__tn__=kFFHHH-R","https://scontent.fbkk2-3.fna.fbcdn.net/v/t15.5256-10/80761236_218875092813535_1976107731265781760_n.jpg?_nc_cat=109&_nc_sid=f2c4d5&_nc_ohc=fQvI892UO58AX9N3Kri&_nc_ht=scontent.fbkk2-3.fna&oh=e10f7f909075623bb0db6746f8de1dbe&oe=5EB8B9C5",undefined,"紓困特別預算怎麼花？ 蘇貞昌親自向您報告","โพสต์โดย 蘇貞昌"
+-undefined,undefined,"今天我受邀到立法院院會上，向新一屆的立法委員做施政報告。而 #武漢肺炎 疫情當頭，我也特別向大家報告政府防疫的應變措施。
+-
+- 我想跟大家說，「有政府，請安心」。
+-只有團結一心，我們才能克服各項挑戰、讓國家大步向前。
+-
+- #繼續衝 #繼續拚
+-#國家繼續向前進
+-
+- --
+-
+- 蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1582285827",1586704133,"/watch/?ref=external&v=205371010612533&__xts__%5B0%5D=68.ARBZqICkt0Xu5Vpk_YonHgpL4Ml_ZfRre0Gjef-EpDqb5oTpxt9gzZmuBFKtPsnvb3-zpWyu-wVMdJPthQ6VEnnRRvuWKx56Bzia34CZgjlwo1vvLZy1ErwnXPa63OQeI_Pn6ue9Jcop3TqCJh-qa1nBRIrwyOnxriccXGXq0q_6S1bNe4V6FaxwEGqrfU9sOk1WwUXfIoxhOb-Qqgiz-u9MPNw97IXihNOIL-yKsobzghncvAtKJD1VibmxH4bmVMuwWyAR0uDGpPIX7BwROyTWmXfqnSqveAJUxCXsEtYZsSN5uSZ_GLuspzdsVztTtHEUC51K1Pw-0DeGihahMAURTywtow&__tn__=kFFHHH-R","https://scontent.fccm9-1.fna.fbcdn.net/v/t15.5256-10/83906412_205375413945426_7890484122575962112_n.jpg?_nc_cat=100&_nc_sid=f2c4d5&_nc_ohc=lztJs4iudTcAX91UFiL&_nc_ht=scontent.fccm9-1.fna&oh=37095184f626f42f15065891f84b1715&oe=5EBA7084",undefined,"施政&疫情報告","Posted by 蘇貞昌"
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704133,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"我們之所以成為世界上少數幾個還能維持正常生活、沒有停班停課的國家，是因為有一群人全心投入防疫、沒有放假。
+-
+- 國人同胞也應該負起自身責任，保護自己、保護家人。
+-
+- #有政府
+-#請安心
+-
+- --
+-
+- 蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1586074249",1586704133,"/watch/?ref=external&v=727052334495269&__xts__%5B0%5D=68.ARDttMS2GZ8CZVnP3ie0Hdkzrmys4WqSb_jHsSkuuOIDjLW0t9cDvJIx_kIrTPd4OTSn6zCRiDFd_XtHphc5aFwW7IqR8AU52PiHCl9bTzbs55Jv_rOE2CNPc-h3BNbSuk7uxlylgcK2Du_R7zzKphT_S4S3yRrZT1OszDVORCIZbXRirX_6sPbw56zfVk88nwaEhhNMPC4kBl3sH2dB_yd8QYBrfdEoeqtAJc2qWkXQF5Dp5NrFbSEx3Cx1aQKB1LQ2gihzyqv7yuOufKpmvrsNEJwH9gtq8RjpGgne6992T70TCYC4x0sjhauWU8dAZwGGBthx0jDbhh8bBxb9EfXO3UhcUg&__tn__=kFFHHH-R","https://scontent-amt2-1.xx.fbcdn.net/v/t15.5256-10/91850979_727053917828444_3094360083765657600_n.jpg?_nc_cat=100&_nc_sid=f2c4d5&_nc_ohc=KHC27SKDregAX93cBrI&_nc_ht=scontent-amt2-1.xx&oh=41e8f7c22ed060aaf4f48736f3f4cce6&oe=5EBAA4D9",undefined,"連假也要拚防疫 戴起口罩守距離","Posted by 蘇貞昌"
+-undefined,undefined,"在 #中國武漢肺炎 
+-疫情最艱困，散播全世界的時候，朝野立委團結一心，一起為防疫做出努力，才能讓600億的防疫特別預算今天在立法院正式通過，我要對立法院所有立法委員說聲，鞠躬敬禮，謝謝大家。
+-
+- 除了讓防疫工作更確實，這600億預算也將用作推動各行各業引頸期待的紓困和振興方案。「#防疫、#紓困、#振興
+-」是接下來政府的三大任務，政府絕對會全力以赴，讓國人同胞知道，在急難、危機的時候，我們是有政府的、政府是讓人安心的。
+-
+- #有政府
+-#請安心
+-
+- --
+-
+- 蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1584086212",1586704133,"/gogogoeball/photos/a.186955736269/10157219262406270/?type=3&eid=ARCNQ-VQA5ThoYs3RxmwhwUau3fyKBn88rm7Bpw76KpY1YuK5iQ87NGAgEctlj-_M5EYdtjM74eSAy57&__xts__%5B0%5D=68.ARBm7bsnb7k3J3Sw8uOSN8NBUSfeujsHlyV5d4lE_a3zd1rVGOw1zW8nT2OJCH1-D7QqOZp9SJmLOYvUqk1B8eVRnjfFeZ5A1xifEQxch3xDgqsImVrC7r19RCOS2qOHrPzHIfyMcZopa_N5qJihBV_xV2tO-1VcJB3bEtTmewMwECL0ZukG_45rZFSRcf8dST-Uv8E0JJsxDZZu2o_hAXei12jgE9_v1I4Tgqy_54iX-W7elW4RQgUDGe6U9BZn5gv8LWURWNwuzT1r1J3jYaAsgoVTdkM8CCjIZFMNP5u359QtqxT3oPR8o573MkrKoLhM6WPeE10Sq0zinA&__tn__=EEHH-R","https://scontent.ffjr1-2.fna.fbcdn.net/v/t1.0-0/p526x296/89682082_10157219262416270_3229500795942600704_o.jpg?_nc_cat=101&_nc_sid=8024bb&_nc_ohc=wqC2doMO4i8AX_VlfD1&_nc_ht=scontent.ffjr1-2.fna&_nc_tp=6&oh=3c17416e144036a68d7d284af2e2c65c&oe=5EB7FB1B",undefined,"",""
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704133,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704134,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704134,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"基於 #武漢肺炎 國際疫情緊急，今天的 #行政院院會 上，行政院宣布 中央疫情指揮中心提升為一級開設，仍請陳時中部長擔任指揮官。
+-
+- 萬事莫如防疫急，感謝從中央到地方、從醫院、藥局到宮廟的所有夥伴，一起站上防疫的第一線。團結努力，一起讓台灣度過這一關。
+-
+- #繼續衝 #繼續拚
+-#國家繼續向前進
+-
+- --
+-
+- 蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1582790565",1586704136,"/watch/?ref=external&v=198222511270379&__xts__%5B0%5D=68.ARCbxHlPanXqIR6AZ0xSphvQEImmR6RCfFZ9gVNfAdD9oDHdVdD_EP10m4Q14rmD7Ml19jrLzb6ACk3pUEPuDdr1UJ9VGOTTnaunZyKHvdv8lsd0ARTIZKI_dOOMnS82kgTU2BFTIFgmKlsIn7zqgnNKB1a_n96OeAOm4S7Fkax0O_WTj54nuhu4a9u1ba9nBmuaqD67xEFGRRnlUupcYWRel3MiKdcutPGvDWnUZphskogv61GsOVr0XP7_UPDVlnVpY_ZEn_4Fa8poAZ5OADVe_Z9YSVmTiara4LVdBGv6zCdKKsrOfQDC6w82OEV9hE-XxvamMWdIukGB1e0xswFQdut1Hw&__tn__=kFFHHH-R","https://scontent-scl1-1.xx.fbcdn.net/v/t15.5256-10/83920862_198223974603566_4384342773701017600_n.jpg?_nc_cat=107&_nc_sid=f2c4d5&_nc_ohc=Q8feJ316gZMAX_k1VS8&_nc_ht=scontent-scl1-1.xx&oh=5c3fcc625962d84d267fdaccaf2b5e8a&oe=5EB980DB",undefined,"疫情指揮中心一級開設","Posted by 蘇貞昌"
+-undefined,undefined,"#武漢肺炎 不只威脅大家的健康，也影響著各行各業做生意，所以 #紓困 、 #振興 要跟防疫同步進行。
+-
+- 今天的院會上，我要求紓困 #立竿見影 ，盡量不要手續一堆，要快、要確實、更要省麻煩。而且應該 #雨露均霑 ，讓受影響業者有能力度過難關。
+-
+- 既然是度小月、生意不好，政府就該出面幫忙店家 #固本強身 ，把業者平常沒空做的事情趁機整理好、提高水準、轉型升級。經濟活動趨緩的時候，也是政府 
+-#加速投入公共建設 的時候。當疫情過去、人潮再回來，他們會看見台灣已經改變，變得更好、更強、更美麗。
+-
+- 政府會拿出作為，讓民眾感覺 #有政府 、 #會幫忙 、 #請放心 。
+-
+- #繼續衝 #繼續拚
+-#國家繼續向前進
+-
+- --
+-
+- 蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1581583418",1586704136,"/watch/?ref=external&v=197188894731244&__xts__%5B0%5D=68.ARD8kQyRaX-JQpl_XJwMY0TeF--Po1t3iyqMFh1ep_xpHilEB9nE3Dujj0_dUL3KZD07rAEsX7w2G3VPCt-b6mr9XY3DPypSRhFlDCE7Qfvu5YCibDX6NMr5-s3-dr1Qh7ALTOzwjmeRz7QmOeSBf5XkpO91IoH9MpKZORkCMlwHy64SSRPeJq5JRAwTXRcjOdkWT13pjCqrV9DutNcy0f9PnTHaHhOl2Wnok283rGqA1XAzA2dP2g3i6l1Hj6RjqrqduTgPOoLVY4a5009yxMkebakkTtJBIU4urXqrvBBrUlK-gSZfAuowYb3gNB7b1Wi5xC0BLvC7y8ZqPzLCuDwohAm9Fg&__tn__=kFFHHH-R","https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/80998307_197195281397272_1845349466278723584_n.jpg?_nc_cat=107&_nc_sid=f2c4d5&_nc_oc=AQkRhqsNZuBCbpyoEqJRGVtWBOy4Y_V6wZcA-NiGpOjFyQLER2Y45Hd7wQThvGWhEJk&_nc_ht=scontent-atl3-1.xx&oh=bb6d4af12794cb947f2f410e775d800f&oe=5EB9A97D",undefined,"院會報您知：武漢肺炎紓困","Posted by 蘇貞昌"
+-undefined,undefined,"今天的行政院院會上，我們正式提出因應 #武漢肺炎 疫情的特別條例草案，送交立法院審議。
+-
+- 
+-我們一方面持續強化防疫措施，一方面也積極盤整提出各項紓困方案，針對交通觀光、農業、內需產業、製造業、文化產業，提出務實的紓困方案，希望能發揮即時雨的功能，相挺各行各業度過難關。
+-
+- 政府全力守護國人健康，希望讓大家覺得「有政府，請安心」，只要團結合作，我們一定可以讓臺灣平安。
+-
+- #繼續衝 #繼續拚
+-#國家繼續向前進
+-
+- --
+-
+- 蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1582183539",1586704136,"/watch/?ref=external&v=176522160313196&__xts__%5B0%5D=68.ARAXddJKItlEh0Npd9xpyvrS4RtlMqWQ1152APH0Gsn8mpScJ9parNTiwvz86ED8pjfGlDAUUd4L-RE01H3Q9xDOz7sMBMZaoWrJxGUH8G-OUyudyJ7PTIhGZnKEBagvuhphsIdBY71aJGObXvja5XY5ILZGWJoi-9Pe_MZ0BdlPQRdNTRORcEar0WKfwL3uF6g2L-tI_dTsi7Si8_CWVQ9fcejDW4_sPvHAJulh2TGZSt2tJlOKTurkJabD4aAMgiCtV9e7baYc1-z58m_9ClLXF9xh6-YXeRwZnMXMGKB5UJi9OMUKRVmbeKtSjKNyxdUAQK1xJeT0xdsGDcEA3gENBV4fgQ&__tn__=kFFHHH-R","https://scontent.fbud1-1.fna.fbcdn.net/v/t15.5256-10/81472792_176529100312502_8301799967849185280_n.jpg?_nc_cat=104&_nc_sid=f2c4d5&_nc_ohc=paz0ZJvUD-sAX9sr1Ix&_nc_ht=scontent.fbud1-1.fna&oh=1bb9e8e62c3259ea40cf48a2316507b5&oe=5EB8DA64",undefined,"院會報您知：防疫紓困條例草案","Posted by 蘇貞昌"
+-undefined,undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1586704137,undefined,undefined,undefined,undefined,undefined
+-undefined,undefined,"今天開始，酒駕會受到更嚴格的限制和處罰。
+-
+- 酒駕被吊銷駕照的人，重考駕照後車輛要裝 #酒精鎖 
+-一年。沒有通過酒測無法啟動、每45分鐘到一小時還會要求駕駛人重新吹酒測一次，否則熄火後車輛鎖死，要拖回原廠才能解開。
+-
+- 
+-被吊銷駕照的人想重考，要先上15小時的教育訓練。酒駕累犯三次，還要再去合格醫療機構接受酒癮評估治療，滿一年12次才能重新考照。這期間租用酒精鎖的費用、酒駕教育訓練學費、酒癮治療費用，請駕駛人自己付。
+-
+- 
+-為了不讓酒駕肇事傷人、危及他人性命的憾事再發生，政府屢屢加重酒駕的罰金、刑期。現在開始，酒駕吊銷駕照後，重新考照的限制又重又複雜，講起來很多條，但是大家只要記一條：「
+- #開車不喝酒 、 #酒後不開車 」就好。
+-
+- #繼續衝 #繼續拚
+-#國家繼續向前進
+-
+- --
+-
+- 蘇貞昌的Youtube頻道
+-https://www.youtube.com/user/eballgogogo
+-
+- 蘇貞昌的Line
+-http://line.me/ti/p/@eballgogogo","1583050863",1586704137,"/gogogoeball/photos/a.186955736269/10157185435406270/?type=3&eid=ARAdrytT4VNxafDDCT49jswezD4FKdKYL7xVmlhbFphDbFORLHh6enBc9Pg0zo5LFJMzZe4PQqwHYO2Y&__xts__%5B0%5D=68.ARATRGZn5HgYnHQPZ5TT10ae4__rUTCBuuie-a1xrqVAeON8K3BHhTJtYU4g4uzMK_dpbGTJzJYHKoAtW39KkSgECXBo_BjozqsVBufOok2MleuqT7yqA_o7fS-XReILNor0QYXJs4apeLY2fSAf87AuMncy4k4YBzfCYQBY-0eVuvv-2xitbVglG1uUpvlI6AsjrPPzx3Fc0_gMq8QMHQF3wCMj8Ub2KcfKQCnty8qPTTGGfDTsnB7fdsiwYOweST6NHQF_drNQaa5FTd3yKrL3C6PtOYq2iZtmN3eQ0dSoqIaz4AzerRIPJKu_02SRHSJKrmVWaDu1qfbDqw&__tn__=EEHH-R","https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-0/p526x296/88426579_10157185435416270_5296669715148570624_o.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=j7B8CB-PDYkAX-Bwqvp&_nc_ht=scontent-lga3-1.xx&_nc_tp=6&oh=fd235a5ed7448c56954f60deb8892454&oe=5EBA5D9D",undefined,"",""
++http://line.me/ti/p/@eballgogogo","1578394560",1578996871,"/watch/?ref=external&v=2205194116453760&__xts__%5B0%5D=68.ARAtYGfb38qDo9nPU_wR0yNAr-UXmhXoQH5yI7tsbIDanMrsc6ZoZCMtNl-zj9FK4ucTJYxcRqZrOktbom88vxpgU1rwPcWOoaOVBp9E1tYxdFqNYYBjwC5nyafaOOrUk097JMM6g_CZNePM2etmIdzRHGp1J3h2mWWp-GA4hUu-5fCY6CxJX4jal1KqAysanLgq_BQrz7MOIfYKivaUDpwjgX8M3_DSu6MsuyjSk13L8rjIjmBeasg2kQL61yKrumeLVhAzr8G6_hL9qaOU03WemO4nCiP53B6QzUzoJeak45_k_2O2mZ9aLOjS4yuwjxUQ_r6HUY69I4ktD4VOdma3WDmh8A&__tn__=kFFHHH-R","https://scontent-cdg2-1.xx.fbcdn.net/v/t15.5256-10/72474325_2205199666453205_7664798370153627648_n.jpg?_nc_cat=111&_nc_ohc=4P74MA3r3t0AX-LXhD8&_nc_ht=scontent-cdg2-1.xx&oh=1c0b2b8887ccb05cd6e8d3c324bcbf72&oe=5E9BE907",undefined,"做小英的後盾","Posted by 蘇貞昌"
++"https://www.facebook.com/gogogoeball/posts/10157043561291270",undefined,"","[Error]: TypeError: Cannot read property 'attribs' of undefined",1578996880,undefined,undefined,undefined,undefined,undefined

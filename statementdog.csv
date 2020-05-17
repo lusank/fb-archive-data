@@ -1,0 +1,1698 @@
+﻿url,posttime,text,crawled_time,attachment_link,attachment_img,attachment_img_alt,attachment_title,attachment_brief
+"https://www.facebook.com/statementdog/posts/2603858406331838","1567330230","#網友問答集 #EPS
+周末整理一下大家近期常詢問我們的問題，發現這個觀念蠻多人會搞錯：近 4 季 EPS 不等於單季 EPS 相加，Why??
+
+ 我們先來看看 EPS 的定義是什麼：
+EPS = 歸屬母公司業主淨利 / 加權平均流通在外股數
+
+ 所以在數學本質上 EPS 是個分數。當分母相同時，分數可以直接相加沒問題，但如果分母流通在外股數不同時，分數就不能夠直接相加囉
+(不了解的話可以上網搜尋分數的四則運算)
+
+ 
+那為何一家公司的流通在外股數會發生季度變化呢？像最近某些公司除權，發放股票股利就會讓流通在外股數變多囉，還有像公司現金增資也會讓股數變多；又或者公司減資則會讓股數變少
+
+ 當分母：流通在外股數發生變動，近 4 季 EPS 該怎麼計算呢？回歸原始定義計算即可囉：
+近 4 季 EPS = 近 4 季母公司業主淨利加總 / 加權平均流通在外股數
+
+ 覺得麻煩的話，不需要手算，請直接到我們平台查看即可：https://statementdog.com/analysis/tpe/2330/eps",1579107795,"/statementdog/photos/a.209326032451766/2603838493000496/?type=3&eid=ARBcCOLFPhBh_zkBmA9lDAE03J2AZn-qJzXwyGsEZCtx2mubOwjdiNIenqsQGpW1WxKcluuL2RYj__kK&__xts__%5B0%5D=68.ARCjPmPRvgacpB-I50OgHonQGkdHBaHOR9RG6rkr9kIHF4UFhcbnuQdGj2RBts3IXV-bWNbH-KreOZj-ICRayJCbuVM_e6JHAz9W9DX9y1yaHKwb9JGZ54MOLNfnMa5KzXYoa7kQAHbFXeUiNG3iVjE4gQKvLzts0-ObFnuer4NU1_Av3b5eMBTKxLMIuiszeYSVTgM0ZO5WhFuieb0TfQU3WTyaBqpaDwTCb9CWR9FaMCufkIfXx1Zfab-m5F_KsuPPk15Rs3MLg2MFpXp4CPY2a9yZxEM0Fww1_EWOMDwfpyWyaxtTpivkjknDFkWBj4SKKuop4VQ_n44Wry42zcMSrQ&__tn__=EHH-R","https://scontent-sin2-1.xx.fbcdn.net/v/t1.0-0/p320x320/69892978_2603838496333829_7077661115131363328_o.jpg?_nc_cat=101&_nc_ohc=N5UryQTC92YAX9owr_t&_nc_ht=scontent-sin2-1.xx&_nc_tp=1002&oh=cace92208edb20b003c38d0d3ae86603&oe=5E94E49E",undefined,"",""
+"https://www.facebook.com/statementdog/posts/2616855891698756","1567936654","#自由現金流 #網友問答集
+周末整理一下大家常詢問我們的問題：財報狗的自由現金流數據是不是錯誤？為什麼不等於營業現金流入扣除投資現金流出呢？其實數據沒有錯，而是我們在前年修正了自由現金流的計算方式。
+
+ 在 1986 年波克夏公司年報中，巴菲特先生對於如何衡量獲利，提出一個稱為業主盈餘 (Owner's earning)的概念，我們節錄並翻譯如下：
+
+ 
+""⋯其可以表示為會計公告的淨利，加上折舊、攤銷、還有一些公司非現金支出調整。然後以上減去公司為了維持長期競爭地位和銷售，每年平均須花費的廠房、設備...等資本支出。(如果公司為了維持長期競爭地位和銷售需要，還需要額外的營運資金，這部份資金需求也必考慮在內)""
+
+ 我們將上面的內容轉換為計算式，會更清楚業主盈餘定義：
+
+ 營業現金流入 =
+會計淨利 + 折舊和攤銷 + 非現金支出調整 - 額外短期營運資金增加
+
+ 資本支出 =
+維持競爭地位，所投入的廠房、設備支出
+
+ 業主盈餘 = 營業現金流入 - 長期平均資本支出
+
+ 財報狗新的自由現金流計算，正是出自於上面的概念。我們不再採用投資現金流出，而是改用資本支出：土地 / 廠房 /
+設備等相關現金流出作為計算，這樣的定義更貼近業主盈餘定義，同時也修正部分投資現金流出的問題。
+
+ 使用投資現金流數據有什麼問題？最大問題在於：現金流量表中的投資現金流，包含了許多不一定是為了維持銷售 /
+競爭地位而產生的支出，例如金融資產投資買賣，這會扭曲自由現金流 / 業主盈餘的數據，因為金融資產買賣許多時候和本業無關，只是純財務性操作而已
+
+ 這就是為何我們改變了自由現金流計算方式，你依然可以用過去同樣的方式，觀察新的自由現金流數據，只是新的數據比過去更精準、更貼近巴菲特先生還有學術界的定義喔！
+
+ 巴菲特先生的觀點請參考：http://www.berkshirehathaway.com/letters/1986.html
+
+ 查看公司的自由現金流：https://statementdog.com/analysis/…/2330/cash-flow-statement",1579107801,"/statementdog/photos/a.209326032451766/2616852178365794/?type=3&eid=ARC5zcsbk34KNdXgBoYtlImrMPBSy4mdgXSNs7oQBH4Ems6n9rMZS3nsspBYB-hNW6tLI1NTgPZACnQa&__xts__%5B0%5D=68.ARC3CisGWsYaMwjmYHuKdIW4QyA3sq2rMefi-cQ5GL4t00GErPdhXMM1Em64K2tJbp6AQBvAeHYLaOq-UPhcsbhQdv_VoFMer194u9AMsB-bYP0GI1x_iLhQRU8mXo1S1xHFkUkiL7KsMWEZo-YnzZ2iLm8zhUe7xpQv10BnIyLyzntsvzMQZqM7krU9dX7jlyrJLUtpASfF0qngJxKuPoO9YZ3LDFg0Jrze8PFvnKAVJ-gj2KryfDvzPoiih6SPciLVgU8b14bGsx-p5sTaAqyPP1m4-tLolbKzmus1nQSX_YnZbiUvsnpRr7uMpFoTJEgXXHl1Cc6XkfcrDNUdn0bafw&__tn__=EHH-R","https://scontent.fvno1-1.fna.fbcdn.net/v/t1.0-9/s851x315/69757393_2616852185032460_6116623764168900608_o.jpg?_nc_cat=100&_nc_ohc=UxfGKAI7tQUAX8X9KPM&_nc_ht=scontent.fvno1-1.fna&_nc_tp=1002&oh=09d59806c0211c7d543608dc4f09b422&oe=5E96D1EE",undefined,"",""
+"https://www.facebook.com/statementdog/posts/2490961574288189","1561789385","昨天是第一場 #財報狗好友分享會，當初在智囊團發布報名連結，不到 10 分鐘就額滿，其實有點擔心到底能不能達到大家的預期。
+
+第一次的嘗試有點手忙腳亂，不過看到大家的問卷回饋，看到超高的滿意度，大家說認識很多朋友、跟不同產業的人聊天、喜歡互相討論的環節，覺得很像有達到我們想做的事。
+
+過去參加過非常多的投資演講，真正讓我覺得有趣的，通常是認識其他的參與者。可惜大部分的活動，往往是演講全部結束後，安排一個交流時間，而那個時間大家也沒什麼交流，東西收一收就走了。
+
+在好友分享會，除了台上的演講，我更希望的能在不尷尬的情況下，讓台下互相認識。讓大家透過這樣的活動，認識更多的投資朋友。「好友」分享會，不只是我們跟台上講者是好友，也希望所有參與者，都能成為投資路上的好友。
+
+—
+【 #財報狗好友分享會 】
+
+ 學習、分享、回饋
+一個靠分享和回饋加快學習曲線的「投資人社群」
+
+ 圖片來源：財報狗智囊團
+
+ ➡️加入財報狗智囊團傳送門：https://reurl.cc/8a94y",1579107796,"/statementdog/photos/pcb.2490961574288189/2490954520955561/?type=3&__tn__=HH-R&eid=ARAW8iZCQUqG2c6rYkzuIC-KVZdFeiSHuwB22QeOkAWbBOy2QKwq5lUWS9SBYtXejLxuMWUorJ3ephXz&__xts__%5B0%5D=68.ARC1ih3hvY4mTAV_6Ke6r62HMxHMDvYnhBR7wRMQFecTp-Ifw5G6eZ_kGk09z5XYNh4n2m3tLq6JtJKCwpMvzuJ1QQPUkSH2a4yA-Qaz4dcFe5Uj5on-0FE8z64Mu3GgZxyrnx0PaHWX2GajftFjL3XKVvNb9JBOb2qZOKuq3P2QRLeQEER7OK1MS7GyqllAWL_0S1tPe5jBJp4QaLUgurxe2F-_7Fbzp4GNub1zgr4_Hy02TVUJMNaTPvEGyrcWCnFLhFsGjO0FDnnfasuIIIFYxJDHW4nU-X-ZiwoRSbPyxB55hpKHRKDePif7nU0muNwzvoIyprKpOUJXoE5dPP1iug","https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-0/p235x350/66025180_2490954527622227_205931192078303232_o.jpg?_nc_cat=100&_nc_ohc=WjRYcwTCi0wAX_cwBww&_nc_ht=scontent-amt2-1.xx&_nc_tp=1002&oh=4452ee10893e5e6a6aed9032d597427a&oe=5EA8A2AD",undefined,"+16",""
+"https://www.facebook.com/statementdog/posts/2481940788523601","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579107794,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/statementdog/posts/2440005449383802","1559390670","高殖利率的股票分成四種類型，而其中只有第一種是好的，其他三種都潛藏著投資陷阱，大家務必小心囉",1579107803,"https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F5713%3Ffbclid%3DIwAR3Nze5oE4T-DGXTcw9skfDuix2KU30sU_CBzoa-oW16JFeGQqKBPnWvjpI&h=AT1ybP1LGlYBNRUq8eXTnvpOlMa_vkwC0TXkT1EAJiz_ERYxCsV2c3b3szKYhgUr7ttOJB9aPDoOYDdZeoTEaEsgTGqlD6PnuoDrLrACbv8AH3FJ7uHHa55rBZlzkRPrMlQF6GXbYWbtiEgKisfXJHeLN5Ho-B22zEz5Qaf7tuMB7GO-Lr_LCCMwcz4P_4EAs28pYa_ryWHtQUJb4s2Ofr1zN-EdV4EdwOS5xnXQNqdIxPyzighqHfaQfBrHX8RlNP-n4pjDfTsyRwzpX6G_My5mnBf0ZqyAAcOkoAxVEAwR8m74AS_xQOLCdkPaUokS5k3niiyaXGTeYYgLLEpQLJzy5mb3m3tS7AXQgzzAs0mzWcQx56KWMt38fgyfe8OMvlMfHCPlo6pOQHHcyE7tOLTnynPXmB6SLIGAweEuatx_eDI_osFfirNbnjdv_olRqtvZjOpKGPBttNne5Vwxz4sj6F613pKE_6L_IA5LwXqtc1a4dJR5erUKUhBD7x7lhW9_elcsV3BIWV35GDlxLYuv80j5BvBaBji0anVO8TPZm8v_PO8otX5qzQ6hNsfw0pa5-wa24TZXw7IB29BTDKAcuNGiS7M4iUyZHGKX1CPL7Gzf3Fe345ltUBdYIoybvtZrviAGe6E6xBWP","https://external-mad1-1.xx.fbcdn.net/safe_image.php?d=AQBMUFjzUSfVC-3o&w=540&h=282&url=http%3A%2F%2Fblog.statementdog.com%2Fblog%2Fwp-content%2Fuploads%2F2013%2F03%2F-2015-09-02-%E4%B8%8B%E5%8D%886.51.23-e1441191281220.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQBx7jHGLJHtlNuh","螢幕快照 2015-09-02 下午6.51.23","我們會把高殖利率的股票分成四種類型，而其中只有第一種是好的，其它三種都潛藏著投資陷井，大家務必小心囉！","statementdog.com高殖利率概念股正夯？小心了！（2019 更新版）我們會把高殖利率的股票分成四種類型，而其中只有第一種是好的，其它三種都潛藏著投資陷井，大家務必小心囉！我們會把高殖利率的股票分成四種類型，而其中只有第一種是好的，其它三種都潛藏著投資陷井，大家務必小心囉！"
+"https://www.facebook.com/statementdog/posts/2559403670777312","1565172180","9/2（一）我們會在商周書房舉辦《大債危機》的導讀，這次導讀我們會討論書中使用的一戰後德國例子，搭配 Ray Dalio 的通膨型債務危機模型。
+
+熟悉我們的朋友都知道，我們的專長是個股的基本面分析，對於總經研究相對不深，答應這次的導讀我自己也很緊張。不過為了讓大家都能有收穫，我們也向身邊許多總經高手請益，希望讓每個參與者都能有收穫。
+
+歡迎大家抱著一起討論的心態參與這場活動囉～",1579107793,"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.businessweekly.com.tw%2Fbookshop%2Fevent%2Fproduct%3Fprodno%3DPROD000010631&h=AT0fGnwuyXk6UaYjNeIAUJU-VX7nj3JPVkdns9wF0wtGcI6C1UgujOgu-D4DGHfp1kRFmH_5nj-G-Gbq-3DEcokCJbUHsysKjI_boKRBXSOuMT4Uah7IAlslfYN0VYQmX8Du7BQ9q72TQWvQS9rSePH57yp5Fgz2fDGpou5DpP9aJ8tR723OUO-KZXF0pkK6s-qk-7e5Co5PSjk1PernNqW1t3pLJxJTsvpUJUsymfe6DsEZ5oBpOfVIXQOvbfQBXvQB4_r2TzppBY-ajDU8Af-gRdVbjW7bCzt_UKvAIZa7zHxZJNUpC3S9HnSznsNot1oUqtXj6Dx4UgCVJ8Cu3NCBsZFvRQ09va8HN40AREfPgOwOYrL1rLFSBWW8g6bdSImU1SL1DwvDWAnn_5_ibGwBMFYDZEAUEmdUWajvjg00Vs7mYrJClKX2lrAn1K0tR5MYij4Nwx4P0klYuT_I31rUlFVMECHkgLYt20i5UAMqZW257yFm88cGyUcCc4fAEE6kJFwrzO_Zrf9c_fw3J1gWlJe7iatCZX4aDN4-IElWqqB_z_0V5BR1glwNFyp0G6glEoMMs5anxZLmya10B03oxF7QR6eY4GWANzCCP_c1SGIaOJKTXoqBTmqsc-50gyRbiYL31snattvq","https://external-lga3-1.xx.fbcdn.net/safe_image.php?d=AQAt2cY7Ikipfy-k&w=160&h=160&url=https%3A%2F%2Fibwec.bwnet.com.tw%3A443%2Fimages%2FProduct%2FPROD000010631%2FPROD000010631.jpg%3F20190731093559&cfs=1&upscale=1&fallback=news_d_placeholder_publisher_square&_nc_hash=AQB6UopeRaEXeXFO","Image may contain: one or more people and text","特別邀請財報狗行銷經理──林威宇領讀《大債危機》，帶大家回到一戰後的德國，分析德國如何從協約國巨額賠款的壓力中奇蹟翻轉經濟、如何陷入通膨的惡性循環，並用這個經典案例說明典型的通膨型債務危機之週期階段與...",""
+"https://www.facebook.com/statementdog/posts/2363808603670154","1555424594","・一個人膽敢採取什麼樣的行動，取決於他有多大的選擇自由。
+
+・沒有數字，就無從討論勝算與機率；沒有勝算與機率，處理風險就只有求神問卜。沒有數字，風險就成了膽量的同義詞。
+
+・1994年12月，伯恩斯坦投資經紀公司的分析師發現，專業投資人若預期某家公司成長速度高於一般水準，也經常會高估，而悲觀的預測折導致低估。分析師報告說：「一般而言，所有的預期都跟現實脫節。」
+
+・在新資訊出現時，投資人並沒有依照貝氏提出的客觀方法調整他們的信念，而是購高估新資訊的重要性，低估舊有的與較長期的資訊。換言之，他們對結果的機率評估是根據「印象」，而不是基於歷史機率所做的客觀計算。結果股價不是漲過頭就是跌過頭，不論報酬、股利其他客觀因素發生什麼變化，反彈都必然可期。
+
+・有人認為，最好的決策應以量化與數字為基準，並且要以過去的模式為依據，但也有人基於自身對不確定未來、較主觀的信任做成決策。我接下來要說的故事，從頭到尾可見這兩種人對峙的緊張局面。兩者之間的矛盾，自古以來都沒有能夠解決。
+
+・凡是跟機率有關的事，都具有雙重特質：面臨蘊藏風險的選擇時，信心會受到過去同一事件發生的頻率影響。
+
+・某些情況下，平均值可充作有用的指南，但在很多其他情形下卻造成誤導。還有些數字根本派不上用場的情況，我們唯有靠猜測向未來匍匐前進。不過，這不代表數字在現實生活裡沒有用。要緊的是有能力判斷它何時有影響，何時則無。",1579107796,"https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F10992&h=AT0t-oKtcr89ttJPwXOC0Gqbht4jNogp0-k0aPUWd5qHEVZwiE6EF51Oca_CiCZ73X51j2B-fl-h0pAv6jnZqfMs3agWKyiQNCYgQM9dd0TuxUrhyKchTBLiJeK4nTqmdLq69wuv8RTkFCAknAZKdQsVzOzSZiKf4pihOBcTL4e9azhp1iYAJsalcxfL2teQi7qgx0H8HxakLxA_CjhN5HHzjEOH8GXGhZRLaUdVc-WwiBHbyup_tusyVaabs4sJmvph18IZIBBbR1g6c3uOgupMBd4LNcTJVc8ijBgo-2upKnr5ZRaGGq06XKsKgvugTiesyY52mKRaWRo-bH4YnGC5kVJiZdMLujVxvNIaJQCUhrV4Sqk6Pgoja16nIMh1XwexofCKFptZobjWho3n9Q5ZxX8yDHAwIiokr3w703wXipLLp1D-Cqx9ubdqKOyZ3xmRzFfrFDqo5d5lBUEMqVUIzamjsQGk5vPXc2ZcLc9MTmZcAcMX_lxrAE3UwJ-FvEz3-XLmBO2TL77cHOd00Jvy6XAiATNsAL1LWMiLiG4WZEMq3JcfkXwOqx7PcxxyjerNV99HcaK8lfs87on7O4YnhzbEmUMr00ttfa9PXxAB3tv8nrK6_orxwPz0-Q5OYDxNgS9lV57S3510","https://external.fbog15-1.fna.fbcdn.net/safe_image.php?d=AQDaDzr5U4Kg7iyX&w=540&h=282&url=fbstaging%3A%2F%2Fgraph.facebook.com%2Fstaging_resources%2FMDEzMTMwODYzODYwNTYwMjg6MTA2MjU1MTE5MA%3D%3D&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQAWS0OzPByJLh6E",undefined,"透過閱讀這本書，你可以在三個地⽅獲得收穫。第一個就是本書的主軸：風險的歷史。透過這本書，你可以看到⼈類試圖掌控命運的過程。正如作者所說，「想要達到與眾不同的成就，必須能掌握風險概念。是什麼讓人類文明⼤...","statementdog.com長期成功的投資在於掌握不確定性-《風險之書》推薦序透過閱讀這本書，你可以在三個地⽅獲得收穫。第一個就是本書的主軸：風險的歷史。透過這本書，你可以看到⼈類試圖掌控命運的過程。正如作者所說，「想要達到與眾不同的成就，必須能掌握風險概念。是什麼讓人類文明⼤...透過閱讀這本書，你可以在三個地⽅獲得收穫。第一個就是本書的主軸：風險的歷史。透過這本書，你可以看到⼈類試圖掌控命運的過程。正如作者所說，「想要達到與眾不同的成就，必須能掌握風險概念。是什麼讓人類文明⼤..."
+"https://www.facebook.com/statementdog/posts/2144710558913294","1542593894","有沒有網友今天連我們的網站時常中斷連不上的呢？
+
+ 早上中華電信的對外網路似乎出了點問題，使得許多台灣的網友沒辦法正常連線到國外網站。
+
+ 我們的網站在亞馬遜的日本機房，也連帶受到了影響
+
+ 連不上的網友請耐心等候寬頻業者修復哦！
+
+ https://www.ptt.cc/bbs/Gossiping/M.1542592174.A.3A3.html","1570965543","https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ptt.cc%2Fbbs%2FGossiping%2FM.1542592174.A.3A3.html&h=AT00cb_gB2wurolg2NqtlprRAoeHY13mj_XVytboSZ10DFl0PHBa58m57UoAJZSxrhuRKBikbedeP3YpJyrzY95DQgZRVHJ273KpMKvvrwd3p50g914MEyVWuM7xcmFd9yv9hWxkAC3wY09PSCOIpgLFC47g_MfgcmYbgAfuAiq6qYULch3m2b1tYAPrnfwy0dnvOEHA50cUHUNIJM637O7rvTqd4GDRmxXAUU7R1M8rpZUKSz5QVGGYM5yKNa689Iu21MHSYKit-tQmQM-9Zfk6yREKw12YEWlU7wBR_tJZJxIxqHV9f9lHfUUzZQtWP_PGu29MoeLCsUqtHfxBqr9L5wddNkud2ZvCe1q1sNWXSifQ7XR0m7S8E3uiHPOq8wNKGnCou-zmRMGvdAwzdS50ZF3w3xH47r9f2PeXiR82kS2CJARgRsgxUYQNtrel4hdqrVFTEZ_yfjVYwtEVDWlRcQJuMUOZLb2oZBeSy47_goIBjmVo9UafvCnq2o-4yXVIhxWsk0ij-C4EwyrwRzi-WX0v0ZxniKhx8_j3qSD-sKvN9_MQ31Zl6boSEFcjsqO-FAQugzzkgw6HfzQYPQuwV2bl3ES1i_By6iAlDotiDs97QQJgQw7kyy994lgsqVWzxjW-euqoK2Bh","undefined","undefined","[問卦] 現在網路是不是掛了？","我家BB寬頻 現在除了打手遊跟PTT以外 網頁一概GG 連不上去 問一下朋友、他家中華好像也GG"
+"https://www.facebook.com/statementdog/posts/2542719169112429","1564310862","和投資網友互動多年，其中一個觀點至今仍讓我百思不得其解。許多朋友把他們的投資失敗歸咎於一位神秘人物：主力。
+---
+網：研究這麼多都沒用啦，最後還是被主力騙
+我：喔？怎麼說呢？
+
+網：我買的那股票一開始蠻好的，想不到最近卻一直跌，看新聞也沒有發生什麼事，如果不是主力設下陷阱，怎麼可能沒事會跌呢？
+我：如果公司依然便宜、看好理由不變，並有適當的分散投資風險，就不用太擔心短期漲跌，畢竟短期的股票漲跌有隨機成分
+
+網：沒用，鐵定是遇到主力，他故意設下陷阱騙我們這些散戶，現在套住逃不了了。研究那麼多果然沒用
+我：那這個所謂的主力是誰你知道嗎？是董監或是內部人嗎？
+
+網：恩...就...一些神秘大戶吧，或是一些國際大資金，總之就是一些高高在上資本家，專門騙散戶上車然後自己偷偷獲利了結
+我：喔...那你現在打算怎麼作
+
+網：也不是第一次呢，就算自己衰吧，看看能不能運氣好，有反彈馬上賣掉
+我：那之後怎麼辦？你還繼續投資嗎？
+
+網：還是會啊，我投資股票也好幾十年，也算是老手了
+我：那如果又遇到你說的主力怎麼辦？
+
+網：恩...我現在已經學會一些看主力的方法呢，等我可以掌握主力的思維模式，就不會再賠錢了。
+我：好的，加油，很遺憾沒有幫到你
+
+網：我建議你也要了解一下主力，股市的漲跌都馬主力在操控，不認識真的不行
+我：我對我這十幾年的投資績效還算滿意，不過謝謝你建議...",1579107795,"/statementdog/photos/a.209326032451766/2542718735779139/?type=3&eid=ARDAist8XWbY0DWz6mXDhOx0f0w2lsrptdGgO7LkTH9cac19oBlnz8XJemgga4uggwoV7xZrkb-tdBah&__xts__%5B0%5D=68.ARAlWt0zY1V5iIGvGz93TScoDpq_waqD_cfkOylEBWT97CqmgmV11k-vKoZq8rQZTyKIusSNnM8yj-dXvGHj2VRpkCwRkxxJZ_4vfiE2oYSKd2mwRU4dIdP8so9aFqtSQXNx8US9Kgod2i9Rc2NK5bb9ErhfICl6K2I2ZthOpTrxFS3-_nYRC0nVLuUq9Kl2vh5WYPwTeLDwN0SuTGG-BIIymKa6FvJPiw4wcrCComg-gg2h0WTavMLabQiSKmm6S1CCDUaG_bLNxeNIklKU3r4gRsVYQ8urWKwhcsTMWMVMOqvOax2pJaXKrh2BX8BAiNcZNXsA7fH1JLMHOuV83Ye81A&__tn__=EHH-R","https://scontent.fhan5-2.fna.fbcdn.net/v/t1.0-0/p280x280/67620219_2542718739112472_7510794792972845056_n.jpg?_nc_cat=102&_nc_ohc=QPrBlnzrS-8AX_8ci4t&_nc_ht=scontent.fhan5-2.fna&_nc_tp=1002&oh=df6617cbd80d1aad74dd692caf5800a0&oe=5EA988D1",undefined,"",""
+"https://www.facebook.com/statementdog/posts/1900840869966932","1527590191","這張圖是某一檔股票營收年增率跟股價的走勢，它的股價與營收年增率連動很高。因為營收是最及時的財報數據，和股價有很高的相關性。
+
+看公司最新的營收表現如何，是我每個月一定會做的功課。
+
+今天，我要挑戰 1 秒知道月營收成長力道如何 💪
+
+【留言股號或股名】，我就告訴你它的營收年增率，以及跟所有上市櫃公司的相比的表現。
+
+
+👉 不只如此，我還會私訊你一篇文章，分享長短期月營收平均值如何幫助我們做投資決策。
+
+👉 除了你問的股票，我還會私訊你一個所有上市櫃公司的營收排行榜。不要再猶豫了，趕快留言吧～","1570965543","/statementdog/photos/a.209326032451766/1900826239968395/?type=3&eid=ARDBfqAOtLxyKEjnPvGPyT7e6S3v7vFg05hf23Mdw379A_Xt8ndkLugE3cKPGG7tB6_hNYlFYJ8-mmq1&__xts__%5B0%5D=68.ARBenj5lim-xtLUReWDVY5AH5rlp8z0dp4m3BWK7B7agImHIwAy4fy-cbNlwYQm5Xq26k2scJArc0_ckXfnLDAau59N7KnNVXyxD840OBp5bU4AXvj3UhTGrVPAS543-hlQafzCx11gWXR5o77jH-QaqxZW-3C7CbjfIet2RwIAfTKeWuX_7-3VZ1r1g0eAvX2HN4CISiNaFVXB7OaB3SjrMxj-JbwUI-NS2L1U_MB_tbG40C4r-CGy91Q9puAGnQviAb3NtWaoK6B8Tm8rFs8pO4Xhi2HlPGuQXSgRUFpbJwtWnnj8NgshNHlMaCCYL1lRpl62yILBXHPkszsJ8Xegikw&__tn__=EHH-R","https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-0/p280x280/33863365_1900826246635061_5268898070065577984_n.jpg?_nc_cat=105&_nc_oc=AQkj2kDNEUkaFa4sMBMOOQL5XP-uprHRhU1-t6LwjWUtP5NHCQkHbNO8XgZEO_-zBk8&_nc_ht=scontent-cdt1-1.xx&oh=b798eabcbb65a7e3ee612115b217207d&oe=5E225FF6","undefined","",""
+"https://www.facebook.com/statementdog/posts/2045633452154339","1536063559","美國最有錢的這幾位富豪平均一小時賺多少錢？
+
+亞馬遜的創辦人 Jeff Bezos 一小時可以賺進 447 萬美金，遠勝第二名的 Facebook 創辦人 Mark Zuckerberg
+和第四名的股神巴菲特。
+
+Tag 一位年薪可以跟他們時薪匹敵的強者我朋友
+
+圖片來自 IG @bi_graphics","1570965543","/statementdog/photos/a.770153613035669/2045633428821008/?type=3&eid=ARCXTAfflQz3r_hkNtPYAbs7v2q0-a7roCjxTXKKbmDr6H4AsWt7hk7XuhMGPLq04Pb1ospWrgjZoWpV&__xts__%5B0%5D=68.ARA4P-8zU_b3XhItAHUSJW_ppOleVfChkQ2XlsD7u90KgVs4OxBBasublKC4efRBdcXKsXjr7X9Th2N5PT4J6ENut8iStpFtCe3uFdcTTHG7klMvs6596nd6d_H79XwcgZgQgxwI4X_nszdCkWuVtQykmsS-w4e5bs7J5BVCsYIx574mRhaw_dtkFAFOuOLC3ram9fyc_iy3rmondM3ceBI_xx8bqnY3E_SDgep_v7eyMScJtS2NmXB4HOnJSsBcZO3_maCuvJAEMZbCmSmgEFdZ2IY4iOwWv_maBkIBfbK7WHhDJk79FEYdH2QcffAbxis121_GsF-EPggck1MtQmyKpw&__tn__=EHH-R","https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-0/p526x296/40659701_2045633435487674_4290276946899632128_n.jpg?_nc_cat=107&_nc_oc=AQlaGn6huf84IV6UqqlmqGkC03QoaioBg1M2qtAYxS9eS4gH2xEwhSU41FFrCKaEcbY&_nc_ht=scontent-sea1-1.xx&oh=02e3833e15985ad42a068683a2d54189&oe=5E3A027A","undefined","",""
+"https://www.facebook.com/statementdog/posts/2213516725366010","1546758016","揭露這項資訊個人覺得蠻好的，不過要跟低薪說掰掰...還是有難度🤔","1570965543","https://l.facebook.com/l.php?u=https%3A%2F%2Ftw.finance.appledaily.com%2Frealtime%2F20190106%2F1495167%2F&h=AT3MSyxDU8rmnmb7g1aCKxZpHIQ6iSHKYFdvxYEmdvdHBaVRXwDnAyz5EJPbcI1p8iD-P_pIssSZOKY_ZLhuUhu0NiwNujYLlBWiT6bVKgGeLYFp9OfAhsO0bzZ8NHmNLwsTlauWBE_yc7jYl0AqmAHMiRizBjUFJ939tVru9DTZOovVk3_izdH2OmGeaRpe9lMRU-zzpUv6NCVzDHhsa6DIxA_9NrTrkYKSyX69mNixe0i4xdjk9P1FEhlqA4jA7nUCwp18RCKhxq6AncjeypHmUK4hTrsr22JpwVTC6Xjjy6MX7rhYf-5Y1w0DsidO8b41ma1HiWEVrVFzqUHoTvrmzHfQE2w5U0aKcCUQW_7pVVNkhe0gHOV7x0ebk0wEKfRYmYoHxG5KH8MnqH6Ls2SwsovvromeRDtYFekbPEIDbW5JX7IsZiDFk_vFdAM3YPQaV9yDZe1Ph5Cb7UWjEwe8q3c8VUfHZ6OyKOC7DDgQj1GPxU7T_s6aXFrSEBGD9f1hevJQK5VW9X7lvqRvHXQmNotSbGEFkpC9Ak6fRC3gAHK9V_MZEMVrNTYH2saC2_RvsuV2u9J875sm_MHs8uGChi3SbfNzlDfb_IH1ryMvMMExPQL-E12_zLyPcSm5c4sQGsOrhshBK1Nd","https://external-ort2-2.xx.fbcdn.net/safe_image.php?d=AQA5qzCFArd7ZsTL&w=540&h=282&url=https%3A%2F%2Fimg.appledaily.com.tw%2Fimages%2FReNews%2F20190106%2F640_a6448fe1dbd90b95d186778bcde97f27.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQDYbpKm0Beg7Zk8","跟低薪說掰掰，證交所要求上市公司揭露薪水中位數。資料畫面","跟低薪說掰掰　證交所要求上市公司揭露薪水中位數 | 蘋果日報","薪資問題近年備受外界關注，證交所公告，修訂「上市公司編製與申報企業社會責任報告書作業辦法」，明定必須揭露非主管職全時員工平均數及中位數，今年..."
+"https://www.facebook.com/statementdog/posts/2304060922978256","1551936888","#禁止庫藏股 #講個笑話
+有在關注美股的可能都知道，現在美國政壇掀起一股反對買回庫藏股的浪潮。
+
+不管是民主黨或共和黨都有人表態支持禁止庫藏股，或提高庫藏股的門檻，降低企業實施庫藏股的誘因。
+
+原因先不提，我跟阿堯有錄一支影片說明，以及分享我們的觀點。
+
+這個動態是分享一個我覺得很好笑的討論串。
+
+不管是什麼立場，總有人會提出一些不合邏輯的論述。
+
+例如民主黨的眾議院議員羅．卡納認為庫藏股機制應該被廢除，所有企業以後都不可以買回自家股票。他三天前在 Twitter 發了一則推文：
+「禁止庫藏股的理由很明顯：企業顯然有內部消息，為什麼有內線還可以買股票？」
+
+這則推文一發出，馬上被眾人狂嗆猛嗆。
+
+「錯誤百出。企業宣布庫藏股後，每個人都能在企業購買前先購買。」全球第二大避險基金 AQR 創辦人 Cliff Asness 馬上在下面留言
+
+「為什麼企業可以在顯然有內部消息的情況下賣股票？（看來禁止 IPO 的理由也很明顯了）」這是《投資進化論》作者，巴菲特指名註解《智慧型股票投資人》的 Jason
+Zweig
+
+「你應該要求授予你經濟學學位的大學把學費退給你。」這是一位美國上市公司的執行長，諷刺他根本不懂經濟學，學校沒有教會他任何東西。
+
+一位 CFA 更是在他被嗆爆了以後酸他：「我猜你一定很希望可以買回這則推文。」（英文跟買回庫藏股一樣，buyback）
+
+你想要我們分享更多關於這波美國反對庫藏股的資訊嗎？想的話就在底下留言【想】
+
+#你同意這位美國議員的邏輯嗎","1570965544","undefined","undefined","undefined","undefined","undefined"
+"https://www.facebook.com/statementdog/posts/2526432400741106","1563535763","最近又有一連串網友詢問除權息問題，我想這篇懶人包應該可以解答你對股利的大部分疑惑",1579107800,"https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F10896&h=AT0HoiZq9SZPG5kObx34PuCz14LALlBT-6ASHZNFWCLeueUueUoK6tHY8hbaIu_dExMb0ePGGGvpbSrEI5vy2OKqCVocfyRNn6KN4hXX-H7EcF91ocasbgUDqtmOxJ41uuG8dVdHkBg5lD_HPIvba-2ggDkcL4XrRWEsVyl2wFWODK9SqCJZ8nQlsq_b261jGC9mjI4qogr3PX-RYCcLz0IMMZnySt1G_B8vYHMkVgaPsxFrDJEeS2T3RukNZasf3uqqTUjuKhiDIHp5YGx5vOTjHPZRHCwkew1RJ-09yk4CT6wStMGRzaGqJVNlaenWw8bDKlH11g3xm1r7Q0Bd4Vr6lUcrTiT7oBOQRrWVLGtl7q8-DveQ0QDMFUGTVwjTwQYWf0jiz8b2ey9c378RRgd-dMtx5gEBjStXK_NJVormpWWlmVLrBHuRc6are2seQxv1b6_m36OzSiGu8jQVF70RT-IMIhEbyl2scRPWoQFiEwYt_Kbj1KTawOiotuNthZbgGNJdIWP4qqhhXnL7hETFMbogRIPGsR67emqRU7UKcXs_0g9sH07ScbvDFQZbkToJyyWlXilQYn5TYXmLc12Jxj7xRkuOVYWL-mXdOFk9Mg-f3MdDoYH5p6hRl4HYTUBYcGyB-q9_DiF-","https://external.fhan5-7.fna.fbcdn.net/safe_image.php?d=AQAfrzLJwsDd27fJ&w=540&h=282&url=http%3A%2F%2Fblog.statementdog.com%2Fblog%2Fwp-content%2Fuploads%2F2019%2F03%2F%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7-2019-03-27-%E4%B8%8A%E5%8D%881.36.59-1-1024x692.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCuiMLNPFyeYByC","No photo description available.","這篇文章整理所有你需要知道跟股利相關的一切資訊，包括： 股票股利跟現金股利的差異？為什麼我們只推薦看現金股利殖利率？ 什麼樣的股票會填權息 哪些股票可以存股？ 如何避免賺了股息、賠了價差？ 存股要看什麼指標....","statementdog.com2019 股利攻略：存股族、殖利率行情必看（含案例分析）這篇文章整理所有你需要知道跟股利相關的一切資訊，包括： 股票股利跟現金股利的差異？為什麼我們只推薦看現金股利殖利率？ 什麼樣的股票會填權息 哪些股票可以存股？ 如何避免賺了股息、賠了價差？ 存股要看什麼指標....這篇文章整理所有你需要知道跟股利相關的一切資訊，包括： 股票股利跟現金股利的差異？為什麼我們只推薦看現金股利殖利率？ 什麼樣的股票會填權息 哪些股票可以存股？ 如何避免賺了股息、賠了價差？ 存股要看什麼指標...."
+"https://www.facebook.com/statementdog/posts/2329865640397784","1553510874","推薦一本生產力的書：【子彈思考整理術】
+
+副標題是：釐清超載思緒，化想法為行動，專注最重要的事，設計你想要的人生。
+
+這是一本教子彈筆記術的書，市面上關於子彈筆記的書我大部分都看過了，最喜歡的就是這一本。它不只講了做筆記的方法，也講了這方法背後的思考。
+
+我現在用的子彈筆記大概有以下幾個元素：
+・索引，我覺得這個發明超厲害
+・月誌
+・日誌，這部分我還結合了 5 Minute Journal 做每日反思
+・未來誌
+
+使用這本書的方法後，我解決了以下幾個過去常有的問題：
+・腦袋一直有新的想法出來，每個都覺得很重要怕忘記，導致我無法專注在當下的任務上
+・容易覺得自己一整天沒做什麼事
+・當別人問你：「最近在幹嘛」，只能撐著笑容回答「哈哈，跟之前差不多」，但心裡知道其實這就是沒進步的意思
+
+如果你對這本書有興趣，KOBO 給了 7 折折扣代碼，大約是實體書原價的 4 折：
+
+購書連結：http://bit.ly/2CuMDlG
+7 折折扣代碼：KOBOBLTN
+使用期限：3/25~3/30",1579107797,"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2CuMDlG&h=AT31eyTJxDvLaiFhW1gswyxTQHGiYYCfVxxifHUXpofdWsaryycrkEl-3N8B1GOVZJzILs2hz3Cyqs97wBm5UY_KvAQSmStV6kwsG1IzB-h2PqVNaOyBZTI_xGJGJnDNvJy6lGXPqMqxd4iJV3SjUhk0lQhHb0A8JfzNVcDlMgbsBUO20novgZZP_lirKktuOHl4R1ILAcJnVdU7eDYhdld0ZUO8_n3j17GrFB9ePGAOioO2aQqZr0XPzRpVmAuwuSOABnlfyfSsh4Io95MstXH8QYdJ_6FQqEsw0MoMbZdwWN6ldc8bGEOLYQAcVfn3fpMFkP0LGZjUJvhmVhUNjyUBwoQP9MexL37bQJ4XWoxF7moeUViBKNKeAVa7CJUYZGkOvdWDKe2qaWXoB3-Q4uENMChH4SIXe37ueGb6OX-QraXsa4FRHE9YwNOecETGnXfygEjLCsjjYL_LEnDfX66XmdruQ_7m55eRUWomRkz7_xjRivSE3ZKV8aroYcaSYFFSu3sEQpkvKbjhDQP9TRWHjGxOp1qn_Rok23dLxur5KQ5tRA83-76SyqYRpXzojQxKEY2EiCsX6erG2n5JCkgL3lPG357f3mjVOluVwh4yCgw95kNDtv0XZ0czzKe1Urqfo6DwZDpVKST0","https://external-frt3-2.xx.fbcdn.net/safe_image.php?d=AQCj0MDN1AuglrpG&w=540&h=282&url=https%3A%2F%2Fkbimages1-a.akamaihd.net%2F7bf6e146-7b95-4ca4-8884-7d4b5d1cf0d4%2F1200%2F1200%2FFalse%2FUg4ioj457zmQbfVGxD3gZg.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCmYfns4wj8f0Sa","No photo description available.","在 Kobo 閱讀 瑞德．卡洛 Ryder Carroll 的 《子彈思考整理術：釐清超載思緒，化想法為行動，專注最重要的事，設計你想要的人生 The Bullet Journal Method: Track the Past, Order the Present, Design the Future》。立即註冊，首購單本現折 NT$100，再....","kobo.com子彈思考整理術：釐清超載思緒，化想法為行動，專注最重要的事，設計你想要的人生 電子書 by 瑞德．卡洛 Ryder Carroll - Rakuten Kobo在 Kobo 閱讀 瑞德．卡洛 Ryder Carroll 的 《子彈思考整理術：釐清超載思緒，化想法為行動，專注最重要的事，設計你想要的人生 The Bullet Journal Method: Track the Past, Order the Present, Design the Future》。立即註冊，首購單本現折 NT$100，再....在 Kobo 閱讀 瑞德．卡洛 Ryder Carroll 的 《子彈思考整理術：釐清超載思緒，化想法為行動，專注最重要的事，設計你想要的人生 The Bullet Journal Method: Track the Past, Order the Present, Design the Future》。立即註冊，首購單本現折 NT$100，再...."
+"https://www.facebook.com/statementdog/posts/1890322961018723","1526646359","你們最近看了什麼好書？推薦一下吧","1570965544","undefined","undefined","undefined","undefined","undefined"
+"https://www.facebook.com/statementdog/posts/2045265468857804","1536031251","剛開始研究一間不熟悉的公司，除了到財報狗網站看財務表現和趨勢，還可以從公司年報下手，瞭解他的產品、產業、競爭環境。
+
+如果券商有提供這檔股票研究報告，可以去看公司近期的發展和規劃，通常一年內的報告我都會參考，再久之前的參考價值就不大了，畢竟研究報告比較專注在短期的發展。（研究報告看近期的資訊很棒，但預估獲利和目標價就還好）
+
+到財報狗 IG 的最新貼文，留言你最想看哪一檔股票的研究報告，我們將整理研究報告裡的重點分享給大家。
+
+留言完別忘了追蹤財報狗 IG，Instagram 搜尋「財報狗」就可以看到囉。
+
+IG: 財報狗","1570965544","undefined","undefined","undefined","undefined","undefined"
+"https://www.facebook.com/statementdog/posts/2244618625589153","1548575410","要提前防範地雷股，財務學領域已經提出不下數十種方式。但如果今天只能看一個指標要躲開地雷股，我們會推薦自由現金流，因為不只國外實證有用，我們對台股過去 16
+年所有上市櫃公司檢驗，也是一樣明顯有效","1570965544","https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F10606&h=AT0e3W_z_sP0tJ1Obev47VTQ9ffB0C3Fn-AH18DLhdfR-BNq4sWv4SkyoAKH3Ki7GevPvUo8lWXRSqw9-1aaoNzBImnXykJ2AH8SPVxYn1Spm9QA38h8fMtPQ-NNiaejA8fOuNI0Fhg6u10prj4wKpRGmKlMY4nAUPdjdZnEp2eGYUOz9DiV33RmKW--zZS0OxuJkBTxOz6GBwAh2p3tCzMGOSfRxzExPGY29GBgLYJyMNIkXxtTt_jIZithNiWNVWjxeVRg1G3qiIcyiLxPsnX_NUfsSngsFJWg5qqwXeaaypJwJDVWAt2CfDjZgJCDMzMg3ZuJWFdaBejTvpjEH7Irw5cPk-t3vsiLAG2-4fbekg2VFsworrBQmvy1hv6MESovj23XCJNkldgVSbSvVXvTQsVw-l9xOlVDHkHfumg_NLAnHNorahIpChPTYbsuxc9dej7QlonU2dazc8kaQyGft2lW7KAbXKur_dwoJCS6ls8bkzcraRGrQZKhztVybG_cnJgVk246o9VPtSfMcQoP63v6LImZ9T2XJzoJUGog3G5HDJj41eo9-X749bEP53zKqq-xKRkIMWlo5xPtlGibcWiqrKjbiscNKWTSRImoRiRnoFVEboWjcMgU4yneqeGlU-3K17pWrT7-","https://external-lga3-1.xx.fbcdn.net/safe_image.php?d=AQDLytY8eIY0nALz&w=540&h=282&url=http%3A%2F%2Fblog.statementdog.com%2Fblog%2Fwp-content%2Fuploads%2F2018%2F01%2F%E8%87%AA%E7%94%B1%E7%8F%BE%E9%87%91%E6%B5%81.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQBSDbgH7KrD9ady","No photo description available.","剝開公司真正的獲利—用自由現金流避開地雷股","大家都怕地雷股，如果今天我只能看一個指標要躲開地雷股，我會選自由現金流。 自由現金流 = 營業現金流 - 資本支出 如果你在 2003 年分別投入一百萬的資金到兩種組合裡。一組是每年買進前一年自由現金流為正的公司，另一...."
+"https://www.facebook.com/statementdog/posts/2181215295262820","1544863302","用財報狗的個股健診功能，快速掃視大同集團下的公司體質，結果...
+
+ 有空也幫你的持股作個健診：https://bit.ly/2Cf8r4Y
+#毛毛的
+#大同電鍋蠻好用","1570965544","/statementdog/photos/pcb.2181215295262820/2181208378596845/?type=3&__tn__=HH-R&eid=ARByYOArMYd5vg_tYcD5VGexLS7TQnCajYy-U0ZED3dkmCDdhDBujQEnBDmhj4yZiH3leVDXjtvW8_g9&__xts__%5B0%5D=68.ARBeKF6K5pcYaZrU5qzdXOKUosp6fBE1SWkEXCVrivrbal1AVw5QLENV3nrk2ulmk1KFGG_sTwiB-CKVsFeTZDgl-fxOKheW0GWtuZ27PqPCPFLNAk89n-ZE6NShwdV0m_MHxhkUPQrzoq9u91GyXN6atZBajM1fevk-2oghR-Xpijjzx1YgaR2pYJ81Ql0T9UJFYcx3eqY7amswLRFVP7-W7H-btF2jja3_eZSP0YgU7j9jndJsgk6yu10UvXbQ7IO9qdAkFtMRzLw6bdgDcWb2gmzd-oLdfmXkpw1fexbHvDlqsX7ZPBcxQPHctoeEvroXqGV5tKq339YJddXLgS55uQ","https://scontent.fcgk13-1.fna.fbcdn.net/v/t1.0-0/p235x350/48357375_2181208381930178_7568151603014795264_o.jpg?_nc_cat=105&_nc_oc=AQkJVW3ywWPCKgdrrCv3Arx3sDGGW7V-mPYsqP9U7PjIvjwU-QufeFLXtH0ss1YaRIo&_nc_ht=scontent.fcgk13-1.fna&oh=f205c7aaca85a7e4f91d51b95fcdaaf6&oe=5E187011","undefined","6",""
+"https://www.facebook.com/statementdog/posts/1945545878829764","1530536649","財報狗目前持續徵求後端開發高手，希望宏達電裡面有相關技能的大大們也可以參考一下...XD","1570965544","https://l.facebook.com/l.php?u=https%3A%2F%2Fudn.com%2Fnews%2Fstory%2F7240%2F3230267&h=AT2m5sr8PhTtLY4tXIz2Gajbt3KpjocdGu6SQd4Qy0pDaf2Df7iiwOMhAHAcPTHtdovnCGxL3XOri-uQOhPJzyd99vswtFxvIQ16ulpsCfdivksL-Klw9pjSMgVYtSEHzV_uBMZ5ZI1CSHk9aKsA5v0Z3BjfrcCWG_UcS9pqjlriwd2wX8ThoI9Hyxmo7Kl22xs6FUaBMTZRCGqF7yBa6ESlfVRYUUzlLPn2PTfqeUZWL4etF3p_DMMcZEndxqGYt1VYUaUlerc9EoJKX5qQW0PeidhzYEECCa-5p3cr_8LCGv6prgfrssLQSm0SjeuaIY0YOQ5LGPhYzarnPnnxREbHaEzPgMtHnFZN3WqEBNXXzfRC541fYZE3GpreI-Xkvu8pMyJhyCuUMGBLS3rQQdGHbdK8M--xyTgUjf0WOUk8DEDglpOH28y7cgR-7tc6zZGrTs8VsbDt7lm1NLbXJWXp79wviAM4JRClZi9FifrEmlZaYNfwHBC8tvotC77MxT7zxIWRn1U7Dj9Ur5iafSUSHl0SnFjQeLVZDuKX9WtcE-FKVIzfNUp4SPhMQ-Bangz5vgtbf7OTvMvn1hVTqhjt99PAUqmld7MgKpOKqjzrzESxJz9oiunpqwY9Mtg7hAqBeYvHeFsgdO_PY9p4rlo","https://external-nrt1-1.xx.fbcdn.net/safe_image.php?d=AQDkAKqREqcUiZa6&w=540&h=282&url=https%3A%2F%2Fudn.com%2Fstatic%2Fimg%2FUDN_BABY.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQAGb6w9SA1YXJSK","No hay texto alternativo automático disponible.","宏達電製造部門大縮編 擬精簡1,500人 | 科技產業 | 產經 | 聯合新聞網","宏達電（2498）年初出售手機代工部門予谷歌後，公司今天宣布第二波組織優化，針對台灣製造部門，擬縮減1,500 名員工..."
+"https://www.facebook.com/statementdog/posts/2075302242520793","1538222757","哇，富邦金控打算出售香港富邦銀行。
+這交易不小，有興趣的人可以保持關注。","1570965544","/bbwhk/photos/a.219834401496882/1156938407786472/?type=3&eid=ARALR0iMlUnMoozz6CAaDXVFoXTGEmx7LQAzqUYOz-C1LIcy1mxXBSPv05elKOAYQ1ADj9q-LgePL-H-&__xts__%5B0%5D=68.ARCJgrYeVRutKbhOKJnJidCHDz1nVgZSycSziH_mXlMkwX_4_HE0USnybxHRxchYzwY8gEyNBAx114RDRWS5SVgQd1Dtpk5Uwy4YVDqWoPuSKZdHloc8c7ysjPiKDEmbL-bOYhDelc4rKxpahyJ3F-tX19RrRB-zHumyZ9mS1KWuyDM66A2mM4mEUgjH6d-DBLIsPj5sl4mdKeFrFoPBwAvD6x-UB5CW1GiFZTFAVdba9r84gcKvNPGwFdhJEMA5h5GeRLarkYDDFGorwdvO0KdqWCQlLyCZqm1GhAjfsMBZVnyK9VPv2UNxP6tq_s_fyb1RcCqVhtaMgQGZJuBZtQsirCa6vbAv797RubVi95He94UpbAp59VJ_TfnLFZQIH5eH_rCjKyFRVfKRQgoz-byn6PsOxWZwHw2dJQtHFfW88Q52DbZQcElQ6CrNLgFCFMFznoFDYPjiTpVofYzW2AYMzmbjHskH7X95Sj1HMkg3W-rc8Ps8E6Rd&__tn__=EHH-R","https://scontent.fdps5-1.fna.fbcdn.net/v/t1.0-9/42709543_1156938411119805_1030646336900300800_n.jpg?_nc_cat=106&_nc_oc=AQn0U4E40jvb1sa1qoctI8G4APCFdEIKbVSN1ZkNHwiVmuncIyDVt73bFwNseZbXOso&_nc_ht=scontent.fdps5-1.fna&oh=998a0b2e3fee718928e2254d025c9421&oe=5E2D2461","undefined","彭博商業周刊 / 中文版",""
+"https://www.facebook.com/statementdog/posts/2433042746746739","1559037407","【難得有機會聽到真正操盤人的分享】
+
+ 台灣要看到素人投資人分享很容易，但要看到真正專業的職業操盤手分享，往往就有一定的門檻，一般人要聽不是那麼容易。
+
+ 現在有一個難得的機會。
+
+ TIME 時間證券投資顧問股份有限公司 是全國唯二擁有代操執照的自然人投顧之一，這次他們的創辦人兼總經理，前保誠投信操盤基金經理人廖國峰先生，將和 銀行家尼莫 
+一起在這週六早上 9:15 辦一場直播分享。
+
+ 直播的內容
+🚩上半場講如何培養理財素養
+🚩下半場講價值投資決策
+
+ 直播會在 TIME 時間證券投資顧問股份有限公司 的粉絲專頁上舉辦，我不知道影片會不會留下來，建議大家趕快去他們粉絲團上按個讚，記好週六早上的行事曆一起看。
+
+ 更多的資訊可以看這邊
+
+ https://www.facebook.com/2009262865963411/posts/2500854723470887",1579107801,"/timeinv/posts/2500854723470887?__xts__%5B0%5D=68.ARC1mKZD3opnAJrhLyXgIlCYMuTGfgNp7JwybSqVHVkvLZuxU4x09cCh__s-e5yqbxpiWpNCwlZp2CKXF0uTDRm1COUBhnjU6HacNkmqYVeWEM8w63-scl39E3v5vEJVzd6wDppBpTJPIlSF9aaGv38rd6VjvuRz8VAiSeiUZSV4sqq6jcoA62Xa94YErM7_vozLaYFpNWFYYfdWQK6t7FIz14JZQTIYfxrM2AolQeCEA3ooHEn9QAPyaTgRv--Z1z24HJYNVy1yNV6fXumOJoXtTFsLXA2WPuhUv-wOkP4FqCgMYDyN14fCiSR1tHD3kUsQqa7l3R2uVlbal8mecfrc5C44s9lRyAe6UbnOYQCD7NAucW05UmtQHmLPSQfXuplVh-TfQnrYSPtOFEylhbgpm7x5u7F60fZkDZyrz-wovYhNKsxnL7gE8RR0sVEHwepffWX82JAfEa2zrzGOupmZQncxBcY3H6titVXnHsUzRl2f_x5FkQ&__tn__=H-R","https://scontent.fhan5-1.fna.fbcdn.net/v/t1.0-1/cp0/p32x32/17626110_2015120225377675_7740572961142156282_n.png?_nc_cat=109&_nc_ohc=vje0Aah7e3cAX9sbcTD&_nc_ht=scontent.fhan5-1.fna&oh=e0fbae6c5e369c313afb6d052857365d&oe=5EA8A7DC","TIME 時間證券投資顧問股份有限公司","TIME 時間證券投資顧問股份有限公司",""
+"https://www.facebook.com/statementdog/posts/2035002153217469","1535266792","","1570965545","https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2F&h=AT2LZ06FXzH6M-B9E13m5AHPS3lp2Z-C7z84zMdH0DqeFQU_gMJNfphODLGkkEPqYnQmvuGnFFtSa71hwT_4sMpwgZ2i4nUwrPWTUi-0RxEjzhqmG99IkAZQJMPE4SshlIx_H2hQ-S8EAl97Wox2uyYySO8tK2xLxQnMc3QU6Gl5IKwARhT7Dq5Kk1t-5kpLwCgae2yA5bDA6LMHQfSqWfWBdtCFAFe8MJ9VYjRAjdX7-IwW3gQvT2h0O62Akou5QyrJnOXBUNRJfb0MAkOXSVj467YY0geGOPg3HblND9cMUuJasxUWfYee0kSLTnyhsYspbzLJyxwD8KRe3g-Aqan80Tv0m4K44ZP0dVEsMWRGxHQwKqifMDHQm2-MXEINOjDUVuuVzvEHOJckvbJ7Saz0CEf17wrJxiNXYYwTswPXwcc5Xp03KSGvOof9XPZITqXU0bB9wMyFpocYyYUzQ-ekVQSabc48K65FpJeMoTt68CF5s40oOB5MQHaIPYXjWlc-PWOQYAkbmLUGCnBBhelycq5kwmXG5kg4DWOqbhsIGGsHzAamMo-s7vD8ecNUL49MyrB25nj4J5GcF217obgDqMmoine3xRc-tR6hTckc4uKVX-j0L3ucnR_kMfvxpl6SzP9LR_Hu3fyV","https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-0/c124.0.601.315a/s526x296/1601476_736719859712378_9142680970936463657_n.png?_nc_cat=110&_nc_oc=AQnsQdRcG0ikn73L5fOn7XvNUmQUCXdCOJbncTkT_4krg6uM0j0_jGu3wL3oVPeOhmI&_nc_ht=scontent-lga3-1.xx&oh=c57c7e8754f3118c0d442958f6e11b9a&oe=5E16A37F","undefined","財報狗 added a button to make it easier to use an app.",""
+"https://www.facebook.com/statementdog/posts/2332887503428931","1553680232","財報公布後去買 EPS 成長的股票還會賺錢嗎？可以使用 EPS 成長作為選股條件嗎？
+
+這篇文章回答以下五個問題：
+・已經公佈 EPS 成長的股票還會漲嗎？
+・背後原理是什麼？
+・買進 EPS 成長股要注意什麼？
+・買進 EPS 成長股適合的買進點和持有時間
+・要怎麼找出符合標準的股票？",1579107800,"https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F10845&h=AT39kwL2wEiq6_mDg1jKWf8VzS8WntGdrc7rBVIENu9kmZfQvliFQDtV3M5BxxVcM1WqJg_YN5IYKaScL2VF0pHp38g2TMOTMtDdo9sbaLnU8Y0vEepExY2s7UE2qrksq0bdJ_ksgFwMlb5_0RNWf8ay8FBa1And0iMSsh6K-pz0i5iDKXinq0WWs7-XERKPaXRhRaWIkUbTDIsevah_uVEETOfVSJZDJijqipZLUAvKINKc8mlomJ7WdqFO1M5vYfNAiB8VHqThZDh2D0iFXw8MYizETM2aG51jTl6KGWvM2St1dTC7kGuR1-DJ3YvhdHeUIjwEPjbXAXR28yWk7lh60p8Xm3ju8L4bdYGefItsL0smrHSqYV6kzGC2fHdkDYphH_8TpVfvraNbPpa85-C-TdvLgcUrZQ3ojeclvIctZzLXCmGd6uvhqToVMnCsHzWuyDy-y7ASXvu1Z8eXNBUYkaQBEpmT4k5Wk9FM9jPpy_YVsr3ZV4AgAvM90PMwD1OJoKSaF7voL4UaXRc9TtTMAYAmZ5i43unPwrELBMabPL8iH5WICh5loXVkN8usN2uVu0xUCg3lMTiRYMc_lSpUstxQ-tg72TSMs-8WlzCXiZ-KCNZXBDXfUiwcBtuh6Ul5uiUtGNsz2ogG","https://external.fbkk7-3.fna.fbcdn.net/safe_image.php?d=AQB_Z803y_BQTUud&w=540&h=282&url=http%3A%2F%2Fblog.statementdog.com%2Fblog%2Fwp-content%2Fuploads%2F2019%2F01%2F%E5%B7%B2%E7%B6%93%E5%85%AC%E4%BD%88-EPS-%E6%88%90%E9%95%B7%E7%9A%84%E8%82%A1%E7%A5%A8%E9%82%84%E6%9C%83%E6%BC%B2%E5%97%8E.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQBwjbxD8xgp3Td3","已經公佈 EPS 成長的股票還會漲嗎","EPS (每股盈餘)是投資人判斷公司賺不賺錢的重要指標，這篇文章想要探討：財報公布後去買 EPS 成長的股票還會賺錢嗎？我們可以使用 EPS 成長作為選股條件嗎？ 我們整理了四篇研究，加上我們自己的台股回測研究，回答以下四....","statementdog.com[科學投資] 已經公佈 EPS 成長的股票還會漲嗎？（四篇科學研究+台股回測）EPS (每股盈餘)是投資人判斷公司賺不賺錢的重要指標，這篇文章想要探討：財報公布後去買 EPS 成長的股票還會賺錢嗎？我們可以使用 EPS 成長作為選股條件嗎？ 我們整理了四篇研究，加上我們自己的台股回測研究，回答以下四....EPS (每股盈餘)是投資人判斷公司賺不賺錢的重要指標，這篇文章想要探討：財報公布後去買 EPS 成長的股票還會賺錢嗎？我們可以使用 EPS 成長作為選股條件嗎？ 我們整理了四篇研究，加上我們自己的台股回測研究，回答以下四...."
+"https://www.facebook.com/statementdog/posts/2259808537403495","1549453344","過年是跟許多親戚促進感情的好機會，但身為投資人，聊天最怕的一個問題就是：「最近有沒有什麼股票可以買？」
+
+每個人有不同的風險承受能力，預期投資的時間長短也不同，實在很難有任何投資適合所有人。
+
+過去幾年遇到這個問題就是打哈哈過去，但今年開始，遇到這問題我就直接把影片丟給他們。如果你也有遇到這樣的困難，趕快分享這些影片吧 😜
+
+如果覺得這些影片有幫助，別忘了訂閱 YouTube 頻道，有新影片🎥出來才知道喔。
+
+--
+
+投資新手優先看這些：
+
+存了一些錢，該買股票還是 ETF
+https://youtu.be/dv0tAFszGYE
+
+ 買股票前，先瞭解這三個觀念
+https://youtu.be/V_ajg8aXcvE
+
+ 推薦股票新手的六本書
+https://youtu.be/KJwST8ohFEM
+
+ 怎麼在兩年內學好股票投資
+https://youtu.be/-c9jcAy_r5w
+
+ 三個面向判斷一個投資方法有沒有效
+https://youtu.be/DIYT6_W-8gY
+
+ 剛進到一個全新的領域時，怎麼挑選學習的方向
+https://youtu.be/BxNFa3L1yi4
+
+--
+
+有經驗的投資人可以看這些：
+
+投資股票賺的2種錢
+https://youtu.be/QXUYZMaE-sA
+
+ 股票漲了，為什麼沒賺到該賺的錢(華園2702經驗分享)
+https://youtu.be/Qsw8_PDZ-Xs
+
+ 財報都是做假？新聞都是出貨？出書開課都是騙錢？
+https://youtu.be/HOZxVL2-rFE
+
+ 如何認識厲害的人，讓他們願意與你交流
+https://youtu.be/AmE-Fn8pVRg
+
+ 股票估值評價大哉問，不同產業要用不同評價模型嗎？
+https://youtu.be/UaJPEuXVdv8
+
+ 值得追蹤的投資網站和 podcast
+https://youtu.be/oajrrmZT8U0
+
+ 集中投資 v.s. 分散投資：集中投資的好處有哪些
+https://youtu.be/inGGjCV6X4Y","1570965545","undefined","undefined","undefined","undefined","undefined"
+"https://www.facebook.com/statementdog/posts/2120484094669274","1541082118","不管在什麼領域，跟高手交流是進步最快的方式，但是要怎麼接觸到這些人，讓他們願意與你交流呢？
+
+這集我們講了幾個很重要的心態，以及一些值得嘗試的做法。包含主動參與活動，不要怕尷尬；多在網路上分享你的想法，讓別人有機會看見。
+
+如果你也有透過網路認識到高手的經驗，歡迎留言與我們分享。","1570965545","https://l.facebook.com/l.php?u=http%3A%2F%2Fstatementdog.piee.pw%2FBNVYY&h=AT2Oc9nZ-Zcd0qeidqh0tuJJLMfMZH7tivWMgepLiC2-lHD2zZ1rXzd-AnpJ2BS9IaOmDdsiBnCQ9KnsxPAGmPdUKjnjD7vixo2Bg76xcUve8KPGW_f9MBPR96CeH9f0i4wEjysFmct5F6yQyDvcLigf4cYM0bDwtlBjx3KruIcwd0e4IeOBZxBuPsd1kMk2jNzjttxjQtnbrh_eHQcFKqZGv-q5jfwSVJfwIDY30RE24rVaWn-7ja5Kxz7BdcA2MPSkBXem2Pa0GW0d-JfAPTmBGyGnAKLd0eg_d2n-xaI7sp1gs8Hj4IugaI7bjxbDm_4df0TOdH1liG5ShB_WyKScfQOq-nQ5MQrxECqhtirX1kJSt0nTRSrZPjQXA60ZRPHHxKf_XleNop8xGu9aTaMyiU8vQfv8gw9NiJT1RB4FljH1-9gSDq2lbri1kQYULObLOSTi1_wjdqd8DAy6VbfFtOghD1atPFNbT5-ZVVlTVj-bXen02PyTPXy7LLpEYBzjdSKAzvvFFs4Djc_Y1K9ngKVwub9x-0P5_A66nttB2smkcXzLIk0cZaa1zRlvGWLcxyxEfFdGt5jM1HJZtxVNmTrjn98YccMIC6m8oWh6JBQnu10f48dG4G5gj54H1V2Yh26UUtlWmISF","https://external.faep9-1.fna.fbcdn.net/safe_image.php?d=AQDnKnyPxLahNa9Y&w=540&h=282&url=http%3A%2F%2Fcdn.pse.is%2Fstatic%2Fimages%2F65A058D2-10FB-E394-34B6-7441476BA2F5.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCn_4PblyWEmTVf","如何認識厲害的人，讓他們願意與你交流","如何認識厲害的人，讓他們願意與你交流","不管在什麼領域，跟高手交流是進步最快的方式，但是要怎麼接觸到這些人，讓他們願意與你交流呢？ 這集我們講了幾個很重要的心態，以及一些值得嘗試的做法。包含主動參與活動，不要怕尷尬；多在網路上分享你的想法，....."
+"https://www.facebook.com/statementdog/posts/2431260306924983","1558952460","最近感覺看電子書的人越來越多了，也有很多人跟我們分享，他使用看電子書後，閱讀效率提高許多。
+
+前兩個禮拜，我們一次買了三台 Kobo Forma，繼續推廣電子閱讀器給身邊的朋友。
+
+如果你也有在考慮電子閱讀器，Kobo 正舉辦一個活動，電子書閱讀器最高賺 1200 優惠 + 15% 點數，活動時間只到週五（5/31）。
+
+有興趣的趕快下單吧，我身邊愛看書的人，買電子書後都是後悔沒有早點買，沒有人買了覺得不實用的。",1579107800,"https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2WXeh2M&h=AT0q7pun8i4ROKsIYzQK883--zrxWIj5gmlJwegLBHjQxj7OZZvoShq0842G7fpQQfB-Ho3C7A4CcvvqySTLBv2exvq9iae2RH1p6bKkRQCz6gLqHWkoea_KLeYAMvVpKSjWEUhAV5yjIwF4Q4YCflQWdQ4A2iSBNUVLiEm_RkZJmfgi3brApdrLlxEarKONcE3XU5zHn7QfA6_Sf0APvvIfDbAmjmzkOKJvRfI7wL7DPC7GnHe8BYdTZV-9DX38GM8ET2AYTseU4VJv2aJ9-tp7JcpDBauLwQyMej42up9P-2P2G_tMJJQjaApM9-CAUMT3eSn9cX7z9RTJK_-jkI6EEXmiUCKuVykB3kTHgS12YgRXNCae919ZTpIc1T5YRj2BzZZ1rYN1mxSJsBqGIYifnSGbq7Lgyc2HcKL74IW5FcTUXu1XlMJz0Czv4PYpQy_S76YS51SguUWhXQY-JGiY-8dhLtQkBMEwdbbiBgNPDRvkAYlhd6Pk7c5pJGX8t9G2gpIL2Ff195uWyVEhdn5iptRPiHcyey9Ri3-jILOW1D9CdgOXF-sy1xnehfp5DgotXaKv7ThRX_PgjPB0-Iwdw66KmFrgxooi5juf8X4LSeqQD_PkP9Sl0JHgS9eU7KBxmCSRzSsGViiE","https://external-sin6-2.xx.fbcdn.net/safe_image.php?d=AQANPj34XanIT5gk&w=540&h=282&url=https%3A%2F%2Fintl.rakuten-static.com%2Fb%2Ftw%2Fassets%2Fevent%2Fbrandzone%2F2019%2F190517%2F600x315_n.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCYIHRNTs50DOfX","Image may contain: text that says ""Rakutenkobo 樂天電子書閲讀器 2019.5.17 06:00PM 5.31 11:59PM 品牌名店歡慶 最高享 kobo 1200""","品牌名店歡慶樂天11週年!3大優惠好康，最高享$1200優惠，再賺15%點數。優惠1 : APP限定優惠券買kobo電子書閱讀器和日本直送滿2000現折$200、優惠2 : 買kobo電子書閱讀器最高送1000購書金、優惠3 : 會員好禮最高賺15%點數。用優惠券買....","rakuten.com.tw品牌名店歡慶樂天11週年! 最高享$1200優惠，再賺15%點數-Rakuten樂天市場品牌名店歡慶樂天11週年!3大優惠好康，最高享$1200優惠，再賺15%點數。優惠1 : APP限定優惠券買kobo電子書閱讀器和日本直送滿2000現折$200、優惠2 : 買kobo電子書閱讀器最高送1000購書金、優惠3 : 會員好禮最高賺15%點數。用優惠券買....品牌名店歡慶樂天11週年!3大優惠好康，最高享$1200優惠，再賺15%點數。優惠1 : APP限定優惠券買kobo電子書閱讀器和日本直送滿2000現折$200、優惠2 : 買kobo電子書閱讀器最高送1000購書金、優惠3 : 會員好禮最高賺15%點數。用優惠券買...."
+"https://www.facebook.com/statementdog/posts/2105046039546413","1540202264","最近在整理中美貿易戰可能直接影響到的股票，發現「大陸地區投資帳面價值」大於公司淨值一半的公司，竟然超過 300 家。
+
+ 覺得因為中美貿易戰可能會有轉單利多的朋友，記得先確認一下該公司既有的業務不會受到貿易戰的直接影響啊。","1570965545","undefined","undefined","undefined","undefined","undefined"
+"https://www.facebook.com/statementdog/posts/2555966977787648","1564982898","【美股訪談】
+
+「你當初為什麼投資美股呢？」
+
+「因為覺得有競爭優勢的好公司比較多，而且產業比較多元，有很多台股看不到的商業模式。」
+
+「那目前投資美股這段時間，有遇到什麼問題嗎？」
+
+「主要問題有兩個，第一個是......」
+
+你也是投資美股，卻因為沒有好用的工具，或因為語言、文化的問題覺得有點小麻煩嗎？
+
+我們想多瞭解美股投資人的想法，請協助我們填寫以下問卷，我們將根據問卷回答，找幾個人訪談。",1579107797,"https://l.facebook.com/l.php?u=https%3A%2F%2Fforms.gle%2Fd6x99WV54mzHLdmMA&h=AT3leStY3KDmLwfLWQ--G0xbdWronCHyAWtcoUWQHlCE0nRPnP8iihX0iy16yPjsmv7M2Cdb3NQfFAOy86Zv8hoIKVmi-mFfiWPYWO2hppUCr0DHjCNLolpDH4UdW4km1ncwkkBAOvy2yJi1VrlHflwDndGKWLZEMPEMqA1LX-cEaxLll1RhYGBaH2sNGgMNWUs-EwsdJCf1BSyMAm8VKAoW7JjR5MSrXJAaJdwe7DvWD1QumNzrLwwx0ZAaiOdrd-FVas-ROyCY8nztj7MQzd-R6POBy4MHU59iok8IcbIh28KN9blv2mqAATW2Wk2dZldVby3WyoomAJ4WrPON1UfbO5FGbDltSm1gjucB6SyFuvUPdeJj7bbmWQVQCwZu6IdcH0of7b2dzjI-9fA_PhocU0BF6bXAayIFDGVH7lN-xCH14diyexjNh_Tbszw7_mx0PJhIP1PYN1fYjKUBHgE5C0Lqm2JfszNoGuil7jeVF2TeL6qPYMtCB_WpT6J1Y19ZVfDc67Iq-wQYD6RvMRwGcRzf83Ausc4rPsTLk9PmcWS8rERdenMdB3pJkIti10imBAgzekZuuZzympm_L8u-BkhJs3FKoHqikK1yWvQE_FOWStF313rVGADdPguzX_2mU4TpE6TSbQDb","https://external-lga3-1.xx.fbcdn.net/safe_image.php?d=AQA0T1btwNCnVj19&w=160&h=160&url=https%3A%2F%2Flh4.googleusercontent.com%2F-N53l-PK4spAAsH-mqzX9e3b0g0HJmbJDxoGgWWJGjmPE2wQUWtuBUf8FqGcXL-qxWg%3Dw1200-h630-p&cfs=1&upscale=1&fallback=news_d_placeholder_publisher_square&_nc_hash=AQByjJIk9yXGnW6v","Image may contain: text","我們將根據問卷回答，找幾個人訪談。內容照自己的想法填寫就可以了，謝謝。",""
+"https://www.facebook.com/statementdog/posts/2014695978581420","1534242593","如果今天我要從頭開始學投資，我會怎麼幫自己規劃學習路徑？","1570965545","https://l.facebook.com/l.php?u=https%3A%2F%2Fuser36920.pics.ee%2F9VMHN&h=AT0n581Tr3O-s2zmIAL8stEJrAQzVWZy43vf83qvv8km6fk_Z1xgQZaGs_-M51lRwbzJXs1wgG--C5v5iro-mdgn1wdSEuY6chHNOqvmjG1wCv8z8ittpQRpLsP0uSHY3LVlQgtGIKY9MGt3dd2eIHsXxXLZtinT8vmpUaxubDuIezMVTRYfLRR2gD-k5_hzbC-sOfXi5uuCD-23cEY8xzQwjkrFsKlfxr_bNNOor8B7C4DYYWmNKeipLsfAUKpk9TAlBS-6e61d17lPjH-Gbpii10C0o2EG-BVeGKrOh6wH5-keJAZYkSfCZ0wCWnF3gsTWyCI3XPZbVkHJ7BiinpneorTTsVS5WUFNWzNi1IGv_nXCrk0K7KBOWxk78NcWBNOezLrbN3iPCVDpxGnPc0CloNMrZqv69O6UdVKq1vQjhKMe5XHbbYG0n4NiyEBIqzr5yEvWCAPOFN0IZPdQB0566Z5Be_7G-y861VWNNs8q6O89sjaUaKY5GGjRw7yGH1MHjHFsxHwGUaoyhDDTp6mUrcX0Ofd2XzOq8r5SxBT7MeVFNHUYx0KFMZavJ1t-O1IbkSae6lXBZBHYWqkhHu3RA5IjcvN5lV3_Ux0UF34mH5duHDjBKEwB1EeK0RS0b_M_WCQoAKamwHLi","https://external.faep9-1.fna.fbcdn.net/safe_image.php?d=AQB4rvStNmZd1M4H&w=540&h=282&url=http%3A%2F%2Fcdn.illu.es%2Fstatic%2Fimages%2F779C416E-E43F-C22A-A6CB-A321E32DEC5F.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQBnO8S_Dg0zDsc_","怎麼在兩年內學好股票投資","怎麼在兩年內學好股票投資","關於威宇： Facebook：http://bit.ly/fb_wylin Instagram：http://bit.ly/ig_wylin 網誌：http://bit.ly/blog_wylin 財報狗：https://statementdog.com/ 關於阿堯： Facebook：http:/"
+"https://www.facebook.com/statementdog/posts/1989521424432209","1532941368","好喜歡這張圖，圖上的紅線是歷年報酬率平均值
+
+1. 上漲的年度比下跌的年度多
+2. 大部分年度的報酬率都不是報酬率平均值
+3. 不管是哪個時期，有上漲的年度，也有虧錢的年度（這是廢話，不過當你投資表現很好時，這句話就被拋在腦後了）
+
+看到這張圖，你有什麼感觸呢？","1570965545","/statementdog/photos/a.209326032451766/1989514984432853/?type=3&eid=ARCm_O-Lln-kaL67K-h-VAuGtVs-vpkf2yT4DdvXQVBf2QI6BwsYAgYCqEsExtWNU0oqKMOnxj9MsLW0&__xts__%5B0%5D=68.ARDTeiSdHfPGvoSpntiWBozVJYg46W1j2K0NrAdyGLDIY9UhdnBzZYHjNFYZsXP7VjMhcidbHlGpnBDSv29UtrGISJ87t8oabhazJGEvEwk7FQ2BxjmhPspHSpsCXy-60ior-g9QP7xrLXlCSmqGR97yCbCQAfclSn6cFq72DGyNItQuv4YOOrUSN-BwTGwRx3Yz0I-jf-1pli9Yln8nQnz84FRxG8qNxHj9nt7IldfDgL0lCthNrD5pxdN851Ah2mVS9Rmg56RimP_C38dYAMSMXiGJi6gHS-KADQJoQiZkFw12Hh48gwTvT7ld_E1vYCoRJc9hSCGJ_OvrJ6z9dV2f9w&__tn__=EHH-R","https://scontent.fcgk23-1.fna.fbcdn.net/v/t1.0-0/s526x395/38064094_1989514987766186_7470446925301415936_n.jpg?_nc_cat=109&_nc_oc=AQmYIng7mr4wjaAJOQr5Eq-x3-FbhehofrCkRYrVxr15BSDvCMW-ydXchnYdtaQ91_I&_nc_ht=scontent.fcgk23-1.fna&oh=5b056f18b361da435c5e6630c53aba86&oe=5E27087A","undefined","",""
+"https://www.facebook.com/statementdog/posts/2207761835941499","1546422214","謝謝 Thomas 在報導最後推薦了財報狗。
+
+ 想更了解報導中提到的 F-score，歡迎參考我們之前的文章：https://statementdog.com/blog/archives/10581
+
+ 也推薦投資朋友訂閱 Thomas 粉絲頁，裡面有很多讀書心得與投資思考喔：https://www.facebook.com/thomasleesharings","1570965545","https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mirrormedia.mg%2Fstory%2F20181115fin002%2F&h=AT0AWVk3-h57vTNW_g_CgcdQxqytRm2SnjuiP_EIWfLicZB7e6xW5eeVlCK6kbiQ1_xK4cVqg9zsuUXIgHR-ezUux3eYFT_MzSRaG28kbZbi9SSsyirMuYBk8mhij5JKiFmirqzn5j-5DObRZ_KiiQAxCQ4LrxFD1d4_UG4ozQ_G1d_6Vio6L2l-pK96o8TLB44HfP2nKsyK4jrtJcKoZA-8P-U5I5PE7qr89AxL75R8sl-rBta2mCP7Nz18tq9KMZmbrFbyAt7DE6s8I4Eg3_xmbrfv7yamsHgLQHqmJz8uoP2P_JeCG6GF4tQT7gdRpW7IvM4nnSoKjx4S4IYCu9rC5BV-uGXwUVltk5-oWFHXxKGRHvPhA73NlD3X71wE0thDBEULHgAxIAaeVs5Slv8_awJUlEzV5blBxvm3vTQ8HDutNMc3tn-QC3mbms6TL7VwSPgK9Elpbd4ZQm0gwTeUi_jZ2wVBsoNlBy3dmWVxFKO3ho0H8fiws3O4EwZp2Oz8SzaTC5DMtN0eU9pYbxcP283c0jAlCeRiCcg_AOjrofmiKRL_tWDbuUCsDNz79eVFq7A69CH-DqPUqUHS23SsMn1OQX7npmW4L1fAvz0iL4dgwxTR1oTqjJbCmpg96Wp1f6jCRkO9m_hadz915VTao9cGabLi","https://external-frx5-1.xx.fbcdn.net/safe_image.php?d=AQCfD64UWjjCpYmC&w=540&h=282&url=https%3A%2F%2Fwww.mirrormedia.com.tw%2Fassets%2Fimages%2F20181115160318-76c05225e666428e5d2fdd1594ac05ce-mobile.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCcZjiCD8Na3r0a","李曜廷擅長用財報數字來過濾股票，尤其他會額外參考F-score（皮爾托斯基分數）。","鏡週刊",""
+"https://www.facebook.com/statementdog/posts/2555236324527380","1564999200","推薦五本我覺得對生產力很有幫助的書，都是我看過而且也推薦身邊朋友的書。
+
+最近因為幾位朋友要買，一起跟 Kobo 要了折扣碼。8/5~8/11 使用折扣碼，可以七折（約紙書五折）優惠。折扣碼：KOBOPROD
+
+・我們都知道持之以恆才是王道，但要怎麼持之以恆，答案是學習如何養成習慣的技巧，關於習慣的重要，以及如何讓自己養成習慣，以下這兩本是我最推薦的書：
+
+《原子習慣》：http://bit.ly/2YgCAgQ
+【造就成功的，是日常習慣，而不是千載難逢的轉變】
+
+《驚人習慣力》：http://bit.ly/2YgMb7v
+【動機並非是件壞事，但若想要改變持之以恆，動機是不可靠的策略】
+
+・除了個別養成不同習慣，你也可以利用子彈筆記術，一次大換新，讓自己的作業系統升級：
+
+《大腦減壓的子彈筆記術》：http://bit.ly/2YmltdL
+【我們需要的，是一套管理時間的「支援系統」，讓任何人都能享受時間管理帶來的效率、成就感，甚至不可思議的樂趣】
+
+・人總會遇到彈性疲乏的時候，當你有時候衝過了頭，會感到失落、沒有動力。這時候如果一不小心產生愧疚感，有可能會陷入一個惡性循環，讓你更難回到「正常」的自己。
+
+《一流的人如何保持顛峰》：http://bit.ly/2Ye3CWg
+【壓力 + 休息 = 成長。無論你追求的是哪方面的成長，這個公式都成立】
+
+・這本書在講學習，以及如何將你學到的東西發揮在生活之中
+《精準學習》：http://bit.ly/2YgBodm
+【評估學習有沒有成效的方法很簡單：學習之後，你的行為和認知有沒有發生改變】
+
+8/5~8/11 使用樂天 Kobo 電子書折扣碼，可以享有七折代碼（約紙書五折）優惠。折扣碼：KOBOPROD",1579107801,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/statementdog/posts/1927505273967158","1529553806","看到一段有意思的話：
+
+ 當大部份的人說想成為千萬富翁，他們真正的意思其實是「我想要有一千萬可以花」。這正是成為千萬富翁的相反，尤其是年輕人。","1570965546","undefined","undefined","undefined","undefined","undefined"
+"https://www.facebook.com/statementdog/posts/1855298014521218","1523549255","【集中投資 v.s. 分散投資】 #投資新手該學什麼
+
+今天沒帶傘，下午淋著雨，走到捷運站的路上，邊聽耳機裡的 podcast 訪談。
+
+本來聽 podcast 是為了分散淋雨有點不爽的心情，沒想到卻聽到一段有趣的討論，這段討論來自一位我很喜歡的部落客——Geoff Gannon。
+
+「如果你回到過去，會給剛開始學習投資的你什麼建議？」一位網友問他這個問題。
+
+「你應該坐下來專注研究一家公司，這是唯一要做的事。」他這樣回答。
+
+他認為新手不應該分散投資，分散投資對學習投資的這個過程很不利。它會讓你專注在交易、價格、出場策略、資產組合調整等等這些事情上。
+
+如果你持有三十檔股票，那會佔掉太多時間在交易、調整比重。這會讓你沒有時間去找新的投資機會，尤其是瞭解另一家公司。
+
+---
+
+Geoff Gannon 是一位非常集中的投資人，在去年甚至有過只持有一檔股票的時期，也有好幾次放 50% 資產在一檔股票的情形。
+
+在看這個說法之前，可以先看看他回答的上一個問題，可以更好瞭解他整個想法和脈絡。
+
+「你對集中投資和分散投資有什麼想法？」這是另一個主持人問他的問題
+
+「集中投資在好的公司，分散在量化的投資策略。」他這樣回答
+
+Geoff
+在自己研究很深入的股票上重壓資金，但他也拿了一筆資金分散在幾檔日本的股票上。這些日本的公司他完全沒有研究，不知道公司在做什麼、文化怎麼樣，只是單從幾個財務數據上判斷它可能被低估了。
+
+這就是他說的「量化的投資策略」。
+
+這跟財報狗網站上「績優股清單」、「轉機股清單」很像，都是透過歷史的數據，決定挖掘潛力股的指標。透過這組指標，能夠找到未來一年內最有機會上漲的標的。
+
+好，那問題來了。
+
+既然他也這樣做，為什麼他還是建議新手時期的自己集中投資在少數股票上呢？
+
+我猜原因有三個：
+
+1. 「瞭解一間公司」是很困難的，學習的過程也需要花許多時間。如果你分散投資，就會如他所說的，分散掉你的注意力，讓你很難培養起這項技能。
+
+ 2. 他說過他很喜歡「學習瞭解一間公司」的過程，這是他的興趣，他希望儘早開始培養這項技術。
+
+ 3.
+分散投資雖然簡單、省時，但它需要一定的知識才能有信心執行。今天一位什麼都不懂的投資新手，分散投資後如果虧損了，他的信心會開始動搖，懷疑這套方法長期的有效性。
+
+ 
+但如果是一位已經具備相關知識的投資人，他會知道這種方式在短期虧損是正常的，它關注的是三到五年的長期報酬。也因為他有足夠的知識，因此有足夠的信心去承受幾個月或半年的虧損。
+
+ 因此，在分散投資之前，透過集中投資學習這些知識是很棒的方式。
+
+---
+
+說到這邊，你自己是 #集中投資，還是 #分散投資 呢？留言分享一下吧！","1570965546","undefined","undefined","undefined","undefined","undefined"
+"https://www.facebook.com/statementdog/posts/2044637505587267","1535985707","如果你希望能夠生活得更自由，那勢必要及早做投資（或是你有富爸爸富媽媽，那很像不用投資也可以😂）。
+
+股票是歷史上長期報酬率最高的資產之一，問題是應該自己選股，還是買指數型的 ETF 呢？
+
+對大部分的人來說，購買指數型 ETF 就能夠有還不錯的報酬了。如果想要嘗試自己選股，關鍵在你願意花費多少時間精力投入其中。
+
+加入財報狗 IG ⬇️
+https://www.instagram.com/statementdog/","1570965546","https://l.facebook.com/l.php?u=https%3A%2F%2Fuser36920.pics.ee%2FA8TAZ&h=AT2pq2sPxHR9raAHhYIhfkFREmovRLrJlj2xf6IRr5NS1sEhkl3s3zS7yy4TeyVZfrOgaVMNhz_6dVWu0fSISWSbckgIH-jk0Z8ilPsR9PzuhCPUjI2I-bf-iTD8aYytTb1a_sdRegWsSjTkU6rT_3Iq0fTMuw5aM6SOdK9Tjbmk-47k6hsK7FIP1YNJ_VyJ5G10i5l-gKXimBd9u-fyKMcISXH0hd4edbZ__55gfgmEzE7u5Y3W-RxHfdqMmdrCyXRuw2SvvhYkHdwFRdMU7rXmGaiRq6yh98RI4OLIn3CLSUYA9HlbQktpmc7_641PwrcAeECRDWxS8Z6VowEcW2qYLCUn0mPSw3CrDvFdy9zLafxu3uYb3iasM_AhqkIRWYpRyC3SyPTgHTB1b82PpQP8dzTgMcru52ZQC2zpRTpkx2vdUyKimD9HhLYtnICMkcIEGYNa5kg8tLTrGoY05Aix9HjGvZ5c868-4Ly6nxbgfgrwB6-Sf8UsI_LvBCTpQoHFjsD7ajlXPI9jNTsefNQoHarwlE6mvy07IDf5sD0HeGh0-j1nYHQRWS173h-SRhY_mC_F0x0fz20EOmDPpt7W8s6eSM4-rDmabzuKcUNQwjNyiBs6iwhKOJKBjgwADah_LSUXxRK2q1zLmFRNnIreU_JUj8eMxXJhv1s","https://external-cdg2-1.xx.fbcdn.net/safe_image.php?d=AQBG1dejPuRobxbR&w=540&h=282&url=http%3A%2F%2Fcdn.illu.es%2Fstatic%2Fimages%2F1E3FA42A-DA31-953F-214A-4BA69FC67048.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQBksF9zQ6PcefOj","存了一些錢，該買股票還是 ETF","存了一些錢，該買股票還是 ETF","關於威宇： Facebook：http://bit.ly/fb_wylin Instagram：http://bit.ly/ig_wylin 網誌：http://bit.ly/blog_wylin 財報狗：https://statementdog.com/ 關於阿堯： Facebook：http:/"
+"https://www.facebook.com/statementdog/posts/2443430689041278","1559559063","後天，週三（6/5），就是 Ray Dalio 的第二本大作，《大債危機》的上市日了。
+
+從第一本《原則》開始，Ray Dalio 積極地把自身的知識教給大眾。《原則》講了自己個人的檢查表後，《大債危機》這本書則是在講週期。
+
+週期，跟我們投資密切相關。
+
+介紹經濟循環的書不少，但《大債危機》不像其他書，專注在一個或兩個經典案例。包含大蕭條和金融海嘯，這本書分析一共了 48
+個不同的債務危機。這是我覺得這本書很有價值的地方。
+
+泡沫是必然會發生的事，適當的泡沫更是有益經濟成長，但這中間要怎麼保持平衡，這是一件相當難的事。
+
+我會把它做成一個容易我隨時取用的檢查表，按照書中提到的指標和狀況，判斷未來經濟可能的走向，調整我股票和現金的比例，或是國內國外資產的比重。
+
+-----
+
+這邊先附一點我前兩章的筆記，有興趣的人記得點進連結看更多介紹：
+
+ ・「快速的信用/債務成長究竟是好事還是壞事？」答案取決於那些信用創造了什麼，以及還債的方式是什麼。
+
+・由於信用就能創造購買力，也會創造債務，所以，是否值得擁有較多信用，取決於借來的錢是否被用在有效率的用途，能否產生足夠償債的收入。
+
+・週期是指一系列順著邏輯發生且會以特定型態重複發生的事件。
+
+・每次你借錢，幾乎都會創造一個週期。當你購買一項超出個人財力所及的東西，代表你的支出超過你的收入—也就是入不敷出。這時你不僅是向你的放款人借錢，也是向未來的你自己借錢。你創造了一個未來的時間點，在那個時間點，你的支出必須低於你的收入。唯有如此，你才能有能力還錢給放款人。
+
+・放款自然而然會創造一些自我強化的上升波動，而那些波動總有一天會反轉，形成自我強化的下降波動。
+
+・經濟成長明顯受融資型固定投資、房地產與基礎建設活動支撐的經濟體系，特別容易受大型的週期性起伏影響，那是因為那類資產的耐用年限較長，所以該類資產的建築活動不可能永續維持快速的成長。這種類型的週期是新興經濟體常見的週期。
+
+・政策制定者可用四種類型的手段，壓低「債務與償債負擔」水準相對償債所需之「所得與現金流量」水準的比例：
+- 撙節（減少支出）
+- 債務違約/重整
+- 中央銀行「印鈔票」並收購資產（或提供擔保）
+- 將擁有多餘貨幣與信用的人手上的貨幣與信用轉移給較匱乏的人
+
+・債務危機有兩種：通貨緊縮型和通貨膨脹型",1579107792,"https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F11057&h=AT0ehlznwkt-qF7TgsZMmsqgkHypliskq_Jg8JuOZ2vkEqBoRm40VYRL6k60gjr2pJVPZhJRSBq2pwkE10rEGrevXo3qa6Qrh9rPZT0PNy4QR7uW0ID6QepDl24JPpWRUH5QbATyGTYsb-hzXIPzBInLHSzjQm6LMc21_Uyr-DE79KEKh-kr-OF8p5A6bgcticaO0cFc8dleJ4_U2YpyEEEcKuE7B4YXZVkFj5SnomaVq4wBrqAr-tVigOveJnB7z0QwB1NDVn2Sb1vN5qKKqKwfbr2MhQRLvHV_lQ25j9uj4DKZQPV-BZw536J2arp6BmZctidMe6sT0A3lq5aHN31GsRV4jlBh7Nq0aHridOMHj-fQIEknIriviiW_Q35InSDIpja5-WhHoTiN_icT145ZK5Ma7ZkiaD_hfW3a8wF-VTwJd8FlS1D42pEHLn7hNVCmheRGQtfQeUkcz5iWjWqVA_43MI3SG_IE303waLjfTQzIsjnKjiAeSv3Rz2ovFyjsay-eA_QFqJs5CfqsYJa8OvbLiLsfKpQKlEdA3txaixetV-kv6A-j3Q_QiI3sxdLkV7nAGMUcV-MJxca8WIA5YnK3HhYmnKwNW4VJzi8YnNFiSG0zzm5lwlksW10IHcTCbinUxzNpNXs2","https://external-sin2-2.xx.fbcdn.net/safe_image.php?w=540&h=282&url=fbstaging%3A%2F%2Fgraph.facebook.com%2Fstaging_resources%2FMDEzNjgyNjkzMjcxNDk5ODg6MTIyOTA2MTM1OA%3D%3D&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCnRNcKDZkBY578",undefined,"《大債危機》是一本專門介紹債務循環和債務危機的書，我們身為投資人，最大的風險就是虧損，尤其是像 1929 經濟大蕭條、1997 年亞洲金融風暴或是 2008 金融海嘯，在這類大型金融風暴來臨的時候，我們有沒有辦法度過這次的....","statementdog.com大債危機推薦序：債務週期的理論與實務，歷史與未來《大債危機》是一本專門介紹債務循環和債務危機的書，我們身為投資人，最大的風險就是虧損，尤其是像 1929 經濟大蕭條、1997 年亞洲金融風暴或是 2008 金融海嘯，在這類大型金融風暴來臨的時候，我們有沒有辦法度過這次的....《大債危機》是一本專門介紹債務循環和債務危機的書，我們身為投資人，最大的風險就是虧損，尤其是像 1929 經濟大蕭條、1997 年亞洲金融風暴或是 2008 金融海嘯，在這類大型金融風暴來臨的時候，我們有沒有辦法度過這次的...."
+"https://www.facebook.com/statementdog/posts/2231434153574267","1547813999","#送書活動 #掌握市場週期 #霍華馬克斯
+
+ 沒有健康，股票漲再多也沒用
+
+前兩天發了一篇動態，請大家提供怎麼送書的想法。大家留了很多很棒的想法，不過我決定下次再使用他們。
+
+上週因為一些問題去台大醫院檢查，醫生內視鏡看了一下，說：「有點腫耶⋯你要不要考慮切片，看是不是鼻咽癌？」
+
+切片化驗要等一週，這週絕對是我這幾年最煎熬的一週。
+
+今天結果出來，不是癌症！
+
+不過這次經驗更讓我體會到健康的重要性，所以這篇邀請大家一起從今天開始，訂一個讓自己更健康的目標，為自己的健康負責。
+
+留言你今年要做什麼事讓自己更健康，我們週一(1/21)抽出三位送霍華馬克斯的新書《掌握市場週期》。
+
+範例：
+- 每週上三次健身房
+- 每天至少吃五份蔬果
+- 最晚一點前上床睡覺","1570965546","/statementdog/photos/a.209326032451766/2231426020241747/?type=3&eid=ARAtZPC1YUM-Du5Ku0oaLVVzuuuXf9pJ1NZUMQ-wRXjrMacaxslEY7hHXl1Z-OeMxqNDccwHaG0rgqlq&__xts__%5B0%5D=68.ARDB_kI0IuzqKYJzD5ek-CRJp3xtiQF9MYKInQR79s-VslAMNo7gdy4Uq4cd9gPdasId8nJVKAKpx6rXadqcenP-Kg13eeh8rWWhxC_kh7mHgJWTK37bexYi6OxKQL3HQQFqs-3zX-5hsYgyPLiDA_JfnCeT1feIsugwJpcngEuyCFCCH27qKW0tosFZELqXzHJwV0fchzGetpYt9G5Kv0Oj3EnFBjw6evT7hvHJXYG2jd7EPgKFsBGsJe1LRFSrhzZjxlF-l7ykzA9cN54c-40UexwtTSJOPbXxZXpyXYAIlnRAjhCTn1rNOIC1P_eHQJGlFnkrsd7LZ-hmtkeLTXMGlw&__tn__=EEHH-R","https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-0/p526x296/50022253_2231426023575080_4800159315203719168_o.jpg?_nc_cat=100&_nc_oc=AQmTZLAUOtzQclJXt9q0qN4Ug0P82YiIn1w75-h_5956IwLi8AszttxF63jJ2JVBl3hcZOQNQyTBz1PUGda0Kaap&_nc_ht=scontent-lhr3-1.xx&oh=6eebf1474c59d3b7fa0cf914a56344e1&oe=5E2F3670","undefined","",""
+"https://www.facebook.com/statementdog/posts/1880849988632687","1525789845","哇！好久沒發文，一發就是三篇哈哈哈
+
+那個...我知道有點突然，不過站狗小鄭明天晚上 5/9（三）在政大有一場演講。
+
+有興趣的可以來聽聽，不用事先報名。詳細內容就看 政大證券研習社nccuxsrs 的這篇貼文吧。","1570965546","/NCCUSRS/photos/a.263224510419928/1650868554988843/?type=3&eid=ARDw3zbKH6drH8zE8l1CWBpRADLTnq5Jl10A0RvhfI7rn37MS6MQIz1b9fQl0qT1snieGUkO0Wifc5DP&__xts__%5B0%5D=68.ARCjzth7MCnvuoZUrwraffCSUs36DsaQoe1LFIhfj4zibJ2kpv9II6hcVtKf5uGCA4O7rAbX7rTGeR_HywlFOFWaN8RCGIWmYp_cJbvXXt9zKvxl1-5kqaYeAjRfRO6ZLEU5Z18XuIWf0x3_67IFOKyS7rHV1KNjnRQeL3ZxTiIq7bPmsXWqA42FIAcGtPjGF_Fgw1dqloJv1vE00NsWVXMkixFVqu_-js6-x_2ebor7fQHYtGNkrt5A1zZI9fHBWaRlOjg0sC-HY35zXZ1ykTcfqxLl84wlPBZ8KisJUm4xOQ_2Bqd1jjouqmtxQiydxtIsC_5v_1Et473RS07m6XG0bnpbTOmIAICQxmcwe6eDLnxo6ORRz4N5yA5Ofq5q452yBlr6rPq1GuiFMxJplZQA8fW8z4kOshraup4N19nWaQEQvpMLOXuzgmEUJxbGYmWs-y-_sWnZGAncsLqN3PxsD7RU_MjAS-8VMtD2GNPzB0ATqr2zmqKm&__tn__=EHH-R","https://scontent.fiev12-1.fna.fbcdn.net/v/t1.0-0/s526x296/31919331_1650868558322176_559318262219800576_n.jpg?_nc_cat=108&_nc_oc=AQm-Z74jj5Cd8_X4ImhvmWgWhliY1Bhhqv0q9BkVtOnSwsnpllZYKdy1FZJYuH2ewhQ&_nc_ht=scontent.fiev12-1.fna&oh=f4e12a42ffe507e53419774af9d44514&oe=5E2FD88E","undefined","政大證券研習社nccuxsrs",""
+"https://www.facebook.com/statementdog/posts/2248965921821090","1548838648","你知道去年哪一檔股票漲最多嗎？
+我們整理了台股 2018 年的全年漲幅，如果上面有你投資的股票，今年紅包別忘了包大包一點。
+
+留言任何一檔股票的股票或股名，我們就告訴你它的全年漲幅。
+
+台股今天封關，也趁這個時機，好好回顧一下你在農曆狗年一整年進行了哪些研究吧: https://statementdog.com/my_activities","1570965546","/watch/?ref=external&v=251349549114189&__xts__%5B0%5D=68.ARAucFSQ5TxHN0fG_YL6anseNJ2UnVG4pBDbR3Db_NK1zdPndT5X9fM5tCofMr7akeWisreil3oYQzS_lee4RfqvOv6aIPBE1Q5NCYwZJFDDxz-YqatZpgzibxWicKTc6S_yyCOPYpoD6uYpdhTBE9-BEoxKxti4MSXHR5kzb-OYp2JDMvGSDcCm5kDiSObXFyADxqLT4N4-ISrlH32kZyVcEX4Tsi4w_-5Qp5Lv2mdhfw08cYTMWY4-mOiLqhstJbELyDnEK13OGRRU9QRjpI1k6WKcZO7pYUCnuaLBUvuwAKb8pvWsVKindSy5mizwkZQqv7JgDo3snjiCW3D2KP8fbLRneRlFWIs2BA&__tn__=kFFHHH-R","https://scontent-bru2-1.xx.fbcdn.net/v/t15.5256-10/50088540_251352545780556_8108332195338256384_n.jpg?_nc_cat=107&_nc_oc=AQkHnzEqu6PTPJuj7EzBobTbjb9xErXldk3_LOnwAdgvp_6mIPPHIXtL04-ZyOQfDok&_nc_ht=scontent-bru2-1.xx&oh=12a018a9fa787a3344b33b27b87302c3&oe=5E16C284","undefined","2018 台股漲幅排行","Posted by 財報狗"
+"https://www.facebook.com/statementdog/posts/1891439050907114","1526744124","如果問我去哪邊學價值投資最好，我一秒都不會考慮，就是哥倫比亞大學。
+
+從葛拉漢在那邊任教，開了一堂「證券分析」，教出了史上最有名的投資人巴菲特後，哥倫比亞大學就一直被認為是價值投資的學術殿堂。
+
+這門課現在也有線上版拉，只是要台幣 11 萬...
+
+這門課過去都是由 Bruce Greenwald 來教，不過在最新一期 Graham and Doddsville Newsletter
+上他宣布要退休，巴菲特還有拍影片道謝跟祝福。他絕對是當代最傑出的價值投資思想家之一。
+
+如果有人有興趣但沒預算的話，Youtube 上有這門課 2010 年的錄影。
+
+其實哥倫比亞大學之前有個小失誤，他們把 2013 年的這門課，還有 Tano Santos 教的 Advanced Value Investing
+課程錄影公開在網站上，但知道的人很像不多，前兩年我看網址就連不上去了，可以找找看網路上有沒有人有下載影片 😉
+
+附上一張葛拉漢當時上課的照片","1570965547","/statementdog/photos/a.209326032451766/1891438797573806/?type=3&eid=ARCw79Vfv4CTREtevUekdptE8DN1bx4hYXXKBhQ26HrK_wXI9c31WBs9B3pNxVzDo68z176aq5YULYeO&__xts__%5B0%5D=68.ARBFSNppswtFz239cpm4Q3c_p-lXeVnT--8iYrIjKrrhV9THVrqzThXd-m0kNCYgEZYFF1IohUTUad91xDioGxdjHZhVaJK2Tqkuz7WFu1VWvHzl8pf5S2WUlgi_Vy381mU4Xw1n7hqzMYa7f9ISt35VAg6tdPYAASbLMiw7TlTI8ZOQvkc7MyQRmV4YmhSXUO_po8juPdPUc69hH5SAX60oKu77AzhxFebPCeIQ_9PzrdZkOQ65xEmefFNvKiU6eY18egjguhvHXLyd9g9LoBL9ehbJzGOH5qfH6-IlczVF10CbE-GezbnanwsMX0LQTvFJXgUQOIj-AUpfyJAJR03c7g&__tn__=EHH-R","https://scontent.fbom16-1.fna.fbcdn.net/v/t1.0-9/s851x315/32764681_1891438800907139_2252055467318575104_n.png?_nc_cat=102&_nc_oc=AQk8w93lB2BQYSuq_DCwORG2Gh9vXraMooSKnAtEmXnrxwdqDsfEoZrm1XkbCj84GLg&_nc_ht=scontent.fbom16-1.fna&oh=4e4636fb04201edc7bcafbd2028236f1&oe=5E2261F5","undefined","",""
+"https://www.facebook.com/statementdog/posts/2028847563832928","1534940829","投資方法那麼多，我怎麼選擇要用哪些？
+
+很多人可能看到幾個實例，就覺得這個方法是有根據的，應該可行。可是常常這只顯示了歷史的一小部分，並不能夠當作未來的指引。
+
+這次的影片分享我會思考的三個面向，選擇我認為比較有效的投資方法。
+
+ #這週會上兩部影片","1570965547","https://l.facebook.com/l.php?u=https%3A%2F%2Fuser36920.pics.ee%2FA3GNV&h=AT3pVIGn_9MJ4d0ny6wq3hk49YfKCfFhD7g7uzWE0umOrq5xEg1zhGgTuBWVsOQ3_aF0lJawH9xfwsHen1PXeIpT3emHHf8qsTehKJhDGxkuu4KxmTSjzTpb6V1Gh5dKFlSR0qbLrvdDP1M4Rj-nE9BJd54kCRG1Y7Rlh0UxAf2FoHinz7WhcjwNqORdo-ZJXq3_hL2dE7ex2NIlIn-vcQoyiCF8x__cXN0hCwnVg2H1CmBcGvQWJq1_mcxnJeELfdbKYszF9KS9_7MBdLZXZK4dIhlUWmxwuy1AXgxiH3sO8CUzRm1bij21g8U0LyMoXSv_TyiN5ulcZkaESc54WZ6Lyg3rHmXa1Hg5e3jsrbNJhmN0m6TlyYwA4qwC6feKSM0Mz7kmAnIyRlG8q_Yfczgtn8kQo1pRDKYI7RlKpxg0peNnmRv37simuksZsykoCMZnQLxHNYEW9W5q-NTIKSTxBmwtUielqG2qM5U-dMxoRbWtVFwqZGPEdxHXOr6m4zzn2WsBkPxYy9_yIS1BQz6Hx5nVkk5i6MzoBlXKyzCJkhcukQjln1NX8v0rMTobSKfhFz72wHTMSqea_uH1yQeRmEdSRZhAOopVqM3WufJwhVcyQB-B6Du5Nllzyrn2gv2xSnpjn_Wi6pugknIVZlI","https://external.fbkk7-3.fna.fbcdn.net/safe_image.php?d=AQCQZCmA1L_REYbF&w=540&h=282&url=http%3A%2F%2Fcdn.illu.es%2Fstatic%2Fimages%2FBCEAD627-986C-C5CD-CCEE-906106A15834.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCTfcZ--zNBARyo","三個面向判斷一個投資方法有沒有效","三個面向判斷一個投資方法有沒有效","關於威宇： Facebook：http://bit.ly/fb_wylin Instagram：http://bit.ly/ig_wylin 網誌：http://bit.ly/blog_wylin 財報狗：https://statementdog.com/ 關於阿堯： Facebook：http:/"
+"https://www.facebook.com/statementdog/posts/2378222198895461","[Error]: TypeError: Cannot read property 'attribs' of undefined","",1579107794,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/statementdog/posts/2195816990469317","1545742363","『 dinner for few - 少數人的晚餐 』
+無意中看到的黑色諷刺短片，反覆看了兩三次，內容與其中的暗喻蠻耐人尋味的
+
+ #每個豬頭分別代表著誰呢
+#原來我是貓","1570965547","https://l.facebook.com/l.php?u=https%3A%2F%2Fvimeo.com%2F288759859&h=AT17Mn4I2pnmFlKKj6_Nx3I54HVkj5nru5xCyjewDwixkgZ26xvMScFhdrqq7i3jsD4SdzbkPky8k_qnpss3AhW4d-TmMDvPxXKyvbVLR-24rONUBYsrKpj0GQ6KdpJ1sI8ms1qfQOunQHzSZFgmd1Zn9Kn2u-_LitQBD8UrZmy-tQS3HXnduCZZMZf_Usct-U8ItntviZJP0CmJxLrGd5UxtLMgCc-X0luV4BqvOOSLwanSOJGmUA44a8UlaCF2YoU-1Y6qH7xAEXL7hQFD_00K0hmBH0pqVPPT3GmjLFAKsMva064HdRyr1EAY_KXsWHegAxoRHsCuUw48_3Tpx0gULD5WcTszByR6dt7oDm-l7ArVecegSPjmUhAI6NeDHieh2RXMpFtiCV0P4P-wNEjwpwotoj4NHEhlnyYW1MM4ixPVcJparUTz0Y-k0u0fGe7ZJ4Dbs9R0r3m7ZawbtVkrI6GpJJ49qD7foYS_hsbryoz5j4Si-syzLUN02hOuzNAgnSpKC4ddgHJZreQmU90A8Ff0XjBsvTBX1cgBpHBgwHl6PEWgycMRyBr9afdsZeDjvZXdMTLr0OSqKaRRSfMCAxr_QrH4CmHBjYtDmyghcdts61TyufixOgpQHSxMpmlb-rmZ700M14aH","https://external.fjog1-1.fna.fbcdn.net/safe_image.php?d=AQB0u7JZ-kmbJGM9&w=540&h=282&url=https%3A%2F%2Fi.vimeocdn.com%2Ffilter%2Foverlay%3Fsrc0%3Dhttps%253A%252F%252Fi.vimeocdn.com%252Fvideo%252F724256837_1280x720.jpg%26src1%3Dhttps%253A%252F%252Ff.vimeocdn.com%252Fimages_v6%252Fshare%252Fplay_icon_overlay.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCdsXl8dLwe1-rv","Gambar mungkin berisi: teks","DINNER FOR FEW","“Dinner For Few” is a ten minute CG-animated film depicting a sociopolitical allegory of our society. During dinner, ""the system"" works like…"
+"https://www.facebook.com/statementdog/posts/2062156830502001","1537261672","同開(3018)本來要用換股的方式，併購天下數位、燿達電腦
+
+但是證交所昨天宣布不同意這場併購，原因有兩點：
+1. 同開跌太多了，換股比例有必要重新調整
+2. 燿達電腦的每股淨值要重估，但同開至今沒有合理說明
+
+因為跌太多，證交所不同意收購案蠻少見的。不過同開已經從 80 元跌到 30 元，有這個決定也蠻合理。","1570965547","https://l.facebook.com/l.php?u=https%3A%2F%2Fmoney.udn.com%2Fmoney%2Fstory%2F5641%2F3372616&h=AT0c7C3IjNTNhaF3BLubdRfEL-nSE_JzBzZ3zmVxZXIV1q2ZqYLSlTvcV3q3gD4JpI8DlQ8wjvflFkT-md9aUCu5DuKrtrNMtfLS4loDsNAseF3u38ryqiU7lcQ4IWt-V2nwEglmcz69DT3tJLulgIeYza-qvUjuUZmcP0MnCFCfQ3jLghU8uOjNQ3QIIbyb4J05rJmqU57M_qP_X1978Ambqc9-2FDMwzd330cnFJYE-sjiVsLsp_5CpTorPSQDk5J8GVqncDUXzE_EnPFrZquYg4LkvUQhsAEv4634KM3Ji48eBjxyiU91AAo6iRBBdvsT9npIKx6I-MpvcFWw_CLVKsXa1qHRy0tVxb6AZEz4oujpCVvkEZgyhZp99o3xw6qTU7X7Hm3twY3WuaCWsx_EOjW7B33WourooPjXuv2w2j6CR8YO62a9ryHc3lII4WvBHbXIDe4FLmDfwD2Af7ZLfnFKyA5ZN3LvW-lY6NzWkNOlYgetoMaVLOX7bZq-ZVyuktxEIK12STULe87kurjMmEgrYLnqb75BixBJ2UNV3JD_6Ro0R5evsaz1vMPvLXhE6m98WPYyVbD6yhKUmW8CCmdIR6kAnqy-OahabuChXt0A29BKgd6ZQWpy9HAtAerlQcF5bzczZN-s9moll4c","https://external.fdel19-1.fna.fbcdn.net/safe_image.php?d=AQAXmLRW6gf16ifZ&w=540&h=282&url=https%3A%2F%2Fpgw.udn.com.tw%2Fgw%2Fphoto.php%3Fu%3Dhttps%3A%2F%2Fuc.udn.com.tw%2Fphoto%2F2018%2F09%2F17%2F2%2F5279661.jpg%26s%3DY%26x%3D0%26y%3D0%26sw%3D645%26sh%3D363%26sl%3DW%26fw%3D1050%26exp%3D3600&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCHIvhN6tbBysr2","Image may contain: people sitting and indoor","經濟日報",""
+"https://www.facebook.com/statementdog/posts/2107794599271557","1540379330","欸欸這是一個有點敏感的話題啊。
+
+嗯，那既然影片都講差不多了，粉絲頁上就不多嘴了 😷","1570965547","https://l.facebook.com/l.php?u=http%3A%2F%2Fstatementdog.piee.pw%2FBFBHK&h=AT332ZydufEtVBsDcELw873fVGbMCa2KBXCqLd_AkhFsVRfyK3FzL2zV4CNw7gt3qXW35vkQDTmpAlVR3ltOIxVXvUQh0A9PIGektXrdVqn5HW9wlE2-IJOymg-Or2K5YHEvBtfcfmk32llyjl6YuzNl5ztOt6K1JEDtxvFd5-I2SvdY_BVmKJGTf2HY54Dmi23fCJxYcz-YD_OQIAij5HWOLrLZLsT1aUWpBFsOekkY5pkEkzX6IiEMQ8iaWWmh2ey7hgNUGZj_JuLBRs8VPAWFNNhFSO2Ep8VKrIbGWAemAeBSYS8r2QiezXC1QWZKMqwIK0pdaGzsoD3jCOwLBaozVlRrYHwXsFA_LiiwwI_sQODU4crbeV8ltjIqsLBuhugNnVsmMNXXZrgDksZus5gTxjhcBYz_irZ6KFA_Iwadtxhan59FIpbjA9_pbk9SZOjZxg2mQgaOTX5ovqy4CUvQ97tx1kMxR8rcE0_uji1Qtifh0r8Zj9dLHeXJQ3P7-QLvg8Rq9cUtidjRP4a2lbDiZNldcypO_54VS1yDKBIPfWzHI_9u0LHYmb7HbBG01EgrJbGL7kiHrU-JiY0UI_EUQ6cH-RYclAfkoEDaR-Wyuo8tsTGkEhy2Xu8lQswjxJQ5xNrso6VdQS8Y","https://external.fhan2-1.fna.fbcdn.net/safe_image.php?d=AQDgyRbvHmdE9h3D&w=540&h=282&url=http%3A%2F%2Fcdn.pse.is%2Fstatic%2Fimages%2F2D478289-6A8D-51D1-EB3E-AC3841FECD77.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQBx_u3oJPG2zJcB","財報都是做假？新聞都是出貨？出書開課都是騙錢？","財報都是做假？新聞都是出貨？出書開課都是騙錢？","這個影片談論三個投資迷思 - 財報都是做假 - 新聞都是出貨 - 出書開課都是騙錢 這個影片分享我們對這三個迷思的看法，它們到底是真是假，我們又要如何看待。 關於威宇： Facebook：http://bit.ly/fb_wylin Instagram：http://bit.ly/ig_wylin"
+"https://www.facebook.com/statementdog/posts/2054819591235725","1536728204","上週分享了要怎麼選擇買股票或是買 ETF，這週繼續聊「買股票」這條路。
+
+首先分享的當然就是【價值投資三大基石】
+1. 股票就是公司所有權的一部分
+2. 價值跟價格不同，市場上的價格會有波動
+3. 安全邊際","1570965548","https://l.facebook.com/l.php?u=https%3A%2F%2Fuser36920.pics.ee%2FAD6VH&h=AT3LRnAIMX3Rfp22HsquAiX7Fi98KR-r_9FiuBtnKFgNmXDGIRM_117gfvLnAK1o9aVkjG-2iaHYCuUGWG2_RROIDl52ioKTugRGtv-5RMREbmVRhMIgQt2A7j62DC0BG7efYV48WAO3oJCH7uNGDSrwxCkB1aiuC58jpLjxgNsACtsE0PdJbqqdF0yjV8Dd20utrQ83bvS1evy52NALTgoXahQ0ctCwiVNtrT5M4J59rSmtrr20xB8A2_GMGWXfSTz2QhWwLDDEE5nEb9e6J5WD17Vv84f1aIjwCOAQLV8jlT6YtNydr7t9O4z8Wo53oypKFAXmm_tFv59Wzj3vKysSpqkvQER52WsiVrGkLBwpmbkEcwrQj5v4Z0tNOCSGKYV1oPy67JuL1VrjF8LdJLMJvJOqGbJROJ21lhQr-nSlNr5VT2uyTSZdfzd5YV46GCR8qP-wHsjZYsiDrjZUkLlJ_vPk1zvqB88lttouewgFpdBzuqQbN7OOL0vFUNcqbjW5sZZWaXJIV4ColGuh-bgM6SUcEAWTNiZz0506P3i54zspdIgepLVDP0bgRMz6gsoY9On8AQKk3e7cRCofJ62J4yDJAUm5wU2C7p4-VX3dfGG6PpUVCdkvJDmyHslLd8_7xOXRWhe26LXi","https://external.fkhi10-1.fna.fbcdn.net/safe_image.php?d=AQBpnzO26bIfOlWH&w=540&h=282&url=http%3A%2F%2Fcdn.illu.es%2Fstatic%2Fimages%2F018C273B-0B6C-38AC-2B17-95C11975F373.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQBvWycVo0c9sQAk","買股票前，先瞭解這三個觀念","買股票前，先瞭解這三個觀念","關於威宇： Facebook：http://bit.ly/fb_wylin Instagram：http://bit.ly/ig_wylin 網誌：http://bit.ly/blog_wylin 財報狗：https://statementdog.com/ 關於阿堯： Facebook：http:/"
+"https://www.facebook.com/statementdog/posts/1885398158177870","1526198888","今天在家看 CNBC 新出的巴菲特紀錄片，這部片主要是在記錄巴菲特給其他人的影響。
+
+巴菲特和孟格分享的不只是他們的投資哲學，還有他們對生活的看法。
+
+裡面有不少波克夏股東會的畫面，從入場證和佈置看的出是去年拍的，裡面好幾位去年有跟他們聊過，好懷念啊！","1570965548","https://l.facebook.com/l.php?u=https%3A%2F%2Fbuffett.cnbc.com%2Fvideo%2F2018%2F05%2F07%2Fwarren-buffett-investor-teacher-icon-documentary.html&h=AT3K8scfrR1DWaw8NNakUUs2uEycAMN85TZ9xFO5LFcFiGbFUMqbp0L1582NODDzeFa3zM6frIKjMxd0Y_uPqTd7U1SX9RbNspAX_P8QK9ZjAtTcLelvqhC_vk1RZl5aX_CGXNJrNXhTqw3IC1tJpjP_i_Y8J-UImu7S4S2HpmnQ7yDaR3jBJs6aT-aSIxQ_k6X1nrWwEl7wY7jqfHkQm3Zg4N13FTwpO85dGmtCDN-aTdF0Cd-pyL6aq6S6gRhD7UlUrIZ67gyjmbO3DdzbdMRCut_fvOczLZ0JVovjnPjc538xGi6rc0s8mzZllfWOqf2tPmPMhNl9GhuQJ0cfOemJ-Az5ylO1rRHdj2sWNLAF-4uUC80wS9TXdCNq3XbXgkyxIihHVk_igt2Lt1HWlQtuMrpQCOmnqHr0orSrD5r6n15yuEa47ktq9ZEnQVASjxqdZ5LIxYDmj2NtX5Zk1zC9f_EVTJ2ewMtOUyIaIWCInjJoXDvgcujJ7_rzMgR3A0xZhArEXMAqghGE0TjNYOUhhK5DS8_hPPKREmg_zkSlhz0OffL8UZlPjGfgOfN0cSWsqAm_NvxSZDl3_-VDFF8fpO2l_Q2VXWNQReZBaPRs1cwuUnJe38AXWRRBERdlei0O5lG6F-YWaS1l","https://external-arn2-1.xx.fbcdn.net/safe_image.php?d=AQCP_kxuBAPl0_Jf&w=540&h=282&url=https%3A%2F%2Fimage.cnbcfm.com%2Fapi%2Fv1%2Fimage%2F105190588-2ED4-REQ-0507WarrenBuffettDoc-WithBug.jpg%3Fv%3D1525806669&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQAWuBQ-GtSxmUYd","Image may contain: one or more people, glasses and text","Warren Buffett: Investor. Teacher. Icon.","This CNBC original documentary takes viewers inside the story of Warren Buffett's extraordinary success. With a blend of wisdom and common sense, Buffett is more than just one of the most successful investors in American history. He's also a teacher who has had a tremendous influence on people aroun..."
+"https://www.facebook.com/statementdog/posts/2006255806092104","1533815242","股票新手到底該看什麼書？
+
+我覺得它必須符合以下幾點：
+
+1. 內容要能對獲利有幫助，或傳達正確的投資觀念。
+
+2. 提供一個架構，讓讀者能在讀完這本書後，對股票投資的世界有個初步的理解。
+
+3. 讀起來要有趣，不有趣的書根本讀不下，不管內容再豐富，對新手來說也很吃力。
+
+這個影片介紹的六本書都符合這幾個條件，有一兩本讀起來可能會比較吃力，那就先跳過之後再回來讀也沒問題。
+
+不只是新手，就算是比較進階的投資人，我相信讀這幾本書還是會很有收穫。
+
+這六本中你讀了幾本呢？留言跟我們分享一下你的收穫吧。
+
+如果喜歡這個影片，也別忘了按讚跟分享給你的朋友哦。","1570965548","https://l.facebook.com/l.php?u=https%3A%2F%2Fyt1.pics.ee%2F9TZSB&h=AT2-G1nEuHBz07mdRZlgXE4GUhY03K9HTNmFz50HXVZWnj8EgAeJSUu82esPNMZdqx7vYDw27aEbakD7KxO7Z4CdS09hXpN9sZViYeBqkvOBCqyRXCLUJo2Au9kozI9L3hst7ehRKFqP7uaXR5wuJkHv1lLt2dxpK2TgS4mwKj7WFP1j38Mq0Td1NzZg_1SKlA7PILcRsOZNnorJQh9bRXj0e3p4L8kuqbCQH-Ojswt1qmd3nHmpUYQFbqbgH1aSRLm5xMIDG3GnGwVQGaBzjedUG50MGQ3rTSh55x46shMLoMcYkyB90QQJVH2Soqbzoy5ey9qwy8N5hTWA4tnUzwF4QQ-UglbuZftBcZjdo76YdOSkvyXRLBc_YDkGW1v6M1mIxLIRGteTRIWeR4H7n6ai6aix5O0gK2ncwHhla7bIjNj8dLnzV0vh5TGLX08EwKRWqPed9-4CS7JKfGbxCOs9gabUzYw7dQJDNvmzIf8s_tL9P_K1gASMgSs_w4cqam_H4oWHzoWioVvVKQCz26s5tskC65tBN8gvfneQbSB2nO3J-Wj-feefJVKnf9y0ZHw7gt-Vaif8uk20hQDkOEFEZTprDJ9oNPESMnkIHMgDdLm_ECXyt5Q-KQtf6V80rQgeJmGnC5wefdMZ","https://external-cdg2-1.xx.fbcdn.net/safe_image.php?d=AQBKJ3PBDif-rjrx&w=540&h=282&url=http%3A%2F%2Fcdn.illu.es%2Fstatic%2Fimages%2F438BFF7C-7BB3-4289-A1D5-52DEC2739A3B.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQBwLCdjB8WeTdaD","推薦股票新手的六本書","推薦股票新手的六本書","關於威宇： Facebook：http://bit.ly/fb_wylin Instagram：http://bit.ly/ig_wylin 網誌：http://bit.ly/blog_wylin 財報狗：https://statementdog.com/ 關於阿堯： Facebook：http:/"
+"https://www.facebook.com/statementdog/posts/1861215090596177","1524063309","第三大道資產管理公司的創辦人，Martin Whitman，在星期一過世了。
+
+ 他是一位非常樂於分享想法的投資人，雖然寫的書不是很容易閱讀，不過他的投資哲學對我有很大的影響。
+
+ 也許有空再來跟大家分享他留下的知識。
+
+ R.I.P","1570965548","https://www.facebook.com/barrons/?ref=nf&hc_ref=ARSsHobCWu7Z4qhNkiXprnvh4i9pmgWkf7gdT0CM4OyBJU-pq9nZ4cynG_4aB-L7SI0&__xts__%5B0%5D=68.ARDkLHQ2k2RXqCp6m-mIHXEL0hJHgD6-evYg7K9BYp7-jRFs83GVex5F8AGe2Zo0tNZYDmPV0P9PWFKXUHmN8Qz6vxYmVk_jwUx1V_1i3x5wMiLepJVE21UpJpG5YExsZPnn3h8YuEEdoXBb6SSdNF03z7Gz3-VXcihbZJsb8aJO44uv79S1c2L9WgN2HjwxGOq8ycao8y_YGWguFCrhwiI4ou8yT1NeQlPZKx1PTbaOulacyRPt_pR8J9n9_O9Yb77y8-v_g_ycviKdG2TvEStLuEIeV09tQ8XKvhSVRWGKNZ2EFb9n0dZ1HXDcQ-lkj9WQMZU1a-IKQniipjH3sM4YshcMTU17DY4rgudnPSlNwnYbXgCOsspGL2p84h9gtkE51eSD_k5m2g-e_MAO6dctQlbfL9CesJ-wCFqMIGU0sFhYl72_o8783ltzQtoWhoV-w5RoVY2-nniDfEINZgVG2-rOEhmVE01GBN7g4dbwdvzXjx3i5Q&__tn__=%3CH-R","https://scontent.fhel4-1.fna.fbcdn.net/v/t1.0-1/p32x32/27541001_10155468120377741_1458525985308975833_n.png?_nc_cat=107&_nc_oc=AQldH30wFQgAgR9qPTez4yHzfmjNpAQIkV8C76a0UhniQYjthHRUd2bPvs8r_FWBMZU&_nc_ht=scontent.fhel4-1.fna&oh=de40f2750388b3535242ba766e3fa080&oe=5E36820B","Barron's","Barron's",""
+"https://www.facebook.com/statementdog/posts/1981499385234413","1532511695","哈哈哈收到新書了，我覺得蠻有質感的。大家這幾天就可以在書局看到囉。
+
+ 這箱書第一批要送給在智囊團參加活動的人。
+第二批要團隊成員自己留幾本。
+剩下的就要發出去送給大家。
+
+ 要怎麼送的規則還沒確定，這幾天再來想一想，還是大家有什麼想法嗎？","1570965548","/statementdog/photos/a.770153613035669/1981499355234416/?type=3&eid=ARAaFSn72yZlkuRpKPXm_juJXzYZUA74dxmkHnYsK9ES7XeUGdI_anrKVvENazT1ZumDBHQNt8W8oQby&__xts__%5B0%5D=68.ARAxB3osfUgzHI0d4BaOqMn6OmNOyTuejQkKX39pxCOW5pFcFuxmCan7-42UqRwNZzRqYcWVTIPtBZnrpv-L6YGIP_GyPEFNdntVG0yypgmtOPUwCPHBEawpRDiJyRda-54xYBu7bciutakoeJ62kBGe7KNUZyiWgSY8n191TwFo2LziUrf6qyw2VTx8lVUXKkJwMNX8X-GvtsrNt5VNenDe8Mn_4NpYdlgSpNxgormG-RuDpmccN9_PiMgcyVwHwNYYu6mAJkF_b2gCVvwf7oaEpXVSqIAyJqUwrbBNIHhBTn65GpEAVmCBorvQhO53GCH_pRU62zTPb3K7jjlomK8PvA&__tn__=EHH-R","https://scontent.fcyw4-1.fna.fbcdn.net/v/t1.0-0/p526x296/37815603_1981499358567749_8476029104372580352_n.jpg?_nc_cat=104&_nc_oc=AQlLUJbCF6jilZfcQebvkZlFm6O7bBlcQPgMXtFQgOAAUkS9Uhup59mfTDBBzM_lBJw&_nc_ht=scontent.fcyw4-1.fna&oh=32b04f8296a934f30d45e7381fa0906c&oe=5E2E9688","undefined","",""
+"https://www.facebook.com/statementdog/posts/1956429137741438","1531141800","上市櫃公司最新 6 月營收數據，截至 7/9 為止已經有 1032 家公告囉。其中年成長在 20% 以上的公司超過 270 家喔
+
+ 想看看有哪些公司月營收表現不錯的，可以到下面連結查看囉：https://statementdog.com/screeners/revenues_ranking","1570965549","https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fscreeners%2Frevenues_ranking&h=AT02Sih8gAAcWqY6Jo9S1ZzUAHsWctqnAUJlGrdsviYffd_UKQF6Uf1vd2iux5ANB9-pa670lMbKVsbvkBooOPZlFrxN64F_N5OALLavWaPDBTkFz6NqYeQpnfhCxeMlESYATXm8aTaOomARnTPhMGgQ8wroH4ARCyW69DWHTDgwz6QHWJhBxndEvLyZMbmC9PY2vCR_Np0ow0MOQMAG8wLY3MdrDr3cy-GlEG7EyNps_8P4qrcySpzN_co2XnNouthM4F14RHi70RCoTfgKVPmVYa1ybl4oRui478tSrw5KHCqw0_quVdxz5WVDq5Hq_b-DpOgEu9VWNRV7v7ZsyZnL1e3lMJ-dY7pCgNhhH-jo91cmecBQnLj_L-53Aq9z6l9BIv5F3QKqyCqlZ8gYeBLTzi9ps0CwrKUmU1hlzbrrH5kQoUPlRpVptq5KRhVrPqV18T3NtwDVsXd4xYiJ4Zb-H20771YUEJTYmEOdf7WzN6KC0ZioW6aNudA-ZnRsc7tEuhmZSsJhWPJGEyGAo9u-dG07nAR5_GR9Cv9o_wFwQOvAkllghauFaCf2xqCsYnAmE3DZHUayGbjoYA5yz9UmxvTuRuLX2XHTdT6q_OUaWoLv152n5vjr_qr9PJkLEXVuA11kBE_XG35C","https://scontent.fdac5-1.fna.fbcdn.net/v/t39.2147-6/c0.35.540.282a/p540x282/36802916_1785579741549606_7054821174835937280_n.jpg?_nc_cat=110&_nc_oc=AQnF2rASvKpqmXfGTd8y2737Em-gENLiiGDFVLaO_PahyLJc0yarEGoW3f0glCuDBUc&_nc_ht=scontent.fdac5-1.fna&oh=5ae91816c85f789b74b6b84219d950c3&oe=5E1703BB","No photo description available.","上市櫃公司月營收排行榜-財報狗選股","43290"
+"https://www.facebook.com/statementdog/posts/2036232216427796","1535368200","判斷一間公司的基本面，不只絕對數值，趨勢也很重要。
+
+比起營業利益率一直保持在 10% 的公司，營業利益率從 3% 上升到 5%，由於獲利能力提升，公司的股價更可能上漲。
+
+現在財報狗不但可以找出毛利率、EPS 連續上漲的股票，也可以使用營業利益率的趨勢選股了。
+
+在自訂選股頁，選擇「關鍵指標條件」→「營業利益率成長篩選」，就可以選擇「營業利益率增加幾%」或「營業利益率連續n季上升」的條件囉。
+
+如果您不知道參數要怎麼設定，這邊分享幾個我們回測表現不錯的參數：
+
+營業利益率連續2季上升，未來 90 天的股價平均漲幅比其他股票高 3.36%
+營業利益率連續3季上升，未來 90 天的股價平均漲幅比其他股票高 4.42%
+
+如果有任何問題，歡迎隨時詢問我們喔 😁
+
+自訂選股頁面：https://statementdog.com/screeners/custom","1570965549","/statementdog/photos/a.209326032451766/2036231953094489/?type=3&eid=ARDiQDchuXGmjr2aEJe3QY4MqA3ua2GTB92JSbUdKSSG5kvWzmGW1xtpiNjzULZymaRAXw1dUgwcxcHB&__xts__%5B0%5D=68.ARCM24pJ0g8dMspF76F75dp3atea6_f-7eQMD4jqmw5p77dy1sMOz5TJF-1mzPyYzieGLGDSwll1UIRtrddRVwqGMtcfKALtGjnq_mEcg2tehu_ZveKftQr6BSVIzer7EvpR-GmKqg_vAdWN6KClQzepjvTtBPZaKMSfY4dDC0qtdJLXxMKY1X4NbayZ9TA82rZuC80YnQaRMI1wFFJTfoeVgjCLC2FsPoKCQXpqUw4VdL3AZ5-FUJVXQK34DVJP7GEvoKivBKawX5NXj86CaybaGyKTR9jPsBvt3TwXzS-Poxh7ay9T3E51ynMUoLfynyCaJIlgMF-ZB5XIrAk4tDfW6A&__tn__=EEHH-R","https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/s720x720/40138834_2036231959761155_596966403643277312_o.jpg?_nc_cat=110&_nc_oc=AQk5ikUO72THhlNf1BezXYs9_ssLJayrtrdpb_n4ADRe29-4LRtIBW7pxMV6000IJFQ&_nc_ht=scontent-sin6-1.xx&oh=dac8923697655f812fa00c24dc6ddf10&oe=5E2E1383","undefined","",""
+"https://www.facebook.com/statementdog/posts/2008018449249173","1533905805","台股 1678 家公司的 7 月營收已經全部公告囉，其中：
+1. 1062 家公司年增率為成長，佔整體約 63.29%
+2. 325 家公司年增率超過 30%，佔整體約 19.37%
+
+ 想看看自己關注公司最新 7 月營收數值 / 年增率 / 月增率，下面連結都幫你整理好了，快來看看：
+https://statementdog.com/screeners/revenues_ranking","1570965549","https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fscreeners%2Frevenues_ranking&h=AT1RSqe9c9I_oRMs2E9LRx6qbczG8LshdRApwx4Pq5L_y80QgtQzv3-ZCt4x_4LWFnoO6qRPWg0TYDnvLo9f4hKmiC0KkOx3wRGytbi21dR4ro5um0YkRyS5o6pkJdOdF_1I0CjM_0zr2lDh9WAcfIuo1oklnHbFhf4bMhq9-auoiRt1PKV5QqlJ3Y7CaUu-fCv0ms8pDX5vvE9i5uoZarnlEZa7ceQtHjb7gd-Lt-b5DK-YR7nuw3QuOb3bGr90eUfQy2QqvKCbgWg76ppsrns83XG7Zpt0TTYf_Fz4qVO-zrvldsK2pWZKlsM7gWAwymG_drl1QweMoVhgiFDzh-jJgLk_dB4N7MsDgsx8N3Zije8ah-M2RNm_yVbs28PAKHY-HtM6fjFrn28Daw0nUrZOUWZCdzfKbUQHCAt4GWHfBl-Z223axuxmpbdYK5tYh9wP4Yko7v_45-0RlniuubyU00ZcCzz7JggqOqE5NyXPl-yDYTWWHvXosBuVdzWjGeR7uTLIbrh-c9Et79vvl6VHYuShd9L7iZRQY7gl3Ii2BXj8na1I-z8p6LoJNcsD7UmlGG3k0t1yyjBQVhH8t0Wk39WkPdjec5YUpWrnGbm89ApgDkDBsrxTs7Yun7ViuAevACZnZJ1sHgAQ","https://scontent.fsdu19-1.fna.fbcdn.net/v/t39.2147-6/c24.0.540.282a/p540x282/38877583_270106890264481_8947224099491414016_n.jpg?_nc_cat=102&_nc_oc=AQn6dmEsEj1BBAewMMADCSHrNC16S8raeAhWGFh_priAJx942z7A5YvAifMtGYlq484&_nc_ht=scontent.fsdu19-1.fna&oh=22e1768c60cda0ab5441450d18be8021&oe=5E2C74A7","No photo description available.","上市櫃公司月營收排行榜-財報狗選股","43322"
+"https://www.facebook.com/statementdog/posts/2251837668200582","[Error]: TypeError: Cannot read property 'attribs' of undefined","","1570965549","undefined","undefined","undefined","undefined","undefined"
+"https://www.facebook.com/statementdog/posts/1841473219237031","1522400591","【你最喜歡哪一個關鍵指標？】#留言在貼文下方 
+
+網站上有很多分析公司的關鍵指標 (財報狗 VIP)，這些指標到底有什麼用？對股價跟分析公司有什麼關係？
+
+留言你最喜歡的指標，我跟你說我對每個指標的看法。
+
+【1】、【2】、【3】、【4】、【5】、【6】、【7】、【8】、【9】，直接在底下留言你最喜歡的編號吧！
+
+要【留言在貼文下方】才有用，留言在圖片裡沒有用喔～
+
+#裡面有三個指標是我每檔股票都一定會看的
+#猜猜看是哪三個呢
+#一次留言一個
+
+
+#歡迎分享
+
+---
+
+Facebook 留言機器人有時候忽略留言，這是目前 Facebook 程式的問題。如果您留言沒有收到回覆，就多留幾次吧 🙏","1570965549","/statementdog/photos/pcb.1841473219237031/1841461649238188/?type=3&__tn__=HH-R&eid=ARCsTjBhOejoA3nZooD0jYYNN_Rf6kfOzp_2Ph-QmNldYYWDCKELApPCFzMzfKHhmtLVtC2Bi8M2_u8N&__xts__%5B0%5D=68.ARCT1qlKvWWdwXQwO6b3guvs9PAptdKIMY3ke41iviZNWS86Wn3Y3T7esVmIUOwemMKTjIEu_uxKfSVD_NTs0PtIGSD_v22iSjg5O2bqkxBVyG_DKiFwx8yAwBgaHH5Tz3-DYgHwzTnPKNcVAvxt1O7BBqN9nJQASIb78t4mraLwbMp9FAJTvo0hsxNY_buBFIiD37h1DyZ6PzmjfeHxBQkLDuO8iDZ67x3WDKyE89605As0jCENp_4mc57ioINRKSaHdhoWyL1UQmGdFeqQAs8EW1v4N9o5h5UwH1sm0hrvwUC9mHh33X1p2lIshUdwVVkTWNd34Dw4IWyU1RBCuD_b0w","https://scontent.fbsb1-1.fna.fbcdn.net/v/t1.0-0/p526x296/29570782_1841461649238188_3930822500190536442_n.jpg?_nc_cat=104&_nc_oc=AQmEjVKsV7ljxZzq3lsLQhgEKj_dc0y_jA1mg-Sshk7R5abH4ABFdQTkG0Y1m46jd4I&_nc_ht=scontent.fbsb1-1.fna&oh=f0de25822b56c678f67ba6523bde5c88&oe=5E23CF25","undefined","6",""
+"https://www.facebook.com/statementdog/posts/1869879003063119","1524808934","應該很多人都開始在看《原則》這本書了吧
+
+作者 Ray Dalio 在書籍出版後上了很多訪談節目，包括 Tim Ferriss Show、Gary Vaynerchuk、Recode
+
+我幾乎全部都有聽，但這之中讓我覺得最有收穫的，是這幾天上 a16z 的訪談，主持人有料，問出來的問題我覺得很有深度啊！
+https://a16z.com/2018/04/21/principles-dalio/
+
+#說好的介紹影片到底什麼時候會剪完呢
+#拍片剪片真的好麻煩啊","1570965549","/statementdog/photos/a.209326032451766/1869878276396525/?type=3&eid=ARCyE63ASKNUpkrTENdAJ53K4vnddB9q5T6M0QSVSk5BgxCruF9PfnAOZ08qhWGxrfUZSUc5NqpqEzHb&__xts__%5B0%5D=68.ARDIkTU1bEov_xq0kcowuGYWCUjiKyZDwEPftqaHWJuaTT0Xo2uqUTfiXN1t6cueQWBbbOVvSVv4QWd8EurySyrYGykMjonnvCqJMG7xX6GHfOEhnRzLwlJoNO2c4ytVdGk214C5CHr5usvLpSHM4xAJzlimrUv-4wQ4FNgxm3R4xZ8bWWkMxZou3ezEKTLNFaFofmXCdnucgYxMi8WCQTRuQNZ8vBWNPOVXhFhpuvJHafjyWKDLm33PbvWncJp5x2QaxKxl1C9w7x5VmsGi02EWyxtxgbXYywMhCAeAli-qmhqJxgH8v6adr_27KRfXkSEQ29o5dso_1ZtswPt7HTlW-g&__tn__=EHH-R","https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-0/p235x350/31369485_1869878283063191_1566823010386575360_n.jpg?_nc_cat=108&_nc_oc=AQkYbotSbfBRJTpkxlo9ha2IMJt0cP7DAf2sEOOa8UKjnHalaI5m_UyIIa0IIYOsYWI&_nc_ht=scontent-nrt1-1.xx&oh=4d1b78b6b0a9d65911f0591845e5c44b&oe=5E1A9FA9","undefined","",""
+"https://www.facebook.com/statementdog/posts/1984718471579171","1532685314","這份推薦序其實是寫給大眾的，畢竟這本書比起投資，更偏向個人成長的書籍。
+
+不過我在這本書中，還是獲得了很多投資想法的收穫，關於這部分，我也在這本書剛出版時候，就在社團直播分享了一次「原則推薦序（投資版）」，這個影片我們下禮拜會剪好發在粉絲團，大家可以期待一下
+ 😉
+
+在那之前，還沒看過的人就先看一下大眾版推薦序吧！
+
+如果你覺得這篇推薦序，或是這本書對你有幫助，也記得留言跟我們分享一下喔 👍
+
+----
+
+當這個時代最有影響⼒的⼈告訴你：「我要跟你分享造就我成功的原則，除了世俗的成就，它甚⾄帶給我更多在⼯作、⼈際關係上的價值。」不管你預期它適不適合你，都值得⼀聽。","1570965549","https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F10698&h=AT0VDczFZaL3PMRjhHZ-MSGWiQdyFri91q42YKwjMUBuVLut7B131B_sPbb52Y-OkZbxgn2K71Zp1063dwEUKTgYAE6qK5FIgLC166MIrK4cnRSV3ACAHs429dJgfgmNq42EsswxrlvR6MJp0OLkmuwKA2u2J-jF1qZyXcBvozKQtf2PITVdglt6CGzHteVozWYP-JVy3oT9G4LE47udBCUbbrEmWu4bAOGfu9vY5Y2DpCg-KkG952yavQBViOtH3WiBPLCWBJGI8sHj0n5SQfUQzsmym-vfv7H1Oe9X4K-X4J_G-VOeX0BLVUY8yhqm320Mljp-Xm8mMgRScATCyLM8EGLxxYr-kenGEh80giOfgX79OaknfUdCn00v7W5zwDeOZl8Elp-7p_EwWC6HrVDbOsGHmQcb9KDIdRlUN0cnYBW7yM_eDphBQbbxiTLFOQbYrT8vVWB-W6XxaiRbzYsdTq1zkATbFw-fw-fE9CTcZTEahZF-ehFr0WSrOrKCm2M2HWE4MIPHNJlDc6MEi7oFlOHgjkhpDa_Y46P2AJ2bZIEVu9DWYzWwbrQWt2POFSFFN2jc1MVM9bygYChMUI94OqRUFAKepSBqCHFkyF8_6po1duuSDcRWqpu8OH8tIlyO26XU02mlSwhl","https://external-vie1-1.xx.fbcdn.net/safe_image.php?d=AQB4sm6obSL6Il0X&w=540&h=282&url=http%3A%2F%2Fblog.statementdog.com%2Fblog%2Fwp-content%2Fuploads%2F2018%2F07%2F%E5%8E%9F%E5%89%87.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQDOajf6-vZGxnF9","No photo description available.","《原則》推薦序：成功的關鍵在於知道怎麼正確地失敗","當這個時代最有影響⼒的⼈告訴你：「我要跟你分享造就我成功的原則，除了世俗的成就，它甚⾄帶給我更多在⼯作、⼈際關係上的價值。」不管你預期它適不適合你，都值得⼀聽。 我最初就是抱持著這個想法，買了這本書。....."
+"https://www.facebook.com/statementdog/posts/2215003138550702","1546866001","霍華馬克斯關於總經的新書要出了，對很少接觸總經的價值投資人來說，是一本非常好的入門讀物。
+
+如果對總經已經蠻有研究，可能會覺得不夠深入，當然如果覺得大師的書無論如何都要買，還是可以買來擺書架😂
+
+看完這本書後，你對許多事件將會有更深入的看法。當新聞出現房地產價格變動，或是企業在擴廠時，除了事件本身，你會更在意他們在不同週期中所扮演的角色。這是屬於哪一個領域的循環？是獲利循環、信貸循環，還是房地產週期？週期中的每個事件，都是下個事件的導因。
+
+建構出這樣的思維，你會發現自己更清楚整個事件的來龍去脈，對於未來將發生的諸多可能，也會有一套自己的觀點。
+
+這本書今天博客來跟誠品都可以預購囉。在預購之前，可以先來看看我們寫的推薦序。
+
+推薦序：https://statementdog.com/blog/archives/10826
+博客來預購網址：https://www.books.com.tw/products/0010810203","1570965550","https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F10826&h=AT0KufROs49jH9Y52EvtFEaZ_Ll-pUfoslQcO8l_jvonYWxyWg4d9LOMl1yG4xu8KkkiVUJ9lRC5stCragcUgEZyek7tusWje680KdXzz3AVHNKlpNfr7RDiovXm2WnYa9JH4ueRddj30ABDYu3wdX3rY3a_hqhcUslY4QDvM9o68gEi6j03n50Ppthtb0Nf7zesVnV66YFMCvJuKCt9Z-n58WqB9k4HRMzzdKVJ5Nzm8mRDcgltYPUPD-1rxQj5DMO_t6CuHoEjyxrZwhHVG0TBS6qY-BbDkycPyTds6E1p2wNH1y6m3jCvBzOnBwuL2eJ74BQbgxky1zi9fW2oYmceYi8fKROm1W4QiIES4ll7zoKdBOYoLd0l75hhi827inUqE6cDlS2OAtODzBVkaH6xPFX1y5kaY9at61O30ysHKyCXY7OXs2WkcfA6YuBcEC2g8KYLchMr4RRIdTzEHvMXVJIWIGK7wcTNvjxBLiL0D1Y9jlJJxaBExRhAzKniipZHfrmXf418mX0uAcVFNTEp6pvvcC2OdlP7MUx3JhG8fx-EwrhOeNKKFivxtZHCXSnNvJZUt9qUI3014N2n9tYdlaBpJjGCBvbLLor2934H7uadopOzCq6vXK8SIgx1HEXjd8P54jkGLJNj","https://external.fbfh3-2.fna.fbcdn.net/safe_image.php?d=AQDV-YZmjt0yv0EE&w=540&h=282&url=http%3A%2F%2Fblog.statementdog.com%2Fblog%2Fwp-content%2Fuploads%2F2018%2F12%2F-1-e1546416527748.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQD8oDq4-WRTFiPT","Image may contain: one or more people","霍華馬克斯新書推薦：掌握市場週期，才能面對無法預知的未來","如果你有在投資，卻不知道如何看待市場週期，或是不知道在不同的週期下，如何調配你的投資部位，這是一本非常好的入門書。 身為一個價值投資人，我過去對總體經濟學並沒有太大的著墨，市面上也很少有大師級的價值投....."
+"https://www.facebook.com/statementdog/posts/2447298148654532","1559740440","又到了 5 月營收公告時期，除了月營收公司還會定期公佈年營收、季營收！這麼多營收數據，要怎麼解讀呢？哪個營收與股價的相關性最大呢？",1579107803,"https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F6801&h=AT1r_QaAsCx8aDawze6HjGnZdkBF18SXvuUglm4FOaAz_ES0e9uSv3uMui42rmZ4NYVee0JjoIhakEYx7ax7Zm-Gnla0ANnBtXPnNmRIO_5x_VEkuMiI1sNCmKWEFn9I8dx-z28kkvxTuQhAOXKONIfQHCxrDu1yvrtX3p6L5BPukVfCkSl5tsiTEAG3DTSm9f1Pwrw-QL2IofJtHQ-nOCt344cJECXcDwBaD9jzO7woFyXt-gNn99UWm3hTZfvG7HHBrwdWCbcUOfRM0DGKsnbRkVQZzW8Jt3pA9M6tMsIlqPDqODZNGyaaAz5w_kFfz6QgIFFZ4_nPuNSqYbZQwaGawUtrSEwLkT7tnz_hg4X2d1dJ-EnE_IfhazkZmByG-zPozGOehVT8sppaq9a6YwHZKvxOzpLtV4uiK7ZqtivrMckBH737A53V9dZdRo10-2JTKU3AubcHCQn27fNtJtzgqSnLPxJkwXED4kHavodXtm8pMHfromsZJ7eV1kgD7tDfV8RHTltiXYf9vQlk2v7L07HiVwW0Lf9SfUyEWrjVskuLofLkUgeYOUnQQRbTj4wraGwUuNX1sj0YtV80uSU0eWvvjSOISbo9FiYzVD0tQW6dbvTVTkTAezYxjO_giqgDyFDkUvhs2lgV","https://external-sin2-1.xx.fbcdn.net/safe_image.php?d=AQDWadN-c3eMKIaG&w=540&h=282&url=http%3A%2F%2Fblog.statementdog.com%2Fblog%2Fwp-content%2Fuploads%2F2013%2F12%2F%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7-2015-08-26-%E4%B8%8B%E5%8D%886.29.48.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCnHvlxMId_qWQP","圖像裡可能有文字","看公司的營收時，我們要先看公司的年營收趨勢，確定公司的確是在長期的成長趨勢上。接下來看長短期營收年增率，確定公司是否具備短期成長動能，畢竟這與股價的相關性很大。最後，我們再判斷公司是否具有兩大成長動能...","statementdog.com今周特刊 - 1年公布12次的營收數字大解析看公司的營收時，我們要先看公司的年營收趨勢，確定公司的確是在長期的成長趨勢上。接下來看長短期營收年增率，確定公司是否具備短期成長動能，畢竟這與股價的相關性很大。最後，我們再判斷公司是否具有兩大成長動能...看公司的營收時，我們要先看公司的年營收趨勢，確定公司的確是在長期的成長趨勢上。接下來看長短期營收年增率，確定公司是否具備短期成長動能，畢竟這與股價的相關性很大。最後，我們再判斷公司是否具有兩大成長動能..."
+"https://www.facebook.com/statementdog/posts/2391046004279747","1556894247","#2019股利攻略
+想在週末花點時間，找出哪些公司值得參與除權息嗎？有些觀念你必須先了解才行，在這篇文章中，我們整理了所有你需要知道的股利觀念，包括：
+
+ 1. 股票股利跟現金股利的差異？
+2. 為什麼我們只推薦看現金股利殖利率？
+3. 什麼樣的股票會填權息
+4. 哪些股票可以存股？
+5. 如何避免賺了股息、賠了價差？
+6. 存股要看什麼指標？有沒有相關研究？
+7. 如果存股績優股，什麼時候要停損離場？",1579107804,"https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F10896&h=AT1S_z56Xjdd-OkTfvpKaLGFHbmYa8Su9jMDxrnzTf6m4iHTxpco92ngd5U6JFPDJxYIGuvanUOrA1_XGrDKE4wzk9nahyKebf--HhqYCiqlzowpFN4CAd8n26EHWmbuvj0MAlSLHhdaeByqYxnYzPeWwsyjpQIgBb_EJfojIKtfJdEIrdp1kDHtOfX417-ikGBXdP4W9gWsqLqANHYBRjMO8V_N3_vVjmliLUN-Xx6YQy2FeCLWR6NQxcdVhINRgxE8j-j3oUQbJB3vmrQ_mLOjvYRD4hJ_xM4s-uaRMcL4XPNVpN_FynpFF-eFVqVPWt-eo026P9fopLzO3XnBArbjzc_-9aOsJX1gCXexFDgR0jUE8ATrFsf55BU3G-YF0hV2ru7AEHXX_XjLlHKO8j3d4f5zW_pX1ecU9K3ykKJi6TYDAxj9RsZp97dDAmejtJPL4m2Z7Gb9GIBpC4kBsTdGJbhSlkqLvmych2Nk5v43-rnuecUlEj8MoyS5ltIRy5oUP9to3Pn9sudWwuv-N34t878JJI3fXlCLvnjVH5oqyz-9Hto_5dW_B8bhVXiuFogmlS1L2AfojMoaYONTPs9201T7zG4PF4vj58ondERIwxWw8R87OQD6k1JU1UGDeJo7xHJL88y1_VBK","https://external.feyp1-1.fna.fbcdn.net/safe_image.php?d=AQAfrzLJwsDd27fJ&w=540&h=282&url=http%3A%2F%2Fblog.statementdog.com%2Fblog%2Fwp-content%2Fuploads%2F2019%2F03%2F%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7-2019-03-27-%E4%B8%8A%E5%8D%881.36.59-1-1024x692.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCuiMLNPFyeYByC","No photo description available.","這篇文章整理所有你需要知道跟股利相關的一切資訊，包括： 股票股利跟現金股利的差異？為什麼我們只推薦看現金股利殖利率？ 什麼樣的股票會填權息 哪些股票可以存股？ 如何避免賺了股息、賠了價差？ 存股要看什麼指標....","statementdog.com2019 股利攻略：存股族、殖利率行情必看（含案例分析）這篇文章整理所有你需要知道跟股利相關的一切資訊，包括： 股票股利跟現金股利的差異？為什麼我們只推薦看現金股利殖利率？ 什麼樣的股票會填權息 哪些股票可以存股？ 如何避免賺了股息、賠了價差？ 存股要看什麼指標....這篇文章整理所有你需要知道跟股利相關的一切資訊，包括： 股票股利跟現金股利的差異？為什麼我們只推薦看現金股利殖利率？ 什麼樣的股票會填權息 哪些股票可以存股？ 如何避免賺了股息、賠了價差？ 存股要看什麼指標...."
+"https://www.facebook.com/statementdog/posts/1845711788813174","1522754789","[策略選股清單近一年績效回顧]
+去年我們推出了全新的選股策略功能：績優股 & 轉機股清單。上線後近一年績效表現如何呢？下面我們統計後的整理：
+
+ 績優股策略：
+每個月選出來的標的清單，在過去 12 個月中，有 10 個月績效高於同期台股大盤，12 個月報酬率平均比大盤高 +3.09%
+
+ 轉機股策略：
+每個月選出來的標的清單，在過去 12 個月中，每個月績效都高於同期台股大盤，12 個月報酬率平均比大盤高 +11.18%
+
+ 短期績效很難預測，但我們相信：只要時間拉長，無論是績優股或轉機股選股策略，績效都將持續高於整體大盤。
+
+ 想了解策略如何選股，可以參考：
+績優股策略原理：https://goo.gl/3N69HZ
+轉機股策略原理：https://goo.gl/tFKcrP
+
+ 註：
+1. 績效已經將手續費和交易稅考慮進去
+2. 績效已經將還原權息考慮進去","1570965550","/statementdog/photos/a.209326032451766/1845711688813184/?type=3&eid=ARAtKQmvd7IMcxMQkbCOEEaQZ-MC20iiHmGwiVrB6-_PQ9ue-AzHxBa1InLXHDaoGqzU-ydJSQZmcKy-&__xts__%5B0%5D=68.ARBAYdUhqm0W-2_Npnh-WtxNCuU64iNAK8tNFyo91QL2QAGKIzkJYQp6W6637W8Y-QZIhrrre6-1klwRVzfb1g68B4GxFJUWVx-TrRfZwgEQp3QGkNR-uc0XrXWvVSdOxMawNurHLyn-z_m5qOyGVO3SuU5pjIFUDyz05H0llV9dfnQyKSbKtLwUDBgQK2ukNwceJwhoDbs66Qavd3wGmspdGETmHL8IjvAZriOO-QTXl8cuyQW-cYeYPC4MUjlnJaISfL-Fc_n8K_54dwqlnzSRQbUNPe4eA_ej6yoxBA6EmG5T_dd_sTc8n3dB8iSx5nhBoqxBfNljQnkQYJEN-fNZ6Q&__tn__=EHH-R","https://scontent-gmp1-1.xx.fbcdn.net/v/t1.0-0/p280x280/29790435_1845711688813184_5163494850154618967_n.jpg?_nc_cat=105&_nc_oc=AQn4gfYFPBgfJxS3M7QIWuzS_mxkdT5GX6oUbY1goyZcdT5v9rXiOK_FfIKT5AdE5J0&_nc_ht=scontent-gmp1-1.xx&oh=aeecc7306c049d62e60d541957d3978c&oe=5E2D3198","undefined","Send Message",""
+"https://www.facebook.com/statementdog/posts/2135506159833734","1542017263","#大陸地區投資狀況清單
+
+ 對台股投資人來說，近期要注意的風險有兩個，一個是這幾年的多頭循環可能已經到了尾聲；另一個影響重大的，就是中美貿易戰帶來的影響。
+
+台灣這幾年在中國大量設廠，以 2018 第二季財報來看，有 276 家公司「大陸地區期末帳面值佔總資產比」超過 1/3，也就是有 1/3 的資產在中國。
+
+想要趨吉避凶的投資人，可以做以下幾件事：
+
+--
+
+留言「大陸地區投資」或「想知道」，我們週三中午會抽出 3 位，私訊台股上市櫃 1600
+多家公司的「大陸地區投資佔淨值比重」、「大陸地區投資佔總資產比重」、「大陸地區投資損益佔稅前淨利比」三項數據","1570965550","https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F10782&h=AT13Z1mIiyj4uRYYgbQdJXB7N-ujUJx1j-pJUIAvPwYeE2TimtMN_fY8da-4CXaDiHePS34Qrv4GqIXWCi8vjsXQDRtkOYGIAIOo48Pb94DFx5HzvLIFPwYgvABRnLT1O--guSv7zJvs5lcmV_xmv1ZeU8SS-UCZQMICrjvzNPhCe70hmde3_KxFFaaQHKpxb48Ov-LYJz-fLAqtoedFbiCAczqN1RcoTBlOha821vGX_6ie_BFmN4HjvnYyjozal962MwasLtH2x9wx6gAgmEfk14gwZdjac8DVvbrzbvTGfpFXI5gD9n4p26IsP1R9iVGJhy_OLXtjNB4i0-xhL575nxHE60l0TMWUoc93nVwW7UNGO-NJuX4p5LE9rVSzeZjFvUh97OeaN9B4oUpUIki9h4l25X8G5qsBdMo5QfNV-NIzKPTbw9e_-YUVdYOsjKY4aJ86i5DIQ0FCOgRNUxFzR8EtWyx65NWgUOe7S47zJNZEVMCmYR1QaUjTrxNUxRcmxw28uRwHEQk-IGW-RfsscNLUKHVcqdgHBB4chAPv1dHjZ80XGWi9qKWvGDdyBQvt1ugfrT89kwxtCawSlSyFgbectBYAET5SsyAynWvW5dmsfPRYKtIvVNEXD9jtKrGBb7unHA-ITHER","https://scontent.fbkk5-1.fna.fbcdn.net/v/t45.1600-4/cp0/q90/spS444/c5.0.1763.924a/s526x296/45831157_6110654484915_6821067545391398912_n.png.jpg?_nc_cat=109&_nc_oc=AQniMs22g3Jr4M-MppbSCE7u5HjjckCt-v0nOi0Wo1VeTI9vH3xVpd5RurFuZojMGeo&_nc_ht=scontent.fbkk5-1.fna&oh=1be60e6019b1f5677db523b2d5004b7a&oe=5E1D516B","ไม่มีคำอธิบายรูปภาพ","因應中美貿易戰的持股對策（大陸地區投資狀況清單）","10 月的大跌相信大家餘悸猶存，對台股投資人來說，近期要注意的風險有兩個，一個是這幾年的多頭循環可能已經到了尾聲；另一個影響重大的，就是中美貿易戰帶來的影響。 簡單描述一下中美貿易戰，中國和美國互相對從對....."
+"https://www.facebook.com/statementdog/posts/2101167653267585","1539944865","好奇這種情況賠償方案的金額範圍要怎麼認定...@@
+
+ 
+""台股在今年2月6日爆發「期權大屠殺」，投資人慘賠逾40億元。今天(19日)早上，約80多名受害投資人包圍板橋金管會門口大肆抗議，在門口大喊要求金管會主委顧立雄出來面對，並指控證期局「官商勾結」""","1570965550","https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ettoday.net%2Fnews%2F20181019%2F1284840.htm&h=AT2JIur_vXaNemy_NYEUntUsVIZklFwmGCiu2VKi6kA5rJ3o8gyHWxLUHoISid4RavvZcqkz82n8cluF3jH-WcUdYZZkst7aeZY4X6WQ9qC6dSuNvfxsfT8hS5oZ81ycXfjXOELiN-0bHEtzDA7ATjDz4loZQTUg3uscAljy1v8MXOr0Sbw8-A0t1pw4w0gEVDj6xkN-nH7bOvkWL45Y1U2E-4IF0jqUrkle5ramVRgdS8Xe_Qi6HWXk1WUE-lnq15Xa6Jp4RIMcDN8fIKxiNMjViCXIxbZ5hY5FcXeVylMI7VOl9X2yt1yhtfAEl0WnnDVAcyV4ZgF4Ep1HV1qMaBpO23sQDs-FuH-DUmxIJkS_ozbmf-cfyP1n4_p9L96FAVAg6l8ITPqgTynbBZcaeGtmo1bv76JbWo15riyL6GdWuwDP_fKVgDoG9IgY9uH8L3DD-lToPq5uKH_veCtIsVJsjPHXTPqjlT7tc0mDONIHety96VqIB-buj6EFUILKgzPWcWP7Krto9NZxVBnuK3e4EZ_ezRJuRTUEbTkUP0Xh6S6RJ3oM-S21pcXkO5Zf-VEAhuIfRZZ-1RCuRSb9iYIRR9k4JmtwlKG85eowD83cX6e36Lxt7Oyp-kfLEZHDkOvTzfdYDGvVZcLv","https://external.fhan5-7.fna.fbcdn.net/safe_image.php?d=AQAk1GcIXTlwooG7&w=540&h=282&url=https%3A%2F%2Fstatic.ettoday.net%2Fimages%2F3632%2Fd3632142.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCjXOG84Hnhe2_d","Trong hình ảnh có thể có: một hoặc nhiều người","影／慘賠40億！逾80名投資受害者硬闖金管會　與警方爆激烈衝突 | ETtoday新聞雲","台股在今年2月6日爆發「期權大屠殺」，投資人慘賠逾40億元。今天(19日)早上，約80多名受害投資人包圍板橋金管會門口大肆抗議，在門口大喊要求金管會主委顧立雄出來面對，並指控證期局官商勾結，投資人情緒激憤，欲衝進....."
+"https://www.facebook.com/statementdog/posts/1880612151989804","1525770034","這次的巴菲特股東會，最多新聞的就是跟特斯拉創辦人伊隆·馬斯克的來回嘴砲 😂
+
+整段故事非常有趣，起源於馬斯克前陣子在他的財報電話會議中的談話。
+
+馬斯克當時批評「護城河」是很遜的觀念。
+「如果你抵抗敵人唯一的防禦是護城河，你堅持不了多久。重要的是創新的步伐，這是決定競爭力的根本。」
+
+當時這段言論在 Twitter 上引起很多人的討論，這次波克夏股東會上，有人問巴菲特和孟格對這個觀點的看法。
+
+巴菲特回答：
+「這幾年的創新變快了，有些護城河會因此受到影響，我們需要不斷努力去增強和保護護城河」
+「伊隆也許顛覆了一些領域，但我不認為他會想在糖果領域跟我們競爭」
+
+馬斯克馬上在 Twitter 上連續發文：
+「我要開一間糖果公司，而且它會很了不起」
+「我非常、非常認真」
+「讓你們討論一下，你們想吃什麼糖果」
+
+在巴菲特抨擊虛擬貨幣後，馬斯克又補了兩則推文：
+「加密糖果」（Cryptocandy）
+「我要挖一條護城河然後塞滿糖果，巴菲特抗拒不了投資這個！這就是波克夏的氪星石...」（氪星石是超人漫畫的東西，超人碰到它就會全身無力）
+
+股東會結束後， CNBC 記者訪問了巴菲特對這些推文的看法。
+
+巴菲特說，「當你看過去 50 年巧克力棒的領導者，有Snickers、M&M's、Hershey's。我不覺得伊隆應該跟他們對抗，他們有護城河。」
+
+巴菲特還敘述了一個情境：
+『當你走近 7-11，說你要一條 Snickers 巧克力棒。
+
+ 然後店員說，「噢，我有其他的——馬斯克巧克力棒，比 Snickers 便宜十美分」。
+
+ 你會說，「給我 Snickers。」
+
+ 如果他不給你，你就會離開這家店，跑去對面那條街買 Snickers。』
+
+「品牌是護城河」這是巴菲特對這故事的結論。
+
+---
+
+巴菲特和孟格在事後接受其他媒體的訪談，提到馬斯克都誇獎他很傑出而且膽量很大。不過看他們這段來回嘴砲太好笑了 😂😂😂
+
+#TeamBuffett
+#TeamMusk","1570965550","undefined","undefined","undefined","undefined","undefined"
+"https://www.facebook.com/statementdog/posts/2494960013888345","1561984863","有人對新創有興趣嗎？
+
+矽谷為什麼是矽谷，能夠不斷產生對影響社會的科技公司，一直以來都有不同的說法。有人說因為投資人跟創業家都聚集在那邊，比較容易介接資源、互相合作。
+
+《閃電擴張》這本書作者是 LinkedIn 創辦人 Reid Hoffman，他認為更核心的原因是矽谷的公司會使用閃電擴張。從 0 到 1
+的方法論大家都有了，但卻不會從 1 到 1000。
+
+這本書就是在教一種從 1 到 1000 的方法。簡單來說，其實就是教你怎麼擅用燒錢策略。
+
+他說：「如果典型的新創公司成長，現在減緩下降速度的同時，試圖組裝飛機，那閃電擴張就是要以更快的速度組裝飛機，然後在造機翼時，就繫好安全帶，點燃噴射引擎。不成功便成仁，不管成敗都在短時間內發生。」
+
+過去許多矽谷的公司都是這樣做，有的成功，也有的失敗。這套方法在近幾年的中國新創公司也很常被使用，最典型的就是剛上市的瑞幸咖啡。
+
+這本書從英文版出來我就一直很有興趣，天下出版社最近出了中文版，還請來兩位在各自領域做很好的創辦人來分享台灣經驗。
+
+門票免費，憑書入場。有興趣的可以趕快先報名，免得門票被搶光囉。",1579107794,"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.accupass.com%2Fevent%2F1906100405331533742538&h=AT2_69-HuE5LPlhFup43BJkowp2-YLhgSomBu6iKFgfXOs7FNtuoym4fYH_6ZLLOVBqUQyRRIviX6SJopVNi90To1vfzcxq6rE5R80bQhySqhuCWIu9yarEVKmf6kR_yiYn7QyDfyFmiLbyPcbjZX6TAIkjXy8HrBd3CyOuwoG2tdiGlKiu7tkTc-8cmSSb3-GOzn_s9n06-cnKjDBnFtX8g8WUpWoqVoc7rkLCnAC8UD8TfHYGFAE_BYjMF0FFYWsr33AY-8yqHLdKvDzVrrrU8104CjxgyT8AUfYieUIWP8dShMoK9gpsHVihFhXia2Rur3rlC5xachra_Ew6OkvndYX1AWPrtcLSQmdrCnYSv1uSlEELBcI0W9nl_uSbuZ5vzsN0bJQJobeHM0zA-ljKRV9wWa0ccF5LTRxOxdh_F2ydDMd8FH762chU1VLQii01IMvqtpY08_pQQJNtSV8TVpXM1mzlARqXh2x2hyV4r5lTf0rkkcDu0B_34Zpi-kciWIGJ2X5JZuigQUxmt1GP-p3xEP3KO_r3_3-_ZYF9xEree5zzMkTZhnsWWeGS8Iv9zRIQI3Id3jliHneS-3xdGTyW3biRSe9FoTSWJDryliXz9KzsyrDXQ0uUVFiWdGPNNhLErSYqiruSu","https://external.fkiv1-1.fna.fbcdn.net/safe_image.php?d=AQAkvytvR3rmReTO&w=540&h=282&url=https%3A%2F%2Fimg.accupass.com%2Fuserupload%2F1906241245532185331490.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQB5kfQd2fDYspNT","閃電擴張│如何快速成為領域第一？","閃電擴張是一套能驅動企業在不確定環境下優先考慮速度而非效率的高速成長技巧。閃電擴張在短時間內達到指數型成長，必然存在經營上的挑戰與風險。創業家兄弟董事長郭書齊、iFit愛瘦身創辦人謝銘元從自身的創業經驗出.....","accupass.com閃電擴張│如何快速成為領域第一？｜Accupass 活動通閃電擴張是一套能驅動企業在不確定環境下優先考慮速度而非效率的高速成長技巧。閃電擴張在短時間內達到指數型成長，必然存在經營上的挑戰與風險。創業家兄弟董事長郭書齊、iFit愛瘦身創辦人謝銘元從自身的創業經驗出.....閃電擴張是一套能驅動企業在不確定環境下優先考慮速度而非效率的高速成長技巧。閃電擴張在短時間內達到指數型成長，必然存在經營上的挑戰與風險。創業家兄弟董事長郭書齊、iFit愛瘦身創辦人謝銘元從自身的創業經驗出....."
+"https://www.facebook.com/statementdog/posts/1992652594119092","1533107753","我很喜歡 David Einhorn 這位投資人，可能是因為我看過他的書，覺得他的確有一套自己的見解，而且也很合邏輯。
+
+不過這幾年他的績效實在是太慘了...他今天發佈了 Q2 報告，今年已經虧損了 18.3%，同期 S&P 上漲 2.6%。
+
+在這份股東信裡，他分享了他的幾個投資部位，包括 BHF、通用汽車 (GM) 、特斯拉（放空）、Athenahealth（放空）
+的想法，他不但分享了他為什麼投資，還有他的目標價。
+
+以 BHF 來說，他相信管理層評估的：2020 年 EPS 可以到 8.4 元。現在的股價 43
+元，根據他對市場負面觀點的分析，我可以理解為什麼他說「我真的不懂為什麼股價表現這麼差」。
+
+如同以往，對於他的分析我覺得都還是蠻有邏輯的。除了我還是覺得他太小看 Elon Musk 的能耐。（我是 Elon Musk 的粉絲，這可能有點偏誤）","1570965550","https://l.facebook.com/l.php?u=https%3A%2F%2Fzh.scribd.com%2Fdocument%2F385132733%2FQlet2018-02-1%23from_embed&h=AT0oNrzkqBGo4HgsTa1zAZr_ocbWEKuQT_T5HBbiUVrCZGspUD4YTjkQx0kKs2SKY2M9lTKPVJS_EnaTjUqnu34SDCZhcKplJ12Q8f0WyqynmkwrAiVnCjnAep8a1R6k5PTB9reed2VAyZBIvLPCdYY2Az9zTJRxjwnF467WJdt4fr4Em0i4ZaREXAhCtKTbKjSqrpaGp5a4z1pK3KS597p-lWO_SX6AWK_CZQAGaN01NUD39ID_x586Pw-5wJpXjAfpLEYm2nVJoCfR5Zs77s1KP7RNmVGPikk4wAAOXRRbDgD9mRSOpX4saP5EBIThTtnr_gQ8U-rpW2fnNP6S06Az5kZqiGsj8yHzhb_wHbfs771PvnYd9JrbcmHAkiGtlhW42Bd8yjxTzgVYCEj9UFoPHqBEx-u11JMkWF9tcsSWi1v_uKRM5NfVCj3nQe7Qqk8KupjGXiYPDUaxScZn6TRczovniDKeyWPzXIojVRfl9esyU-4DvHAT5Ms8H1Ys5s6FYmxLPXdXzvQbJMB8TIem2UR32q4VH7d_utlQbK9t2ky3cfh8hCkGH5F9M_JN9oqCtHZCC34A0ueuhlIuAkY-TOEFXuJrZGir07jdL6vr923UnltaDf8DP25esraY5giAXzwoaDiaHe_w","https://external.fhrk1-1.fna.fbcdn.net/safe_image.php?d=AQC1DyFjXjIMd_nT&w=540&h=282&url=https%3A%2F%2Fimgv2-2-f.scribdassets.com%2Fimg%2Fdocument%2F385132733%2Foriginal%2F1bfa89db52%2F1533066338%3Fv%3D1&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQB9g8Dx4RgWgr1y","Image may contain: text","Qlet2018-02 (1)","Qlet2018-02 (1)"
+"https://www.facebook.com/statementdog/posts/1981395758578109","1532523780","這是一本充滿故事的書。如果你對金融有興趣，而且喜歡聽故事，這就是一本適合你的書。
+
+在看這本書的時候，很難分辨你到底是在看故事學習金融觀念，還是以金融的眼光，重新看待這些故事。也許作者自己將這本書詮釋得最好:「這本書要討論的是，從人文觀點透視金融的中心概念。而且反過來，我們也會透過金融概念，清晰地看到它和人文層面也有許多驚人的共同點。」
+
+舉例來說，在第二章中，作者以《傲慢與偏見》裡不同女性角色對婚姻的看法為例，說明面對未知的婚姻風險，她們各自採取什麼不同的作法，這個故事背後正是金融上選擇權、風險管理的概念。
+https://statementdog.com/blog/archives/10691","1570965551","https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F10691&h=AT2nwb2sjJrunot-keLR3O1MV9tWOqxB8RuCxb2UsPsAPskx8ARN0j4ftdcfqiGks85eqmjquqgtobb1moGH681AjMoxKLoj8AhgqfH9AmDLBxthcEtclJF4Mp8hk1zxcm8S3jBno184PEKi8lwQV1n-K4mTB_e7EBPQdpQZntx1yBYGmM8jHBBDpuxBrJKYUIFevr8GUDN_cA2k2Z3ldS9jrO_sKCv358qYzcRy-4F0Y39BM2gmiSzr2Jwle1b8-y0TRoKXdGSPD9_Wn6HoAe5swcr-1LmEsRCIkD4dBl7Azo7Zv855I-hGzysp5GrS5qvlG1FhFqWnZTyLgnwbbNYc70cS11upZqStFfQQgXK_WfpwcMcuWEsBciltjO7KP-y0evjzGm3R1H8guLOCC0k9Nh2Ax_JkEOzsEWlwPJj-jGMGIe3LCvzE0EE37fh7_yxqvmHrrRi_skaP-JbhYCrkQdzq7No0iG8Y5GJiQRLrkZd0I2DjXYbc5Y_bjwf1-Pe3QDOTuYTAzQ81yPJoVuf63qn_dKcAJ-JpO-ZqZ-yaT5CprvheSxlLllNMB3PtcEMQTpWayIAIPl9MtydznylnbUgH7hatccSrWFFT3n50DMaV98awQ3DGg39DPhTD-rM-6wRDM_KlyE8V","https://external-cdt1-1.xx.fbcdn.net/safe_image.php?d=AQBwKOtBF335zbI_&w=540&h=282&url=http%3A%2F%2Fblog.statementdog.com%2Fblog%2Fwp-content%2Fuploads%2F2018%2F07%2F%E9%87%91%E8%9E%8D%E7%9A%84%E6%99%BA%E6%85%A7.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCSe01Hs0tptOJu","Aucune description de photo disponible.","金融的智慧推薦序：從故事瞭解金融概念","這是一本充滿故事的書。如果你對金融有興趣，而且喜歡聽故事，這就是一本適合你的書。 在看這本書的時候，很難分辨你到底是在看故事學習金融觀念，還是以金融的眼光，重新看待這些故事。也許作者自己將這本書詮釋得....."
+"https://www.facebook.com/statementdog/posts/2503873246330355","1562421230","#財報狗選股清單績效
+有時選股清單出現 1~2 個月績效不如台股，會有使用者來詢問：要不要調整一下選股條件的參數呀？
+
+ 如果需要常常調整，那就是經不起歷史考驗的選股策略了啦。事實上只要持股時間拉長到 6 個月以上，以過去 18 年 216
+個月的歷史數據來看，財報狗的兩個財報選股策略：績優股與轉機股在絕大多數時間績效都是比整體台盤好，近 5 年來看績優股清單表現尤其穩健。
+
+ 更何況近 12 個月內，績優股有 8 個月績效比大盤好，轉機股有 7 個月績效比大盤好，實在沒有什麼好調整的啊...@@
+
+ 績優股選股原理說明：https://bit.ly/2Wfnq6V
+轉機股選股原理說明：https://bit.ly/2XvoBOO",1579107806,"/statementdog/photos/a.209326032451766/2503856702998676/?type=3&eid=ARANP1XeEhWiQ3yriI-bsMQcYt-u0-I9WsYltjwRUkESlMM9gLooQ_gD9mgKjQLNe9LcutcRWWkpcZFD&__xts__%5B0%5D=68.ARB-T_i6Yl9C5BkOxEJFj4x4W5dlnI7cXXAeBqZWIl6UN07qU1JapN2DYWfxPTyONaZX53GhaEc44AVxRzqDqDxhXUozmstbI8q_LlDDwkEPeE3_JG_dnhJ6sClCOEXTSJy2N6pi4lwLzKzXnYr2TR5M7oUrOzSrxpcg6zHlF3zZ1qqTRpQGkHXlouIyU5Rzr168fVd9FaCrF2UejEZ62F1v0FMBsVmlpoDu_8RQb1WmTEuNAHPd0y-HXrYuSUxKipkzyWs1QJX3qi8QhVXSzD1QLuMmbhXacfWLGL3Dh35HAYwsTdUeNbhPyTSAeY0-3O6ri7yqfu2x3_GKzWH6TTtYfg&__tn__=EHH-R","https://scontent-scl2-1.xx.fbcdn.net/v/t1.0-9/s851x315/66335637_2503856709665342_7561051515268366336_o.jpg?_nc_cat=106&_nc_oc=AQkaCKz99HML2F-b3teYUb1n9CQ6dFNeh1JTXqizj1cwbNeTsC-xCDf-8tb_w8oVj_Q&_nc_ht=scontent-scl2-1.xx&_nc_tp=1002&oh=a49137195b43411995d9c90de0c0e2c1&oe=5E9E86C1",undefined,"",""
+"https://www.facebook.com/statementdog/posts/2466856480032032","1560678330","#新功能 #產業上下游公司
+有些朋友以為，我們新功能只有針對半導體產業，事實上台股 33 個產業上中下游資訊我們都幫你整理好了，幾乎涵蓋所有上市櫃 1700 多家公司！
+
+ 想查看某個產業資訊請這樣作：
+1. 到這個網頁：https://bit.ly/2PiOKhk
+2. 捲動畫面到下方的產業總覽畫面
+3. 直接點擊特定產業，就可進一步查看",1579107800,"/statementdog/photos/a.209326032451766/2466846003366413/?type=3&eid=ARD3BfxUAIdqluRerHBvX7ymB5-8j_w2KjZ6h7h1NyvSlMnTcUB6I9ng2bWZbQod8sSXByqGn0uG6PYb&__xts__%5B0%5D=68.ARAOx5K0TIL-C4jGepaCM4rDd6UIWIhtg4kRP3Wh0K8gujBWdYmjJx7uhJA7lFg05VRhT_kni39589mrZJMWl10R4iF9cJ7cS7ARN7toTdZ6u3pFpM88_7c8yjQdvzflk1J2fuNERVNwCJkhZVPbFueKZHmf9NP6UZll1t7z0p-AyrbfE8hCG2uqO9impywb-gQmvMnWdsBz_ycryqBPKcOE2xKZBdJsG5hk3-gFpJsf7RUzxQWtWa8NBhcVtqSWXo-CVKzWzA2bYaI2K3mnEBHdoYLn64eNT5Fn2xP_v-d0vZMBFBlMZwbyur_KN08eiDXvDNn9SInNYLCyjljwiUJ6tg&__tn__=EHH-R","https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-0/p235x350/64493650_2466846010033079_8835068166792019968_o.jpg?_nc_cat=107&_nc_oc=AQn-_28BbiSqriJtYGNSxXtQQl7-cTIJlhdMu1_0OaV3-oYNGzSrL4B3uHNScUh9Fhc&_nc_ht=scontent.fhan2-3.fna&_nc_tp=1002&oh=77e7245512158cd7d7213cc1e53e1e25&oe=5E9A871A",undefined,"",""
+"https://www.facebook.com/statementdog/posts/2326557247395290","1553314963","【Ray Dalio 新書演講的整理】
+
+目前我們的貧富差距是30年代以來最大的一次，從而我們會看到西方民粹主義的抬頭。
+
+泡沫階段的特徵包括：價格高於傳統指標、預期未來價格會在高水平上快速上漲、市場情緒普遍樂觀、投資者使用高槓桿購買資產、投資者購買長遠期資產等等。
+
+減輕債務週期的四個主要方式：
+第一，財政緊縮；
+第二，債務違約或重組；
+第三，「印鈔」來阻止失血和刺激經濟；
+第四，重新分配財富。
+
+一個典型的債務週期有七個階段：
+第一是早期階段，債務是非常健康的；
+第二是泡沫階段，銀行會放鬆貸款的標準，我們需要瞭解如何去識別一個泡沫期，在這一階段應該賣出，而不是興奮地買入，需要關注這個債務究竟能產生多少現金流；
+第三是頂部階段，這一階段我們需要關注還債，通常這一階段央行會收緊利率、放緩經濟；
+第四階段就是蕭條，每個國家的央行都會採取一些措施，不能夠再採取緊縮的政策；
+接下來就是有效地去槓桿，並回到正常。
+
+我們的經濟的運作有四大力量、三個重要均衡：
+四大力量包括：首先是生產率，它是一個向上不斷演進的過程。其次是短期債務週期和長期債務週期。這是一個此起彼伏的週期，短週期一般是五到十年，而一些短週期累計起來構成長週期。我們都希望經濟不斷上行，這樣就會帶來更多的信貸，刺激經濟，央行也會進行更多量寬，也就是資產購買。最後就是一個就是政治。
+
+需要重點關注的是三個重要的均衡：
+首先是債務增長與償債所需的收入增長相一致；
+其次，產能利用率既不能過高，也不能過低；
+最後，股票的預期回報率高於債券預期回報率，而債券的預期回報率高於現金的預期回報率。
+
+我們需要知道經濟機器和市場是如何運行的，它們之間有著不斷的聯繫。在全球金融危機十週年時，有人邀請我把我總結出的原則整理成書，以幫助大家瞭解我們的經濟究竟是如何運行的。就像疾病，我們知道了治療的規律，就能瞭解如何去應對它。
+
+資料來源：https://wallstreetcn.com/articles/3497146",1579107808,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/statementdog/posts/2117942448256772","1540989383","神操作...@@
+
+ 中環10/01~31處分環球晶126.1萬股，損失3680萬元
+中環10/16~30處分國巨80.8萬股，損失1549萬元
+中環9/5~10/24處分大立光8.5萬股，損失1014萬元
+中環8/1~10/17處分康控134萬股，損失683萬元
+中環9/26~10/15處分國巨75.6萬股，損失2365萬元
+中環9/20~10/9處分高鐵1134萬股，獲利4480萬元
+中環7/31~10/5處分嘉聯益687.3萬股，損失1239萬元
+中環8/24~10/5處分亞泥799.8萬股，損失789.8萬元
+中環9/20~9/28處分環球晶116.4萬股，獲利 219.8萬元","1570965551","https://l.facebook.com/l.php?u=http%3A%2F%2Fpchome.megatime.com.tw%2Fnews%2Fcat2%2F20181031%2F9700002323201810311.html&h=AT097vYqWcCk8lLAHu4b-rs-pWrzd0orxs3gkKn0x5YwTad5o5k3QdPundlIjxxGaKv8CLgj0TwlFPL5Q6Q9tRlAljNLB5fnJCKQQx04vboDGEA4oCs1CuO_JaA6WqLNo7NBKeUZoTBF4nZiiT6-O3i7akGSunDAxfWznbL2OXoO5Wsn19UJ32Q7mfj1oQiDSgV82IDNZXV-3LsnY-V5xGOMKkd9iJNsNR3mPVeu-NtCwtMmKyK2JvY5s8m4j_59Kf47RZ-PIk-vXHBNyMl7x_Q9PgO7xzL3v9ne16cuajhTVLwFehfBXLYySkfInfrZQV4tgwfSOXxTbSMyUAgus-ZI9O8ghEWHBCkcLMZw9YibJDFcj3xLaj8uLVq3Eno6TFqSVw1aVjsXM3062ONuYQWHAe9Zd1TFgsN7qQpTgN1IwlYohZT8cegY4Bq1iYNFwIEV0dr3rnYYd969j5FP0romBD5sXpsnmeMpCfnWT60C9eFoTNXye9m3OhlznN0EXeXxMYBrjtRmjLgS9VNu__d6nP2Bwp9MrHXpjepj9k40LaHJpC7LoKDePwY-CHncgxcroLNdvd-AZhJE94ijLfeVzWhxwAbfk8Av1UVqagMd7-FilwtN6qOXSMismDq4-qPXPm6cNf614XG3","https://external.faep13-1.fna.fbcdn.net/safe_image.php?d=AQBWpjlIOxeie5px&w=540&h=282&url=http%3A%2F%2Fpchome.megatime.com.tw%2Fstockimage%2F2323_b.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCGPl2t5VikOCce","No photo description available.","[公告] 中環:本公司處分環球晶普通股股票之公告 - 台股 - 新聞 - PChome 股市","第20款1.證券名稱:環球晶 普通股2.交易日期:107/10/1~107/10/313.交易數量、每單位價格及交易總金額:交易數量(仟股):1,261每單位價格(元):253.43交易總金額(元):..."
+"https://www.facebook.com/statementdog/posts/2165582146826135","1543917221","為什麼 #嚴凱泰 逝世，#裕隆(2201)股價卻 #漲停？
+
+如果你有看一些網路討論，最常看到的說法就是經營權之爭。
+
+這指的是嚴凱泰過世後，有人會為了搶奪裕隆的經營權，而大量收購裕隆股票，造成股價上漲。
+
+真的是這樣嗎？
+
+我們在這篇文章提出了另一種觀點，說明為什麼管理階層的變動，可能造成公司價值的上升。
+
+看完這篇文章，你有想到什麼方法可以找到類似催化劑的股票嗎？
+
+如果文章對你有幫助，別忘了留言告訴我們，分享給你的朋友看看喔！
+
+https://statementdog.com/blog/archives/10804","1570965551","/statementdog/photos/a.209326032451766/2165582810159402/?type=3&eid=ARD37_GJ-MgTO8hvlJC9Fy0MxVY5AzfkCyCIpJyqrxEwpbRz7QtdMHqR5oOKUcAU3twJzzmDalmW36Cr&__xts__%5B0%5D=68.ARCOUumkzdl3GDZzDre9NHuDXh6cvAnQPg1jB1qVQHFn70zaN16DqNQwmnKVzPKwFkZ2eY1pGq3bWVKr1IimBVGtW2wMZdvlTo_cG1BiuSJnbme7hA4PQx8PBww-fKEAy0s6i3T03qaTaAKsjb-BD7RZWj83hfbVRVVI7sn8i1adtpT2QQdbpnUiagJ9oU5CHd93ag2wiMwWxXAd-y-aSWs-6t8B81h0JErUm8f0gOyqpDvO9TKyEbJLCGufuCaTY9mpIid3TqPzU1MtgxnCXr79CltX90MoAcCIf3oesfkt9BZJOO5k3cca0DmRk1rGaDU3RnNP7tUKJs-y-Y4ZAx7Xvw&__tn__=EEHH-R","https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.0-0/p526x296/47316598_2165582813492735_836761248187023360_n.jpg?_nc_cat=104&_nc_oc=AQkzG5KFe8Q0Fj0gzA-TDeCKfYhZJvsurPQ2ZVT4GsUUmVLn8OVSgmyb7ZAFL9DHpt0&_nc_ht=scontent.fbkk5-5.fna&oh=c4e85e510c931c222e659a4ca5d41f7e&oe=5E1F4527","undefined","",""
+"https://www.facebook.com/statementdog/posts/2182660685118281","1544948331","華碩在週四宣佈：將於今年第四季提列包含存貨損失等一次性費用 62 億元。這麼""突然""的利空，該怎麼用財報狗提前偵測出來呢？
+
+ 以華碩案例，你可以使用我們的個股健診功能，提前對公司營運產生預警：
+
+ 第 1 步：利用成長股健診結果可發現：公司得分為 0，代表公司短期各項獲利與營收都呈現衰退狀態
+
+ 第 2
+步：查看地雷股健診詳細報告可發現：公司長期現金流量沒問題，並非地雷股；但就短期存貨週轉較去年差，因此沒有通過存貨檢測項目。而這次華碩的一次性費用就是包含了提列存貨損失造成
+
+ 
+從過去宏碁、宏達電、到這次華碩事件，我們其實可以發現有類似的一貫模式：產品生命週期短的消費電子業，一旦面臨營收銷量下滑時，帳面上積壓的存貨很容易爆出問題。以長期數據來看，華碩並非地雷股，但是透過前面兩步驟，我們還是可以提早對這種短期利空產生警覺
+
+ 歡迎來財報狗看看你的持股健診狀況：https://bit.ly/2Cf8r4Y
+
+ 宏碁類似案例：https://bit.ly/2SU430N
+宏達電類似案例：https://bit.ly/2Cg4vRy
+
+ #子龍機七進七出出不來了","1570965551","/statementdog/photos/pcb.2182660685118281/2182658971785119/?type=3&__tn__=HH-R&eid=ARAxaReV-1dCP4b5o2ri8OpfmO37yYR-Hs3rPA7pDiliZq3PCFqboAuc1JngAycKuQ6rqkTGt0n0YLSp&__xts__%5B0%5D=68.ARDo7iblHw_J1ErIBA1p9Vh9boxJpZeJ9u40PfHSnMoY7Wu2SSe7x2sKEqYcXf4_YyScUUYF1-wW4u2fe6pdWrYLtjNikj_vcfMDD6I5hm3VsqB1MpVa2VaegWoFPk4OaeClAjyVJhRitXnj80Vs-kD1RW98i_qxpFqfAFqy7CfKBdSUH7zn9_8qG1BGJo04rkuw0WCspnUoJcUfgWb3lQWGs5I0Jdkcigyz52yKuSHvd-BJ_9gCsB0mxLIuv4Rp8fKB_Yt1RTwMYfciv5uYEirjQvzzndexMoRZQotg9R5UejR7kJ_s03LjdwA-wqMTnfWOhT2GwQAluABmR9Qn2QUC2g","https://scontent.faep13-1.fna.fbcdn.net/v/t1.0-0/p526x296/48407138_2182658978451785_3790159543225286656_n.jpg?_nc_cat=106&_nc_oc=AQkV7S4nm5H4CdENYh31ZPmROs4Uv4SjbMAzPOXfQC6KBucm7Q7OG6qvH8pppBmjR2E&_nc_ht=scontent.faep13-1.fna&oh=ea3b838e8c060de2b846b8cf32a66c93&oe=5E2EBA0B","undefined","",""
+"https://www.facebook.com/statementdog/posts/2086826101368407","1539010943","【可惡，該賺的沒賺到】 #兩個要分開留言喔
+1. 我就知道他會漲，但我沒買
+2. 我賣太早了後來又漲上去
+
+這是兩種常見的情況，遇到這種情況，很多人會很扼腕，覺得自己該賺的錢卻沒有賺到。
+
+最近我跟 阿堯投資筆記 剛好在同一檔股票上分別出現上面兩種情形。這檔股票是 2702 華園，我們在沒有討論的情形下，各自做了不同的決策。
+
+為什麼我們會做出這樣的決策，又可以從這次的經驗學到什麼？
+
+👉 留言「想知道」或是「想聽」，我就將這集影片私訊給你
+
+👉 留言「2702」或是「華園」，對照我們提到幾個時間點的財務報表和股價變化 #兩個要分開留言","1570965551","/statementdog/photos/a.209326032451766/2086818691369148/?type=3&eid=ARAdTBV1wwTj80SYfkmEE2kMX2SV1brLIIQqJ41MrJ9onz5TYUvBg8rMn_7bH6RhsS11XaG4fgmnY2_w&__xts__%5B0%5D=68.ARAKlhv5NIQ429O9HQPBoURgIqiBGfdKCsi_t05x7C3YsCwXWchee3_Qu378pluhTTZleZb0OdvoybLZPep8IMAwI6YWeOVOw5XKvIze1aTp8YWyXe22Zs1dJNSY2TqZvCSG7eRg3kevXHM3xnJrK_UjLB8dH7dPCSu3foV0u2BITXZDqF6dzpGuNjb-MXgDX6sticJqXohgLdt_AWo5sG3ME4aCUlIlXsAI55LhCCOFFZFGJ-69PfibXUzXCrjP8PwDSgCz_eXawV7dogJ9mn8lev1tvWBiTp264vIdahoRRH289KjkHFs5qSfsLJ-8bOEVmeYMCygf9zCNWgVVZ_-5hw&__tn__=EHH-R","https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-0/s526x296/43426733_2086818694702481_2549415067040874496_n.jpg?_nc_cat=110&_nc_oc=AQlCcrb8kIpwohnQ3njPWp5sE8ncSZkntAKYtnXAoAAG4El9kgK0x0XXQ5kaHE1dscQ&_nc_ht=scontent-sin6-1.xx&oh=962c134e102ea4fa82f64294adaa2a78&oe=5E1EF5AB","undefined","",""
+"https://www.facebook.com/statementdog/posts/2090523004332050","1539237349","以後可以驕傲的和孩子說：""你阿爸可是參與過這段歷史的男人啊~~~""😂😂😂","1570965551","https://l.facebook.com/l.php?u=https%3A%2F%2Ftw.news.yahoo.com%2F%25E5%258F%25B0%25E8%2582%25A1%25E5%25A4%25A7%25E8%25B7%25B3%25E6%25B0%25B4-%25E7%259B%25A4%25E4%25B8%25AD%25E5%25A4%25A7%25E8%25B7%258C%25E9%2580%25BE650%25E9%25BB%259E-%25E5%2589%25B5%25E5%258F%25B2%25E4%25B8%258A%25E6%259C%2580%25E5%25A4%25A7%25E8%25B7%258C%25E9%25BB%259E-035748643.html&h=AT1qdupBheT1yP-jBEHS1Po3SUJQlfnAF6lGw3w7ONjJtHxK3royGImd1fpBq_31NBaxCjwS31jcNUT6P1t09B3g2zUtnV_XieZytyX0xNoZ8lmYawPqiD9YiGF3IQ26EW-uNWA4FAQS40y2GqOasGzu9s_zzUpDsAJ_Ir3jYsBLqM3xC0rw0n9XDI-Q361LbT64uuDSxUy83gGIp3xm5gmCxLexevi841YiSxfPhELWj1-WuFzdERbxffh5Wo3GOuo1NmNofIgP0BCUK_UYv-8Clm6H5IvDcgAymh9MUsHnwn12EjgygVRXUrzMyjdXupJ_f3e0B9d_bCMWW68D2GXNeictuXQpEeVhsFiqmkyS0qFPIuGibdVrY-jDOYdOk7_30cnUxl6172I2hDp5yJeyCB5Jx-kKcwJUi9JW3Qvm4qt0mW1-YGaf_TZ9ylEkpBjzMZc3MpV6sRfLUB7eFtbcSaOM-Ybknhzmh0RgnN92SPjhmDyM2-VXZL361zI-2xCbAK-bUVcawQUhpKMhouDpyRzC9xyY2BT3n5-o0x4niPQgccOswz1xQ556rLfW8fLO8MTO3gGxAvNrCoESzm1a_4kY7qzYMA8RPOtb-I_4WGF5TyzZIc4cvy9xYEWIIsBdWc4I56IOnMi7","https://external-nrt1-1.xx.fbcdn.net/safe_image.php?d=AQDMPZjq2qExhCry&w=540&h=282&url=https%3A%2F%2Fs.yimg.com%2Fuu%2Fapi%2Fres%2F1.2%2Fm6OTRwenjSv0WzLZaUMoqQ--%7EB%2FaD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--%2Fhttp%3A%2F%2Fmedia.zenfs.com%2Fzh-Hant-TW%2Fhomerun%2Fmirrormedia.mg%2Fde9b8474fd4ff8401b276145ad8c2b13&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQDOVmH16ETAd5NH","Image may contain: one or more people, people sitting, table and indoor","【台股大跳水】盤中大跌逾650點 創史上最大跌點 - Yahoo奇摩新聞","受美國道瓊指數昨（10）日重挫800逾點影響，今日亞股開盤全面大跌，台北股市開盤便跳空下跌近200點，隨後不到3分鐘狂洩逾500點，萬點關卡應聲失守，跌幅逾5%，直到上午11時00分左右，已經逾150檔股票跌停，賣壓並未退散，另..."
+"https://www.facebook.com/statementdog/posts/2136650789719271","1542104100","這集的內容比較難一點，但又是很多人會問的問題。
+
+在剛學習投資時，會看到很多人說某某產業用本益比、某某產業用股價淨值比、某某公司用彼得林區指標。
+
+但這只是當下這些模型或本益比倍數可能適合這些產業，他們並不是永遠都這樣。
+
+選擇評價模型或本益比倍數，關鍵在成長率以及獲利的穩定程度。等你了解背後的邏輯，你也能自己決定怎麼評估一家公司的價值。","1570965551","https://l.facebook.com/l.php?u=http%3A%2F%2Fstatementdog.piee.pw%2FC7234&h=AT2erAC9qgU5MXi_ong6jOR3ZISlDgNi5s8SwY42bObRgP3PsXIUuwBPPI8A_4bbJexh1TnAUjCbDR3VUeQ_acI93Ohk8ujPzaUvBySbXArl6yQ7B1EKn485s35LhXIsAvwAtY1gz6Jocab9nwVL-5x1WYtmWGZjKXinyyWb_sjwAtA6b5w80hxnJsZ8YBx9FWA-otFPMkjH-mFx9HK4wL2KllPmW283jMbxpQuiGHBKWDj3mbYUpSS6h59ZVaihWYEjk6WKK8CUbOd7fG2aPZ_dxDkqPtmndYpy1T72JtFjBiFLnZCLdPbhz7rEZUB739vXFfqPKUGU0Dxi_SoRP71Kf9RpFymcUSAGZGTKhSF-SaaLsLmx_z8q9ubfPskOquyU_0d82uk5gwMR6dvrZT6OTn8G9HE1ofED8r3ySj1okpDbFReliEUvPKpkZOD4xfckO7HcN4e2jPO1Q2OiLI_Kg9qFYgjGhF8hR1nOc8ki1IApG7j_QO2s4408pcMwG05ZhXrN0bem_MxlqEOjAeb9nNY8TNsbmSV-yh9mact2_b3g7Mx6QRwEXF0pDbqtEyvvNK5-Zr4mZue_slkODzbF1-SN7-tIzs372T8Dko-OHvEbaEE4PVph3QjkqH2wwEp7Sa-7eDBuQICU","https://external.flim20-1.fna.fbcdn.net/safe_image.php?d=AQAyuzKr7H-jQ1vN&w=540&h=282&url=http%3A%2F%2Fcdn.pse.is%2Fstatic%2Fimages%2F1983A83E-465A-268B-4F1B-EF194037B84C.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQA2s1wctiMSM-MM","股票估值評價大哉問，不同產業要用不同評價模型嗎？","股票估值評價大哉問，不同產業要用不同評價模型嗎？","不同股票要怎麼選擇評價模型，或是合理本益比？ 有人會說，每個產業的本益比都不同，龍頭股又可以有比較高的本益比。但為什麼會如此？關鍵在於產業嗎？ 這集就在試圖探討這個問題，不同評價模型之間的差異在哪裡，我...."
+"https://www.facebook.com/statementdog/posts/2360436054007409","1555236981","#填息花費天數 #除息日 #除權日
+隨著最新年度股利大都已經公告，我們在個股的股利政策資訊中，特地加入四項新資訊，協助大家掌握股利發放時間
+
+ 1. 填息花費天數：統計個股每年在除息後，花了多久時間才填息
+2. 除息日期
+3. 除權日期
+4. 現金股利發放日期
+
+ 快去看看最新的股利資訊吧：https://bit.ly/2V03Gq3",1579107802,"/statementdog/photos/a.209326032451766/2360428317341516/?type=3&eid=ARAqCtoZVtDUeU2VImmyuKy6fHjKLCfOOvqBRSpIjby2w9KAHQp20A5ikU7Mt8vApLIqvzfCdGngL9iB&__xts__%5B0%5D=68.ARDGLvYye0chO_mH4WncplF-cvzFlHRV3G3ATekm5yhgvC0cDrDeDdOT4RATmlIDz9yQboSi6FDILY7DHrqwsfv--mfBILYsUXkH6RMwSb9ClTFLzKwrJDbpWfYKwz7zrN_tV5SI6PEtZAKkJtfQFdHtqF6v9_HRpwGM_HDTcSIlxIO8W3_Up9ing2JMBfDUpVawj6-ohBCRpxG9uPWxQZGZsqmyfz4E734NTyLXlGowrKejW4MyOPMUcTT80hd-S7QgMmkq3jV_LlkUpszudkIu1eRD7lS56z_qZecdvjkiuhTSbTpEARkiZ62urNYSu4qr5vxCFIhHMm2i-nat49oCsw&__tn__=EHH-R","https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/s851x315/57131083_2360428324008182_1511902168355962880_o.png?_nc_cat=106&_nc_ohc=7hTZwADGwSgAX8R_JxB&_nc_ht=scontent-arn2-1.xx&oh=c95ca31c4013817a6b9e7583819488da&oe=5EDAE809",undefined,"",""
+"https://www.facebook.com/statementdog/posts/2209254542458895","1546510412","蘋果執行長 Cook 在盤後發表了一封公開信，內容下修了 2019 第一季營收預估，訊息出來後蘋果股價馬上下挫 6.6%。信中重點大致整理如下：
+
+ 1. iPhone 銷售量下滑，是營收不如預期主因。其中大中華區銷售成長大幅放緩，中美貿易影響可謂不小
+
+ 2. iPhone 銷量在部分發達市場換機率也不如蘋果預期。雖然信中說法是和總體經濟影響有關，個人認為手機作為硬體需求已經飽和，可能才是更深層主因
+
+ 3. 雖然 iPhone 表現太差，但是 Apple Watch 和 AirPods 等穿戴式新產品成長動能強勁，YOY 達 50%，個人認為與其期待今年
+iPhone 能否在已經飽和的手機市場重振雄風，投資人或許更應該關注蘋果這些成長中的新產品帶來的機會
+
+ 4. 蘋果本季軟體服務營收超過 108
+億美元，且每個地區都創下新的季度記錄，公司預期仍會繼續成長。隨著手機硬體需求飽和，估計蘋果未來重視手機帶來軟體營收，會更甚於手機本身營收。唯獨 iPhone
+硬體營收佔比太大，要靠軟體和新產品營收填補缺口估計還有一段陣痛期
+
+ 5. 下圖為 iPhone 零組件廠近期營收走勢，台廠目前 iPhone 零組件受影響幅度已經相當明顯
+
+ 附上 Cook 的信中文翻譯：https://news.cnyes.com/news/id/4262892
+
+ 想一次比較多家公司財務數據，可以到這裡試試：https://statementdog.com/compare/tpe","1570965552","/statementdog/photos/a.209326032451766/2209252359125780/?type=3&eid=ARD2x2qrBucAOFB7g9NcgQYfQ7M-D1qjlkWz2-lj8LcmZSzZDJ8fdoIT502nOglqyfQ7KpWsR_60oWoh&__xts__%5B0%5D=68.ARDy_lSLnb6D2M4TG7nm2AgjGjXNvk4dy4z8VtIvIFYe9U4wzqF3lax9H4fZIQPVFbBgC-RbObrOOqavqcaL6tPjHJRwtYVArnzosVRNKbXF5n1vcfW_PM3xLd1YqutLT35kOow6R1tQh_QlYIcXWoi3eGUGnIL5Fu2ConlCQtwV_bypMNlzwb83YOHRj4sEXTbl3DxPpSvutfdPVDZbq4MjTN4wDJSNFSNgyvHzludbOnDj3rb-VjJkhLL-6ImLaT6HkUCUMzgIoI6NsboVdD9IrOYSqvbZ5i3ef3_9b1qbiCl9ObVyk0ySYRw14CCKjnVwucuYHjt_eI4sZTyvciu-lQ&__tn__=EEHH-R","https://scontent-hkg3-2.xx.fbcdn.net/v/t1.0-0/s600x600/49376407_2209252365792446_8614385638952665088_n.jpg?_nc_cat=106&_nc_oc=AQmus0fyV0yzbQY2PY3ocQdmcY4WR0m29D_IIOdUR3w0EIuWg00eBlHhP4yN-NEMbCA&_nc_ht=scontent-hkg3-2.xx&oh=2d4c1e6632cff062b431a33d516b7143&oe=5E37BA9B","undefined","",""
+"https://www.facebook.com/statementdog/posts/2114570931927257","1540809600","跑了一下有趣的統計。如果不算除權息，台股目前沒有一家公司的股價處於今年的最高點。
+
+超過一半的公司股價比最高點少 30%，超過 25% 的公司 400 間公司股價下跌 45% 以上。
+
+因為這邊只看股價，沒有考慮除權息和增減資的影響，所以平均來講可能會差個 3% 左右。
+
+你們覺得這樣的跌幅算多了嗎？","1570965552","/statementdog/photos/a.209326032451766/2114566795261004/?type=3&eid=ARCMlH6LI38LIO7KrGtpqFp8lKoENDzFusOhcUCe4noMa_StykuW_VOPHJsPbnXrQrPu3gfV4doxh9aU&__xts__%5B0%5D=68.ARCZuJGOqxElm5rjbeDosSqqfndQVvPCC1CaPeGU1BGjthGlm1T4YIBCSb5pRZYv7CooAoucxu_Zfszi67vzaHjgzdvl8F3zufZB7DqxWZKFHddwCtLExXqAP90Y4txXI5lhvgaJsFtEslrNNFRIu3L3mAmIkDBwv0HJyxrDN0NG_WgfOnv0LSIrcYk-uKcMU5tjqKkLVhE4t4bTViYHS4cCNvQHhYXTyKYhLAR-t4sW1m0zRlxYwqq3LBoHIZ_4ny9YgpuPFjICOfIJPOsvj8k_ALtHFMIgAlSdYEsENugtygRpIWG-HbA06Y77MDZNbe-saE-iEI5-RPuVmJcKkpD1Sw&__tn__=EHH-R","https://scontent-gmp1-1.xx.fbcdn.net/v/t1.0-0/s526x296/44942061_2114566798594337_3405952951703830528_n.png?_nc_cat=104&_nc_oc=AQm9x2l_RHYoaETL338D1N6v-ke6Ml4xr5fh6IFGidQp_Gmiv7Wp0C0mq-5m1SX5XK0&_nc_ht=scontent-gmp1-1.xx&oh=a5e0d81ebf58f72005f69d3baea4d195&oe=5E345ABF","undefined","",""
+"https://www.facebook.com/statementdog/posts/1881498548567831","1525849398","「我所有的成就都要歸功於原則」 - Ray Dalio
+
+ Ray Dalio 最近好積極在推廣他的哲學，這邊是他做的 8 個小短片，總共 30 分鐘。
+
+ 我覺得蠻好看的，尤其主角的帽子好像魔法帽，我喜歡 😉","1570965552","/watch/?ref=external&v=460292221059125&__xts__%5B0%5D=68.ARCafZAJTEnbZCKfure47V9Jh--TOw3TOwxle-nmL_yMFjiIJZPBcbVPSxmV73qOPrxfPlZOMZurvTj3_PdctyNgUFNkvUEcklowPjbrIpSwPvrnJr72J9wUIRPqoyHLbiOF0_KJz__41HkqGLMe-Jmk7m8oUw06MJx--LKkC3P1D3HE7JEQfKU9yoOOIemNJDJ3ubciBZ0lKRSodvsY92uGeQqI9AA3gFmk-CliWmohiQ2sJQtFplhTedeIsvGLnxv2cOreqiqRiM-QtIBQXStqDO7hNCuumGSKbAoPoeeiQ_QMZbi5VrUnD1Q319MkeKnPvJ0nbWbsXWQCkWNR6IpMhLicz0w1HO9UVZbTpwh6g70EgbfECegPtt3iYB6cPLv1wlP_k5PM5z1zySxkqGWXGa3v79QCSuSfEZZn-zo2msoX7IYOKUk-ZaogkE2-eIrnrRl-AUuNGKp-HB8JkZ9S9vhqX9Kxs3qdiL5gQcCoqd9s3WFG7wEZ9N1h&__tn__=kFHH-R","https://scontent-frt3-2.xx.fbcdn.net/v/t15.5256-10/28770953_460297654391915_7047616083729055744_n.jpg?_nc_cat=104&_nc_oc=AQlmatNycWcUz-ioQwHl3Z8KEdpzGRvFJV4u3tzN-OXpdYU5Xqbes834T3Qqs9L0vyQ&_nc_ht=scontent-frt3-2.xx&oh=d8a15d8e008bc4e2c9d5da03885f2941&oe=5E3A666D","undefined","Principles for Success: ""The Call to Adventure"" | Episode 1","Posted by Ray Dalio"
+"https://www.facebook.com/statementdog/posts/2342203712497310","1554202228","剛剛更新網誌的案例，發現都 2019 了，竟然還有媒體會推國巨是高殖利率概念股。
+
+2012 推宏達電是高殖利率概念股就已經有點誇張了，過了七年這種問題竟然還存在啊。
+
+我們把這篇網誌的案例更新了，將高殖利率的股票分成四種類型，而其中只有第一種是好的，其他三種都潛藏著投資陷阱，大家務必小心囉！",1579107803,"https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F5713&h=AT2p81MdJC5r28jL8qMorI70OYbipS4k0xFjoDeqHIo9v4GoxNOOftKo26TRWiu1naafCZMt7sey7WsD_dMFiY2hKMG3pDERVUNan_FzPMhXB6tJaS39vn-KJUTjbC76o88cOmOU4qf5KPGDEkoV8bSGiszCvOPL6y4ST1ivFUjlQGAwvqBvZRGyn3YHn4NUx6cS5U6S5SgRkl6Kja3TOAgcudpJAlKBHMFTrzEJOGW0GtOrZUBxzDnMouQf8rFyz74VCPlSP5vaCUdxfGCBnPqHOW4_A3_p7VFe0m36Sxy54CliZu1i5bqLV7KG5INMzl-8G-fbQQeIX5Tk0t4Ml84mNlFKFVYb4MmV4lJASiOFNTHrjmWsyBDJS4IUMgfTdScHizVSAJjZJOLkD7m_WcAyLpFM4mUls_Jhfuf_LKoSvRppHtlsAWH3SwaWsIt-TRe7S3c8k0XFn-1bvxibMWdV6otQ4jbwRsM2qGoDPjd5r2lDiPO7nP3R2sHglQOwQMFdJp0fU3c8AqsxsOzcRAkC1C5n5pfl7s0ZxfZr-6BPx1prSWmtrIXsvn9STbvtwQRK7M-7sHiO2-w8M6Ie5U664BgpwKjRrIUPiXihUZBYj4kb1b64IlxYbxZazjGeJ_z5DyYmN5ECprmQ","https://external.fhan5-7.fna.fbcdn.net/safe_image.php?d=AQBMUFjzUSfVC-3o&w=540&h=282&url=http%3A%2F%2Fblog.statementdog.com%2Fblog%2Fwp-content%2Fuploads%2F2013%2F03%2F-2015-09-02-%E4%B8%8B%E5%8D%886.51.23-e1441191281220.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQBx7jHGLJHtlNuh","螢幕快照 2015-09-02 下午6.51.23","我們會把高殖利率的股票分成四種類型，而其中只有第一種是好的，其它三種都潛藏著投資陷井，大家務必小心囉！","statementdog.com高殖利率概念股正夯？小心了！（2019 更新版）我們會把高殖利率的股票分成四種類型，而其中只有第一種是好的，其它三種都潛藏著投資陷井，大家務必小心囉！我們會把高殖利率的股票分成四種類型，而其中只有第一種是好的，其它三種都潛藏著投資陷井，大家務必小心囉！"
+"https://www.facebook.com/statementdog/posts/2240348179349531","1548335641","#財報狗績優股選股經得起考驗
+統計了去年股市報酬率：相較於台股指數去年表現不佳，財報狗的績優股策略選出來的標的整體明顯抗跌。
+
+ 這展現了我們績優股用自由現金流選股的特色：在大盤表現不佳時，高自由現金流標的相對抗跌；時間拉長後，績優股績效就開始明顯領先整體台股表現
+
+ 財報狗績優股選股流程：https://bit.ly/2Wfnq6V
+績優股策略過去挑出標的：https://bit.ly/2FNI2xW
+自由現金流重要性：https://bit.ly/2S6f4iL
+P.S: 報酬率計算已包含手續費、交易稅、還原權息","1570965552","/statementdog/photos/a.209326032451766/2240337109350638/?type=3&eid=ARBWTfIr8zxHjoHGYnP9OfGwf69em-gp0u5dyi8vde5hVyXEtF_gMyQel0y_KNvMEXdGa_wCSzkpBDi3&__xts__%5B0%5D=68.ARBspgkAO3_XHvw2mHfwN5IPB8xkTViZqTONtyGi7JLWcNheEPQ-ctq8N7MR64Lo9P2zc88CDBfvIHP5vxJeojHmJLySeSbXCXivNISpqEI22dw3z3FmZ7nZPFvHkBOv6486zGUNW_HB1mFKbocL25eS68Vkt92JyqDFnpU7UAAOpsyDrbhZOvROwPdSRhvCHRXZ0cLT3t_7gHF_pQfYlFK3zh5IRzbnXUqNAIory8_-tgZ3EzzDw_nJUT7LXBfSCPDyuzyAViVKkw34hkQqaTMM5dlf1Zi3INwk1k2ej-W-Y1-gSegTvjtMpsld_Cpu8sPrmqb48GCaez-TODd56L_Q7A&__tn__=EHH-R","https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-0/p320x320/50932702_2240337112683971_6188714253361348608_n.jpg?_nc_cat=106&_nc_oc=AQnfg4adKFzpVWKVDoDVtWQaOHT_koP--Jzv-gAw2wvRLYLWZqecjZMkMQYe6LdTdA0&_nc_ht=scontent-lga3-1.xx&oh=070a2453357f104ce6523399407d4ee9&oe=5E29ED75","undefined","",""
+"https://www.facebook.com/statementdog/posts/2044441415606876:0","1535972888","標記你那位容易猶豫不決的朋友，邀請他們到財報狗 IG 按讚 ⬇️
+https://www.instagram.com/statementdog/
+
+「如果有兩名熱烈的追求者，一位具有明顯的優勢，那你顯然不必與另一位過多周旋。這也是我們找投資機會的方法。」
+- 查理蒙格
+
+#財報狗IG #投資 #investing #chariemunger","1570965552","/statementdog/photos/a.209326032451766/2044441415606876/?type=3&eid=ARCq-LlzVOGbWvWjNYiZ0eY5KDAWExrVt3bp9XSmGj5QUlQAHbveHZG6yLo1liSA01hOfOTbmOxYZCTe&__xts__%5B0%5D=68.ARANd4NhCB6WLw925xHcYnt_0HqSJrXXmVSdzya5yd9om-FqGPdQ_ueYCfdEGzXLjN0gDxp_GGc1nzuxBbCNffFXYdZBSJoWR0UWMCJT7oVJ72S7VV7lUx52pUrXuj42KTWOCX6XZoCSIuuZHSvHolzKe6wuRZNp41R0Km6fpnvjiZFwDez1qzCXNNGhHA3h-yzajAMeVSNjGzvGFmPV9Mc5zJ8pQVCNP3cKfL6HjyNL5iJyZF2CVIhuTiHdBSpAIewuFqgkJbLtIratSwhaZRvWBW3SxJoQnyPj2ok3cxDBkPg9iz6iyiK8Gl_qtIHov4SjVZ4356pDHICud4i3nuLUBw&__tn__=EEHH-R","https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-0/s640x640/40593361_2044441422273542_2045077110673899520_n.jpg?_nc_cat=105&_nc_oc=AQm2OMDp3Z4eVi0jNtklqOnlvDLYPEc_RHNBgcxEt1xZnB_0KnGXUX-5WHI0vw6VxYM&_nc_ht=scontent-sin6-2.xx&oh=e02b79f5c72be197eb15696a2d6211d2&oe=5E3468B6","undefined","",""
+"https://www.facebook.com/statementdog/posts/2275489802502035","1550305996","「我應該買 Kobo 還是 Kindle」前兩天吃完飯，Jeff 問了這個問題
+
+辦公室 Kindle 跟 Kobo 剛好一半一半，如果你也在考慮買電子閱讀器，不知道要怎麼選，這篇動態可能對你有幫助。
+（如果你還沒考慮電子閱讀器，但覺得你書看完就忘了，有讀跟沒讀一樣，也可以看一下這篇動態）
+
+【Kobo v.s. Kindle】
+
+如果看英文居多，那就是 Kindle，後悔的機會不大。
+如果是看中文居多，有三個值得考量的點：
+
+1. 用 Kobo 你上網買電子書，會直接匯到你的裝置，非常方便。用 Kindle 你還要先破解 DRM，然後手動傳到 Kindle，不如 Kobo 方便
+
+2. Kobo 的翻頁和劃線比 Kindle 稍微慢一點點，如果不是同時比較感覺不太出來。
+
+3. 這兩個牌子的基礎機型（Kindle Paperwhite、Kobo Clara）都是 6 寸，但你如果想要再大一點點。Kindle Oasis2 是 7
+寸，Kobo Forma 是 8 寸。我覺得 7 寸已經是放外套口袋的極限了，會有點卡卡的。8 寸放不進外套口袋。
+
+【Kindle 機型選擇】
+
+Kindle 目前主要機型有兩種，Paperwhite 跟 Oasis，兩者大概差 4000 元。如果你不在意這價差，我建議直接上 Oasis。
+
+我發現雖然 Oasis2 比 Paperwhite 大，但因為設計原因，他更適合單手拿著閱讀。我自己在使用 Paperwhite 的時候還是以雙手拿著居多。
+
+【聽說電子書要往前找內容不太容易】
+
+對，電子書目前最大的問題就是不如實體書籍翻頁快速，如果你在十幾頁看過一項內容，要往前翻找到它有點小麻煩，要一直按上一頁。
+
+但是使用一陣子之後，我發現這個缺點，卻變成了電子書最大的優點。
+
+電子書雖然往前翻多頁有點麻煩，但它卻可以快速跳到你畫線的重點和書籤。在這個情況下，變成我會將所有我覺得不錯的資訊劃線，以備將來尋找。
+
+實體書我可能會因為翻頁快速，所以就算覺得內容不錯，也不一定會劃線，而是看完就過去了。電子書強迫我劃線，卻讓我更深入思考這個段落我要不要劃重點，提高我主動閱讀的參與度。
+
+還不僅如此，我不知道有多少人實體書看完，會整理一份完整的筆記。我自己從來沒有成功過，每次覺得一本書很棒要整理重點，要嘛是部分抄在筆記本上，部分用劃線，最後也懶得統整。不然就是沒有筆，連劃線都懶。
+
+但閱讀電子書因為劃重點容易，只要你可以看，就一定可以劃。整本書看完，你重點也全部劃完了。
+
+而這些重點可以全部匯出到 Evernote！
+
+也就是說當我看完一本書，只要匯出筆記，Evernote 就有一篇記事是我在這本書劃的所有重點，之後我要回顧這本書，只要看這篇記事就好了。
+
+我必須說，這是我閱讀電子書體驗到的最大好處。你不可能讀完一次就把這本書的重點全部吸收，通常過半年你就忘光了，而一般人很少願意在半年內重複閱讀同一本書。
+
+但 Evernote 記事不同，因為篇幅也不多，我會很常回顧過去整理的重點筆記，最後反而讓我在這本書上有更多的收穫。
+
+【聽說不是所有書都有電子書】
+
+沒錯，但我分享一個故事。
+
+我一位出版社的朋友跟我說，他們在 Kobo 上賣得還不錯，這也讓他們將新書上架 Kobo 的意願變高。
+
+為什麼出版社不將書上架電子書？因為他們不覺得這可以賺更多錢。
+
+我們能做的，就是更支持電子書，讓出版社知道電子書可以成為他們的獲利來源，這樣才會有更多書籍上架電子書平台。
+
+【用電子閱讀器讀電子書還有什麼好處】
+
+電子閱讀器螢幕不會有那麼多藍光，一般來說晚上接觸藍光太多會讓你深度睡眠時間變少，所以晚上不太適合用電腦或手機看電子書，但用電子閱讀器就沒有這個問題。
+
+【我要思考一下有沒有必要多花這個錢】
+
+一台基礎款的電子閱讀器 4000 元，許多電子書定價是實體書的 88 折，這兩天 Kobo 全平台輸入優惠碼打 5 折，等於是實體書定價的 44 折。
+http://bit.ly/2Iafe4T
+
+買 20 本書就賺回來了，就算不是今天買完，等 kobo 下次發瘋打 5 折也行。（他們蠻常打 7 折）
+
+【不管啦，我覺得看實體書比較爽】
+
+不，那不是爽度問題，那只是身為讀書人的自傲。施主，放下吧。
+
+#Kobo五折最後兩天囉
+http://bit.ly/2Iafe4T
+
+ #你們有去書展嗎","1570965552","https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2Iafe4T&h=AT2Sr_0kMLEQ1fzR0HdnEYIakMw2C3cf-HcDwpeCDKoTuP1sgoKlgPWVmw0-dyGdGwQHE8pf2dl6k4pME8onouBRjbkT_i95hwrHjl_o-14-iMDzHVHrz0YjWrcK2hfB6NYGJ_VFyuI-fG0FSM5Sgl0gxmqxQTwXCBCDtmD_R2IsSDpWFXSRGrrlyKi4QnI7vTfGIUDdr25d0iYA-GU6xVPmLcVpR_P67rCUut_OSfjEEH6xVZbZRhH13FsQEPaSbe8RPCVtRhoII3s413fBkoEEO3TnZkGsiGBav4VgWVUPBEzyzKcQ9n0BibaKlGrJ3j--9xEQLEDKR9jj4WbzKR-xywGKMGzPpfkeRhiGy9EgclgeR92X4f0hNpNqyhDgNao0s5CJSvMuU7K7RDTlgB9e4J_bqlSd2_pX00oD1SCeBnSRQ_BSzCvlFXcBHs6q9OxfEQqFYYWCANN-Ykr4msT9-94ofCQnt0ngqyPtrjQxrguXNS_UBusGrjNL5bakvrHonyG7dyPfhbEntukHRGyKnjDt-aL-yR7kQ_bH091LOJDO5r5l674p1FE7L-0DZtZmSqdYnzutTPnWZ3AWIMf79b7N8_2v8FatxdsbnIj2SZ3B3jpP0bU6wxmEfjIYWSbO-ltbsBEqC-zw","https://external-lga3-1.xx.fbcdn.net/safe_image.php?d=AQCnQsVmBYo9gFYE&w=160&h=160&url=https%3A%2F%2Fkbstatic1-a.akamaihd.net%2F1.0.0.5114%2F%2FImages%2Fcountry-flags%2Fsmall%2Ftaiwan.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher_square&_nc_hash=AQDpUSLAE3FK-Z0A","No photo description available.","""我餓我餓～"" Kobo豬到惹！2019國際書展 全站52折 結帳輸入KOBOXHUNGRY即享優惠，至2/17止 | Rakuten Kobo","""我餓我餓～"" Kobo豬到惹！2019國際書展 全站52折 結帳輸入KOBOXHUNGRY即享優惠，至2/17止""我餓我餓～"" Kobo豬到惹！2019國際書展 全站52折 結帳輸入KOBOXHUNGRY即享優惠，至2/17止""我餓我餓～"" Kobo豬到惹！2019國際書展 全站52折 結帳輸入KOB..."
+"https://www.facebook.com/statementdog/posts/1916273378423681","1528869138","更新：正式聲明出來了
+
+ 「因與特定IPO（首次公開發行股票）投資者結算美國存託股票（ADS）相關問題，決定暫緩紐約證券交易所上市計畫。」
+「在與多方協調的同時，M17集團認為繼續以非公開發行的模式運營公司，符合股東、員工和其他利害關係人當前的最佳利益。」
+
+ 更新連結：https://money.udn.com/money/story/5641/3196601
+
+ ---
+
+ 第一次看到這種情形@@
+
+ 以前有過類似事件嗎？","1570965552","https://l.facebook.com/l.php?u=https%3A%2F%2Fmoney.udn.com%2Fmoney%2Fstory%2F5612%2F3196134&h=AT1UkTQLOS9KynzXqFxUXK3dP1dG7hnZo47cS1wn6EbjQna81NTvtd4AP4NNy32JDVFVEfodtiVSkk6CX4FJwpHCvboXKSnCnMWGHMMUYB8kiPl-JL5Gt9m3cT8P0TNPhun7IckqnEs9C9ieqpd29np8VFDyiEFY0m04fV4gNqoa8URSxm69iPODKlkRc8-rNaJ4G45h6eCEEn1qgirr-mQX_UHsbuImR8UsDu4RgpTvy68NIZ8QqnUAKVlIKNykv3GTmq1Gxe4V4IJN6y8pb-X4s4BS6O911NS2sJu-0uzp0oYXu796DMzNeCmsylmhJhfTAHzdP4yunxam1g9a2B7cddSrZgk_SajYxAhnZVoaEahHuTdWbVdNIyOVTWO8dZJsRWEroTu2ewS9ZOmaOPvvdwlJ0cwz2gNNBgx94X_1wEtMb80_bz5F96DDb52uDNKwYyD322J6bMo6UB0GyY2vXRXRPPGS42-oOWLHbtaQpLM4kLy9Wk-F1B4uJwExG4NdjLEY1LtGpZBLhvamkQcnJiFMXqymh_rilL93WQwd8H00WwVHKWTTCe6aGMXj8rttK9KDOBtDPJ6oDVEbeqUPTWojm2NO21ebMLn6ELF78t7Ah3ih1GvEukaGQaA41h6vs6dEz1e3qSKo","https://external.fmaa1-2.fna.fbcdn.net/safe_image.php?d=AQB4N8M_N7xhE_pV&w=540&h=282&url=https%3A%2F%2Fpgw.udn.com.tw%2Fgw%2Fphoto.php%3Fu%3Dhttps%3A%2F%2Fuc.udn.com.tw%2Fphoto%2F2018%2F06%2F13%2F2%2F4865139.jpg%26x%3D0%26y%3D0%26sw%3D0%26sh%3D0%26sl%3DW%26fw%3D1050%26exp%3D3600&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQAJUpP0c7zAe6Wl","Image may contain: one or more people","經濟日報",""
+"https://www.facebook.com/statementdog/posts/2533545113363168","1563875628","【最好的商業模式，能讓 4 個成長關鍵極大化，兩個限制極小化】
+
+前陣子分享過《閃電擴張》這本書，出版社最近聯絡我們，很大方地說願意提供三本書送給大家。
+
+這邊分享我閱讀前兩章的重點摘要：
+
+---
+
+【什麼是閃電擴張】
+
+・網路速度化時代對企業而言最重要的影響，是所謂網路效應越來越重要。網路效應會產生正向回饋循環，讓受益於這些效應的第一個產品或服務，建立起堅不可摧的競爭優勢。
+
+・閃電擴張不僅是競爭策略，也是生存策略。你必須做個艱難抉擇：承擔因展開閃電擴張帶來的額外風險與不安定感，或者接受對手比你早閃電擴張，讓你陷入更大風險。
+
+・公司從事創新活動所產生的利潤，只有2.2 % 由顛覆者獲得。科技進步帶來的絕大多數利益由消費者受惠，不是由生產者獨得。
+
+・閃電擴張代表你會優先考慮速度，而非效率；你也不會等到確認犧牲效率是值得的才進行閃電擴張。
+
+・如果典型的新創公司成長，現在減緩下降速度的同時，試圖組裝飛機，那閃電擴張就是要以更快的速度組裝飛機，然後在造機翼時，就繫好安全帶，點燃噴射引擎。不成功便成仁，不管成敗都在短時間內發生。
+
+・儘管有以上這些潛在問題，閃電擴張仍是創業家與其他商業領導人的強大工具。當別人不願冒險，別人而你接受了閃電擴張的風險，你就能比別人更早採取行動。如果獲勝的獎賞夠大，競爭夠激烈，閃電擴張就是合理甚至是最佳策略。
+
+・創業家與投資人打造具競爭優勢公司的 3 大關鍵技巧：
+1. 商業模式創新
+2. 策略創新
+3. 管理創新
+
+・「為什麼要冒著失去一切的風險，把一個成長中的成功事業毀了？」原因在於，閃電擴張中的企業所投身的市場，往往是贏家多拿或贏家全拿。對成長中的企業而言，更大的風險是速度太慢，一旦對手搶先取得市場領導地位與率先規模化的優勢，你就別玩了。
+
+・閃電擴張往往需要投入巨額資本在傳統商業智慧下，被視為「浪費」的事情上，因此實行一套能支持這種積極支持的財務策略，是閃電擴張很關鍵的部分。
+
+---
+
+【商業模式創新】
+
+・如果你想要找出你的最佳商業模式，就應該試著設計一個新商模，能讓 4 個成長關鍵極大化，並讓兩個成長限制極小化
+
+極大化 4 個成長關鍵：
+1. 市場規模擴大快、精、準
+2. 兩訣竅拓展分銷管道：利用既有網路、病毒式傳播
+3. 建立高毛利的新商模：本書討論的領先企業，毛利率大多超過 60%、70%，甚至 80%。
+・對賣方來說，要賣掉低利潤產品，不見得比賣掉高利潤產品容易。因此，你的商業模式最好能賺到高毛利
+・潛在毛利與以實現毛利不同。在其他因素都相同下，投資人對擁有較高潛在毛利率公司的估值，幾乎總是遠高於將以實現毛利率最大化的公司
+4. 善用網路效應的驚人力量
+
+・市場規模、分銷管道與毛利是公司成長的重要因素，但要維持成長到足以建立高價值且能長久經營的企業，最關鍵的是網路效應。
+
+・利用網路效應的方法之一，
+是積極追求網路成長與用戶採用。網路效應的影響是超線性方式增加，如果規模太小，會產生負向的網路效應，讓人更不願加入。找到一個可以做的點，不顧一切打下灘頭堡。
+
+・公司無法改變產品的經濟面時（例如免費服務無法降價），可以轉為影響潛在用戶的期望。用戶會因為產品現在被採用的程度和預期未來被採用的程度決定服務的價值。如果他們認為其他人會加入使用，那這項服務對他們的感知價值就增加了，他們也更可能採用。
+
+・Google 之所以是 Google，而 Yahoo 卻以併入 Verizon，原因之一就是 Google 將主力放在
+AdWords（擁有強大網路效應的廣告市集），而 Yahoo 則企圖成為一家媒體公司（以規模經濟為基礎的傳統模式）
+
+極小化兩個成長限制：
+1. 缺乏產品與市場適配（Product-Market fit）
+2. 營運規模要能跟上擴張腳步
+
+---
+
+留言你最喜歡的摘要，就有機會獲得這本書喔。",1579107793,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/statementdog/posts/2457556900961990","1560235114","【鴻海加薪 7%，每股盈餘（EPS）會影響多少？】
+
+今天看到新聞提到「鴻海全體加薪，平均調幅 7%」，好奇這麼龐大一間公司，全部加薪 7%，會怎麼影響每股盈餘（EPS）呢？
+
+根據新聞資訊，有以下幾個重點：
+1. 2019 年 6 月正式生效
+2. 調薪適用範圍為鴻海精密工業股份公司
+3. 年資滿一年以上
+4. 員工個人調幅，依各單位績效和員工個人考績而定，平均調幅7%。
+https://udn.com/news/story/6656/3864610
+
+我們先簡單算一下，根據鴻海 2018 年個別報表的數據，一整年的薪資費用為 134.4 億，如果這邊全部加薪 7%，大約是增加 9.4 億。
+
+以 2019 年第一季在外流通股數 138.6 億計算，每股大約是 0.07 元。
+
+不過實際上今年的影響會更小，一來是 6 月生效，今年只有 7 個月會被影響。
+
+再來是年資要滿一年以上的員工才會被加薪，根據鴻海 2018 年年報資訊，整個鴻海集團平均年資是 3.77
+年。雖然不確定鴻海母公司的平均年資，不過大概可以推估年資低於一年的人數應該也不少，因此影響的 EPS 應該蠻有限。
+
+影響不大的另一個原因就是這次調薪只適用鴻海母公司的員工，如果是整個集團調薪，2018 年總薪資是 2793.5 億，這個加薪下去，影響就非常大了。",1579107802,"/statementdog/photos/a.209326032451766/2457541947630152/?type=3&eid=ARClPhuv3dSKQsUsDs4vfz4z4qAm1K9c2r7-Yf67AziTY41dWgs42lb6XqXRzMumzAlINudz9u7vGQGd&__xts__%5B0%5D=68.ARB2J41skV2j6AF760SslBoVsmWiC9CUmEFUEMUcpYVm4Ev3nnXUtJiw_eomY9K1cXaPLd76euhfo9HabOtkwEWsG6EiHaC3Kvs_bebjJ_8nB1fdHHIqlfDUSZ1j3giXutIbZrXHUm8cJxYbMMWuay3K368dhjZVj5YVXkGXfj33e27GvriptHzdPvanTHvHJ3b5NzeI0GA-81DAU2F-nR9Llet1_KhH5lgukuaab4ObO6q6uw2xLJP3ddiYbf7QWKSw9j1aVL44rfaGU6PwvEU7-1Ktj2D_-Ju_m1m3uFM08C4CFu5oxoOtvxaIwiIzkUTk8EOQRSIMcXOjB8iptIQs7A&__tn__=EHH-R","https://scontent.fkiv1-1.fna.fbcdn.net/v/t1.0-0/p370x247/62256875_2457541950963485_711205876517568512_o.png?_nc_cat=108&_nc_oc=AQnhL3zgOxJAYynFYf5iE0JwZjcDMm7USKTe-OrV6AZLyFCHBPYaMHd_OtPNrX9NCes&_nc_ht=scontent.fkiv1-1.fna&oh=5e078ad34e97826e03f94762bc213f56&oe=5EDBAC7D",undefined,"",""
+"https://www.facebook.com/statementdog/posts/2137954749588875","1542176573","#公司在中國投資比重排行榜 抽獎結束囉，剛剛也私訊給得獎者了。
+
+因為有朋友不清楚這些資料如何使用，我們也在網誌中增加了這部分的內容。
+
+．【對中國投資佔淨值比重】、【對中國投資佔總資產比重】這兩項數據，代表公司資產在中國的比重。一般來說，數據越高，產品有越高的比例是在中國製造。這種公司要特別注意營收來源有多少比率來自美國，這項數據可以在年報、研究報告或新聞中找到。來自美國的營收越高，越會受到貿易戰的影響。
+
+．【中國投資損益佔稅前淨利比】顯示公司的獲利有多少比例來自中國，這數字越高，中國地區的收益對公司影響就越大。這些公司就算不會直接受到貿易戰影響，也有可能因為中國的消費和成長力道趨緩，成長力不若以往。如果公司的評價上有很大一部分來自未來成長（本益比、股價淨值比很高），且產品是供應鏈零組件或非民生必需品，則要特別注意成長不如預期的可能。
+
+這次貿易戰對台廠的影響，是我們這幾個月投資關注的焦點，還沒看過這篇網誌的趕快留言「+1」索取連結。","1570965553","/statementdog/photos/a.209326032451766/2137948329589517/?type=3&eid=ARDcQ-s54B1zZP3DuCrDDTMAnsFMd7v5ecVF_3yf3E-7en1PrgvtJ5GfsehJV18aUJPh7mFbYAU-80G2&__xts__%5B0%5D=68.ARD7PtVIuBoK0CIgSCeqa7MXgt1FYQBWGXoFkIcBFy66nUuEQD7pFL7wfdXrOfaLmUb2c0GLb_uIuO-U4NbMjFGJoAfibE4xOX4A3o0y3EXhKbmUw5umy1CV02Dq2fhQTfPrLPlM5pw7dlcO7szSdyCm1IdxKQoHrwRGbua4g1zT6pxZItSUgcil3IqN9bTBvUjcB5R9e-gut9QO6KMyHG9LX2OAkqij3tTz_noaQtRFrLNva2Q_ksSS4r5nGdok-UMy5RFzgoA09YAztZhqW2Zr4pM6qVXKFFao5IKaN2nD_2___acb_Vj5ZFKK2csdhOZpTpXXC-L_9l6H_FpdyY0zQg&__tn__=EHH-R","https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-0/s526x296/46226832_2137948336256183_119747961704939520_n.jpg?_nc_cat=107&_nc_oc=AQljKnel6KiziYjkGAA9KmyUVPce21thZ_Zs57uL9ZidWp2SZDeZm0d7vSLCMtg2t1k&_nc_ht=scontent-sin6-1.xx&oh=cc870353a4482d1ce5f7946cff0915ec&oe=5E2CB006","undefined","",""
+"https://www.facebook.com/statementdog/posts/2325188990865449","1553235399","《原則》作者、橋水基金創辦人 Ray Dalio 的直播，談論他的新書《債務危機》
+
+偷偷跟大家說，這本書繁體中文也不久囉～
+
+https://wallstreetcn.com/newsrooms/1002914","1570965553","https://l.facebook.com/l.php?u=https%3A%2F%2Fwallstreetcn.com%2Fnewsrooms%2F1002914&h=AT353-uhvODSM5SsDS-iiA-28nB85CP4x5jcOPRlIdfPOuPaer30WJTPPs0TBzE2EMbKIOfc7pEjNDDuL7dhifnq0Pg6I28_3VCIa4bfYs-mZO48tOmKTNQmSCZNPb9gMKkg5QfHo1K0wItQ1czbQEX7whYTGLAe9R_UUaklqyNwTOueOKwpfP9pDSDI-icD3IWAQvVEXxbitkUkqykAwtTHKACT_Wwm-RG_17n8NSGrfTxVOHqE9SqbM-CAA6sl3V0Fk3fzw-oDWaPYY3mOv2ro1fZiVnRYadB47Xt9DelkPhYFkCdEo6ccM-R3qv2k27gxXU7nJrHyrDXzIrgX33Ehf_ZL4OmbdCfXu8O2EhYW0A4fC8ab5YUKMyg7_UJCDsxbDD4SlsMzupBIm2STc74WFkbvIglo3CaGgnCJc_Gs1XdflCh4V9DxtNmskfetnX_nYW2bfCQyNBa6poF2TPYxUInvGR_aW8bGAty79waWba7k5T4RnZtNVJAXPHmSXMLCrgEWozpbEyianpSDy3gBka5l_URZB9IGx5XL25hFIgYViyOLVlsKp_RW5gg_uY1gTepwN-5O4mzCWF8-aMLc7Y6AXG39ODGR2bUCw1ZfLox4KLMXZIyOl1MbF7jmBCDmdqtwdqGu4-WSPlHYsvg","https://external.fcgk13-1.fna.fbcdn.net/safe_image.php?d=AQD5nGw_n0YsMgeP&w=160&h=160&url=https%3A%2F%2Fstatic-alpha.wallstreetcn.com%2Fivanka-pc-prod%2Fe0a7e42888752150ae6a9396b84d71df.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher_square&_nc_hash=AQDdWU3s1wZur5A2","Nenhuma descrição de foto disponível.","【直播现场】达利欧如何应对债务危机","全球最大对冲基金桥水基金（Bridgewater）创始人瑞·达利欧（Ray Dalio），携《债务危机》中文版【点击了解】与中国投资者分享他独创的一套危机模型及应对原则。 作为授权直播的独家财经资讯平台，华尔街见闻届时将为您实时...."
+"https://www.facebook.com/statementdog/posts/2191132100937806","1545484320","#尋求大家的協助啦
+今年我們在個股的最新動態選項中，加入了不少數據，方便投資人快速了解公司概況。為了進一步優化，想請教大家：當你平常查看個股的最新動態選項時，下面的項目根據你查看的頻率由高到低排列，你會如何排列呢？
+
+【1】
+最新籌碼動態：各個券商分點對公司最新買賣超統計
+
+ 【2】
+投資亮點與風險：根據最新股價與財務表現，列出公司值得關注的數據亮點和風險
+
+ 【3】
+公司最新月營收與股價走勢圖
+
+ 【4】
+公司重要指標的最新數據，包含：本益比 / 股價淨值比 / 殖利率 / EPS / ROE / 月營收YOY
+
+ 【5】
+公司產業與營業項目簡介
+
+ 【6】
+公司近期新聞和公告
+
+再請大家將你的排序留言在下方，留言範例如下：
+321456
+
+ 你的意見對於我們優化功能會有很大的幫助喔，在此先感謝大家的協助喔~~","1570965553","/statementdog/photos/a.209326032451766/2191131824271167/?type=3&eid=ARA-aqjiSvlBV9EZVMlRpSmp1T6xl_SWPZij-zV5dnaX79y4bCsyuFqj0GpmYBXcKapyuzsCQmNhfWAX&__xts__%5B0%5D=68.ARBBX-Lr63KDPoMLx7dn1S7TJfMXF9fDsSOyZFLlKlSfkM7Q_00QbysmTo526hytECdjdGiZmNglwNkkSlt4ydWs_-LNgjYcWtJ76XJscFxLqbD08nKjdFsUihHwkN7FoeadA5oNqtTYqAyaibO9jygUoJFvnqqdo2W3RNKwfsP7vyOwzR8dPS9MQ3NbyXWyXHmK6FlZDwqJpA_zJZ7y1HNccXQsCnQBH5hj4F5GZLtrhwy59q6udk0kKK3GbmjecUnDjz-Il2E5TSC430MaDaz7ZeeRdyGXRwZ93mtpQy2R03pIOXCyONhLalBuhc--4V0OpfuOjrrNk1WiphkcFsl8Yg&__tn__=EHH-R","https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-0/p526x296/48392251_2191131830937833_8288560430511554560_n.jpg?_nc_cat=102&_nc_oc=AQmM1mffb_Mnmkd2_bmoWdMSb3uQj00cKcbZzysic2V0PWr3NxWqfg4-cr8prSdfUx8&_nc_ht=scontent.fcgk6-1.fna&oh=5b430d1bd903a829afdded403d021c71&oe=5E2999E4","undefined","",""
+"https://www.facebook.com/statementdog/posts/1844653785585641","1522667423","哈哈哈，左腳孟格、右腳巴菲特。
+
+ 這是 BROOKS 巴菲特限量紀念款鞋。台灣是美國以外唯一開賣的市場。
+
+ 一雙 4590 不是很便宜，我猜股東會上應該會賣比較便宜。
+
+ 有人對這雙鞋有興趣嗎？","1570965553","/statementdog/photos/a.209326032451766/1844651802252506/?type=3&eid=ARBM36xF7Sjn7W-4bG97DjoQC8IAeYMmGNskoayMcY4uuEKagQp6f_K2-oK1RqwO-8G9ebrBOy9mIz2E&__xts__%5B0%5D=68.ARAUxSE_W7LcYbgiMuI-2M2wmU7CoNI9rim-uzcToxPbis7DGxUjO8Ese7C-5Xx8FpBVYco7bhLIxrH8P_Y70aw7HCvS42MOQU54bZcSmd2DhZgIfWGFuEjP2M__q2QhW2RlX5Ic295vKTlTjEDzXSDLRt4wckJUkGgTkHhdyTAlTtaA-HS3KEQLDyICGAWzlXtoasD5VObvVN7rXNfGUvtETR0tSD1oPiNL45Sv4m9AYNP2V_VjMg3VmANHkz0vnJH1Uz3qbR_nV1iBqBOLZwQQ2dKja-DGmXs7FQlbya62Ux-6JPgtoNlabiVm94Uzi6nIydNXwvL25UwR0mDV7UMmvg&__tn__=EHH-R","https://scontent.faep9-2.fna.fbcdn.net/v/t1.0-0/p526x296/29595292_1844651802252506_2700546668748061446_n.jpg?_nc_cat=107&_nc_oc=AQlwoifC13tgkf_IDRuGSxQC47hVGDNUO8PqbOPXVNcB3QwWtLWh-JK9hJoMijWTPeI&_nc_ht=scontent.faep9-2.fna&oh=dc55eb5bab6668139254a25d5e7837d3&oe=5E19BD06","undefined","",""
+"https://www.facebook.com/statementdog/posts/2216795435038139","1546954786","""大家也可以想想看，一個經營層持股這麼低，經營績效這麼差，可是卻可以永遠執政，這種和非洲一些獨裁者差不多的情況，是不是也代表著台灣的公司制度出了什麼問題? ""","1570965553","https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.rusrule.com%2F2019%2F01%2Fblog-post.html&h=AT1pJKLzHgbiciv0WblV6ahhKZ_dPqcJhihJX-WGSTJtB3DsH6nlq-NINMf8jzK14ef4rML4Q8lPCjc2zzeYLMLVolcoKs-gNXEnJHE3XmlnQkRd9zUR1oasGei6vvnLVAnD-npE4Z-184edtqpsHF_Uwc3hX-bnxWYSZcAjIR1FDkyCHEy0juBOGNfPIbkKW-2jAkZv8gKDlx0J_ppRYpSb4Cp5KCGqmKvfnVRQNseKdnUDekr-7HmkMI3wrrh05O08qU_PgnutnKmEyO4gwUCjpJxC4zOhT7VNIyet_lqo1inm_o9a3O3KXgI2fKF3xrKdKNzu8h243dCGTcFVlhm7w6YgH7dvdXOZ3wt1Mhmq83AQsFSIalbtmIY_hgIFz7UyBWWiB9HVzmqEiK3TL74ZzZqU00LtomtrdSSpknf9_INjdzXAdDos5uP7zerRgAJTZBe8nSXoLWFiBTbycVOCzavG1S1GAuZFKEWOsRo1oaJEh8zFtv5mpncN5TInt32pva5xxWzBDqJodsipdb1e8ffeKM3g-57SuuhNXnIB0mK3PgACI3SSeOCl6UCkHYeDOOxZ7ng5JBtsVbfgRDBq09skwFDNbHF97cLSNTCjtDP2rexHcbgwphmfKc9G0TRDU0eHiRtAS_LZ","https://external-ort2-1.xx.fbcdn.net/safe_image.php?d=AQBg7yAGAEiJUsFX&w=540&h=282&url=https%3A%2F%2F2.bp.blogspot.com%2F-kldZ1APmovA%2FXDD61li6PhI%2FAAAAAAAACMo%2FZh8-nA_KSoIq-X77Sy-5CGjEjuM4VJWRQCLcBGAs%2Fw1200-h630-p-k-no-nu%2F%2525E6%2525AC%2525A3%2525E5%252590%25258C%2525E8%2525A8%252598%2525E8%252580%252585%2525E6%25259C%252583.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQAfj9Exkgsoub5p","Image may contain: one or more people","談大同事件","談大同事件 我一直在想我的 2019 第一篇該寫什麼 ? 基於近期一些讀者詢問和台灣媒體鋪天捲地報導，所以我決定 ….” 就是你了 皮卡丘 !”, 嗯 , 我是說大同啦 ! 大同是在公 1 和公 2 二本書裡都提過的公司，..."
+"https://www.facebook.com/statementdog/posts/2318079314909750","1552815308","每年五、六月是上市櫃公司發放現金股利的旺季，殖利率題材就會被拿出來炒做。但高殖利率也是有不少陷阱，可細分為以下三類：
+1. 飛來橫財
+2. 吃老本
+3. 榮景不在","1570965553","https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F5969&h=AT2Sgi0pRVSzG2NPYMwSo-ACbSmU8l7BfgDLJlqF1kFz1OyBky8gtuXQZpbBCbPc3w7TLXRw_7PQlGkmcPzeTJcWkUJnpURponh1bhkEj9Wb0I_CxQo4ForU8mm3oWjOPABkFb2dXTxarcZVOCR2qYdiBnHlspZRtl4ZdV7OSdT9_ApPbes0_sZeLWziglZtlK54tzBLhpsKB48uw6kCDq0GfJxQIuxYH_5e7gSM7_gQBhPCA9eq99VdMOXO3dwMY9i4kbnmlEqdHrqa-6ACI3j8gcg_qa8xF1sbO7kKLV88zvsPXEvhhiKnjeQfO7ovOD30HObVqBBwgE85r0uXz7xs4YNpETymW9AWLcXtIZqOWqRc50dUGShEB1dglN7-H9Yoj5diVF5srGA4AVGGy1H2EAVVugoNY7oQt7JcLu7j5B9qIzfQ1SVqC__OBPMOHUOvE2EaX5m6ZiBf7m3e32DOgnFN8vJcACpfzeVsUYZFW2Hpn2ctnR3XUGZgb8tULTatkytftwSBzJhj08XfuPplaKtrpL5WvqOf7h8K9JoaQmVhjNtoK6MHWJXArjVCOg4EHZbnSPfb6yZwepuAYL2EhKTSSnsrkYXsCSvz3JYq0mmw6VATCkfpEpUWv2m0oZD8TXswSP-VgjdG","https://external.faep9-1.fna.fbcdn.net/safe_image.php?d=AQCQRi6NnVByIyCg&w=540&h=282&url=http%3A%2F%2Fblog.statementdog.com%2Fblog%2Fwp-content%2Fuploads%2F2013%2F06%2F8114_d.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQDjOXt0TzN8AfYv","No photo description available.","[智富專欄] 小心高殖利率陷阱","在買進高殖利率的股票之前，千萬要確認公司的高額現金股利是來自於公司穩定的獲利能力，而不是來自於一次性獲利或是資本公積。此外，就算公司過去獲利穩定，也要確認公司是否具有長期競爭優勢，否則高殖利率的榮景將..."
+"https://www.facebook.com/statementdog/posts/2103743193010031","1540115173","這裡有朋友在繳國民年金的嗎...?
+
+ 
+""若調升0.5％保費，從現行8.5%變9%，扣除政府完全補助的低收入戶與重度身障15萬人，預估約有300萬人每個月多繳27至55元不等。衛福部表示，會再研議再決定是否調漲，最晚將在12月下旬公佈。""","1570965553","https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.taiwanhot.net%2F%3Fp%3D642470&h=AT0_ZgG5dhlZCe8CvBgCLeEQ4KZ-yQvPtFma9nn2eSoF7a5QbSs7KYAhjb2Q4dlBZatElMs37H0UzR5fFXW0ZX6Sx1XKFySwEKx4Bu__LDSdvzq2odR_Qql1gn4GBFRrouOSIZp-NWkXZnJ9XcEKjyKfO9GFgz6Oy3cztzTlQjBmd8GqB8_IbESAneIyOXMzXyx4i4xKpvEZ-jolYZl9cceVtwgCl8caRUOKmo_ISg5ToxPFxxBoZujHWnVAGtLHc__oXtoDGvCmMLCLdnzrxmIioXVmxfovoLMiNeTaZejl35eVLwQkAc2TaGo3kF86Eox2H322zEY9SVcASUxOjMVhJqM0HuUpw4Tergxs_9GfTDNgBuyz7ywvTSOt_XwnRbkr-hpx88MttjT1Pk-ihcoGtfQb4BeFuXZU_XJIV6-5Kf2IDf92yrExf2xeViK-JuTO7tN6RSGG9vJlrTn5WiVpcfwdq7iREBMzCIYleczEY4Dz7txvs1RdSp6sswd4W7gasEaj7vRIbigpmNdN_BwezcOQK59f-OlU9z4YP7iW038Qd0o_eIqBXRD8MRvJeBaQoYlvTXFASa8QFFV6C5WytBWMswcXVxSwWnaDaWRTrjqbGhZ_zSff14C6xdCsdl_mmUP67x3DQW00","https://external.fhan2-1.fna.fbcdn.net/safe_image.php?d=AQDfGbxGQDN4SfVj&w=540&h=282&url=http%3A%2F%2Fwww.taiwanhot.net%2Fwp-content%2Fuploads%2F2018%2F10%2F5bc5b673e0b5b-677x450.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCPD0QxMviFOeEG","Không có mô tả ảnh.","國民年金潛藏負債破兆　300多萬人保費恐漲 | 台灣好新聞 TaiwanHot.net","（圖／PIXABAY） 在台灣失業民眾還要被政府催繳國民年金，但有許多人「一毛都沒繳過」。根據衛福部最新精算報告指出，截至9月底為止，國民年金潛藏負債總計1兆943億元。衛福部今天表示，內部會研究評估，最晚將在12月下旬..."
+"https://www.facebook.com/statementdog/posts/2267304916653857","1549940880","全站 52 折 太強了吧！
+
+我們辦公室人手一台電子閱讀器，我也逐漸以電子書為閱讀的主力。現在手上這台電子閱讀器是我的第四台 😂
+
+2/12~2/17，在 kobo 網站輸入代碼 KOBOXHUNGRY 就可以享電子書 52 折優惠。
+http://bit.ly/2Iafe4
+
+你們打算買什麼呢？
+
+附帶一提， 阿堯投資筆記 這兩篇雪球閱讀筆記我覺得很不錯。
+
+第一篇講 5 個點：
+http://joey980161.pixnet.net/…/403737830-%E4%BA%8C%E8%AE%80…
+1.從個別公司拼出總經概況 & 2016股東會問答
+2.成功是因為專注
+3.成功之後很多事真的沒關係了？
+4.傳奇旅程開始之前巴菲特到底多有錢？
+5.傳奇旅程開始之前巴菲特有多了解價值投資？
+
+第二篇講 8 個點：
+http://joey980161.pixnet.net/blog/post/403742252…
+1.藐視權威
+2.第一次貸款
+3.有問必答的老師
+4.可可豆套利交易的後續
+5.要看到多細？
+6.Case Study
+7.能看到還沒發生的風險
+8.把握機會要靠持續學習
+
+雖然很多人覺得雪球在投資上著墨不深，但我覺得用功的投資人卻可以從裡面蛛絲馬跡學到很多小技巧。
+
+這本書 kobo 也有，所以這幾天也可以用 52 折買到喔。
+http://bit.ly/2Iafe4","1570965553","https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.inside.com.tw%2Farticle%2F15545-kobo-discount&h=AT17iPw8miSuSEV5vPcjWy53ydOqWXUw7n5HbKBEq75hxsB8UVdrzpBxu0FLOvrnZsEjiZbkJ9u9qJMQpeZ-7lSQTeo8qmVEiJKUPxPdd66UvGdKNToYIHg4PvRxBRC2-DF7Ri2GWyR2D6hCRlGY2-Ok8gREjhVz8ylyiSmz93tBNgPb3y1VypvC_qg6UrVEGp0Z9oino52XvE3dLrfGnq1SDgqIL-XJkoolUyW7IEmmEXZxnDGO8LTIcZJ7ffHusDMDtusYOVt_jyHmNo12kY27hEXyv4dDGucwlzfI3weYoEhtI5MeWhpBHNp0rU9sVlGEIf2SVv8UovMAeAPOEwf9eKuykC6oYcbhv1m3YAjLBbcx_Y-JWf-_hrwCfXTT27xUu4Ta9FD3BssG3Z_o2s3EKUtG10p_Ws0fc2AdjkE9r3sqN4I2DnDoeleLItrFF1Ln_wSmOUaPK-KBFbaJ6v80H8Ga50NY19eGeK4fsvzYXTn1cSEjXw_gZR1wS9f7K1OtC57CooHBahOozx-9yhyys73npdCgiXuVFvTh9R2ZcUBgKSQEAradEhMn3AYUNrbLDRq3lAHzspKToKsPVYw2O_6E_yA11wI7q4nmVZjmcWv8klT7EjIE1DF28mHvmrGaScJXJpm3bfpW","https://external.fcen2-1.fna.fbcdn.net/safe_image.php?d=AQA9ilPOuA9980Gq&w=540&h=282&url=https%3A%2F%2Finside-assets1.inside.com.tw%2F2019%2F2%2Fz1vcr403z60whd9xp9q8cd25pbnmv7.png%3Fauto%3Dcompress%26fit%3Dmax%26w%3D730&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQDV2vwNAivuXLtQ","Image may contain: text","國際書展Kobo全站52折，整套買省上千元 - INSIDE","樂天Kobo電子書推出線上國際書展，超過600萬本的中、外文電子書、雜誌，通通適用全站52折超殺優惠，限時六天。 標籤: Kobo, 書展"
+"https://www.facebook.com/statementdog/posts/2076184149099269","1538281551","伊隆馬斯克跟 SEC 和解，三年內不擔任董事長，但還是可以持續擔任執行長。另外特斯拉跟馬斯克各罰 2000 萬美金。
+
+ 這是一條值 4000 萬美金的推特⋯","1570965553","https://www.facebook.com/cyberbuzz/?ref=nf&hc_ref=ARTUBGleurxeF22zHXXoRRPhMmQY5I-9caMziPhxtz7KaoZdPUWdiR32l-wzkXRlfh0&__xts__%5B0%5D=68.ARCjh6O9ARfW2n-45IS0CGCinb9ekdPr5HQIRgqAOiSaUnKwbqI8R-N21AW_JCGV0xtZFzpmo2v4zEe_6_7rmfq3jEsov0XvI96gHZkLU9iKyEReVg1VYPF-iytfKo4s9Gqyq9KOY8SRLqIBHNOJya1Hvg2WFeqDY0650Dop-TqQw1YLDIwj7P87VOPsJ-2lJPinyfQBwSfAs4ex7J0ej19ZOmGEAf-GR9Yt66J1ax7GKigoB37e_LZSboxjn8pUArr7nG5CB2sBoitAw5FHsijaZe13sdYtw7-DKG-Qr9AHi4WfV436JHF7LQQCnTeLJo6wyfK1gtX_KSczwiHd9ovcdCv7wnxfY9075GVAtyew2taMMeN8vGBhK1J54IN2vxqybsPrnKdAhbISEkmHvZaUlMju88HpSAxQ6uC90QtJcGzOEBEOY1VDQBEo8NPXtKLZyLlXLa5--uC97FpJAOUwell21BjXPS2sQBpjUTxWSGCXNYjoW4o&__tn__=%3CH-R","https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-1/p32x32/29694739_10155189245701566_3250240183725932723_n.png?_nc_cat=1&_nc_oc=AQn2X6ulUkgMHGmj3WOoUJsqGN3gWGw3Une-Gaja5RLeSYtQI7I4zt9yZM_TMonO8-fHgh-4BahaPnaoDjcJsVG5&_nc_ht=scontent-frx5-1.xx&oh=4b048938be4f961018a111298ea2c35b&oe=5E2D6D74","Inside 硬塞的網路趨勢觀察","Inside 硬塞的網路趨勢觀察",""
+"https://www.facebook.com/statementdog/posts/2495013473882999","1561987157","#財報狗近期新功能彙整
+在第二季財報狗網站又多了不少功能，還沒使用過的朋友快來使用
+
+ 1. 個股新增除息日、除權日、現金股利發放日、填息花費天數數據
+https://bit.ly/2V03Gq3
+
+ 2. 現金殖利率、除權息日期、填息機率、填息天數排行榜
+https://bit.ly/2UANtn2
+
+ 3. 台股大盤與類股表現總覽
+https://bit.ly/2PiOKhk
+
+ 4. 台股 33 個產業鏈上下游資訊彙整
+https://bit.ly/2RjHfaV",1579107795,"/statementdog/photos/a.209326032451766/2495012737216406/?type=3&eid=ARAbDl2cRlZaAN7A_otPP0IqU5nctQDuHyYtsXITcEjo-RIjBtz4Hk9dlWjYn4ypdwjnYghH-j3PZ6Vj&__xts__%5B0%5D=68.ARDS88nzDG-bzOo8KowIHXUFpUqnQS35izSCnaM-ZLW3ecHiHJoGDnAz2VZF_4V5LMalrovfAwg_5NpWM7ZfdiDcQSfvEhLoxg-8E28JONRxBbFtBq_7S7IJapkivep8HSwMUG8oXi_1jGHdNViznUi-VR8dex2QfzCh1A25x2lskducv7N_zfSV3XCsvUf5gD0bykzr5SP8MDUMCs86VRJHgOrnaj3wgzSo3vG0oR-48iRSozwVRx04gatF_k_rtgRSvBAuhTis-jCyIbYbZnC0htcye4bB9QCSk3uUH139paZlAyW3TL_lW3AQbWWOX2K-S693_zqOMfgzuz1-2p8Fiw&__tn__=EHH-R","https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-0/s526x296/66077987_2495012740549739_3081211286202089472_o.jpg?_nc_cat=107&_nc_ohc=LYL9AhWW02wAX-7Xcx3&_nc_ht=scontent-lga3-1.xx&_nc_tp=1002&oh=08b013396d725266e278f939f6b61949&oe=5E92015F",undefined,"",""
+"https://www.facebook.com/statementdog/posts/2066945146689836","1537619421","這本書英文版出版時我有推薦過一次，現在中文版出囉。
+
+我很早就在追蹤伊莉莎白・霍姆斯以及她的公司 Theranos。當時只要提到矽谷最有潛力改變世界的公司，一定會有
+Theranos。這間公司希望讓每個人都能夠在家自己很簡單的做血液檢測，被視為是人類醫療技術的一大突破，讓血液檢測普及化，幫助更多財務吃緊的人。
+
+創辦人被稱為下一個賈伯斯，董事會有史丹佛明星老師、美國前國務卿、前國防部長、海軍上將、參議院多數黨領袖，客戶包括美國最大連鎖藥局、最大連鎖超市之一。你很難想像這樣的公司，竟然是一場騙局。
+
+在讀的過程中，除了遺憾，有一個疑問重複出現在腦中。
+
+「這麼扯的事情到底是怎麼發生的？」
+
+沒有人看過機器的製造，也不知道機器的原理，卻願意投大把金錢、替它背書，甚至跟自己的親人決裂。
+
+除了伊莉莎白・霍姆斯本身的魅力，這跟《影響力》提到的兩個原則有關。
+
+第一個是社會保證原則。當這麼多知名人士替他背書，客戶還有最大連鎖藥局和軍方，他們一定都已經確認過沒問題了。在這樣的想法下，自然就不會太去追究自己也不懂的技術細節。
+
+第二個則是約定一致。當我一開始小小認同你，之後為了讓我有一致性，未來也會繼續認同你。連鎖超市喜互惠的執行長博德在被董事會趕下台時，都還是認為選擇跟
+Theranos 合作是正確的選擇，儘管對方已經延期了好幾年。","1570965554","/statementdog/photos/pcb.2066945146689836/2066944763356541/?type=3&__tn__=HH-R&eid=ARB4MD1SZyR-BtOpCYJEr89MG1xZ4wTnJj41NWqe2H4dWpBHiQ2fgMZEeob5g1WY5fbVqsSZECKGdwdl&__xts__%5B0%5D=68.ARA6FLrXtidXZt8_D1ZszmiO578gSk82p9496ZJ7SKgLWUNdDmMY_6KE7kzQEIYNFYhXCFb-E8Je1GDTKxa5RfgpwYci1IZ88JTQOX50P5fIvWXNa7IB88fyD8HWgWzWKEkphlx6ERn33V3H5a5rHPnZMHOWDnVRZmZjghoSMZpORYaOI5RVhnia6wUch2L54hwvdOTvty-a_oegqGXb8sc1mVrGN-RL24wQlFiLiyyUBWuABL-snh1G2KyJrdQm--7vZXA-pypmLZfR1j0JOkva3CXPu1MqImwzxaokIyFTiBe2G8LIu1Tb1fwLpuiymL9DPFEYnCOC57aeb9QLTTCnVg","https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-0/p403x403/42405834_2066944770023207_5818998516424376320_n.jpg?_nc_cat=103&_nc_oc=AQnCnQYalfzLRlyyiFANJ6wojHeDLyUXaOoqqAWWq5oIT6eOt9WSr4LMAnRv0JYPlpo&_nc_ht=scontent-bru2-1.xx&oh=e24e4e38871b3e36b59e9090b1eb9582&oe=5E2C7953","undefined","",""
+"https://www.facebook.com/statementdog/posts/1855826437801709","1523595628","#留言送書 #應該是今年必看書之一
+
+ 明天 4/14 是我們網站工程師 Chris 大大的生日，出版社趕在生日前送來一箱《原則》祝福。
+
+雖然他人還沒來公司，不過我同樣的內容，他不需要 20 幾本吧。（嗯...應該吧😅）
+
+底下留言給北屯彭于晏 Chris 的生日祝福，說一說他好帥，程式界的王者之類的讚美。到明天晚上他過完生日截止，我抽出 2 位朋友送這本書。
+
+我這兩天再拍一個影片分享我看完這本書後的【投資收穫】，到時候再送第二批 😉
+（嗯...一本教你怎麼成長的書，我也能有投資上的收穫，不簡單啊不簡單）","1570965554","/watch/?ref=external&v=1855817894469230&__xts__%5B0%5D=68.ARCK0JbSmzBNldH2T07lp8diK8ahp8uk8RYpsQAAyM30sUR2CcvS324t1BqVb3b4SJ907osSEsZz0F7mVQDdDsUPWxXmePD8gvCDHonyaQ_3LKbeBF6jabhH0AlQRwokG4ocxGeHSqMkZNAOdYtzBr-Hbq6fmPwBAeXF4A2AbPflaosZxBYii7XxfQzttn513jKNLEU0xgWsJz4oUjEkUNcjrFOC7KeyiM-9QtQzWwd9KG4NGdrIe5mVX_8y_7aUD3WLCpc3G926Nt_EI9rdY-72unH3yV-sbS1M5JnueWnQYofyYh1bdi-8SEqTSE0CZfUMKHa1BO_Y6U90IB4nxe0FijUYNSxUTsDP_g&__tn__=kFFHHH-R","https://scontent-lga3-1.xx.fbcdn.net/v/t15.5256-10/28757822_1855828184468201_583371247308505088_n.jpg?_nc_cat=108&_nc_oc=AQmNByPZe4bqMOfv9fBxq3s7SsbrfDDDnyHMQf7IN_NIgE5jXy2k1QeoZKHANG2dAms&_nc_ht=scontent-lga3-1.xx&oh=d572efa432411859eff429cd4151c0dd&oe=5E21497A","undefined","你知道 4/14 是什麼日子嗎？","Posted by 財報狗"
+"https://www.facebook.com/statementdog/posts/2220805884637094","1547200316","在已經寡佔的產業，較常看到的是聯合漲價，像去年這樣業者帶頭變相聯合降價，而且不是政府主動要求的情況，還真的蠻少見...
+
+ 中華電營收近況：https://bit.ly/2FruabG
+台灣大營收近況：https://bit.ly/2STtkZu
+遠傳月營收近況：https://bit.ly/2Fn2jdI
+
+ #長輩們搶成一團","1570965554","https://l.facebook.com/l.php?u=https%3A%2F%2Fudn.com%2Fnews%2Fstory%2F7240%2F3586847&h=AT0s-HqsLnSVylwG1rPi1r2jNT4eB1tBYF-Ekk0Y3VEOzDvl2jkmo1TRd_eoHggs2li6Os5jSKc-ZpEF9KB_f6Ie6RucmSLPen3hjC7cj06vaP2xrcqi4uWvXdomm4A38QEeHh6yRX_i3WtImMADjwRgfDwV-qApG8rrTQULc1GFpo9xMQoy8l0xo12Z4tJbV9ZWpRgiquJf6r2fVCwx54fi3O8ZeR14IXa4eSMb5N6jYu5MwZyishtd5WAzUxE0okrxtJI1BwqMwoNUhTPOWXET6saPynaO87ZBdp5Zljd1R4jJ9sBn2jlvQdY33p50awG__n9sHyhQ_8s_60QCNVy0OtzKw9wE0lXlgnRvqPrbz4EXwKyNwlRW4Ct-zC58t2VSnxm-ySbW9nVgCJVvrHKG6JlUoootJSNRqoU_kTw42VyZwrdlpMD9yrFTwVHzonLyHGWJEJTp84UMoV7ZjwWHkOQAg2kPOdFrSHtgY8J3etw9j4PcYQazisD04pat6CreCNhLfGHBTCsUsg437DT-Vx3Gu2rD-NPGX3pX73mM7y8yZyJz3IhEyoMVg5X5W4V-GQt_WCk92XF4ONB_jCmwZnJmR0gF0Efwvdn9O-gRRbJsKJEY_e9IAR95fDPhVRHrilr48rxSgVmr50MHw2kPKriBFYhv","https://external-cdg2-1.xx.fbcdn.net/safe_image.php?d=AQA65snHnN7BvRoX&w=540&h=282&url=https%3A%2F%2Fpgw.udn.com.tw%2Fgw%2Fphoto.php%3Fu%3Dhttps%3A%2F%2Fuc.udn.com.tw%2Fphoto%2F2018%2F06%2F23%2F1%2F4905854.jpg%26x%3D0%26y%3D0%26sw%3D0%26sh%3D0%26exp%3D3600&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQAbt_L5Qqkps1YX","電信三雄5月推出499吃到飽引爆申辦熱潮，美系外資擔憂客戶價值恐減少27%，一口...","499之亂 電信三雄獲利年減60億 | 聯合新聞網","電信三雄公布2018年自結營運表現，台灣大以每股純益5.01元，連續七年拿下電信每股獲利王，也是唯一財測超標。中華電信每股純益4.58元，遠傳2.88元。過去電信三雄財測年年超標，中華電信去年受499元資費戰影響，遠傳還有認....."
+"https://www.facebook.com/statementdog/posts/2400574379993576","1557399641","霍華馬克斯的影片出爐了，商周還很用心的把投影片翻譯成中文（當天是英文）
+
+推薦大家可以安裝 Chrome 瀏覽器的外掛 Video Speed Controller，開 1.5 倍速一下就聽完囉。",1579107802,"/watch/?ref=external&v=1252222174940634&__xts__%5B0%5D=68.ARARDeSXyKzV2yBeWZt9aG059FGZWbScShIaLnKFHCISgan5y5IOnLnV-Dd9SWbmT3QjhQIexCKJWLQ1TZtGMYgqJmES429LP7o0YEUKyznaxZ3Zorszztlj_kg9i9Xuv5dwu_JNmlpRsab8UVLErZ2nwB1WyW5gT0cRLgHfFLopc36TViMVyLTozwlbOBhOu5rhe2sXH-v-yvhp56guljSvB2WY3MSYp9ymQD5US46Qi0SdbddVmasZHIlKtGZhvcGnNIQHBZUVaLQeWgISpTROGoXxyZdTULDscHs1ILkhLV79Vp49xiKwxMKTd__pMZXtmsTq9jx0-3Rl79eRoRYTLNWsmTqRLMdXRnu9aCDsUSoAvzGp0Nr_rEz2uY6DJIE09Pp8wb2gOlTu6evmCch1MWYpKeBdNKUSdumxyhpbYBs8_fAPERJ3WHzMmRujk9HLQHAIOZV8g6vNUgJ4XzDQ6fNMlBl_81bEy7U5Opl1M-22HaB11NTEGhHgqh-g&__tn__=kFFHHH-R","https://scontent.fvvc2-1.fna.fbcdn.net/v/t15.5256-10/59745162_1252237484939103_3469035386943045632_n.jpg?_nc_cat=110&_nc_ohc=wzNWbb0tapgAX9baGAY&_nc_ht=scontent.fvvc2-1.fna&oh=5967756804b83fb27d67367e6612c9df&oe=5E9B536D",undefined,"【首播】華爾街投資大師 霍華‧馬克斯《掌握市場週期》新書演講","Posted by 商業周刊（商周.com）"
+"https://www.facebook.com/statementdog/posts/2139322309452119","1542256008","大家有看美劇 Billions（金融戰爭）嗎？
+
+ 劇中的主角，對沖基金經理人 Bobby Axelrod 原型就是這位 Steve Cohen。","1570965554","/bbwhk/photos/a.219834401496882/1187870434693269/?type=3&eid=ARA8p-NqofazdBeg-GTWH20dVohtqEwiAq2-DHngM5ZziFyYdK0-lLsYLEdc7JsoS1P_Iiq5LYBFiOTm&__xts__%5B0%5D=68.ARDbbnxxEMB1RY3Wae5Y7yQ7vLOcIrm3pp8Aq277_tZAuYzfRDsiT1XQ0lI9oEA9nQUqsri7wUjfZoMH17jqLTtzso3tAbHwvZkAtIe-c8HPDp9WLvFCHmuGUjR2HlXTUI7ptzNq9bASNV57CCLo7TOBuRDqfHhoRwr6ECzwtZcxQ1RmGJN-PgzyWhIxyCt_XK267NrgRL65MD-Mev8IIGeI5xpne9Kbzsi-1A-q72w2zidVeSgb43ccniliIvOP87UoYm-wJQFmxBYxApmRwz9r1QRGbHG4TmPQAVaHxP_rfQLpjXW4KABy45_JjZyU34hLieeecBdR2ti2u2s0Eo4STRkR0ybrk3vC8n8wSx89HASsEDMupAF1RDTGsBhwvKi13PfYN0Ull9-vmzJF-SxEvAqsNWPQQu-IersDIMKER9RL3v6VFx8CUak-izLQMUs6LPFXq_eWWTOxMM4ZD8d4eR2vDDq9H-ytcjzEeJ2KcLCb1C0jxUSm&__tn__=EHH-R","https://scontent.frix7-1.fna.fbcdn.net/v/t1.0-0/p235x350/46145201_1187870441359935_2783190819861954560_n.jpg?_nc_cat=109&_nc_oc=AQlcrYhcskznnbwGMcVDOxhvGj8fSzkaoHg13AV09HljPytpOlV4dLpXtzpN8PFrh2Q&_nc_ht=scontent.frix7-1.fna&oh=cf0c8e505b901aac121e8f3d2e53627c&oe=5E25BD9F","undefined","彭博商業周刊 / 中文版",""
+"https://www.facebook.com/statementdog/posts/2505162279534785","1562482808","#財報狗策略清單長期績效
+有個網友留言：""若包括2008年海嘯回測，才真的禁得起考驗。""
+
+ 下面是更長時間的歷史報酬率統計，給大家參考。想查看詳細歷史數值統計，也可以直接到下面連結：
+績優股清單歷史績效：https://bit.ly/2xA8EfU
+轉機股清單歷史績效：https://bit.ly/2NFPrEk",1579107793,"/statementdog/photos/a.209326032451766/2505156886201991/?type=3&eid=ARC8D_ESedxf3YOuGGQPhJNc9Ua4xFlIvaG8PW9CBl8Ot1q9CBK7wxDbJCivm16GRPt_EvrBRB1HLkkP&__xts__%5B0%5D=68.ARCORFKbgAfKbGDqcTMFRy2GXjTasROP0DVk-s3MpPSbGopk-E4fF4zzoLGn2fFSZqvZSUeoc7G9tSgUvo8B1LdeaeeezGQWUzqwk5YFRvjRq6e4CvSBY_9y2UJsU66c_A9Ld_tsjHtpCFMqEGt8W3V5xWRm53wy7m4GZsZDLY4A0V9NMldHkvuJuqeRHHnJF6nY61BKiC3fqPgFaAZDvilms9hlc1AgMXlWmmxxMs3FFO8UjfJZfH7MdzsyPRjj7d5Ezbw9l0iN80n1rzqej4wE6nS9eeb_ddEL7gHo8TWvqk5RIvBbxQuvzONmliO1p6VMp27qJRV5ZLGel-HoGyWXpQ&__tn__=EHH-R","https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-0/s526x395/66499975_2505156889535324_6458699758763507712_o.jpg?_nc_cat=111&_nc_ohc=InQ02-nGRDoAX-fBA4e&_nc_ht=scontent-sin6-1.xx&_nc_tp=1002&oh=91a51af348e9ee4f1010a367c3f04057&oe=5EA0E225",undefined,"",""
+"https://www.facebook.com/statementdog/posts/2054892264561791","1536734897","【免費下載雷·達利歐新書】
+
+在《原則》出版後，達利歐的第二本書也在美國出版了。
+
+這本書針對債務危機。達利歐將自己對債務危機規律的理解寫在這邊書，並同樣分享了自己如何應對的原則。
+
+而且他還將這本書的 pdf 免費放在自己的網站上，只要填你的 email 就可以免費下載。
+
+我應該還是會等中文版出來拉...這本書好厚，對我這種總經苦手來說不太好讀😂
+
+下載網址：https://www.principles.com/big-debt-crises/","1570965555","https://l.facebook.com/l.php?u=https%3A%2F%2Fnews.cnyes.com%2Fnews%2Fid%2F4199870&h=AT3gZdkOfICZtOQM586WmlKu8DX2Dk6xDEfQ5XO4Si45LGPoQgM1kfrq2DWFX89Eb2LrFwzXjuBzyDbt32pz2BYxjfwEPJ0Kxs42KX46CO1_HwR6zTXVaFqCeDsqD9uZf3ltizurc82p0yhRCndtBju3nnG3G6hEysZfCZbXrOsoWG-YoFW8E0Ks4uaPg494RC5numG3U6cvqWI5zbRsIlriJaWI8KBu1GZUJoxLxSxQ3uVm4t_jHUwHlukcMSorOwA_OGRoa9_z_H7xhuSyP5hMy9RI1nW8EYuW8H3QY1Dnb8WsXzxgQg3JDP2yn8bssBAjPqR_OGhVtlpap1CqI15_cVBwloelF6k4bPnm9NCSTaxCQLmStdM7Z4Bzjb-Yb5lhGttWSPDddpeXjWafEKnJC8oXALJ3o5nOYz90Hf2oMKBabGne_GYkTEgPK59f4f9Npi1Imr9gYkRVwAJz9yWuPrsaj0Z8NNYFEs0dhyb9rD2aRlGBZnCA77NiIsL5mMbOxFVhlK0rpXhd0-HCNn0gv1HAF0EuEeE3iaVnqBz-7b7JVidgm5TRbXrBjT6uZKv77ruyDp2Je4nG0Tkdo7FvXoKIJAMd9C1woCAovbbI7cncKE15c5yEU0V4FA9PIGz9_oigpaCc54oowe8mMNU","https://external.fbkk7-3.fna.fbcdn.net/safe_image.php?d=AQB6Iipa6sM0WMP6&w=540&h=282&url=https%3A%2F%2Fcimg.cnyes.cool%2Fprod%2Fnews%2F4199870%2Fl%2F102bb3c573aa7ba3622d8a027b5e68f3.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQAuJI9ElAVgLMvg","10年前的9月份，全球金融體系幾乎陷於癱瘓。(圖：AFP)","達利歐重磅新書全面解讀債務危機：歷史還會重演 | 鉅亨網 - 國際政經","在全球金融危機發生 10 年後，世界最大對沖基金——橋水基金創始人達利歐也發出了自己的感慨。在回望過去的同時，達利歐試圖解釋過去的教訓如何指引未來的危機應對，並將這些想法收錄到了一本新書之中。"
+"https://www.facebook.com/statementdog/posts/2092058907511793","[Error]: TypeError: Cannot read property 'attribs' of undefined","","1570965555","undefined","undefined","undefined","undefined","undefined"
+"https://www.facebook.com/statementdog/posts/1970212626363089","1531908717","每次知道一個很厲害的人，我都會盡量去搜集他所有的演講、書籍、訪談等等資料。
+
+當 5,6
+年前剛知道愛德華・索普時也是如此，到處搜集他的故事以及投資想法。可惜當時能找到的資料很有限，直到他去年出了這本自傳，開始接受許多訪談，才有更多機會能夠進一步認識他。
+
+我簡單列出幾個他嚇死人的經歷：
+1. 發明算牌技術（電影決勝 21 點使用的技術最初就是他發明的）
+2. 找到賭贏賭場輪盤的方法
+3. 成立避險基金後，在最初的 230 個月，只有 3 個月賠錢，而且都賠不到 1%，沒有任何一季賠錢
+4. 1973 年 S&P 指數下跌 15%，他的基金賺 7%，1974 年 S&P 指數下跌 15%，他賺了 9%。
+5. 查理孟格在公開場合推薦這本書
+
+因此當商業周刊出版社找我們寫推薦序時，我二話不說就答應了，這本書我早就買了英文版，只是一直沒把它啃完。
+
+
+如果你喜歡這篇文章，可以留言告訴我們，之後我們會分享看完這本書的收穫。","1570965556","https://l.facebook.com/l.php?u=http%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F10680&h=AT2XeIhyspsbYJ6LBVquv5zk2_97-3Zyn6xHX6OxMDcoEkm1dXwq1ukJNSbOQYEnJyqTA8Od_09Y8qJwRnijj7EuD8mab8NVuF7aoyo3oks0W9BsFfDjblGdTkAGyukqtoWfQbI1CjFWgLyEk3UxPsuOrn2XAZQSnCvDrpQjHnMzxFB-jXgcs_0myoaXoyVnRoybOJ3Lz6v4CSLKPtgA675wtK57JelKtNKXSyqeBYIby0wGtlTvCrlfB7gtHmAf8LWrTwfoSS7MjjQcSCaO-QbWu6gjiBxrlFVgym9YFKrTM7ECAAL9G8s-ylmKZyQ0XMaRNrAkKOf69GSOEKD7Vvn-H5JKZcyre73rQIQnLZ4pUKqzlHey-RHti7YYk8B5Bu9cKPMe_KfeH3vW7qd35fmKLdjorUStxOmA_Vw9TerWAa-ih3uVUd_rJiGTeborl7jjRanGFEU5lj3M5_QCrV0u7bXXEqNbeT1egHVIXzB86jF4cgcqiv0odLoPJnOc2JLWnYQr-xRqshQ_IROuU8Y84EB5TlthM4huL3xsvM-i9yyVNnTPXg4hUapgqJR7kTeO3-uMI9gW8roB5vIfueLDgUkoaQREbUuS8rj8l5El1oFOXocLmic67m4DHgCV1M6iXAAUg0k34d5b","https://scontent.fpgz2-1.fna.fbcdn.net/v/t39.2147-6/c0.110.540.282a/p540x282/37379626_252360565494378_2326307080975155200_n.jpg?_nc_cat=108&_nc_oc=AQlNhmO1WJsM0FlY6S1J3rhsDH3VBRlXf8HGAYjJS5C-kNOvCGHfI0KQGvkBYobONVs&_nc_ht=scontent.fpgz2-1.fna&oh=29bbc1e812f4e449acfc5d6ce34ad50e&oe=5E39802D","Image may contain: hat","向量化投資之父學習打造豐富人生 - 《他是賭神，更是股神》推薦序","很開心見到商業周刊引進《他是賭神，更是股神》到台灣。說到投資，愛德華・索普也許不像巴菲特一樣廣為大眾所知，但以「投資界的傳奇」形容他絕不為過。 索普是賭場的常勝軍，他發明了電影《決勝二十一點》使用的算....."
+"https://www.facebook.com/statementdog/posts/2036433159741035","1535372492","你想 #投資美股 嗎？知名的美國券商 Firstrade 這幾天宣佈了一件消息，他們將 #調降手續費至0。
+
+其實早在 2013 年，另一家網路券商 Robinhood 就已經提供了買賣美股免手續費，可惜只限於在美國的投資人才能開戶。
+
+Firstrade 則是不限於美國投資人，大家都可以開戶，在台灣也有不少使用者，這也是為什麼這次他們宣布零手續費有這麼多人分享。
+
+不過你有沒有想過， #零手續費券商怎麼賺錢 呢？
+
+以 Robinhood 來說，其實他們還是有幾個賺錢的管道：
+
+1. 融資利息。買賣股票雖然不用手續費，不過融資當然還是會有利息。
+
+2.
+打電話請營業員下單。網路券商之所以能夠零手續費，一部分原因就是因為能夠不需要大量的營業員，客戶透過網路就能夠下單。不過如果你要打電話請營業員幫你下單，這種就還是要扣手續費。
+
+3. 進階功能。Robinhood 有分免費會員跟「Robinhood
+Gold」付費會員，付費會員每個月都需要付一筆費用。只有後者才可以進行盤前、盤後交易以及融資，費用就根據你想要的融資金額而定。
+
+簡單來說，如果你都是盤中交易，也不需要融資，免費會員的零手續費就很夠啦～
+
+如果你有在投資美股，或是你有在投資美股的朋友，趕快把這個訊息 #分享給他們 吧。","1570965556","/statementdog/photos/a.209326032451766/2036415046409513/?type=3&eid=ARATJQBzhV9TKNgupnZvzq4KAgKMSJgkeFe6ghwr-ryB-ycrEcR3fsT7rJhpcdmBOEs6w2owKREujGqu&__xts__%5B0%5D=68.ARCvSb4BG108HrStME_74gqZNPoeROQkpeH4XbHu4aYY-QvpUkiSRvPLWrt3rSVxVV_1VPdeJBNcUDfMTvMPqXsLhLYgq7t5c8r82C4tJy6-g9qk1nj-iCNkAa4FnNk9HXwUwU3FUNbKX5lrpN61lGAEE1FwuVBK_5ZEBO71K-Dj981zJ3JIm5awW7n-pPbloqLRSXSPimXUsZ4WqIlFDqug5kjwuT_-62Eg3LuKxdMasCy2E7bb-bjJoN9OUaTorB-jpFWE18ZT3UgN-hgXtj9pQh1A0gLJAxzuK6OBqGihl7j0gfm_dd8jwYnmDZdiXvFNrJsfXkXFLPBjOFywPL48Vw&__tn__=EHH-R","https://scontent-gig2-1.xx.fbcdn.net/v/t1.0-0/p206x206/40262153_2036415053076179_5097589043152027648_n.png?_nc_cat=110&_nc_oc=AQk0WfKp0bTiB9Q90qGZwEy7BEU-LsPVqHwgS8bLbe9c8HpQ1bGycitL15HM_s2tUdA&_nc_ht=scontent-gig2-1.xx&oh=9f23511990770e67e3aff2570674550c&oe=5E2722F5","undefined","",""
+"https://www.facebook.com/statementdog/posts/2056188217765529","1536831688","放空機構 Glaucus 其中一位創辦人最近自己出來開了一間新公司 Bonita。
+
+今天他們出了新的報告，放空港股中新控股（港股：8207），目標價一樣是非常激進的 0 元。
+
+放空理由是他們懷疑公司董事同時也是最大股東張振新過度誇大資產價值出售，之後並沒有拿到錢，卻虛增了去年獲利。","1570965556","https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.bonitasresearch.com%2Fcompany%2Fchong-sing-hkex-8207%2F&h=AT0OrwXSgT1kDvl1XSs8Ym_9sLgQgvNfBgHTJO0UgUHTIcVvBUWrPh0jZtNctA_26jMIOSF8FXPQtEBrMn1JIe_Vhfc7wYSasBsFH7jPmUmZTQb-5Uu05wbMogXTVBGJC8tcsiVidSQs_ye8CrOt13H6vphmujcnyo4HZXJt0hg0wIDXqAjH2ElDBD6g0FEzN2AkPXpa8XFH3KBBBTz_eAuzryvu3P5thQI-Rv4r-6IcNp6f6sQIUiUl5D7taCl1I5-59bHoTFBUBOHc7hiXHsg_YJTHqLe4t1hx2IeG4QFhATCAN-6nHq_7lIWT-7B3Hw0XSdtne1I8eUmj6nUCTI5cbZogQWHPrroqrQ5sZQXOTKCrrrlkE6IwB3PT3mus-35T0uNk1GxmeLZctAOBXHokOhS7P7DG68ikJENnSAblN_mQkfeAM7qGkW6mx_9Sh5qrgSUEdvnKPCCImK68Dj0XHEyuWdBGZcDY9TUezrfTLXfO56TMe_Aaskdph8l0ASAcV0roP9TesVJPJlF4QDYODv7SF4L4kmqy9Kl1yAVltI7aAs3qQsBX8LPWExsBq0rEqGeEkLUwd61w-gChI257iRGQpCwFbgHnEW3FFEeqBUE0nU_nU2cakaV3eWA2WaoabZur-ACKHn1s","https://external.fhel4-1.fna.fbcdn.net/safe_image.php?d=AQDnfyLBBm8qvXSR&w=540&h=282&url=https%3A%2F%2Fwww.bonitasresearch.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fcropped-BonitasResearch-Logo-Primary-2.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCQx87-YFO4LZIQ","Bonitas Research","Chong Sing (HKEX: 8207) - Bonitas Research","Chong Sing (HKEX: 8207) Download Reports September 12, 2018 - Short Chong Sing (HKEX: 8207) September 12, 2018 - 沽空中新控股 （联交所股份代号：8207） We are short Chong Sing shares and think its equity will ultimately be worth zero. Chong Sing Holdings Fintech Group Limited (HKEX: 8..."
+"https://www.facebook.com/statementdog/posts/2289810281069987","1551098245","【沒睡飽不要下單買股票】
+
+ ．只睡五小時的人，睪丸比睡八小時以上的人小
+
+ ．睪固酮濃度也比較低，跟老化十歲的人差不多，女性生殖能力也有相同的現象
+
+ ．過去十年，我們知道學習後要有足夠的睡眠，才能夠記住你學的東西
+
+ ．最新的研究顯示，學習前也需要睡眠，大腦才能吸收這些知識
+
+ ．缺乏睡眠會導致海馬迴無法正常運作（海馬迴跟記憶能力有關）
+
+ ．深度睡眠會將短期記憶的內容移至長期記憶，一來可以讓東西記得更牢，二來釋放更多短期記憶的空間
+
+ ．隨著年齡增長，深度睡眠的品質會降低，這也跟老年癡呆（阿茲海默症）有關
+
+ ．安眠藥無法提供有效的睡眠，而且有更高的死亡和罹癌風險
+
+ ．缺乏睡眠會讓杏仁核過度活躍，這會導致我們無法控制情緒、沮喪、精神分裂、產生輕生的念頭
+
+ ．明尼蘇達州的一間學校將上學時間從 7:25 延後到 8:30，一年後表現前 10% 的學生 SAT 分數從 1288 提升到
+1500。學習成績提高、行為問題減少、翹課比例降低。
+
+ ．已開發國家的青少年死亡原因第一名是車禍，懷俄明州的提頓縣將上學時間從 7:35 延後到 8:45，之後 16~18 歲青少年的車禍意外減少了 70%
+
+ ．睡眠不足會導致大腸癌、前列腺癌、乳癌
+
+ ．睡眠不足會讓癌細胞擴散更迅速
+
+ ．連續一週每天只睡六小時，會改變 711 個基因表現。有一半關於免疫能力的基因表現下降，另一半表現能力上升的基因跟腫瘤變大、發炎、壓力、心血管疾病有關
+
+ ．不論任何年齡，最好有八小時的睡眠（或 7~9 個小時），低於七個小時就可以偵測出一些問題
+
+ ．只睡六小時的人可能會說自己沒問題，但這跟喝酒的人說自己很清醒一樣，可以客觀的偵測出一些問題
+
+ ．睡太多目前沒有發現什麼問題，不過喝太多水、攝取太多氧氣、吃太多會有問題，睡太多也可能會有
+
+ ．缺乏睡眠對腦部造成的傷害是無法完全復原的，之後補眠再多都一樣
+
+ ．目前沒有任何藥物或營養補充品可以幫助自然睡眠
+
+ ．補充褪黑激素不行幫助睡眠。不過如果你吃了有用，那就繼續吃，因為安慰劑效應比很多藥有用
+
+ ．睡前攝取酒精和大麻有兩個問題，第一個是他讓你的睡眠變成一小段一小段，第二是他會阻礙你的快速動眼期 (REM) 睡眠
+
+ ．睡前攝取咖啡因，就算你能睡著，睡眠深度也會變淺
+
+---
+
+前陣子看了這本書作者的演講，整理這些筆記，同時也開始規定自己一定每天睡滿至少七小時。
+
+讓自己有充足的睡眠後，我發覺在處理事情的專注度上有提升，如果你覺得自己做事很常分心，建議開始關注自己的睡眠狀況。
+
+前陣子看到這本書中文版出來，馬上問 kobo 能不能給個折扣碼讓我推薦給你們，他們也很快速地答應了！
+
+現在用這個代碼買，折扣大概是紙本書的五折，我身邊已經好幾位朋友被推坑了 😂
+
+購書連結：http://bit.ly/2U7J5MK
+電子書 7 折代碼（約紙書 5 折）：KOBOSTDOG
+使用期限：2/25~3/3","1570965557","https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2F2U7J5MK&h=AT3vhWRwlko_vs-F9tVDC087SrV4KLQpgZuqe2n-Z-Q74ymKVmoouZ1c8kO_QbiW4GjXRuP25APiqZX1LBDAGAlO_AB5SNY0KbIHjn3se8pHMS7DFJ2FBvYaN16ocIIMhxXm9qTqwAjV9316NFDQO0sLWG6VR7e9BOhKyP-oUvXlqBlvbtkQ62jA_7MYUqlDFXbhidh46ReRE15PjRQkSw1qI60tX42nFW7FXlLGkORmosDnEzPEfJeh8fOCgnNbCMTxNaUBxHq4wy2ANhUfuNSMh8FvQGazXHBU0bwhLaP_xtWwX03I3Nk6R90OzWbCJDDy85vcx61LKYZSqfvj1Y8d4eLXAsnRm4O054eTI63qp8HfhCm31Y848UVYyIcJkHvDrIMqYkz42e3_d5Y_UwunKTuLLI1TFoR8M6t_Qs7LWWATJsvGgW9C-IUfsRGh_st5lXGexqWGCI1HsoIU5vtdYozNWNhUwtdWrvGTBc3HSHz-xkhyz4GvwOtSyMvMn81NQ5QZEiwmBj27xSuLgr5Xp5MlfrjnWxR0V3Q-Ayoo487MH5ICAl6wpNz2Knd5iVQAZv6Di9cTi0S3I2cT3z7mdgMiGaBatVg6hvXjHWszccRKaWHbbMFGoSZlZmusTZuTV593LUyBRcll","https://external-nrt1-1.xx.fbcdn.net/safe_image.php?d=AQB4ppR7WZ-c9kv7&w=540&h=282&url=https%3A%2F%2Fkbimages1-a.akamaihd.net%2F994bc3dd-1eb9-4cc8-952f-35136df77a78%2F1200%2F1200%2FFalse%2FclMjhO-7sza7cTXWwOrZJg.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQAoc0u38TOOVCp7","Image may contain: one or more people and bedroom","為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學 電子書 by 沃克 Matthew Walker - Rakuten Kobo","在 Kobo 閱讀 沃克 Matthew Walker 的 《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學 Why We Sleep:The New Science of Sleep and Dreams》。立即註冊，首購單本現折 NT$100，再獲得100點超級點數. 缺乏睡眠成為全球流行病的今天， 我們...."
+"https://www.facebook.com/statementdog/posts/2465025450215135","1560590225","#新功能 #產業上下游公司
+除了個股資訊，現在財報狗也幫你把產業資訊整理好了，在最新功能你可以：
+1. 透過簡介快速了解特定產業的現況
+2. 查看公司所在產業與競爭對手有哪些
+3. 查看公司的上游供應商和下游市場有哪些
+
+ 趕快前往試試看：https://bit.ly/2RjHfaV",1579107801,"/statementdog/photos/a.209326032451766/2465025230215157/?type=3&eid=ARBpqmH02IZnP2skObpKpQhZpiOFyRQfNNovZa9SfM-Zb4YztiAh8smI6EhfhhR0PAJbsACk7cQ2NuK-&__xts__%5B0%5D=68.ARBwU_EOPECV57dDagsq3iW-q3XoYrxy4phq1LI0SCMK9SdPIYZLWJMmJ_yzY3zsabVjMQJJvevT_7T257JkXoPlv5Tt5vQFR4mOdLxsanZ5PuEkNp1IDy1Mkt0S9ozj6R3nldqTbQOjpF9Mj1elLl3pb0AS7-n_ffPKujqfapxhUkQHpsgeCaLBSv7NoxyzniJ5P8bqYRLZlbYSxvFBb5WmlpP3YGNtPCMwybvLmphWf0q93JvZfwZy-xEc3MjvevUwG7BLbrPIZ3Dreqzoy2rsFVLEwJYQIp9BTY8oIyI9k-GYXNUl5wYyrB7LsCsdXmrsc87hNLK2iX5CfFktHt7NdA&__tn__=EHH-R","https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-0/p280x280/64248651_2465025233548490_8832178877867491328_o.jpg?_nc_cat=102&_nc_ohc=9FB0E_Vj8qQAX_bKOpZ&_nc_ht=scontent-sin6-2.xx&_nc_tp=1002&oh=451d6e4dacf996bd428bdd0496c5473e&oe=5EA982D0",undefined,"",""
+"https://www.facebook.com/statementdog/posts/1926586094059076","1529505080","大家還有沒有印象，今年年初波克夏、亞馬遜、摩根大通聯合宣佈，三家公司將聯手打造一家醫療保健公司。
+
+ 剛剛他們宣布了這家新公司的 CEO——阿圖·葛文德，一位外科醫生兼作家。
+
+ 單聽名字可能不知道他是誰，不過大家應該都聽過，甚至擁有他寫的一本書：《檢查表：不犯錯的祕密武器》。
+
+ 很多投資人都推薦這本書，不過我更推薦他的另一本：《凝視死亡》，這是我 2015 年整年讀過最棒的書，也在很多地方推薦過。
+
+ Jeff Bezos 在最新這份聲明說稱讚葛文德同時擁有專業知識、初學者心態、集中在長遠的目標。
+
+ 很期待看看這家公司在葛文德的帶領下，能夠在醫療保健領域做出什麼改變。","1570965558","undefined","undefined","undefined","undefined","undefined"
+"https://www.facebook.com/statementdog/posts/1897013577016328","1527240369","最近在測試的個股健診功能，你們覺得哪一種敘述比較好呢？
+
+ 【1】、【2】、【3】，留言告訴我哪一個吧","1570965558","/statementdog/photos/pcb.1897013577016328/1897013437016342/?type=3&__tn__=HH-R&eid=ARDgCJBZVUTFP6aGyCj2SjT7pWDZ9WBLkda2dGrjUMBWx9-e1hx4iH1QtCsB6p2ytaiTSZMTCVZqE3Ir&__xts__%5B0%5D=68.ARD0r2vtyXTpFSxSIwax15WUwPsxZdakCZS_uTy_HR-Fyhp2ptj1cb9Z-SrJ0lW9BbJskQYdHRHW9NZWRV0LnnTjHqbdBjCKFxv2W0c2b2WarFAKloyvwwj_Trz_Yxyz8icxP3j1WUiMBMAjzf1fcPdI1fC7Ze4SDRO-tm_J3Wt9hR0H0dYwAO2HxSQTKtlg9fdQaCYkqXfHsC_pWkEacMpvCY0-AHCOJ_MhZ1dZfniY9kmNv1ywO__V23t-7OsDF9hRqp-6Y3lT1kggIBWUYs-S2Fp7l6Zr66PMWav_rY1Xgi1F5AtsQnzaMxxFAKTQaVob_OhPolkJkXrF5e5k63nSPw","https://scontent.fcgh25-1.fna.fbcdn.net/v/t1.0-0/p403x403/33226081_1897013447016341_7906848639463456768_n.jpg?_nc_cat=101&_nc_oc=AQkknPVGu1OQ0POTSSHljbjd1QBxNcIb8UucDDOAB9eJyc2DM0wl4OduRYotnkO3Oxo&_nc_ht=scontent.fcgh25-1.fna&oh=ef80ea42a393c728f762e0b615b35db7&oe=5E19D72E","undefined","",""
+"https://www.facebook.com/statementdog/posts/2188310271219989","1545302880","【新增數據：折舊、攤銷、資本支出、管理費用、銷售費用、研發費用】
+
+ 營運如常，但獲利卻可以提升，有這麼好的事？
+
+ 過去幾年我們投資許多這樣類型的標的，關鍵就在於折舊大幅下降。
+
+ 機器雖然折舊到期了，但還能夠繼續使用，就能夠使帳面上的獲利看起來上升。
+
+ 我們這週新增了許多財務數據，其中就包含了折舊這個科目，大家快去看看吧。
+
+ 【現金流量表】新增：折舊、攤銷、資本資出
+https://statementdog.com/analysis/…/2330/cash-flow-statement
+
+ 【營業費用率拆解】新增：管理費用、銷售費用、研發費用數值
+https://statementdog.com/ana…/…/2330/operating-expense-ratio","1570965558","/statementdog/photos/a.209326032451766/2188309441220072/?type=3&eid=ARA_39A-2Ri9P3F2XnLih8YXj4CiCw_iy7mMeclBL3wKfn9HRhrRs13mrNO0TYWwQqBnf4BxtSmvNWuR&__xts__%5B0%5D=68.ARD6Y-GP5XuzpS06dRx3_5Ubb8EcAmavdI0pngQtfUIV0cmK7_f574quPYA0kviLxyvK6MzOKt8o72p315MLMHD45z0WjLvN2PAdV3OOxYpYY_jT1ikb8QKSpf2WAp8OfBvIxpmRyKgck4KOCcL39ksYZl3X5iYEXZm0dwT8-RZQYCGIx0fGcneb0uiS1WqogqLrVDWVT43Hj8qLsNbE70Xhd8yluzUzd0enacrbAcnUR9lHCPc09gOvdJMjgFIpnOnuERa4BJbrQnc48SpcGF8gInbs8niwjNhpalX1w84kg_SFl4f9JYLwyXJefAvozM6-ev5_KHA1Sq2-795JOjcAdg&__tn__=EEHH-R","https://scontent.fgye8-1.fna.fbcdn.net/v/t1.0-0/p526x296/48406592_2188309444553405_3881918212379508736_o.png?_nc_cat=102&_nc_oc=AQlMl8sJdqcd6oUjcsui_4WPpiGOqZ7UvQea9Xm3sEmDTWueP7AqPS7wY5ylDIw8oao&_nc_ht=scontent.fgye8-1.fna&oh=46ffd606f3961338a9aa7d8d4a3c59ef&oe=5E35A80A","undefined","",""
+"https://www.facebook.com/statementdog/posts/2004278229623195","1533725880","「你這次有打算直播介紹這本書嗎？」當初交完《原則》的推薦序，出版社總編這樣問我。
+
+「我應該會用拍影片的形式，然後一樣會送幾本出去。」
+
+在我收到書的隔天，我一早就進公司準備拍片。
+
+「一個人對鏡頭講話超尷尬耶，怎麼講怎麼卡，今天先錄到這邊就好，明天繼續」抱著這樣的想法，就這樣....
+
+拖了整整一個月！
+
+頭髮都長了，這樣畫面不連貫，之前錄的根本不能用啊。
+
+後來改成在社團直播分享我的心得。這個心得不是介紹這本書，而是我讀這本書得到的 3 點投資體悟。
+
+
+這本書主要講的其實不是投資，他講的主要是在生活以及工作上的一些原則。但是我們一樣可以從第一部分——生涯回顧中，了解到 Ray Dalio
+投資哲學的一點蛛絲馬跡。
+
+
+如果你看完還想了解更多，留言「+1」 或任何訊息，我們會私訊你逐字稿、參考資料，以及我們過去回測的幾項數據。","1570965558","/watch/?ref=external&v=2004225466295138&__xts__%5B0%5D=68.ARDRhqUyQFlN46IynKsftO3WmhZNH_zNdD9fLUUE7kb3FIfdAp1nWrB9jDr4_IWIayRFtn4a0W3e_dxtUMbGVE_gHQAKC8242X-aIVSIOdFuhk0jNIV6BPpnTEOGieSq5F03wrtcG798yyXY048tuckUn2ZKA7rNy3ghAaifJYOHEei8ij_4uuu8u1ymxeov_azNSa_zHvU711L93YZenmDFOwxgIiE__AUBXBH7RkIJpHMUDh82FOpoC8LRl68W6OnG7gym54aZIQXJmwX0wwIPnd2mziUEj-gbbIQ5IeWs6FS6fReOoB182ci6Za5hu3hXtXKowSDmFnCuIYMYjzdTc-TfITJQvUb02w&__tn__=kFFHHH-R","https://scontent-gru2-2.xx.fbcdn.net/v/t15.5256-10/36046841_2004280696289615_8277627621324357632_n.jpg?_nc_cat=104&_nc_oc=AQkd-DMg446l9k93ZFSLUZzz_Zl3XwY4xmKdX-AixJm5tNJbm0P9C7g5cD5pSeVtlmA&_nc_ht=scontent-gru2-2.xx&oh=ca1d2165753807e095d0a9ecc2f6e729&oe=5E23EECC","undefined","從《原則》這本書得到的3個投資體悟","Posted by 財報狗"
+"https://www.facebook.com/statementdog/posts/2324543954263286","1553222940","曾經看起來很有前途的無人超商，現在看來還是困難重重啊！
+
+從前幾天 7-11 宣布停止推廣無人超商，到今天亞馬遜的無人超商 Amazon Go 也面臨到了問題。
+
+不過這個問題蠻奇怪的，舊金山的議員 Vallie Brown 打算提案要求所有超商都得收現金，原因是很多美國人沒有信用卡，尤其超過舊金山有 50%
+的黑人及拉丁裔沒有銀行帳戶（雖然這是 2005 的統計）。
+
+這項提議本來排除了亞馬遜的無人超商，不過在這週二她決定把無人超商也加進來，要求亞馬遜必須顧幾個人在櫃檯收現金。
+
+（亞馬遜無人超商任何信用卡都可以付錢，台灣的 7-11 無人超商還規定一定要 icash 呢...）
+https://sf.curbed.com/…/amazon-cashless-store-ban-vallie-br…","1570965558","https://l.facebook.com/l.php?u=https%3A%2F%2Fsf.curbed.com%2F2019%2F3%2F20%2F18273994%2Famazon-cashless-store-ban-vallie-brown-sf&h=AT2iWCrXJaQtlF8eY_PGCXI6IXv220K1a1S3oBFIdNn2dBusZkHs0syw1ULP71OYxPGMmhPn58ytxeTbGiHDXRF84_hKZEjxScQBh6b-x3ETVmgHax-7ShxbPOpUvZ8VmF-FTu6NKx4s5TYBCgiMrpv4d3rNpCFgb_S4hIELBWspTYAxekknzd4bFWgXG-a2lmD2a3kdkI_ocpGvy0KW24xMNC_hZ0SuharDnIa_3sDaiNbs39jDrt6413EBq8sIz1u0WdrYmWI278VBaqqJmPpnIBGOHJa6-mv64YMq_Il8_9TS9K4FHDyIecoC3_zBS_Rz0tWDg9bPk1S5uo0w_Vv7k7Y0UEM8QlRdsPbNGHFc6qxeDi8idd1Hea4OYWx4JqD9OfO0jHQzxTmkiepCmzLqdRRm76kcAflqwevyZrT4N4R6bS2ql1bn6QjV7RM0FVVte28shDS7S-lwRiuDJLLaA9OeQmk2dEvU_nk39ZepkSFhcDq_4aVbavGKfFZm9AM2v856RpAG_CaMJ8ok-sIXVWqzjaMAarY0Vp8MS4wv-NDBI48KLwTOeFEp6Fub4hzTGHp5pcNDfnV_W4WPZ5-wuUZIoiUEROHFpgjodRmBQD6H_pzbjrnIX6valRE0e6gI8OXo-Qwwn6rG","https://external.fpnh10-1.fna.fbcdn.net/safe_image.php?d=AQCGSD57ja7Ny_t9&w=540&h=282&url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Fs8mYJxIl7KnjNmy8HZBOfnaBKfY%3D%2F0x62%3A5142x2754%2Ffit-in%2F1200x630%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F10839879%2F908824126.jpg.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQD9uzcY_T93gURh","Amazon Opens First Cashierless Convenience Store In Seattle","SF considers banning cashless Amazon stores","Amazon might have to choose between shutting down stores or putting cashiers in cashierless locales."
+"https://www.facebook.com/statementdog/posts/2197170707000612","1545826386","朱立倫概念股...市場果真令人猜不透啊...
+
+ #立倫立倫飛起來","1570965558","https://l.facebook.com/l.php?u=https%3A%2F%2Fudn.com%2Fnews%2Fstory%2F7251%2F3558674&h=AT3jvsGdVEedQQgjXrjdrgppBfYCBu3otpAelZ9SM1RQwmTLwEwLtxk5Tua-QKVHhNrecutfi11OUEYx14L9rvzfLk2eU0DPzVQjxG6HQ6XiHEIImkR-kA29NdLrOT9EA98K8FlnULTlEAx882trHFM3nma-9D6liNLgRlleiCnUc0ndLHCJb2VGhttkwtkRHXAym92mGLlo3gtE994isc_UxQxzXm4ictrZYlCd3IMGyyJJrwHl5_H_EMlujUqHXWepbIxjqoqoAX4jJB9iKETn0IaE3tI2EIByVzdKdV9TIMwON8AHt5wnw1OlBg6uqN76O8CIBQE-9FbfYGC8Q4E3t9Yxxn2gSxc_xfbwNagwH8Ntzyr9mRE_d5ap4ziHUt1Ab9g8vCDJWvLgM61m8r2Z6VJGI_1pGg3pXL-jCq-zkf9q8JPRV3G3-nYd1H9yzLmyAqUKuiOZm8UWiUNvNBV9sFnwp-t52gHUJsrt-VGZYV2QobVkhbc8oNxPPCnMS32puQhE6qiaqThbs5H-K0ywXOw4MP-v4MkWOGYea_M6bLiQe3RxEs9LYpycqamvc3K-CoEDqvfEhHwGFIbyF7mDKXEbcphRH4X2N5IFtMnMbSlhj4xcx_F3dCT3Ql3hQJ643-4r9C9_8pIm","https://external-sin6-2.xx.fbcdn.net/safe_image.php?d=AQDkAKqREqcUiZa6&w=540&h=282&url=https%3A%2F%2Fudn.com%2Fstatic%2Fimg%2FUDN_BABY.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQAGb6w9SA1YXJSK","No hay texto alternativo automático disponible.","朱立倫角逐2020總統大位 概念股倫飛漲停 | 聯合新聞網","朱立倫宣布角逐2020總統大位，概念股倫飛電腦（2364）掀起押寶行情，帶動今（26）日開盤不久直攻漲停板，股價來到4..."
+"https://www.facebook.com/statementdog/posts/1916448908406128","1528974900","👏👏👏 全新功能上線：股票健診幫手 👏👏👏
+我們設計了包含地雷股、定存股、成長股... 等 7
+個股票健診幫手，協助你快速瞭解公司是否值得投資。如果公司在某個健診表現不佳，就得注意：公司的財務是否出現了特定問題
+
+ 還沒使用過的朋友，快到財報狗個股頁註冊登入，試試我們的全新健診幫手！ https://statementdog.com/analysis/tpe","1570965559","/statementdog/photos/pcb.1916448908406128/1916446495073036/?type=3&__tn__=HH-R&eid=ARDnYPzB8s_9peKOsJCLpFEv8QTdQt0XzqpsVgOvZ-N6MDnAJ-obr8sjNHM5eonyDcZgO1TEvFmxCsD2&__xts__%5B0%5D=68.ARBTzH51PtGNUnt6iJkE8cEH58BguH-JbEvS3dv7o5oyMvdKhZVN650a-Y4BBrNzBtr-RCGRIEfi9M_d58tbx0NSNRJB0hL5Qjqr-Yz1AzAjNOgWTdevvkhUyuw-5oHNNo65ZbsVpDWWiSwHKMu0yOijO4KIWWt0VOv3gm-uJke8WgHskVjQzeJ4vex3fF6DKbqPgQpW5veb7hPLBh97PxetDuy7nS7GQql2rPl13mxG9NY5tyEubSdY_RSjJbpg-WgZQbE5BOQ3jNe6duy891gyvtG4wEFui767iQqhf-uA0ccwqqkOlINKQnuXoI_nn4pxnf-Q9PdA2IsAub_jlAZ68A","https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-0/p280x280/35329495_1916446501739702_954681353415163904_n.jpg?_nc_cat=105&_nc_oc=AQnLxJ-4PBUrgeZmvwQCK_VTC5AUK9U0Kgve2Yu2PlEx5PZn19wmxc3Auib_qGddNxA&_nc_ht=scontent-cdt1-1.xx&oh=1b476a4622fd2f6d04bc200413c5be5c&oe=5E39B259","undefined","",""
+"https://www.facebook.com/statementdog/posts/2159889617395388","1543572901","11 月要結束了，天哪太快了吧！
+
+今年讀的投資書籍比較少，倒是聽了非常多的 podcasts。
+
+11 月的最後一天，就來聊聊有哪些值得追蹤的投資網站和 podcasts 吧！","1570965559","https://l.facebook.com/l.php?u=http%3A%2F%2Fstatementdog.piee.pw%2FCLTRV&h=AT2zcx9TaRiYdja6TV6BkKVGXPE-d6TbahGFuqsAiTJ3JvA262onqO7mDdCPR7Dn9bWcEPbefhdvnTAVHcds7vbi3wfvMtc6LnC_Y-4pj3ldfxZ9jFGXQsizCiehr10bCjwwmGFXHMuoLMZgUbOZw6z_0R0p5fs_YtgyY9leDnKA6Qv5XH0TQN9ljXhh8vr2tJk1U_LE7CYO81aUD2khUolghil91IxAIM6HOKNwqLnAAvFbhWnQocjroFhQiyeDMRICuwvdZhAZaffXu-p6CPquyr8ErFb-ZEIrqYSkQIAISe13LRqsPr-EmwIyFWOf-BLaPnVks2tJf1ZWQXQXu_NIrGP1N5RF5bzaNT31vFL8Y0eIQmRUr4361Od3SUpLiEyK7Zo7ei1nWJg7XXWzGO0ZV-XhSPJJyi4V0O7OHAIH6sofmCROsBkupUWs9necKr1oPgm4FCKSTPAQN63u91S0Jw0UC4G_BCMGCJ5_UcdSI1Rg9JkxDTa8u-st4ocXrImeM8ew49AuCebeJkZ50jo59tHeecgsU_cfBFWcF9TXtIMXGSpi-BZp57TKqOXR8XzLdugGAt8mMwVG8W4d9Tg5DLLOzOfiZyLVHD9CcSV4TGWUOxjovlP5oTnnbUB0jcPhEc4_3O8d6V6W","https://external-cdt1-1.xx.fbcdn.net/safe_image.php?d=AQAQpRmpc8vYNQ01&w=540&h=282&url=http%3A%2F%2Fcdn.pse.is%2Fstatic%2Fimages%2FD0F8B8E7-752F-1D62-6810-81AF60CD1B15.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQAq8nVby247CvjW","值得追蹤的投資網站和 podcast","值得追蹤的投資網站和 podcast","這集介紹幾個我們常看的投資網站和 pdocasts，他們談論的面向非常廣，包括總經、美股、投資理論、商業、量化投資等等。 在選擇要追蹤哪幾個網站或 podcasts 之前，可以先瞄一下內容適不適合你，再決定要不要持續追蹤。 關於..."
+"https://www.facebook.com/statementdog/posts/2340631042654577","1554112687","終於可以公佈啦！投資大師霍華馬克斯即將來台分享。
+
+別說在台灣難得可以看到本人，就算我們飛去美國，也沒什麼機會見到他。（巴菲特至少一年還有一次股東會的機會）
+
+本活動因為人數限制，出版社沒有開放報名，不過放心，你還是有機會親眼見到最頂尖的投資大師。
+
+閱讀完《投資最重要的事》、《掌握市場週期》兩本必讀書籍後，你有沒有什麼想問的問題？
+
+我們將抽出五組得獎名單，贈出五張票。每張票可以兩人同行，所以如果你沒有問題，趕快 tag 朋友問問題。（別忘了提醒他，拿到票要帶你去）
+
+Q. 我還沒看完這本書，但很想參加怎麼辦？
+
+A. 拍張照片留言分享你的閱讀進度，留一句目前為止的閱讀心得，這樣還是可以符合抽獎要求喔。
+
+Q. 我還沒買這本書耶
+
+A. 還等什麼？趕快去買。這是我們最推薦的投資書籍，不管你是基本面、技術面，甚至只是生意人，都會很有幫助。買完拍張照貼在留言，這樣也符合抽獎要求喔。
+
+《掌握市場週期》：https://pse.is/FZ366",1579107792,"/statementdog/photos/a.209326032451766/2340615695989445/?type=3&eid=ARCo1Ohv3hZoWz4LZy_iHlsVnmGud1hHjyJdgYFPhfLHGyri9sULoR58-TPm3okj6kTe2dQ03TwamNLl&__xts__%5B0%5D=68.ARCYvxlmwCgRrQNAi82DW3wlxE8s3ohvRvkBpGuZReXTz_QSfLZknxIU0d9tZgyb6XL7m6DR-STsV9Svg1_6eIrjOkYVtfo2-ifixbtAb6Xe2vKhL_T0tieNKze_FAJVasJJtBe8q8XTUy7i5M2pqtcVWHWuIFpV74cqv_DPAJrLiSC3kFEln4Tl4Fck00E3SnMCRZ4JzVaJ06EgI2tho05zLQVIG5EowRSE9Q6aBIrBUAc36lkpdjCVeZLCEZ0xl0YhFb_R0NtPJID5aKaKUiMhKn9kDDO-HhiQZ1j2TadSYuiWPWP1fXjH5UM7VT35fRVSY55bDdhc5uSqZiy6oq-5EA&__tn__=EEHH-R","https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-0/p526x296/56285199_2340615702656111_2991745244820668416_o.jpg?_nc_cat=110&_nc_oc=AQmrx5diqTwxXYcnBoUcIlYv_jz1NYkExo7FtmkV4eVT5VL4TtkJsKixepS41U7GEUM&_nc_ht=scontent-sin6-2.xx&_nc_tp=1002&oh=ecb29609dde39a8eff0097b676749514&oe=5E9C8855",undefined,"",""
+"https://www.facebook.com/statementdog/posts/2057382477646103","1536920410","今天在 blog 發了五篇我們今年年初在 smart 智富雜誌上寫的文章：
+
+上游材料價漲 電子通路商受惠
+http://bit.ly/2NcGvG5
+
+兩大健身器材廠購併成效總體檢
+http://bit.ly/2Qt4nTA
+
+台灣家具大廠詩肯的錢景展望
+http://bit.ly/2QtLq3e
+
+檢視橡膠下游廠的成長契機
+http://bit.ly/2OjfMUx
+
+解讀矽格、台星科購併效應
+http://bit.ly/2MA07ig
+
+由於時間的因素，我們從年初之後就沒有在智富雜誌上繼續寫文章了。
+
+如果你還想多看這類型的文章，請按讚、留言讓我們知道，未來有時間再跟大家分享個股和產業的分析。","1570965559","undefined","undefined","undefined","undefined","undefined"
+"https://www.facebook.com/statementdog/posts/2064554176928933","1537440605","台星科(3265)最新發展蠻有趣的。
+
+之前母公司星科金朋賣給江蘇長電，跟台星科簽了一個約，保障未來五年每年的訂單金額，如果沒有達到，要賠償差額。
+
+前兩個合約年度對方都沒有下到該有的訂單量，因此也都有付賠償金。可以看台星科的 EPS 走勢圖，2016Q4、2017Q1、2017Q4 都有認列賠償金。
+
+合約的第三個年度剛結束(2017/8/5~2018/8/4)，這次也沒有達到該有的訂單量，理論上要賠償 683 萬美金的差額。
+
+可是對方提出了一個和解案：
+1. 技術服務合約再延長兩年，本來只會到 2020/8/4，現在延到 2022/8/4，這兩年每一年承諾採購 3000 萬美金訂單。
+2. 第四合約年度（2018/8/5~2019/8/4）以優惠價格優先向台星科採購
+3. 這次不給賠償金
+
+
+簡單來說結論有三點：
+1. 今年沒有賠償金了
+2. 技術服務合約多了兩年的保障訂單
+3. 接下來這年對方會用「優惠價格」優先採購，也許可以預期營收會比較高，但也要研究有沒有毛利率下滑的風險","1570965559","/statementdog/photos/a.209326032451766/2064549243596093/?type=3&eid=ARDVkFtOMUYv_5crgqARpqhBb9xnRMZ_TOCrPRUbJAXzynzi98G7X8iTdQGMd1gpzQqRK4lGBhLKSodM&__xts__%5B0%5D=68.ARA5edQSjOwLWzWpeq4v23Ohaoy1uNZJFKnHxTL-W1nUdOZAKdq3Wq72TeNIFtPPDmzSYi7QY_IX5-0GNzl6yevUqeGgQ-Ik_49I1Rtd6A6Fa_yCHdnVtvy3ufpNIbZdNHVd3hzKNPu7jLCP_cGDhJY7aMgJypsNycIcKtcAKgBQHJt3Caim-trtj0Ay6BYlaPYfeyQzc6tijnIr_qRZ3n3fTtnduWqcmRKGrFcPzkYzOZEqexz3dtPivWEwc3KcPQ0kRgQvdfFtz2fvuy4aGim8GcyMinKUwRL4QmCIomqT6FolgLbHxz5VE3rZtayEUQPRNNUNN97E2JRTAnVYKVRXsA&__tn__=EHH-R","https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-0/p235x350/42144628_2064549250262759_2343251714800353280_n.png?_nc_cat=104&_nc_oc=AQljaMko_KG6eHkgqgSrTiIi4vqQsRn2TsE9D9Xbr1T40SPrEXZCfZr1EFMoECw8264&_nc_ht=scontent-sin6-1.xx&oh=45ba7f98d8805e49921cbdcaaef48505&oe=5E39F5D6","undefined","",""
+"https://www.facebook.com/statementdog/posts/1881544355229917","1525858200","「在蘋果公佈他們最新數據前，華爾街對它有很多質疑，你會擔心嗎？」CNBC 記者問巴菲特關於蘋果的股票
+
+「我不知道下一季會發生什麼。每次財報會議結束，你去看那些分析師寫的報告，每一個人都在預測下一年會怎麼樣。這對我來說很不可思議。
+
+沒有人會根據明年會不會下雨，來判斷要不要買一座農場。他們買一座農場，是因為覺得十、二十年後這會是一筆好投資。
+
+當你買一間公司的部分，也就是買它的股票時，比較好的問題是問他十年、二十年會如何。這答案有可能是你不知道，那你就不需要做任何事。
+
+去預測 iPhoneX 會賣幾支，這完全搞錯重點。」巴菲特回答","1570965559","/watch/?ref=external&v=1881543141896705&__xts__%5B0%5D=68.ARByGC2tOWGeuiy4izI6TjejnFOz__L88W-Sp3Nxx1f_z-RvblkCSIX6pzkqI5SnqcfXQu04b_WpeIouqli0slq8P6u-FllauxAaDuO3wfKcpmBs5W_sNx-9ytbiNKVlRljLWC2pdmL7SSfRQiMhDpG5QHhVDOme0TuxPQ2dH3ximD8L-8zNq6QqCu3WsF1G7aMFYC9GOZimua8CKjbIwxdJoYl809HC_D8bQOh9VYaUZR9lcVyvb1A3y3m09cIDiXfZfURB_3sAdR5ba49BpbDStIPij3SRAP-T5keaf5X6VX8Er0Av_88PtSNflEJWIJDdH6gvt0pj7kEX0mr_9ODzD-LDqgaF8QId8w&__tn__=kFFHHH-R","https://scontent-sea1-1.xx.fbcdn.net/v/t15.13418-10/28760789_1216370058493836_542697017957154816_n.jpg?_nc_cat=107&_nc_oc=AQkNrPOyRmiCVpTOisl52np-SV7IF_m_RNSG1X4D1WLQKcD-FNSrX-fZapP_-Hmu5E8&_nc_ht=scontent-sea1-1.xx&oh=698948707e5c34cd5ef59f4e08a63a9e&oe=5E30B5F0","undefined","買蘋果股票的重點不是 iPhoneX 的銷量","Posted by 財報狗"
+"https://www.facebook.com/statementdog/posts/2331375656913449","1553598129","庫藏股是好是壞？經理人買庫藏股真的是為了圖利自己嗎？
+
+最近美國吵庫藏股吵的很兇，有人說庫藏股加強了貧富差距，有人說庫藏股都是經理人為了自己的利益在圖利自己。
+
+其實不只在美國，台灣也蠻常看到庫藏股是大股東要出貨等論點。
+
+這個影片我們不但介紹了這次爭議的起源，還拿出以下幾個數據：
+・持股比較多的經理人，會比較容易實行庫藏股嗎？
+・企業買庫藏股的時機是對的嗎？
+・企業買庫藏股對小股東利益是好的嗎？
+
+影片：http://statementdog.piee.pw/GN7R9
+逐字稿：http://bit.ly/2Ub6sIt",1579107801,"https://l.facebook.com/l.php?u=http%3A%2F%2Fstatementdog.piee.pw%2FGN7R9&h=AT0hYZauXYLLMXE2BvJFIwVEzMnWg7iKs9Yhi8Lf_5JXF4eoNTsXOI7p5H3wSkzeUYfui2Iff7-vCEfctNB8gPw6h3tLG4ZjwT2wRZTKNUrTZhZ34x121-ur2L2aywkBujVHpr3ygeNhlo4edxVSMqzpxdA2gZtol4LwQAqijI0jDteXNibWR1yn22QvbTlGHwNPLSWGgPIhldKe4EnRpNjsEZ05LL3PWRbLxZ7Bjr4p_HkIp3eVhINpMXKsEDjoxhe9JYRvr9G7nRcLqhYEAdP3rX6B7n_hq8tHKZtCjXVahWNEHXk4cOaUF_NrATfXxlW1GROfH6CM1PTmIXHvCkrcFiet36D-g_MnwP-pnE1-mZYvXSdW2Z8Il4cFAQ96aRlelzHNJccjL3pw8j4nr7ocda_b9fmTBze5TOyV6JKyDBRYAh55yXF7FLBh1Qdl9FzGeS5SqfutkFsvjsCPkuZUG0LGwpCRIwa3P2-rmyGFQ4ia7tJ-4dQw9vYU5sev1aVVql5NF1-utEVjOubHqlHPmxsVOr4DRTl94jKCXU8jLxRJSyAKEqFHoW-ABqgrXNYsA6pC0md0_4RiIss3HRcc4PCA39XDzCVrJ0ZLW-3KqLumegboWwQAMq0Y_efBN6z8thKWCrO7s87U","https://external-lga3-1.xx.fbcdn.net/safe_image.php?d=AQDFP9UoAdbW--V6&w=540&h=282&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fpbd53ps4Y-Y%2Fmaxresdefault.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQAfih-lZFempc2q","庫藏股是好是壞？經理人買庫藏股真的是為了圖利自己嗎？","逐字稿：http://bit.ly/2Ub6sIt 最近美國吵庫藏股吵的很兇，有人說庫藏股加強了貧富差距，有人說庫藏股都是經理人為了自己的利益在圖利自己。 其實不只在美國，台灣也蠻常看到庫藏股是大股東要出貨等論點。 這個影片我們不但...","statementdog.piee.pw庫藏股是好是壞？經理人買庫藏股真的是為了圖利自己嗎？逐字稿：http://bit.ly/2Ub6sIt 最近美國吵庫藏股吵的很兇，有人說庫藏股加強了貧富差距，有人說庫藏股都是經理人為了自己的利益在圖利自己。 其實不只在美國，台灣也蠻常看到庫藏股是大股東要出貨等論點。 這個影片我們不但...逐字稿：http://bit.ly/2Ub6sIt 最近美國吵庫藏股吵的很兇，有人說庫藏股加強了貧富差距，有人說庫藏股都是經理人為了自己的利益在圖利自己。 其實不只在美國，台灣也蠻常看到庫藏股是大股東要出貨等論點。 這個影片我們不但..."
+"https://www.facebook.com/statementdog/posts/1899250730125946","1527433018","這週三台大演講的相關資訊出來了。
+
+ 我們短期內還是沒有開課計畫，只剩下演講邀約的機會跟大家見面，上次沒跟到政大演講的可以把握一下囉～
+
+ p.s. 其實還是有辦法很常見面，方法就是來應徵我們的工程師 😂 （詳情請見置頂貼文）","1570965560","/ntuNSRS/photos/a.265867983478075/1844625415602316/?type=3&eid=ARBXNq62-4c1LWf15etmB5QTEwyDubsgSRjPc1deMWc7jYTs-5WKKoSIQSuXfkaYIuCyv-uTPL8SkN8O&__xts__%5B0%5D=68.ARAVe5qHNjogTBbw9ZJSBR0Ios8qRvKXdJhxc8jSVykxYVcNeHQh7-JUJv_X-Zf8jSQTHoYTbq6YFQEbdWJIdaVj0MuAOGA52huMDgxc6dWOHvAX7Zv8CiPaTxdjjGXVzRctCiXhRDtne6vVmAQYZg-q1cSFCX66l1r2RzPIQ8skmWOF0OtiOKePDtPWdtcAEpYRF5B6UBBt9f_xa3TY8E1nI1B0EMzZsYQEegCIR2YnksrDys4NRfDnAeSCg-oWGfUYSggjtt1xq5HUYhzy2JhWXCQT---VDxNnwraE1xDZS8tkurrHNHAoV2FttejrTXYLFu-M-RdvdbUGWbs9HeVM_Tzmsyd_duEq4C8hitWqKEqHhcHCRpwmJ2u6QBzysUxdO5N9DFzYosYtKkNzFoOSV44qBmo1ITWtRTWkBkihlH-g3o-xkM75JKCYmJEdMAxH4veGzRNy9wrhUEABTQmn5OjsU_aSdxy1eTk3NDJtiFOprIw-udlv&__tn__=EEHH-R","https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-0/p526x296/33490975_1844625418935649_8478134535995785216_o.jpg?_nc_cat=101&_nc_oc=AQnqEiQDz8z1cmgZIOBpBvOhlRceN13LxAcQw-OmTyH7RUCm3rvxODHXvK4frsJXrl0&_nc_ht=scontent.fsgn2-4.fna&oh=f1c06159337fb36f401f88e50d03bdee&oe=5E1E61AF","undefined","臺大證券研究社 NTU Securities Research Society",""
+"https://www.facebook.com/statementdog/posts/2033396403378044","1535169488","前陣子 Elon Musk 發推特說他在考慮讓特斯拉私有化下市，引發一股騷動。
+
+ 最新消息是特斯拉宣布在跟投資人商討，以及考量當前應該更專注在 Model 3 的量產後，決定繼續維持上市。
+
+ 想去參加特斯拉股東會看 Elon Musk 的人不用急著買股票啦～
+https://www.tesla.com/zh_TW/blog/staying-public?redirect=no","1570965560","https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.tesla.com%2Fzh_TW%2Fblog%2Fstaying-public%3Fredirect%3Dno&h=AT1UySbbtv1TykgJpzANlYN0kS5T0M-q7Yk7Nx00QG9gcef4KSp5wmUmaeoV12QdEvudQMVrV_7p6YUd5VY0u7GD3fflJIJy9kZPqiqkFCb6fZtdXkRW2VWFwh881nDQTqErsr3GO0HGo3O8rWhh_665jNJoH-tExXlPvU8FuArHuOGbyoPiOBr1gW_vQw6FDjCReTXVnqCLoDuxDGlak3xcbdP9P0Xl-0-mOpzpeBHk_WAH7evAYwzdaBrpl4XhP67pLg2GojNTWgJ9yl891vWrV2Bn18QnkUcLe-5qMaBOwDOUQbiQBJqN26zC6JXaHpJiA5eZiuh3r594wssB3jm2aigMfuO73SbX6zaAzPz2pxdf_5uVOIxUga_wXlYnQa9REwtX5DkSDEHAzU_2pq5Dw_kWorYJH9OY-t1HVitaglDWG8qo0QbrRLcSrccGfUcG8IkE_gJW71W5MHZxjplAIYVMYk-Q4RwK6uNk2DJgfmUV5UoYo2DHiJz7MpUbMUGcuIMr7c6b83Zli4Dq0JaqXPma-KX2DMUyefDGCGZVH4fHNTKjDbw4qI1UbdS6XFF2qAyGqf6-2TDVTVlcqk3gG-f8RN0R1hr8sxm5QdBS9tsvhgDLM7w8N55gz0iMPXeSfdDrv3xKrg2P","https://external-nrt1-1.xx.fbcdn.net/safe_image.php?d=AQCnoVfnx9NosN-j&w=540&h=282&url=https%3A%2F%2Fwww.tesla.com%2Fsites%2Fdefault%2Ffiles%2Fblog_images%2Ftesla_announcement_social.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQDFuENxIiRSLJua","undefined","Staying Public","Earlier this month, I announced that I was considering taking Tesla private. As part of the process, it was important to understand whether our current investors believed this would be a good strategic move and whether they would want to participate in a private Tesla."
+"https://www.facebook.com/statementdog/posts/1831977143519972","1521607784","【來投票吧】
+
+ 如果你今天查詢「台積電」，我就跟你說台積電這檔股票的財務亮點，以及潛在的財務風險，是不是很棒呢 😍
+
+ 我們之前設計了一系列版面，請財報狗智囊團投票。現在有最終三個版面，要讓你們決定！
+
+ 【1】、【2】、【3】，你最喜歡哪一個呢？直接留言告訴我吧！
+（圖片上的內容只是示意，不是真實資料）","1570965560","/statementdog/photos/pcb.1831977143519972/1831976580186695/?type=3&__tn__=HH-R&eid=ARAsB-vG9MfDWf-f9wiLN8aLRvigMpnoWQxveiQUcYudBMFP98rABiM250Ofq0wwBrgWBGCleyM3R6Xg&__xts__%5B0%5D=68.ARD1W1LefdAmKtf4ytr4VwHdTAG6c7PEI3ue3gbt7TIL-hi3z0XEk9PQJ0cfk9SS-Apy6IVJDEHiR4iAljbx8KeJx5KGyy0gi3EL_B13ScOCqsIRbf0ik17U5K-MUeLcPsUixRRiceImSmbzMnyi2yjcJ-cq7UmzKLRasvUYz1XWiW2yVfzUxrqucObzfZE0B_WK5hsxxuE5nBif3X-j3ZVa19tb6FzRqRZu0ablS2tN0fj3tyU7y3uuB18jIRbDQR8wR6W05oCvocWWBFQAG7v2JZ2YqcImu1kQ9x0hWbXfK9ASIKD04DyegdW5AdCfn-WlJmRjeDduW2I1ofbYYtdDpg","https://scontent.fktm8-1.fna.fbcdn.net/v/t1.0-0/p526x296/29432889_1831976586853361_7998728744523005952_n.jpg?_nc_cat=104&_nc_oc=AQnfNGVa0wjjhZ7sFO7301keNgIlcQg-otF5pgfU5jSJdtJK2qYyAWZWQc1bB-5JhyY&_nc_ht=scontent.fktm8-1.fna&oh=14e3fd0e89ba724a3ab7b06a6994aebf&oe=5E316C52","undefined","",""
+"https://www.facebook.com/statementdog/posts/2200248443359505","1546006857","要開始四天連假囉～如果你和小編一樣，天氣冷只想宅在家裡準備投資功課，我們為投資新手準備了幾篇入門文章，每天無聊時可以慢慢看喔～
+
+ 【分析一檔股票，判斷適不適合投資】
+5分鐘個股X光檢查：https://bit.ly/2ETVaBc
+分析月營收掌握短期波段操作：https://bit.ly/2rUq18q
+使用自由現金流避開地雷股：https://bit.ly/2CDFzDx
+三個財務指標，揭開虛有其表的公司：https://bit.ly/2LFV6pa
+最有效判斷公司變好的指標 F-Score：https://bit.ly/2Q4YvyA
+四步驟做好財報與產業分析：https://bit.ly/2CDIlbO
+攻守兼備的財報投資法：https://bit.ly/2ThUr00
+
+ 【如何判斷進出場呢？】
+長短期營收年增率破解股價動向：https://bit.ly/2Q7JY5k
+用本益比找出買賣點：https://bit.ly/2SnR1Zn
+用股價淨值比找出買賣點：https://bit.ly/2SkQd7v
+
+ 【學習財報知識】
+買雞排懂財務報表：http://goo.gl/5y7wBC
+買雞排懂毛利率：http://goo.gl/c5SLsE
+買雞排懂營業利益率：http://goo.gl/4EnSde
+買雞排懂業外損益和淨利率：http://goo.gl/d87ISF
+買雞排懂應收帳款：http://goo.gl/eInEgv
+買雞排懂存貨：http://goo.gl/sHrUvq
+買雞排懂固定資產和折舊：http://goo.gl/2i1D07
+買雞排懂流動資產：http://goo.gl/ntKL0T
+買雞排懂流動負債和流動比率：http://goo.gl/4zbE4h
+買雞排懂應付帳款：http://goo.gl/2Qd9t1
+買雞排懂預收款項：http://goo.gl/4iGbbv
+買雞排懂營業現金流入：http://goo.gl/HsnBnY
+買雞排懂投資現金流出：http://goo.gl/mGDox0","1570965561","/statementdog/photos/a.209326032451766/2200248093359540/?type=3&eid=ARB88ci2tAcp0TkA00ywA0-XTDRIDNl9lomKLRiDDPu0GWOBe7o9-fLb3R8DBmU11hMGosukOPTMGG04&__xts__%5B0%5D=68.ARCGDZhNhEQJgr6GWnvWGz42mOgdqeAROcA6wxgF-krohM8fZElRBJmRjaNNrCDfcEaPu5OYFMoim5zlcuPt9yydeJaRY83p1TVKDVqTqxwAtMz32nFNsKbFrPcsg76Ho93zl2o0rOWU4q4wz0pvV_Z9K05x-r6cRuGS26L5uxtljkIU9HvmRXnTBwyOwphWvrZLVYovPVHbsSAF-I2ANwbKb-YyI8QYfBuLHurKV1TnuHS5djB_Z8qdij6vpp2RZHtO3DJEbeqxBHEHOw9l4byFUoDKnB1AeaNIl8MnCRByBCWc7RSiKOn5zOrmnlgmDI8eXS88hYPc4S9T7y7KFyx49w&__tn__=EHH-R","https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/s851x315/48909520_2200248096692873_5813773529795002368_n.png?_nc_cat=100&_nc_oc=AQn8230ut8HzxvS0PfJFKliTV_DEkb2WEWuXsvsOZ81_aalK2R3I-3V2a8lI36cq_PNC4LfNwlntrjwa69-LcqPq&_nc_ht=scontent-lhr3-1.xx&oh=783a45e85cce1ddd3d59410dfb9f1b49&oe=5E36858D","undefined","",""
+"https://www.facebook.com/statementdog/posts/2146656488718701","1542715641","這兩天台積電的負債很像很紅，剛好趁這個機會科普一下。
+
+這張圖是台積電的負債比率，有沒有發現台積電每年第二季負債比率特別高呢？
+
+這是因為台股上市櫃公司，在每年 5 月左右公司會召開董事會，決定股利要發多少。當他們通過要分配的金額，就要將這筆金額認列在負債上，直到發出去為止。
+
+一般而言股利會在 7~8 月發放，所以第二季的財報負債都會多一筆「應付股利」，導致負債比看起來特別高。
+
+以台積電今年第二季的財報來說，應付股利就高達 2000 億，佔總資產的 10%。
+
+這個現象在許多穩定發放現金股利的公司都可以看見，是很正常的現象喔！","1570965561","/statementdog/photos/a.209326032451766/2146649918719358/?type=3&eid=ARArQRl4ECWfWP4nWgargbBuueQ2zQn3cGAiV5h-8H6nal9v5T-FoDBq03NfNd5fPI6LP8Q6oXSlGBF0&__xts__%5B0%5D=68.ARCqY9MoSfj9TKLfxzagnADpfnSP1sozvJqc2DVQEkkAbWRu8Gy6DcdOXhgXbCrPi-D8lwoHRhGYlpCvcJds7BuG5z1ibbxpYQzyJrytcGf7W8PYmcAAQXVr133BWXrEfqzKyW6OQv5av8CF_I-sEVdfwWKW0cnov8l1BiGF6ZT5srSldmiv41qxTtVWv5fDMbwZfdPY6MmMQqZJt4sycohqHd2JoGbwt7WbQsqRH_jT-WMCuULWSmPErBG30UN8MQ2rHk1lkoejtCP10tR34ziNjuC4Ov92oigTsTkLQCEK4HJMi2kluVFOtko_0IgRDK7-oKeHT3hQEMB7im4IlDEl0g&__tn__=EHH-R","https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-0/p235x350/46480230_2146649922052691_614994206745690112_n.png?_nc_cat=108&_nc_oc=AQmiuuWV8V6hpZpjsLzdAzuGhQFInHNTF9_JBJ5ToFAZv8zPSBWxLAG_YNfn5Ep8zGk&_nc_ht=scontent-bru2-1.xx&oh=e940a537bc6cf23d609576b4ca19a983&oe=5E1E317C","undefined","",""
+"https://www.facebook.com/statementdog/posts/1916253331759019","1528882781","5 月營收全面公布！🎉🎉🎉
+
+ 留言股號或股名，就可以知道公司最新營收、營收年增率，以及更重要的：他在台股所有公司比較起來如何？
+
+ 這次共有 541 家公司營收年增率在 20% 以上，更有 83 家公司超過 100%，現在就來看看您的追蹤股表現如何吧。
+
+ 如果覺得這些內容有幫助，別忘記按個讚，我們之後會開發更多這種方便的服務 😉","1570965562","undefined","undefined","undefined","undefined","undefined"
+"https://www.facebook.com/statementdog/posts/1903749069676112","1527835500","第一眼看到標題有點困惑，這不像巴菲特會做的投資啊。
+
+ 不是因為 Uber 是科技股，是因為就算是看好未來成長潛力而投資，巴菲特也是用現在的獲利去評估公司的合理價值，但 Uber 現在並沒有獲利，也不像
+Amazon 那樣想獲利就能獲利，巴菲特為什麼會想投資？
+
+ 看了內文就懂了，他不是投資普通股，而是投資可轉換貸款。這就是典型的巴菲特操作了，正面我贏，反面我不輸。巴菲特投資高盛的特別股也是類似的做法。","1570965562","https://www.facebook.com/cyberbuzz/?ref=nf&hc_ref=ARR_cxUcMMsauH7VpF2woXvRgz8hZQEbfTh8jcUdUjBO93_6EZHUUidUbFrH0ttIaNI&__xts__%5B0%5D=68.ARBnnTG2kosl3ksWU3AoYrwdxYtgjK-6O6f61kdNPDVxPng2AR2EkWunSPZqyaeLPcmxFAezjAsSIjv9_uv2MbPuxoAYR_Lq4CuogpmkiNE-0rPViFnotUAV2gQHBux4Eb_XUkPb71BwNWs4aOH5Q3-x2LYYprYQ9uwR2-JfiUwFXfJn3QQYzLRU3_xEL_IrpMSxJcK9RVzA3IUuSkva5ttzfkxHODlYngNYx2X6YDZX13SBzu_NMn_5yAQuLFrWAoiuLboVbyp4fkYXNGfExjxb30lCO6s36Nh8HSWp6ZrUjoF_OvwrkwzMztxNU-jirbtjPUQjnVRLb3FoGYLLRnZoZI3LCrRetM8A5qXiU0lsUSspxqW3OnmOUhCoZBqwGd_SvKhqeVSu7kQMqWJT5mMQQzOgI9Kmq0vwr2IZIiVOamoKUNPZWaJ_wtHz6Usk1BJhLBk07dNfujsPLskx1oaoJjn07RVGN7n4LajVugNr9QK1-KLDTGY&__tn__=%3CH-R","https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-1/p32x32/29694739_10155189245701566_3250240183725932723_n.png?_nc_cat=1&_nc_oc=AQmo_HWwMM9v2Bc91LV0aQdwQHBynZClB08DZs-Ive4d1CksiTZRl0qFXfEyHqTynJY&_nc_ht=scontent-waw1-1.xx&oh=a14d88ff967fb8b3acbc5aa2fae15999&oe=5E2D6D74","Inside 硬塞的網路趨勢觀察","Inside 硬塞的網路趨勢觀察",""
+"https://www.facebook.com/statementdog/posts/1880883605295992","1525792350","每次出現這種新聞，就會有人留言說美國才可以OOXX，台股因為XXOO（炒作、內線、競爭力很差、不創新、成長停滯等等自行代入），跟美股不一樣。
+
+但仔細算一下巴菲特說的數據，從 1942 年到 2017 年底變 5100 倍，年化報酬率 11.9%。
+
+台灣加權報酬指數從開始統計的 2003 年的 4,524.92 到 2017 年底的 18,234.75，年化報酬率 9.1% 也不差啊！
+
+如果我們看 SP500(TR) 同期，從 1228.14 到 5212.76 年化報酬率是 10.1%，跟台股就更接近了。
+
+台股表現雖然略輸美國，不過其實沒有網友們想的那麼差拉！","1570965562","https://l.facebook.com/l.php?u=https%3A%2F%2Fnews.cnyes.com%2Fnews%2Fid%2F4114656&h=AT1faWFUxtfOGJQxNCjbMOtLei_48vcg9NeRkuO6dpJL4XU5mWu_c8Ako2ZeoDf1JOpZQ4NnbjQ-X86B4a8aA6Cusi1hEfOia2Yd4v1cQtNkA2-wQitAVAtFTD28jum9Csl3qSNA4VCvxrdUSMsuqHoipDUzQ4mKKDbAXo3DlLAN-KaLKGoIpRzuzBa4nb7pYSh0SyAg_vjxr8GykuKJZ4eGpWMTHkmCczJ0UAiB3zbTzqfWf7M39DXj5TXI4vp92LcVZ8PhYbAKkBOR-KxvKxuyMuwkIZzNSYu-WOoJ7nkzGH_DC4Qy_lSOXd-iNsVM1T2w_HeIRcC3VS8rM4mBzIg3nLsvc8f-dw5OVopKPcsRIK9CUN_h_qYqkr0ZxGmSTP5-1HGdppIC1RYbDq4U42K8qhEAba52cUBQnsgt1X0GfMCY4sqXnYy0sambaUHitxXE1a5YgBOkGUuwllGfZqFoAkllqxNgRNHRXUwu_7VJ6L--5pLBpYFNHmCYKr7ZLUu_9c8rnMBdBDo_at4HUX4hUV3DzB4s7YdNm9wJNGWuh_vHQDrErPUdg66cCKeX1vYKvJOiBXAlDTnjTxoVceHiPcLvUM6rLnRzaxELlMzitBlxpky5KGhA-eYifzx8e1GcTdgKP5gA8dyZ","https://external.ffor12-1.fna.fbcdn.net/safe_image.php?d=AQCh6VcRCgO7VuNN&w=540&h=282&url=https%3A%2F%2Fcimg.cnyes.cool%2Fprod%2Fnews%2F4114656%2Fl%2F146104d61ce2744ef13defcfa8e58c2f.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQArxKio_YOK0RA6","「股神」巴菲特。(圖：AFP)","1942年投資股票 巴菲特：1萬美元如今會變5千1百萬美元 | 鉅亨網 - 美股","「股神」巴菲特週一 (7 日) 對 CNBC 表示，若有人在 1942 年，投資 1 萬美元，買大盤指數基金，現在的價值，會高達 5100 萬美元。"
+"https://www.facebook.com/statementdog/posts/2053970827987268","1536668474","8月營收已經全部公佈囉。
+馬上就看看這個月的營收排行榜吧。
+完整排行榜連結：https://pse.is/A8CUJ
+---
+如果想要有其他營收選股的條件，財報狗網站還有以下幾種：
+關鍵指標條件->近3月營收年增率漲破近12月
+關鍵指標條件->近3個月累計營收年成長大於 20%
+關鍵指標條件->月營收連續 n 月成長","1570965565","/statementdog/photos/pcb.2053970827987268/2053965411321143/?type=3&__tn__=HH-R&eid=ARBKulXamKETV6Exv-Kq8bAvYyqTYBM4S6RJmEwjObEgLnArDn4D4Z11fPYW4Xyap2OKFeKOi47uTUpu&__xts__%5B0%5D=68.ARBePlvxXNiF_YthxBpsVoODuIJRJ1kepvuHfSqwR54D358cTo4fhEmAkbuQlbwFuAZFJaWcQUr3ZJcjOIJIjM1PHsKHMekrvysTnGDgbBsk9RTtCXN_WgWh6qL8LB5sm6arE-W34qJb80xaSfINZVqRpg-Fkny2isTw5pU-KhssF3yWxP_oj3c7hDBQw3U9T6Zt_CngDehZ0W6ldWqI7TDjOc95ZBx5liTla-3WtVe9dBCscehqg6ddejoHALRnDJagINhdvrVdlt-IV6w6dPSlJzTcV7kvBWtNCP6WN6E1rOAIJ3hPdciBqYitxZJr9VJV9a0T3ELw_8b4gmsfFGdb5g","https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-0/p403x403/41532826_2053965417987809_5824174566196379648_n.jpg?_nc_cat=110&_nc_oc=AQlEXKcpHBTw3X1vssjftG7q3-2GrZ1QR3XCus4DjJ_x3wVYJF76t3UE9RLTFlT6Jfs&_nc_ht=scontent-nrt1-1.xx&oh=f4eae73184fd04d2fd9c35b7376ca51c&oe=5E22D182","undefined","3",""
+"https://www.facebook.com/statementdog/posts/1880653905318962","1525774364","昨天收盤 44.5 元，今天決定 44 元收購。
+
+ 現在還持有股票的人，除非是四月那陣子買，否則全都要認賠了 囧","1570965566","https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.bnext.com.tw%2Farticle%2F49045%2Fpchome-pcstore-de-listed&h=AT0RwEz3q6C-KU_gga9Tbw12uA04981g9AFiwuuuRo6yeVMuTB4fFN-qLM7cjv9L_ekP3OZ20Hcuw5ziCH1lXVAvpFQ7T9Wi0J_7-9mGmUs0_rjcKYKEKl21jcrhFHRIYDEmbGP00Ss7QF1L6Xxyl0sH2zI0ZwRCvJN7t_C0pwCK6Kxr6S6PMzFdD7-isNAaJZCIWlKRAi70sn8iHr0ZNQfixWOpVuNraA91vgkO7m9Bt7vyTIXzPAew9JwX8YfUuU2mJmVMBkyfuHp5Rn7V-86we8V25BrsiZRmEGQvWYKyQwlOBfq0SC1onI2r31su_LaTuPoJqAgtO6XnLN75JxsrmeOvAUy8Hlkg7AwbQUv3i_xfi5KSGF5B-xe7ZmxSmATIhCo7KPJwWmqxPpawavMG4d5JWKXxMYJRYQLB4OCHtmp87UKzAm6BPpUgAXjceGmYo4LPggb_2_8N6CyzIG1ali8Jmhtnqsl0j0O1YR2QKAAv8AET3dgDtJdOMRJ001pfUyiO9x7nG1T7xCe1VFZ6jaIZ39v6SZmyCPWxvVTmI8-u0I3PlzMxURl0k4I4hkDlaRR1ampB60pIMoLszLNaGE3P6XbXfTHQ8z9tnmOVMkkOV9yDe3h2qeehjYPUGP8lcRggXgjQaaxd","https://external-jnb1-1.xx.fbcdn.net/safe_image.php?d=AQCGSJBxtqhr-Hrl&w=540&h=282&url=https%3A%2F%2Fmedia.bnextmedia.com.tw%2Fimage%2Falbum%2F2018-05%2Fimg-1525767462-84001.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCqP-jZMTmg1uIn","Image may contain: one or more people","PChome商店街宣布申請終止上櫃，每股44元購回流通股份｜數位時代","台灣電商龍頭PChome網路家庭（簡稱網家）董事長詹宏志今日宣布，旗下子公司商店街以決議主動申請終止上櫃，結束7年以來的公開發行。"
+"https://www.facebook.com/statementdog/posts/1901885299862489","1527673423","這是一本我買了，卻不太願意去讀的書。
+
+當醫生想要檢查某些健康狀況（例如膽固醇、血糖），他就需要血液檢測。而一種更快速、更便利的血液檢測，能夠拯救無數條生命，尤其是對那些財務吃緊的人。
+
+如果能夠達成，這真的是一項偉大的技術。
+
+唉...可惜啊。","1570965566","https://l.facebook.com/l.php?u=https%3A%2F%2Ftw.appledaily.com%2Fnew%2Frealtime%2F20180530%2F1363219%2F&h=AT2OTBEX6ETMYsQjwdCQl-GGlbMFmOLSgedZiI90B2jpmdc0NjPGbuzEfTr9aTM-D7J9qwgOixLwO6cEAvgaGiBCttGhAFjHCmD-Rg47vyTsm2cNp_qDu_iYm8CZwGEUHtek5z6544X-UtlfrTA_uR_zfyuDFWSfLt2mY77Xjmq-f-j15d6-ONdvJ-OVTSGLAlfSGkfOhfjf2stNebUvq4BFml1E6PmInen7dY4E0HP1PhhQvNDlAPMAWexCiCoVoJcM6Az3rImecleKVNM2bQqkPXgysr4sU4LUYgTuxJoBDHO-yKKMcPXh-2IYnM5FTsLOQ7_THeUjAQQDAMKAhYdfqd3pEgHJof_TKOnTpsxghEG9zsyAXvofvL_cWyqWPFMwzHsyPw7tKTDy6n6YRyIsCB1R9SQSlNiCbl3wszQ9lKx-VGeqT3gpSUEtkMQZLaB0avvEClT2wCH1TBOPFuKLKn3R80g8-KsfkM8y_uIyNtVUi6stWV4PjGcQbZhTC3h6O_ZkhRSWudPslwUG8wIu6zUJk24lpC2iExHr5RHApjc0kDlQWvmeIcBuNc_yPOGU-fU2VVykUwtiSC00fOMK0biDJauKuGHT2tODcQXqy4rOCQ3txs5i3YSgtSIbHuHY9WdV8PsfRGBc","https://external.fhan2-1.fna.fbcdn.net/safe_image.php?d=AQDoC-B0HKfBPnMm&w=540&h=282&url=https%3A%2F%2Fimg.appledaily.com.tw%2Fimages%2FReNews%2F20180530%2F640_c188080c1c72aca7e32e487eed596249.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQB1gKoeL5T3sxbN","Theranos創辦人Elizabeth Holmes。翻攝騰訊網","【跌落神壇片】女王千億身家歸零　遭爆是一場3千億騙局 | 蘋果日報","（更新：新增影片、網友看法）根據騰訊網報導，曾估值90億美元的血液檢測創業公司Theranos，一度讓矽谷甚至是世界沸騰，創始人Elizab..."
+"https://www.facebook.com/statementdog/posts/2824273950956948","1576212747","這篇訪談紀錄很多可以參考的點",1579107792,"/mktsurvivalkit/photos/pcb.2941026062585824/2941035539251543/?type=3&__tn__=HH-R&eid=ARA4-Gy_C5H_C1n2dJVvKSFZStpPCO0trn1zVu4eQBTsuSBr1BEVNNF06JAbWwFSrOPnoD-dWaptRZlK&__xts__%5B0%5D=68.ARDvOAvIwAterFKljr9d7ZkyiTigynKP9zs8a-2_KPoAi231-8QWHLjlEQbgRYpRFXl5AHXZRm2TsTQ05uGEFt_ua_louSTVsi5rnOEnRbYLblFvF_-QLhloQo8YSOjkVW0fFiRFOE7N42kNOj9F8aAlpZcmG1Y4QPAO2KcC0yD0aHkbC-rgpvW7bmBHVvmDsHsy9gvhd6FmPM0EqjtYKmb9RAVho68kZ4z9AJZsZga6qqXWX6E3OvFNSfDsvf754-gNz9kfu9S_-h9ShETtMZlR6voko8iF2dR1Unkq06df-m_F_X2W-B84aSvUeaAnrNYK-wPBPQXrTzxLRU-ck1NGJbHuwy6LbeLejqQcN1FjNk1GGjvNn2Q6x5njW8F_SO41cHnVVdkVfsUynMgYiGMTfYTB1Xsiva10a37VDRIANf3vpAVbDd5XF_lsgg1s8oB7K2wttZdL50Ie91kl7sNxkJh8bZD3CZFndd2AH2OjQYybRX4pBk17","https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-0/p168x128/78412152_2941035542584876_3560631053498449920_n.jpg?_nc_cat=109&_nc_oc=AQmVu5sdws6bcR0wvSSOdESfFdVEmxLIUhHng4a-66s3QuvvLhw6iPp5l0v7KPAQoy0&_nc_ht=scontent.fhan2-3.fna&_nc_tp=1002&oh=88a4f2c257eef0c8accb0bbcab1af354&oe=5E99D916",undefined,"麥克風的市場求生手冊",""
+"https://www.facebook.com/statementdog/posts/2848406531877023","1577169575","來看看 銀行家尼莫 的觀點",1579107792,"https://l.facebook.com/l.php?u=https%3A%2F%2Fbankernemo.blogspot.com%2F2019%2F12%2F20191223.html%3Fm%3D1&h=AT2Mm0ijHHQdwaQ50nkfl4dIGJh0s14xuQ3ITaDCiSXD0YihpyqOLlIrP0IxZitazWgmm5VTdCdgmzQjGMdcbaeFLQUfl9UxAA49F9D2E8aJjJ0MQiHkrkHOi8DvZyJNLNf6LlS3ZhgCIDPjPFhpdHreNbT_LNQ3Z715WIoDfJhACeMKpooZPLNdjgtYuubklVv7V_FMp3yEfiZBfbIVGLZ40lexX4ytbvAqrql9qxYZ3ekvUhpev3B7PLIzdQzoJRKg0RAX1W0O1FfvXKsTx3j9Ccx-lviW0hcOMMT4Ht3KatXSSA5rAe_4zpHpHtP2cput58u3Xn5kblN5-DIm0e-hi4mFFCuRYXFllpMMThM8h9iA2JcSsfCXL6tmbsmWOPeugqwHd7dDrSX_j5EWDxt29xBplhWY5gSEaxRMusDH8G1exghzqSNKPFtepA-iNeS5ClTIwyyROvk-vNajL-G97l82uO8YukjF7f68UlPXtPtO2Csn27GKQYJPXWae5OdYfmk65UbfEgRb0xERM1drTMDnKTiu_Cw5fgLeFl6Yhr13Mx3EHFjJ6xcXt9r2lfZ4-dZDNrBtCwS-gKax65eRJoc6jrGhHaRQ--LYPFG0-zD48XRmJkbiN14ZHBr1fzf5My3DcCMJvxT5","https://external.fhan5-7.fna.fbcdn.net/safe_image.php?d=AQCAeILOL3SQBLDD&w=540&h=282&url=https%3A%2F%2F1.bp.blogspot.com%2F-D3Zx2D6zbfY%2FXgDViiOIZ6I%2FAAAAAAAH7AU%2Fk0i3n9LnAlM7BIDrtwonSOEkLnBGTPi2QCLcBGAsYHQ%2Fw1200-h630-p-k-no-nu%2F001.png&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCVl--4pX8v8otU","No photo description available.","其實，實務上只有從頭開始營運的企業才能比較清楚區別錢從哪裡來，因為這個階段企業只有一種資金來源－股本，或稱為資本金。但只要開始營運有累積盈虧和應收應付帳目後錢從哪裡來（以及跑到哪裡去）就會變得相當複雜...","bankernemo.blogspot.com台積電資本支出的錢從哪裡來？（20191223）其實，實務上只有從頭開始營運的企業才能比較清楚區別錢從哪裡來，因為這個階段企業只有一種資金來源－股本，或稱為資本金。但只要開始營運有累積盈虧和應收應付帳目後錢從哪裡來（以及跑到哪裡去）就會變得相當複雜...其實，實務上只有從頭開始營運的企業才能比較清楚區別錢從哪裡來，因為這個階段企業只有一種資金來源－股本，或稱為資本金。但只要開始營運有累積盈虧和應收應付帳目後錢從哪裡來（以及跑到哪裡去）就會變得相當複雜..."
+"https://www.facebook.com/statementdog/posts/2819801858070824","1576058431","・投資是為了未來的報酬率，但因為投資人不知道未來如何，所以是根據對未來的展望進行買賣。
+
+・如果投資人覺得股價未來會漲，就買進；覺得未來會跌，就賣出。投資人是根據信心做投資決策。
+
+・理論上，不管買或賣，信心程度都應該差不多。但研究發現，人們買股票時的信心比賣股票時的信心來得高。
+
+・在不同情境下賣股票，信心也不同。如果是賺錢賣掉，信心程度跟買進股票差不多；但如果是賠錢賣掉，信心程度就只剩一半。
+
+・投資人賠錢的時候，對未來展望偏向樂觀，這也讓他們會持有虧損股票多過於賺錢的股票。
+
+---
+
+這個研究來自一篇 working paper：Grosshans, Daniel and Langnickel, Ferdinand and
+Zeisberger, Stefan, Is Buying more Forward-Looking than Selling? The Role of
+Beliefs in Investment Decisions (April 23, 2018). 
+
+---
+
+你也會這樣嗎？獲利了結時信心滿滿，停損卻猶豫不決？",1579107792,undefined,undefined,undefined,undefined,undefined
+"https://www.facebook.com/statementdog/posts/2817893051595038","1575976445","#台股11月營收
+上市櫃公司 11 月營收都已經公告囉，如果你是較為積極投資人，接下來你可以利用最新月營收資訊進行三步驟整理，協助你找到更多潛力標的
+
+ 最新月營收排行：https://bit.ly/36SpBCS",1579107793,"https://l.facebook.com/l.php?u=https%3A%2F%2Fstatementdog.com%2Fblog%2Farchives%2F10320&h=AT15zz_6kc0h83VL14oZtMxtwuNt-QfhWG717d1OswIfIt3hqajbE3acoqe3wAK-wefuKwpM_ZPzITWHdqYnEPf-mSih-vFuIz65vzB8GiaCFmOfwzFk7vvgXQvyRpM__4UxeV2f61VDQmelbDeHQNw0Sy1bCkO9tAqO3v7-1woeChliG4_UjymoonjcyDYdc8DtIGUmjeFO98DU-3EHzvuMueANSlBTUiVgP999_WNpqh4sm4n6LNo0tSFxBfi-KLN88apca_kR1J4p8wIGLRFW-jqCa5WcY2_Hm_snKWDVuWmk4_ax97-r36FoWAhbSEfUarFt8DdHkh-oK5V3h0tfr0-O5bMZ9LyzcCBBH4hBWIc8Kw_438-gH_B64sLKhvyrOduPHKZKMkYhdifIEBEbcINNp7SOcp5Pivs2XVwK-U78QRsUukFKhsgBKxG2zqIyFrweKzh7q8c2W9oEdHHrVGiqWyYG7OlKTqsVHwcvvME7QRpVdLQE_zn8oHNxtnGwSRGPTfrOVBz_ZdkZNBE8Wf6UP6Al0vU6iUuyK2XDPNeXG9avYhkU2hUGUPWpcsN6F7Z3ov4-DvrweWSmIpWwC3UVOjpXpt_y89UwFURuJUtW0Ui5ckHLjBrcB88ObwZ18C_FvHcr7Z5h","https://external-sin6-2.xx.fbcdn.net/safe_image.php?d=AQCKJdKaYR_8-8Ro&w=540&h=282&url=http%3A%2F%2Fblog.statementdog.com%2Fblog%2Fwp-content%2Fuploads%2F2016%2F07%2F-2016-10-11-%E4%B8%8B%E5%8D%884.21.39-e1476174871713.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQCJD6dLYlRjPb75","%e8%9e%a2%e5%b9%95%e5%bf%ab%e7%85%a7-2016-10-11-%e4%b8%8b%e5%8d%884-21-39","對於比較積極的投資人，檢視追蹤月營收是必要的工作事項。如果你希望讓自己的報酬率更上一層，這篇文章能夠幫助你掌握短期的波段操作。 在營收公告的這段時間，我們會做以下三件事： 1. 追蹤持股營收表現 2. 找營收成長...","statementdog.com發布營收後，積極投資人該做的三件事對於比較積極的投資人，檢視追蹤月營收是必要的工作事項。如果你希望讓自己的報酬率更上一層，這篇文章能夠幫助你掌握短期的波段操作。 在營收公告的這段時間，我們會做以下三件事： 1. 追蹤持股營收表現 2. 找營收成長...對於比較積極的投資人，檢視追蹤月營收是必要的工作事項。如果你希望讓自己的報酬率更上一層，這篇文章能夠幫助你掌握短期的波段操作。 在營收公告的這段時間，我們會做以下三件事： 1. 追蹤持股營收表現 2. 找營收成長..."
+"https://www.facebook.com/statementdog/posts/2824480817602928","1576231229","今天看到一篇文章，中文翻譯是【提高深度價值策略的報酬率】，主要是研究提高指標選股報酬率的技巧，摘要幾個重點給大家：
+
+・用多個指標選股，然後分散投資，會比只用單一指標選股績效更穩定
+
+・以這篇研究來說，他們用了四個指標：現金股利殖利率、股價淨值比、本益比、股價對現金流
+
+・根據過去研究，「股價對現金流」選股比較穩定，而且這個指標比較不容易操縱，所以給最大權重。本益比跟股價淨值比給比較少的權重
+
+・根據經驗，剔除過去一年股價波動太劇烈的股票，以及剔除負債比太高的股票，可以降低虧損風險。
+
+這份研究的出處我們會放在留言處。我覺得大家可以注意的是，選股時還是記得要加上安全性指標。
+
+這份研究是用負債比，但他的重點是不希望財務槓桿太重，增加倒閉風險。這部分我們自己會用更精確的「長短期金融負債比」代替，它能夠更好剔除那些跟銀行大量借款的公司。
+
+另外他們說「股價對現金流」比較不容易被操控，這個論點在許多書裡也都有提到，現金流比起 EPS 更不容易被造假。
+
+所以我們也可以加上「營業現金對淨利比」這個指標，確保 EPS 的含金量。
+
+上面提到許多財務指標，大部分都可以透過財報狗選股功能選出來
+
+・本益比、股價淨值比、現金股利殖利率在【價值評估條件】
+・負債比在【安全性條件】裡的【財務結構比率】
+・長短期金融借款在【關鍵指標條件】的【長短期金融借款】
+・營業現金對淨利比在【安全性條件】的【營業現金對淨利比】
+
+---
+
+你都用什麼指標選股呢？",1579107793,"/statementdog/photos/a.209326032451766/2824480157602994/?type=3&eid=ARDmzjW-nUs0X3gLbvnRfoMffGqby4VY9duxIBXNbQBPR_AeoRCsgDr2BuBPkLoXD05-uBmvjTKEaRsV&__xts__%5B0%5D=68.ARDjHcxGTjOLnQLm4495JCdTwA7YaCYM3G1iq49SC15_Gr-Y000_MpkiUJVVG1pCNNfIvXHmwO8s0fqlA6bB8SxI_pl7IEBUwmUoI4UfgRmQmheck_IHURj3PMpUlvpZp4mIVJ73aUdP5XEg1UiGpiMq6UakQ7puryieiibZZiVql6nCKpWCqmXDlL2YrIUmIp-Ew80Jp9IugBTT1JbcfQ179FRF1dU4osSxBwaL9RM_rQ78hvq5zMlhT38pPJdf_hQOquHzJlzBAqZO34opBJ49v09QU3U_2NcxVisDmReTqHXwyswDd5iDtnJ-vz6DJwg7xRI2MqrFJUZoBDBnTwFuHA&__tn__=EHH-R","https://scontent.fbkk7-2.fna.fbcdn.net/v/t1.0-0/p370x247/79989818_2824480164269660_6159426321614110720_o.png?_nc_cat=110&_nc_ohc=9eePvOXc6XcAX-P5R1e&_nc_ht=scontent.fbkk7-2.fna&oh=b294de3edd1bcf69b298b71a944386e0&oe=5EDB8FA4",undefined,"",""
+"https://www.facebook.com/statementdog/posts/2818164058234604","1575985356","如果某一年的大盤表現很好，隔年大盤會持續好，還是變差呢？
+
+這張圖統計 S&P 500 1928~2018 年的績效，橫軸是當年的績效，縱軸是隔年的績效。
+
+舉例來說，最右邊那個點大約在 (60,30) 的位置，這代表當年度 S&P 500 漲了 60%，隔年漲 30%。
+
+從這張圖上，你們有看出當年度大盤績效跟隔年績效的相關性嗎？
+
+分享一下你看到了什麼吧～",1579107798,"/statementdog/photos/a.209326032451766/2818157868235223/?type=3&eid=ARA3ym47KnAivQr0rZiJU9oupaHC2iJRDmChEqzECf8LuM2C6qfDBoTz5BjRw1dJPSBlWWj1EOMEyPfK&__xts__%5B0%5D=68.ARCkbMVsH5YHjwv-gpIFqYCtGygax-fA-IKExb6GUSZSctNqVYlZHC0VUrmTI6I1QAj4Jj3IAHCtYASZrQ0iyOpbP_baIJJaG5E-BvysQ29kmN3jSo5W383XyDOdentLaePcW3jcOOn252o26xYyeOyseZTvGQJkoMkF5YosEclBUaVDytm-ipo0SQqjCqnyK6UnZD8GeYemnKEkrN4PZpQxpJMA5r4AI_AkHtefOV0ohuK5zWxA-4Bdfc_IAkuIY7ME9S4ubSg5fNygHTn0i55Sn-cttl8f4Sy4nRdsv8dPhFWHecA0UxzZIjvH4HiODvEDNZ1vol2lZh1RdIwyOoXktg&__tn__=EHH-R","https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/79173645_2818157871568556_7209441891572514816_n.png?_nc_cat=109&_nc_oc=AQnTS_5ArMxhqdiAplPD9DtiOsE6cm4f-RsbT5H52yBBRCJPhjw6W046htQVMuxUqSY&_nc_ht=scontent-scl1-1.xx&oh=044f5d01c11cd179a880053d6503d286&oe=5EA77EB3",undefined,"",""
